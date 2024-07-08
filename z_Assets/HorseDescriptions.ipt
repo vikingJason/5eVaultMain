@@ -1,0 +1,165 @@
+// Original horse description generator by Joe Mays
+// Horse personality and size added by Jonathan Dale
+// Typical pony: 500 lbs, 13-14 hands (4'4" to 4'6") at the shoulder (add 25% for head height)
+// Typical normal horse: 1000 lbs, 23 hands (7'8")
+// Typical plowhorse: 1250 lbs, 23-24 hands 
+
+Header: Joe Mays' Horse Description Generator plus Jonathan Dale's Horse Personality and Size
+MaxReps: 10
+
+Table: HorseDescription
+Set: sizefactor={1d6+1d5}
+Set: sizeweight={round({(({sizefactor}*77)+346)*{1+({3d10}-16)/100}})}
+Set: sizeheight={{sizefactor}*2+6}
+Set: horsepony=[when]{sizeheight}<15[do]pony[else]horse[end]
+This [#{sizeheight} SizeGroup] is \a [@HorseType] {pronoun} is {sizeheight} hands ([@Quotient with {{sizeheight}*4}, 12]'[@Remainder with {{sizeheight}*4}, 12]") at the shoulder and {sizeweight} lbs. [@HorsePersonality]
+
+Table: HorseGender
+3: mare[pronoun==She]
+2: stallion[pronoun==He]
+
+Table: SizeGroup
+Type: Lookup
+Default: {sizeheight}
+0-12:small pony
+13-14:pony
+15-21:small horse
+22-24:horse
+25-26:large horse
+27-30:very large horse
+
+Table: HorseType
+[@HorseColors] [@HorseGender].  [@HorseMarkings]
+[|yellow-red|light reddish|red] sorrel [|\z|roan] [@HorseGender] with a [|reddish|brown|tan] mane. [@HorseMarkings]
+[|very light reddish|reddish|reddish-brown|dark brown|very dark brown] chestnut [|\z|roan] [@HorseGender] with a [|reddish|brown|tan] mane. [@HorseMarkings]
+[|tan|light brown|brown|dark brown|mahogany] bay [|\z|roan] [@HorseGender] with black legs, tail and mane.  [@HorseMarkings]
+[|very dark|near black] brown [|\z|roan] [@HorseGender] with lighter brown highlights on the muzzle, the flanks and inside the legs and black mane and tail.  [@HorseMarkings]
+[|white|pure white|shining white|brilliant white|off-white|cream-colored|dirty-white] [@HorseGender].
+pinto [@HorseGender]. [@PintoTypes]
+appaloosa [@HorseGender]. [@AppaloosaTypes] 
+[|silver|light|very light|iron-colored|dark|very dark|\z] gray [@HorseGender][|.|\&nbsp;with lighter gray dapples on its back.|\&nbsp;with lighter gray dapples on its sides.|\&nbsp;with lighter gray dapples on its back and sides.|\&nbsp;with lighter gray dapples allover.|\&nbsp;with darker gray dapples on its sides.|\&nbsp;with darker gray dapples on its back and sides.|\&nbsp;with darker gray dapples allover.]  [@HorseMarkings]
+[|\z|coal|midnight|jet] black [|\z|roan] [@HorseGender].  [@HorseMarkings]
+[|cream-colored|yellow|yellow-red|light red|dark yellow] buckskin [@HorseGender] with black mane and tail. [@HorseMarkings]
+[|cream-colored|sandy yellow|reddish|light brown] dun [@HorseGender] with [|matching|dark brown|black] legs, a [|matching|dark brown|black] mane and tail[|\z|, and a dark brown stripe down the back|, and a black stripe down the back].  [@HorseMarkings]
+[|cream-colored|light|yellow|golden|dark gold|red-gold] palomino [@HorseGender] with [|cream|very light yellow|white] mane and tail.  [@HorseMarkings]
+
+Table: PintoTypes
+{pronoun} is mostly [@HorseColors] with [|spots|splashes|large splashes] of white on the [@HorsePaint].
+{pronoun} is mostly white with [|spots|splashes|large splashes] of [@HorseColors] on the [@HorsePaint].
+{pronoun} is a fairly even mixture, with large areas of white (particularly on the [@HorsePaint]) and [@HorseColors] (particularly on the [@HorsePaint]).
+
+Table: AppaloosaTypes
+3:{pronoun} is white with [@HorseColors] spots all over.
+3:{pronoun} is white with [@HorseColors] spots on the [|rump|rump and back|back|back half].
+{pronoun} is white with [@HorseColors] spots on its [@HorseParts].
+{pronoun} is white with [@HorseColors] spots on its [@HorsePaint].
+3:{pronoun} is [@HorseColors] with white spots all over.
+3:{pronoun} is [@HorseColors] with a white [|rump|rump and back|back|back half] with spots.
+{pronoun} is [@HorseColors] with a white [@HorseParts] with spots.
+{pronoun} is [@HorseColors] with a white [@HorsePaint] with spots.
+
+Table: HorsePaint
+[!HorseParts]
+[!HorseParts] and [!HorseParts]
+[!HorseParts], [!HorseParts] and [!HorseParts]
+[!HorseParts], [!HorseParts], [!HorseParts] and [!HorseParts]
+[!HorseParts], [!HorseParts], [!HorseParts], [!HorseParts] and [!HorseParts]
+
+Table: HorseParts
+face
+neck
+muzzle
+belly
+rump
+back
+back half
+legs
+front half
+mane
+tail
+left side
+right side
+
+Table:HorseColors
+yellow-red
+red
+cream
+dark red
+very light reddish
+reddish
+reddish-brown
+brown
+dark brown
+very dark brown
+tan
+light brown
+brown
+[|jet|coal|midnight] black
+black
+dark brown
+mahogany
+silver
+gray
+light gray
+dark gray
+iron-gray
+yellow
+sandy yellow
+golden
+dark gold
+red-gold
+cream
+
+Table: HorseMarkings
+\z
+{pronoun} has \a [@PaintMarks]
+
+Table: PaintMarks
+[!MarkTypes].
+[!MarkTypes] and \a [!MarkTypes].
+[!MarkTypes], \a [!MarkTypes] and \a [!MarkTypes].
+
+Table: MarkTypes
+3:white [|star on the forehead|blaze on the face|stripe down the face|star and stripe on the face|face]
+2:[|spot|snip|splash|fleck] of white on the muzzle
+3:set of white [|socks|stockings to the knees|half-stockings below the knees|fetlocks|legs|rings around the hooves]
+[|spot|splotch|small splash|fleck|patch] of white on the [@HorsePaint]
+
+// Personality section added by Jonathan Dale
+
+Table: HorsePersonality
+{pronoun} is quiet, calm, and [|reasonably|usually|extremely] cooperative, [|but not particularly daring or bold|but becomes fearful [|when predators are near|during storms and bad weather|in unfamiliar environments]|but enjoys being pushed once in a while|but enjoys the chance to show off].
+{pronoun} is interested and attentive to guidance, and not easily panicked.
+{pronoun} is  [||a bit|somewhat] nervous and flighty. {pronoun} is alert and attentive to the environment but [|may|will|will occasionally] panic easily if not actively calmed or controlled.
+{pronoun} is extremely nervous and prone to panic even when there is no real danger. An unexpected shadow or change in footing may be enough to cause an exaggerated (and possibly dangerous) reaction.
+{pronoun} is [||a bit|somewhat|very] stubborn and resents being made to work. If pushed, [{pronoun} >> Lower] [|will become irritable|will become balky and refuse|has a potentially violent temper].
+{pronoun} is [||a bit|somewhat|very] stubborn and does not like being ridden. If pushed, [{pronoun} >> Lower] [|will become irritable|will become balky and refuse|has a potentially violent temper].
+{pronoun} is  [||a bit|somewhat|very] treacherous and does not respect handlers or riders. {pronoun} may bite and kick unexpectedly.
+{pronoun} is  [||a bit|somewhat|very] social and enjoys interacting with people. {pronoun} [|is more interested in meeting people than working|is adventuresome and enjoys exploring|tries to please].
+{pronoun} is  [||a bit|somewhat|very] fearful, guarded, and cautious. {pronoun} needs more personal space and reacts poorly [|||and aggressively] to being restrained or confined. {pronoun} may overreact to danger or surprises.
+{pronoun} is  [||a bit|somewhat|very] aloof and disinterested. {pronoun} is very tolerant but not always attentive to direction or instruction.
+{pronoun} is  [||a bit|somewhat|very] prideful and can be [|passively|aggressively|passively or aggressively] confrontational. {pronoun} tries to dominate other horses and prefers to be the leader.
+{pronoun} is  [||a bit|somewhat|very] challenging and independent. {pronoun} [|likes to go fast|bullies other horses|needs an attentive rider|will be poorly behaved if not frequently praised].
+{pronoun} is  [||a bit|somewhat|very] aloof and disinterested, but in stressful conditions will become  [||a bit|somewhat|very] fearful and panicky.
+{pronoun} is  [||a bit|somewhat|very] aloof and disinterested, but in stressful conditions will become more social, trying to keep close with other horses and people.
+{pronoun} is  [||a bit|somewhat|very] aloof and disinterested, but when pushed is  [||a bit|somewhat|very] prideful and challenging, fighting [|passively|aggressively|passively or aggressively] against direction.
+{pronoun} is  [||a bit|somewhat|very] social and enjoys interacting with people, but in a stressful environment becomes  [||a bit|somewhat|very] fearful and [|flighty|panicky|claustrophobic].
+{pronoun} is  [||a bit|somewhat|very] social and interactive with people, but pushes around other horses and wants to be the leader.
+{pronoun} wants to please, and is [|extremely well|well|very well] behaved, sometimes even to the extent of hiding signs of sores or injuries that need attention.
+{pronoun} is a busy-body who is only happy when active. If left alone too long, [{pronoun} >> Lower] may find things to do, possibly damaging a stall or corral or biting those who pass by. {pronoun} is curious and will explore if permitted to.
+{pronoun} is [||extremely|rather|unusually] sensitive and alert both to the environment and rider. Overstimulation can cause fearful or panicky behavior.
+{pronoun} does not pay attention and can seem aloof, but may [|spook|alarm|panic|spook or alarm] when finally noticing something. Direction may need to be given multiple times.
+{pronoun} wants to be the leader and will try to guide and direct other horses, but may respond poorly if not involved when other horses are being moved around or handled.
+{pronoun} is a good-natured horse who enjoys being ridden from time to time but does not enjoy hard use and may become stubborn if [|overworked or pushed into stressful environments|overworked|pushed into stressful environments].
+{pronoun} is a hard worker and has a lot of energy, but handles boredom poorly. {pronoun} will try to find the best way to do what's asked if allowed to do so. {pronoun} [|is best when given a regular routine|sees a rider or handler as a partner rather than a boss|does not really care about much else if there is work to do].
+{pronoun} is a care-taker, and is especially attentive to people or horses who are injured, sad, or out of sorts. {pronoun} may overcome fear in order to protect a person, and is very loyal, but can become clingy when no one needs attention.
+
+// query as [@Quotient with A, B] where the result is the integer quotient (result) of A/B
+Table: Quotient
+{floor({$1}/{$2})}
+
+// query as [@Remainder with A, B] where the result is the remainder (modulo) of A/B
+Table: Remainder
+{{$1}-{$2}*[@Quotient with {$1}, {$2}]}
+
+
