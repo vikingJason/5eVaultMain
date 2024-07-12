@@ -1,4 +1,3 @@
-
 ---
 obsidianUIMode: preview
 ---
@@ -20,7 +19,7 @@ obsidianUIMode: preview
 
 ~~~dataview
 TABLE WITHOUT ID link(file.name) AS "Player", Pronouns, Gender, Race, Alignment, Class, Background, Religion 
-FROM "4. World" 
+FROM "content/4. World" 
 WHERE contains(Role, "Player")
 ~~~
 
@@ -38,8 +37,8 @@ SORT file.name DESC
 # NPCs
 
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "NPC Name", Gender, Race, Location, Factions  
-FROM "4. World/NPCs"
+TABLE WITHOUT ID link(file.name) AS "NPC Name", Gender, Race, Location, Groups  
+FROM "content/4. World/NPCs"
 WHERE contains(Role, "NPC")
 ```
 
@@ -56,7 +55,7 @@ actions:
 # Recently Modified Locations
 
 ```dataview  
-TABLE without id file.link as Place, Art, Region, Type, GovtType as Government, Ruler, Defences, Law, Military, Factions FROM "4. World/Places/Calindor" 
+TABLE without id file.link as Place, Art, Region, Type, GovtType as Government, Ruler, Defences, Law, Military, Factions FROM "content/4. World/Places/Calindor" 
 SORT file.mtime DESC
 LIMIT 10
 ```

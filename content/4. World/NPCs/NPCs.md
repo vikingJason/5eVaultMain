@@ -18,7 +18,7 @@ actions:
 
 
 ```dataview  
-TABLE without id file.link as NPC, Pronounced, Art, Race, Gender, Pronouns, Sexuality, Age, Occupation, Alignment, Religion, Condition, Location, Groups as Associations, PartyStanding as PartyRelationship FROM "4. World" WHERE contains(Role, "NPC")
+TABLE without id file.link as NPC, Pronounced, Art, Race, Gender, Pronouns, Sexuality, Age, Occupation, Alignment, Religion, Condition, Location, Groups as Associations, PartyStanding as PartyRelationship FROM "content/4. World" WHERE contains(Role, "NPC")
 
 ```
 
