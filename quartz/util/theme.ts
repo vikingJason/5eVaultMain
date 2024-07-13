@@ -7,6 +7,7 @@ export interface ColorScheme {
   dark: string
   secondary: string
   tertiary: string
+  outline: string
   highlight: string
 }
 
@@ -52,6 +53,7 @@ ${stylesheet.join("\n\n")}
   --secondary: ${theme.colors.lightMode.secondary};
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
+  --outline: ${theme.colors.lightMode.outline};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_HEADER};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
