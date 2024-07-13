@@ -10,6 +10,7 @@ export interface ColorScheme {
   outline: string
   highlight: string
   note: string
+  outerbar: string
 }
 
 interface Colors {
@@ -56,6 +57,7 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.lightMode.highlight};
   --note: ${theme.colors.lightMode.note};
   --outline: ${theme.colors.lightMode.outline};
+  --outerbar: ${theme.colors.lightMode.outerbar};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_HEADER};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};

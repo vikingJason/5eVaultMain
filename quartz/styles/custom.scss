@@ -650,8 +650,8 @@
   text-align: center;
   margin: 0;
   padding: 2px;
-  color: var(--text-normal);
-  background: var(--outer-bar, var(--background-secondary));
+  color: var(--darkgray);
+  background: var(--outerbar, var(--background-secondary));
 }
 .callout.callout[data-callout~=infobox] .internal-embed, .callout.callout[data-callout~=infobox] img {
   display: block;
@@ -669,7 +669,7 @@
 }
 .callout.callout[data-callout~=infobox] .callout-content > .callout[data-callout~=infobox] > .callout-title {
   color: var(--text-normal);
-  background: var(--outer-bar, var(--background-secondary));
+  background: var(--outerbar, var(--background-secondary));
   border: 1px solid var(--table, var(--background-modifier-border));
   border-bottom: none;
 }
@@ -896,7 +896,7 @@
   display: block;
   text-align: center;
   margin: auto;
-  --bg: var(--outer-bar, var(--background-secondary));
+  --bg: var(--outerbar, var(--background-secondary));
 }
 .callout[data-callout~=cards] br {
   display: none;
@@ -996,7 +996,7 @@
 }
 .callout[data-callout~=cards][data-callout-metadata~=dvl] .block-language-dataviewjs .dataview-result-list-li, .callout[data-callout~=cards][data-callout-metadata~=dvl] .list-view-ul li {
   padding: 10px;
-  --bg: var(--outer-bar, var(--background-secondary));
+  --bg: var(--outerbar, var(--background-secondary));
   box-shadow: var(--shadow-s, var(--input-shadow));
   margin-bottom: 5px;
 }
@@ -1214,7 +1214,7 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i] .callo
   margin: 0;
 }
 body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i][data-callout-metadata~=i-at] {
-  background: var(--outer-bar, var(--background-secondary-alt));
+  background: var(--outerbar, var(--background-secondary-alt));
   border: 0;
   text-align: center;
   padding: 0;
