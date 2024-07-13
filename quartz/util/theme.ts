@@ -2,6 +2,7 @@ export interface ColorScheme {
   light: string
   lightgray: string
   gray: string
+  heading1: string
   darkgray: string
   dark: string
   secondary: string
@@ -28,8 +29,9 @@ export interface Theme {
 export type ThemeKey = keyof Colors
 
 const DEFAULT_SANS_SERIF =
-  '-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif'
+  "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Microsoft YaHei Light', sans-serif"
 const DEFAULT_MONO = "ui-monospace, SFMono-Regular, SF Mono, Menlo, monospace"
+const DEFAULT_HEADER = "'Calisto MT', 'Palatino Black', 'Book Antiqua', 'Georgia', 'Suez One', serif"
 
 export function googleFontHref(theme: Theme) {
   const { code, header, body } = theme.typography
@@ -44,13 +46,14 @@ ${stylesheet.join("\n\n")}
   --light: ${theme.colors.lightMode.light};
   --lightgray: ${theme.colors.lightMode.lightgray};
   --gray: ${theme.colors.lightMode.gray};
+  --heading1: ${theme.colors.lightMode.heading1};
   --darkgray: ${theme.colors.lightMode.darkgray};
   --dark: ${theme.colors.lightMode.dark};
   --secondary: ${theme.colors.lightMode.secondary};
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
 
-  --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
+  --headerFont: "${theme.typography.header}", ${DEFAULT_HEADER};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
 }

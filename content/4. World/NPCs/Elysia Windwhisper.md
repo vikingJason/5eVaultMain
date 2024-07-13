@@ -16,7 +16,10 @@ PartyStanding: Friendly
 > [!info|bg-c-purple] Overview
 > Elysia Windwhisper is a charismatic and talented half-elf bard known for her enchanting performances and whimsical stories. She travels from town to town, spreading joy and laughter with her music, but beneath her lighthearted exterior lies a deep-seated desire to uncover ancient secrets and forgotten histories.
 
+
 <br>
+
+
 
 > [!infobox]
 > # Elysia Windwhisper (She/Her)
