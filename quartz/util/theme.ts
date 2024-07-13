@@ -9,6 +9,7 @@ export interface ColorScheme {
   tertiary: string
   outline: string
   highlight: string
+  note: string
 }
 
 interface Colors {
@@ -53,6 +54,7 @@ ${stylesheet.join("\n\n")}
   --secondary: ${theme.colors.lightMode.secondary};
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
+  --note: ${theme.colors.lightMode.note};
   --outline: ${theme.colors.lightMode.outline};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_HEADER};
@@ -68,7 +70,10 @@ ${stylesheet.join("\n\n")}
   --dark: ${theme.colors.darkMode.dark};
   --secondary: ${theme.colors.darkMode.secondary};
   --tertiary: ${theme.colors.darkMode.tertiary};
+  --note: ${theme.colors.darkMode.note};
   --highlight: ${theme.colors.darkMode.highlight};
+  --outline: ${theme.colors.darkMode.outline};
+  --heading1: ${theme.colors.darkMode.heading1};
 }
 `
 }
