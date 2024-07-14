@@ -17,6 +17,15 @@ section {
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
+  --radius-s: 0;
+  --radius-m: calc(var(--radius-s) * 1.1);
+  --radius-l: calc(var(--radius-s) * 1.2);
+  --radius-xl: calc(var(--radius-s) * 1.5);
+  --radius-h: calc(var(--radius-s) / .50);
+  --slider-track-radius: var(--radius-h);
+  --input-radius: var(--radius-s);
+  --icon-btn-radius: var(--radius-s);
+
 }
 
 .text-highlight {
@@ -260,6 +269,7 @@ input[type="checkbox"] {
     }
   }
 }
+
 
 blockquote {
   margin: 1rem 0;

@@ -19,7 +19,7 @@ PartyStanding: Friendly
 
 <br>
 
-> [!infobox]
+> [!infobox|center]
 > # Aeloria Starwind (She/Her)
 > ![[PlaceholderImage.png|cover hm-sm]]
 >![[PlaceholderImage.png|Show To Players]]
