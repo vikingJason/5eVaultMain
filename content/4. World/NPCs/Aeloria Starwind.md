@@ -21,8 +21,8 @@ PartyStanding: Friendly
 
 > [!infobox|center]
 > # Aeloria Starwind (She/Her)
-> ![[PlaceholderImage.png|cover hm-sm]]
->![[PlaceholderImage.png|Show To Players]]
+> ![[Archdruid, Human.jpg|cover hm-sm]]
+>![[Blagothkus.png|Show To Players]]
 >
 > ###### Bio
 >  |
