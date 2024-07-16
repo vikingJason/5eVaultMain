@@ -21,36 +21,38 @@ PartyStanding: Friendly
 
 
 
-> [!infobox]
+> [!infobox|sban]
 > # Elysia Windwhisper (She/Her)
 > ![[PlaceholderImage.png|cover hm-sm]]
 >![[PlaceholderImage.png|Show To Players]]
 >
 > ###### Bio
->  |
-> ---|---|
->  **Race** | Half-Elf |
->  **Sex** | Female |
->  **Age** | 112 (appears mid-20s) |
->  **Sexuality** | Bisexual |
->  **Alignment** | Chaotic Good |
+>
+>|||
+| ---|---|
+| **Race** | Half-Elf |
+| **Sex** | Female |
+| **Age** | 112 (appears mid-20s) |
+| **Sexuality** | Bisexual |
+| **Alignment** | Chaotic Good |
 > 
 > ###### Info
->  |
->  ---|---|
->  **Alias(es)** | The Whispering Lyre |
->  **Occupation** | Bard and Storyteller |
->  **Party Relationship** | Friendly |
->  **Group(s)** | The Whispering Lyre Performers |
->  **Religion(s)** | Sehanine Moonbow |
->  **Current Location** | The Singing Woods Tavern |
+> 
+> |||
+|---|---|
+| **Alias(es)** | The Whispering Lyre |
+| **Occupation** | Bard and Storyteller |
+| **Party Relationship** | Friendly |
+| **Group(s)** | The Whispering Lyre Performers |
+| **Religion(s)** | Sehanine Moonbow |
+| **Current Location** | The Singing Woods Tavern |
 > 
 
 ## Traits
 
 > [!column|no-title] 
 > 
->> [!recite|txt-Center] **Physical Description**
+>> [!recite|title-Center] **Physical Description**
 >> Elysia is a slender half-elf with a lithe, graceful build. Her long, wavy auburn hair cascades down her back, framing a face with delicate, elven features and striking emerald green eyes that sparkle with mischief. She often wears vibrant, flowing garments adorned with silver jewelry that catches the light as she moves.
 >
 >> [!recite|title-Centre] **Mannerisms**
@@ -152,6 +154,8 @@ PartyStanding: Friendly
 > [!tip] **Inspiration**
 > ***Elysia can be compared to Yennefer from The Witcher series, with her charisma, magical talent, and a mysterious past.***
 >
+
+<br>
 
  ```statblock  
 name: Elysia Windwhisper  

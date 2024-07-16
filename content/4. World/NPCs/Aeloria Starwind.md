@@ -27,33 +27,35 @@ PartyStanding: Friendly
 
 <br>
 
-> [!infobox|center]
+> [!infobox|sban]
 > # Aeloria Starwind (She/Her)
 >
 > ###### Bio
->  |
-> ---|---|
->  **Race** | Half-Elf |
->  **Sex** | Female |
->  **Age** | 124 |
->  **Sexuality** | Bisexual |
->  **Alignment** | Chaotic Good |
+>  
+>  | | |
+|---|---|
+| **Race** | Half-Elf |
+| **Sex** | Female |
+| **Age** | 124 |
+| **Sexuality** | Bisexual |
+| **Alignment** | Chaotic Good |
 > 
 > ###### Info
->  |
->  ---|---|
->  **Alias(es)** | The Enchanted Rose |
->  **Occupation** | Enchanter |
->  **Party Relationship** | Friendly |
->  **Group(s)** | The Moonlit Order |
->  **Religion(s)** | Sehanine Moonbow |
->  **Current Location** | Elmswatch Enclave |
+>  
+>  | | |
+|---|---|
+| **Alias(es)** | The Enchanted Rose |
+| **Occupation** | Enchanter |
+| **Party Relationship** | Friendly |
+| **Group(s)** | The Moonlit Order |
+| **Religion(s)** | Sehanine Moonbow |
+| **Current Location** | Elmswatch Enclave |
 
 <br>
 
 ## Traits
 
-> [!recite|txt-Center] **Physical Description**
+> [!recite|title-Center] **Physical Description**
 > Aeloria stands at 5'7" with a slender yet athletic build. Her skin has a soft, golden hue, and her long, flowing hair shimmers like silver in the moonlight. Her most striking feature is her heterochromatic eyes—one emerald green, the other sapphire blue.
 
 > [!recite|title-Centre] **Mannerisms**

@@ -44,18 +44,19 @@ PartyStanding: Potential Ally
 | **Religion(s)** | Follower of Corellon Larethian |
 | **Current Location** | Enchanted Glade in the Forest of Whispers |
 
+<br>
 
 ## Traits
 
-> [!Abstract|background-color-orange] **Physical Description**
+> [!recite|text-center] **Physical Description**
 > Elysandra stands at 5'8" with an ethereal presence. Her long, silver hair cascades down her back like a waterfall of moonlight, and her emerald green eyes sparkle with mischief and wisdom. Her skin is a soft, alabaster hue, and she often wears robes adorned with intricate leaf patterns that seem to shimmer and move as she does.
 
-> [!Abstract|background-color-orange] **Mannerisms**
+> [!recite|text-center] **Mannerisms**
 > Elysandra has a habit of speaking in riddles and metaphors, her voice carrying a melodic, almost hypnotic quality. She often gestures with her hands, weaving small enchantments into the air as she speaks.
 >
 >> [!quote] ***"The forest sings its secrets to those who listen. Will you lend your ear to the whispering winds?"***
 
-> [!Abstract|background-color-orange] **Abilities**
+> [!recite|text-center] **Abilities**
 > Elysandra is an expert in enchantment magic, able to charm and manipulate the minds of others with ease. She can create powerful magical items and cast protective spells over large areas. Her affinity with nature allows her to communicate with forest creatures and control plant life.
 
 
@@ -64,31 +65,31 @@ PartyStanding: Potential Ally
 
 ## Personality
 
-> [!Abstract|background-orange color-red] **World View**
+> [!recite|text-center] **World View**
 > Elysandra believes that magic should be used to protect and nurture, but also to teach and inspire. She views the world as a canvas, and magic as the paint that brings it to life.
 > 
 > > [!warning]
 > > ***Players who respect nature and show a genuine interest in learning will find it easier to gain her favor (DC 10 for social interactions). Those who seek to exploit her magic or harm the forest will face her wrath (DC 20).***
 
-> [!Abstract|background-color-orange] **Motivations**
+> [!recite|text-center] **Motivations**
 > Elysandra is motivated by a desire to protect the Forest of Whispers and to ensure that magic is used responsibly. She also seeks to uncover ancient enchantments and lost knowledge.
 
-> [!Abstract|background-color-orange] **Ideals**
+> [!recite|text-center] **Ideals**
 > **Magic is a gift that should be used wisely and for the benefit of all.**
 
-> [!Abstract|background-color-orange] **Bonds**
+> [!recite|text-center] **Bonds**
 > Elysandra is deeply connected to the Forest of Whispers and its inhabitants. She also has a close bond with the members of the Circle of Enchanters.
 
-> [!Abstract|background-color-orange] **Flaw**
+> [!recite|text-center] **Flaw**
 > Her whimsical nature can make her seem unreliable or capricious, and she sometimes becomes lost in her own magical experiments.
 
-> [!Abstract|background-color-orange] **Secrets**
+> [!recite|text-center] **Secrets**
 > Elysandra once enchanted a powerful artifact that went missing. She fears its misuse and is secretly searching for it.
 
-> [!Abstract|background-color-orange] **Goals**
+> [!recite|text-center] **Goals**
 > To uncover ancient enchantments, protect the Forest of Whispers, and find the missing artifact.
 
-> [!Abstract|background-color-orange] **Likes/Dislikes**
+> [!recite|text-center] **Likes/Dislikes**
 > ***Likes:*** Nature, enchantments, riddles, moonlit nights.
 >
 > ***Dislikes:*** Destruction, ignorance, those who misuse magic.
