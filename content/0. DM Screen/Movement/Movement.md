@@ -46,11 +46,11 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a broom of flying, allow you to travel more swiftly. The Dungeon Master’s Guide contains more information on special methods of travel.
 
-| Pace   | Distance per Minute | Distance per Hour | Distance per Day | Effect                                                    |
-| ------ | ------------------- | ----------------- | ---------------- | --------------------------------------------------------- |
-| Fast   | 400 feet            | 4 miles           | 30 miles         | **\-5** penalty to passive Wisdom ([[Perception]]) scores |
-| Normal | 300 feet            | 3 miles           | 24 miles         | \-                                                        | 
-| Slow   | 200 feet            | 2 miles           | 18 miles         | Able to use stealth                                       |
+| Pace   | Distance per Minute | Distance per Hour | Distance per Day | Effect                                                    |     |
+| ------ | ------------------- | ----------------- | ---------------- | --------------------------------------------------------- | --- |
+| Fast   | 400 feet            | 4 miles           | 30 miles         | **\-5** penalty to passive Wisdom ([[Perception]]) scores |     |
+| Normal | 300 feet            | 3 miles           | 24 miles         | \-                                                        |     |
+| Slow   | 200 feet            | 2 miles           | 18 miles         | Able to use stealth                                       |     |
 
 #### Difficult Terrain
 The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground — all considered difficult terrain.
