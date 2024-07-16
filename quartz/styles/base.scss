@@ -504,7 +504,7 @@ tr {
 }
 
 
-.table-view-table {
+.table-container {
   width: var(--dataview-table-width);
 }
 .table-view-table > thead > tr {
@@ -517,13 +517,13 @@ tr {
   font-weight: var(--dataview-th-font-weight);
   border-bottom: var(--dataview-th-border-bottom);
 }
-.table-view-table > thead > tr > th:nth-child(2n+2) {
+.table-container > thead > tr > th:nth-child(2n+2) {
   --table-column-alt-background: var(--dataview-th-alt-color);
 }
-.table-view-table > thead > tr:hover {
+.table-container > thead > tr:hover {
   --dataview-th-count-color: var(--text-dl);
 }
-.table-view-table > thead > tr:hover > th {
+.table-container > thead > tr:hover > th {
   --table-header-color: var(--text-dl);
 }
 
