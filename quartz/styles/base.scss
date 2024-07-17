@@ -159,9 +159,6 @@ a {
       margin-bottom: 0;
     }
 
-    p > strong {
-      color: var(--dark);
-    }
   }
 
   & > #quartz-body {
@@ -432,35 +429,6 @@ code {
   background: var(--lightgray);
 }
 
-.theme-dark,
-.theme-light {
-  --table-header-weight: var(--font-bold);
-  --table-header-size: var(--font-text);
-  --table-header-color: var(--th-text);
-  --table-header-text-color: var(--lite-accent);
-  --table-header-background: var(--th);
-  --table-header-background-hover: var(--accent);
-  --table-border-color: var(--note);
-  --table-column-alt-background: var(--td);
-  --table-row-alt-background: var(--td);
-  --table-row-background-hover: var(--highlight);
-  --table-row-alt-background-hover: var(--highlight);
-  --table-row-edit-font-size: var(--font-small);
-  --table-add-button-background: var(--bttn);
-  --table-add-button-color: var(--text-dl);
-  --table-add-button-size: var(--size-4-6);
-  --table-add-button-col-width: var(--table-add-button-size);
-  --table-add-button-row-height: var(--table-add-button-size);
-  --table-add-button-border-color: var(--note);
-  --table-cell-padding-x: var(--size-4-2);
-  --table-cell-padding-y: var(--size-2-2);
-  --table-header-padding-x: var(--size-4-2);
-  --table-header-padding-y: var(--size-2-2);
-  --table-column-min-width: 3ch;
-  --table-selection-border-radius: var(--radius-s);
-}
-
-
 tbody,
 li,
 p {
@@ -501,30 +469,6 @@ tr {
   &:last-child {
     border-bottom: none;
   }
-}
-
-
-.table-container {
-  width: var(--dataview-table-width);
-}
-.table-view-table > thead > tr {
-  --table-header-background: var(--dataview-th-background);
-}
-.table-view-table > thead > tr > th {
-  --table-header-color: var(--dataview-th-color);
-  --table-header-font: var(--dataview-th-font);
-  font-size: var(--dataview-th-font-size);
-  font-weight: var(--dataview-th-font-weight);
-  border-bottom: var(--dataview-th-border-bottom);
-}
-.table-container > thead > tr > th:nth-child(2n+2) {
-  --table-column-alt-background: var(--dataview-th-alt-color);
-}
-.table-container > thead > tr:hover {
-  --dataview-th-count-color: var(--text-dl);
-}
-.table-container > thead > tr:hover > th {
-  --table-header-color: var(--text-dl);
 }
 
 img {
