@@ -15,9 +15,9 @@ PartyStanding: Friendly
 # **Aeloria Starwind**
 
 
->> [!grid] 
->> ![[Archdruid, Human.jpg|cover hm-sm]]
->>![[Blagothkus.png|Show To Players]]
+> [!grid] 
+> ![[Archdruid, Human.jpg|cover hm-sm]]
+>![[Blagothkus.png|Show To Players]]
 
 
 
@@ -29,10 +29,10 @@ PartyStanding: Friendly
 
 > [!infobox|sban]
 > # Aeloria Starwind (She/Her)
->
+>---
 > ###### Bio
 >  
->  | | |
+| | |
 |---|---|
 | **Race** | Half-Elf |
 | **Sex** | Female |
@@ -42,7 +42,7 @@ PartyStanding: Friendly
 > 
 > ###### Info
 >  
->  | | |
+| | |
 |---|---|
 | **Alias(es)** | The Enchanted Rose |
 | **Occupation** | Enchanter |
