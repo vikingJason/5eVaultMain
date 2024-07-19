@@ -737,6 +737,8 @@
   --bold-color: var(--headers, var(--h1-color));
   --hr-icon-symbol: "";
 }
+
+
 .callout.callout[data-callout=statblocks] h1 {
   width: auto;
 }
@@ -1451,9 +1453,10 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i]:is([da
   position: unset !important;
 }
 .callout.callout[data-callout~=timeline] .callout-title {
-  background: rgba(var(--callout-title-color), 0.35);
+  background: rgba(var(--callout-color), 0.35);
   align-content: center;
   align-items: center;
+  padding: 10px;
 }
 .callout.callout[data-callout~=timeline] .callout-title em {
   font-style: normal;
@@ -1471,6 +1474,7 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i]:is([da
 }
 .callout.callout[data-callout~=timeline] .callout-content {
   background-color: rgb(var(--callout-color), 0.1);
+  padding: 10px;
 }
 .callout.callout[data-callout~=timeline][data-callout-metadata~=t-l] {
   border-right: 4px solid rgb(var(--color));
