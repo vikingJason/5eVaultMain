@@ -149,57 +149,55 @@ PartyStanding: Friendly
 
 <br>
 
-> [!statblocks|columns]
->
->> [!blank]
->> ![[Archdruid, Human.jpg|right cover htiny wtiny circle lp]]
->># Aeloria Starwind  
->>
->> *Medium Humanoid (Half-Elf), Chaotic Good*  
->> 
->>  ---
->>  **Armor Class** 14 (Mage Armor
->>  **Hit Points** 66 (12d8+12)
->>  **Speed**  30 ft.
->>  **Initiative** +7 
->> ---
->> | STR | DEX | CON | INT | WIS | CHAR | 
->> | :---:|:---:|:---:|:---:|:---:|:---:|:--- |
->> | 10 (+0) | 14 (+2) | 12 (+1) | 18 (+4) | 12 (+1) | 16 (+3) | 
->> ---
->> **Saving Throws**  Int + 7
->> **Skills** Arcana: +10, Insight: +5, Deception: +7  
->> **Damage Vulnerabilities** None  
->> **Damage Resistances** Charm, Sleep  
->> **Damage Immunities** None  
->> **Condition Immunities** None  
->> **Senses** Darkvision 60 ft., Passive Perception 11  
->> **Languages** Common, Elvish, Sylvan  
->> **Challenge** 4  
->> ---
+> [!statblocks|sban]
 >
 >
->> [!blank]
->> ***Spellcasting.*** Aeloria is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The enchanter can cast Disguise Self and Invisibility at will and has the following wizard spells prepared:
->> 
->> - Cantrips (at will): *Prestidigitation, Mage Hand, Minor Illusion*
->> - 1st level (4 slots): *Charm Person, Magic Missile, Mage Armor*
->> - 2nd level (3 slots): *Mirror Image, Hold Person*
->> - 3rd level (3 slots): *Counterspell, Hypnotic Pattern*
->> - 4th level (3 slots): *Greater Invisibility, Phantasmal Killer*
->> - 5th level (2 slots): *Dominate Person, Telekinesis*  
->> 
->> ***Fey Ancestry.*** Aeloria has advantage on saving throws against being charmed, and magic can't put her to sleep.
->>
->> **Actions**
->>  ---
->> ***Spellcasting.*** Aeloria casts one of her spells.
->> 
->> **Legendary Actions.**
->>  ---
->> None
->> 
->> **Reactions**
->> ---
->> ***Counterspell.*** When a creature she can see casts a spell within 60 feet, Aeloria can use her reaction to attempt to interrupt the spell
+> ![[Archdruid, Human.jpg|right cover htiny wtiny circle lp]]
+># Aeloria Starwind  
+>
+> *Medium Humanoid (Half-Elf), Chaotic Good*  
+> 
+>  ---
+>  **Armor Class** 14 (Mage Armor
+>  **Hit Points** 66 (12d8+12)
+>  **Speed**  30 ft.
+>  **Initiative** +7 
+> ---
+> | STR | DEX | CON | INT | WIS | CHAR | 
+> | :---:|:---:|:---:|:---:|:---:|:---:|:--- |
+> | 10 (+0) | 14 (+2) | 12 (+1) | 18 (+4) | 12 (+1) | 16 (+3) | 
+> ---
+> **Saving Throws**  Int + 7
+> **Skills** Arcana: +10, Insight: +5, Deception: +7  
+> **Damage Vulnerabilities** None  
+> **Damage Resistances** Charm, Sleep  
+> **Damage Immunities** None  
+> **Condition Immunities** None  
+> **Senses** Darkvision 60 ft., Passive Perception 11  
+> **Languages** Common, Elvish, Sylvan  
+> **Challenge** 4  
+> ---
+>
+> ***Spellcasting.*** Aeloria is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The enchanter can cast Disguise Self and Invisibility at will and has the following wizard spells prepared:
+> 
+> - Cantrips (at will): *Prestidigitation, Mage Hand, Minor Illusion*
+> - 1st level (4 slots): *Charm Person, Magic Missile, Mage Armor*
+> - 2nd level (3 slots): *Mirror Image, Hold Person*
+> - 3rd level (3 slots): *Counterspell, Hypnotic Pattern*
+> - 4th level (3 slots): *Greater Invisibility, Phantasmal Killer*
+> - 5th level (2 slots): *Dominate Person, Telekinesis*  
+> 
+> ***Fey Ancestry.*** Aeloria has advantage on saving throws against being charmed, and magic can't put her to sleep.
+>
+> **Actions**
+>  ---
+> ***Spellcasting.*** Aeloria casts one of her spells.
+> 
+> **Legendary Actions.**
+>  ---
+> None
+> 
+> **Reactions**
+> ---
+> ***Counterspell.*** When a creature she can see casts a spell within 60 feet, Aeloria can use her reaction to attempt to interrupt the spell
 > 
