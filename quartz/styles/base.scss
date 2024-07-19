@@ -435,6 +435,20 @@ p {
   line-height: 1.6rem;
 }
 
+tbody {
+
+  & > tr {
+    & > td:nth-child(2n+2) {
+      background-color: #fae0be60;
+    }
+
+    &:nth-child(odd) {
+      background-color: #fae0be60;
+    }
+  }
+
+}
+
 .table-container {
   overflow-x: auto;
 }
@@ -452,6 +466,7 @@ table {
 
     thead > tr {
       background-color: #cd645e;
+      color: #e5ebee;
       & > th {
       border-top-width: 1px;
       border-color: var(--note);
@@ -477,6 +492,7 @@ table {
     th,
     td {
       min-width: 75px;
+      border: 1px solid #fff9f0;
     }
 
     & > * {

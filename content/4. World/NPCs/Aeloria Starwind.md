@@ -31,25 +31,24 @@ PartyStanding: Friendly
 > # Aeloria Starwind (She/Her)
 >---
 > ###### Bio
->  
-| | |
-|---|---|
-| **Race** | Half-Elf |
-| **Sex** | Female |
-| **Age** | 124 |
-| **Sexuality** | Bisexual |
-| **Alignment** | Chaotic Good |
+> | | |
+> |---|---|
+> | **Race** | Half-Elf |
+> | **Sex** | Female |
+> | **Age** | 124 |
+> | **Sexuality** | Bisexual |
+> | **Alignment** | Chaotic Good |
 > 
 > ###### Info
 >  
-| | |
-|---|---|
-| **Alias(es)** | The Enchanted Rose |
-| **Occupation** | Enchanter |
-| **Party Relationship** | Friendly |
-| **Group(s)** | The Moonlit Order |
-| **Religion(s)** | Sehanine Moonbow |
-| **Current Location** | Elmswatch Enclave |
+> | | |
+> |---|---|
+> | **Alias(es)** | The Enchanted Rose |
+> | **Occupation** | Enchanter |
+> | **Party Relationship** | Friendly |
+> | **Group(s)** | The Moonlit Order |
+> | **Religion(s)** | Sehanine Moonbow |
+> | **Current Location** | Elmswatch Enclave |
 
 <br>
 
