@@ -1428,7 +1428,7 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i]:is([da
 /* Timeline */
 .callout.callout[data-callout~=timeline] {
   --callout-icon: url('data:image/svg+xml,<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M12 12V7M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></g></svg>');
-  --callout-padding: 0;
+  padding: 0;
   --callout-title-padding: 10px;
   --callout-content-padding: 10px;
   --callout-margin: 0;
@@ -1442,6 +1442,8 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i]:is([da
   --med-tall: 600px;
   --tall: 700px;
   --c-timeline: calc(50% - 2px);
+  --callout-color: 8, 109, 221;
+  --callout-title-color: 68, 138, 255
   background-color: transparent;
   margin: 0;
   border: 0;
@@ -1449,7 +1451,7 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i]:is([da
   position: unset !important;
 }
 .callout.callout[data-callout~=timeline] .callout-title {
-  background: rgba(var(--color), 0.35);
+  background: rgba(var(--callout-title-color), 0.35);
   align-content: center;
   align-items: center;
 }
@@ -1458,17 +1460,17 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i]:is([da
   display: block;
   font-size: 14px;
   line-height: 12px;
-  color: rgb(var(--color));
+  color: rgb(var(--callout-color));
 }
 .callout.callout[data-callout~=timeline] .callout-icon {
-  background-color: var(--note);
+  background-color: var(--callout-color);
   transform: scale(1.2);
   border-radius: 20px;
   height: var(--icon-size);
   width: var(--icon-size);
 }
 .callout.callout[data-callout~=timeline] .callout-content {
-  background-color: rgb(var(--color), 0.1);
+  background-color: rgb(var(--callout-color), 0.1);
 }
 .callout.callout[data-callout~=timeline][data-callout-metadata~=t-l] {
   border-right: 4px solid rgb(var(--color));

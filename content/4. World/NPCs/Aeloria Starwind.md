@@ -11,7 +11,7 @@ Location: Elmswatch Enclave
 Groups: The Moonlit Order
 PartyStanding: Friendly
 ---
-
+**
 # **Aeloria Starwind**
 
 
@@ -163,9 +163,9 @@ PartyStanding: Friendly
 >>  **Speed**  30 ft.
 >>  **Initiative** +7 
 >> ---
-| STR | DEX | CON | INT | WIS | CHAR | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
-| 10 (+0) | 14 (+2) | 12 (+1) | 18 (+4) | 12 (+1) | 16 (+3) |  |
+>> | STR | DEX | CON | INT | WIS | CHAR | 
+>> | :---:|:---:|:---:|:---:|:---:|:---:|:--- |
+>> | 10 (+0) | 14 (+2) | 12 (+1) | 18 (+4) | 12 (+1) | 16 (+3) | 
 >> ---
 >> **Saving Throws**  Int + 7
 >> **Skills** Arcana: +10, Insight: +5, Deception: +7  
