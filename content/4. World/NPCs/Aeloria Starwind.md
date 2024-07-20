@@ -157,10 +157,12 @@ PartyStanding: Friendly
 > *Medium Humanoid (Half-Elf), Chaotic Good*  
 > 
 > ---
+> 
 >  **Armor Class** 14 (Mage Armor
 >  **Hit Points** 66 (12d8+12)
 >  **Speed**  30 ft.
 >  **Initiative** +7 
+>  
 > ---
 > | STR | DEX | CON | INT | WIS | CHAR | 
 > | :---:|:---:|:---:|:---:|:---:|:---:|
@@ -175,6 +177,7 @@ PartyStanding: Friendly
 > **Senses** Darkvision 60 ft., Passive Perception 11  
 > **Languages** Common, Elvish, Sylvan  
 > **Challenge** 4  
+> 
 > ---
 >
 > ***Spellcasting.*** Aeloria is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The enchanter can cast Disguise Self and Invisibility at will and has the following wizard spells prepared:

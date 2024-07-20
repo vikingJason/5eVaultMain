@@ -576,14 +576,83 @@ tr {
   }
 }
 
+
+/*-Image Sizing-*/
+/*Fit image within bounds WITHOUT stretching*/
+img:is([alt*=cover], [alt*=cvr]),
+.image-embed:is([src*="#cover"], [src*="#cvr"]),
+span.image-embed:is([src*="#cover"], [src*="#cvr"]) img {
+  object-fit: cover;
+}
+
+img[alt][alt]:not([alt*=relative])[alt*=hmicro] {
+  height: var(--micro);
+}
+img[alt][alt]:not([alt*=relative])[alt*=htiny] {
+  height: var(--tiny);
+}
+img[alt][alt]:not([alt*=relative])[alt*=hsmall] {
+  height: var(--small);
+}
+img[alt][alt]:not([alt*=relative])[alt*=hs-med] {
+  height: var(--small-med);
+}
+img[alt][alt]:not([alt*=relative])[alt*=hm-sm] {
+  height: var(--med-small);
+}
+img[alt][alt]:not([alt*=relative])[alt*=hmed] {
+  height: var(--medium);
+}
+img[alt][alt]:not([alt*=relative])[alt*=hm-tl] {
+  height: var(--med-tall);
+}
+img[alt][alt]:not([alt*=relative])[alt*=htall] {
+  height: var(--tall);
+}
+img[alt][alt]:not([alt*=relative])[alt*=hfull] {
+  height: 100%;
+}
+img[alt][alt]:not([alt*=relative])[alt*=wmicro] {
+  width: var(--micro);
+}
+img[alt][alt]:not([alt*=relative])[alt*=wtiny] {
+  width: var(--tiny);
+}
+img[alt][alt]:not([alt*=relative])[alt*=wsmall] {
+  width: var(--small);
+}
+img[alt][alt]:not([alt*=relative])[alt*=ws-med] {
+  width: var(--small-med);
+}
+img[alt][alt]:not([alt*=relative])[alt*=wm-sm] {
+  width: var(--med-small);
+}
+img[alt][alt]:not([alt*=relative])[alt*=wmed] {
+  width: var(--medium);
+}
+img[alt][alt]:not([alt*=relative])[alt*=wm-tl] {
+  width: var(--med-tall);
+}
+img[alt][alt]:not([alt*=relative])[alt*=wtall] {
+  width: var(--tall);
+}
+img[alt][alt]:not([alt*=relative])[alt*=wfull] {
+  width: 100%;
+}
+
 img {
   max-width: 100%;
   border-radius: 5px;
   margin: 1rem 0;
 }
 
-.image-embed:is([alt~=lp], [alt~=live-preview]):is([alt*=right], [alt*=locr]) {
+img[alt~=right] {
   float: right !important;
+  margin-left: 2%;
+}
+
+img[alt][alt*=circle] {
+  border-radius: 50%;
 }
 
 p > img + em {
