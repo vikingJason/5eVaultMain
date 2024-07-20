@@ -157,11 +157,10 @@ PartyStanding: Friendly
 > *Medium Humanoid (Half-Elf), Chaotic Good*  
 > 
 > ---
-> 
->  **Armor Class** 14 (Mage Armor
->  **Hit Points** 66 (12d8+12)
->  **Speed**  30 ft.
->  **Initiative** +7 
+> **Armor Class** 14 (Mage Armor)
+> **Hit Points** 66 (12d8+12)
+> **Speed**  30 ft.
+> **Initiative** +7 
 >  
 > ---
 > | STR | DEX | CON | INT | WIS | CHAR | 
@@ -192,14 +191,17 @@ PartyStanding: Friendly
 > ***Fey Ancestry.*** Aeloria has advantage on saving throws against being charmed, and magic can't put her to sleep.
 >
 > **Actions**
->  ---
+> 
+> ---
 > ***Spellcasting.*** Aeloria casts one of her spells.
 > 
 > **Legendary Actions.**
->  ---
+> 
+> ---
 > None
 > 
 > **Reactions**
+> 
 > ---
 > ***Counterspell.*** When a creature she can see casts a spell within 60 feet, Aeloria can use her reaction to attempt to interrupt the spell
 > 
