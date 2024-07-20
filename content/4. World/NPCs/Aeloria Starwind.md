@@ -161,7 +161,7 @@ PartyStanding: Friendly
 > **Hit Points** 66 (12d8+12)
 > **Speed**  30 ft.
 > **Initiative** +7 
->  
+> 
 > ---
 > | STR | DEX | CON | INT | WIS | CHAR | 
 > | :---:|:---:|:---:|:---:|:---:|:---:|
