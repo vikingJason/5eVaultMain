@@ -11,7 +11,6 @@ Location: Elmswatch Enclave
 Groups: The Moonlit Order
 PartyStanding: Friendly
 ---
-**
 # **Aeloria Starwind**
 
 

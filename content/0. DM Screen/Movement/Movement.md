@@ -91,7 +91,6 @@ A character might occupy the front rank, one or more middle ranks, or the back r
 While traveling at a slow pace, the characters can move stealthily. As long as they’re not in the open, they can try to surprise or sneak by other creatures they encounter. See the rules for hiding in chapter 7 "Using Ability Scores."
 
 > [!warning]+ **SPLITTING UP THE PARTY**
-> icon: anvil
 > Sometimes, it makes sense to split an adventuring party, especially if you want one or more characters to scout ahead. You can form multiple parties, each moving at a different speed. Each group has its own front, middle, and back ranks.
 > 
 > The drawback to this approach is that the party will be split into several smaller groups in the event of an attack. The advantage is that a small group of stealthy characters moving slowly might be able to sneak past enemies that clumsier characters would alert. A pair of rogues moving at a slow pace are much harder to detect when they leave their dwarf fighter friend behind.

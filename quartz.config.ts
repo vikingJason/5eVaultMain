@@ -39,6 +39,7 @@ const config: QuartzConfig = {
           outline: "#fbb4577e",
           note: "#fff9f0",
           outerbar: "#fbe2c5",
+          textcolor: "#412f2f",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
@@ -53,6 +54,7 @@ const config: QuartzConfig = {
           outline: "#fbb4577e",
           note: "#fff9f0",
           outerbar: "#fbe2c5",
+          textcolor: "#412f2f",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },

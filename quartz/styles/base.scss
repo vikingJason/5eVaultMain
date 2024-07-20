@@ -16,7 +16,7 @@ section {
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
-  color: var(--darkgray);
+  color: var(--textcolor);
   --radius-s: 0;
   --radius-m: calc(var(--radius-s) * 1.1);
   --radius-l: calc(var(--radius-s) * 1.2);
@@ -25,6 +25,8 @@ section {
   --slider-track-radius: var(--radius-h);
   --input-radius: var(--radius-s);
   --icon-btn-radius: var(--radius-s);
+  word-break: auto-phrase;
+
 
 }
 
@@ -165,7 +167,7 @@ a {
 
   & article {
     & > h1 {
-      font-size: 2rem;
+      font-size: 34px;
     }
 
     & li:has(> input[type="checkbox"]) {
@@ -338,17 +340,43 @@ h6 {
   }
 }
 
+
+h1:not(.page-title):not(.article-title):not(.callout-content > h1)::after {
+  content: "";
+  display: block;
+  background: linear-gradient(to right, #c93c3c, transparent);
+  width: 100%;
+  height: 4px;
+  margin: none;
+}
+
+h2:not(.page-title):not(.article-title):not(.callout-content > h2)::after {
+  content: "";
+  display: block;
+  background: linear-gradient(to right, #c93c3c, transparent);
+  width: 100%;
+  height: 4px;
+  margin: none;
+
+}
+
 // typography improvements
 h1 {
-  font-size: 1.75rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
+  font-variant: normal;
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+  color: var(--heading1);
+  font-style: normal;
+  display: flow-root;
 }
 
 h2 {
   font-size: 1.4rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
+  color: #f4a460;
 }
 
 h3 {
@@ -565,7 +593,7 @@ p > img + em {
 
 hr {
   width: auto;
-  margin: 2rem auto;
+  margin: 5px auto;
   height: 1px;
   border: none;
   background-color: var(--lightgray);

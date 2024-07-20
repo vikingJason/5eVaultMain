@@ -574,6 +574,8 @@
 }
 .callout.callout[data-callout~=infobox] > .callout-title > .callout-icon {
   align-self: center;
+  color: transparent;
+  background-color: transparent;
 }
 .callout.callout[data-callout~=infobox]:not(.is-collapsed) > .callout-title {
   padding: 0;
@@ -718,17 +720,19 @@
 }
 
 .callout.callout[data-callout=statblocks] {
-  --color: unset;
+  background-color: transparent;
   --callout-icon: swords;
   --callout-padding: 12px 15px;
   --callout-margin: 10px auto;
   --callout-border-width: 0;
   margin: var(--callout-margin);
+  border-top: 5px solid var(--outline);
+  border-bottom: 5px solid var(--outline);
+  box-shadow: 0 0 20px var(--outline);
   min-width: 10ch;
+  border-right: 5px solid #fbb4577e;
+  border-left: 1px solid var(--outline);
   max-width: 42ch;
-  border-top: 5px solid var(--hr, var(--hr-color));
-  border-bottom: 5px solid var(--hr, var(--hr-color));
-  box-shadow: var(--shadow-l), 0 0 20px var(--outline, var(--hr-color));
 }
 .callout.callout[data-callout=statblocks] > .callout-content {
   --heading-spacing-top: 0;
