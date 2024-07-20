@@ -157,17 +157,17 @@ PartyStanding: Friendly
 > *Medium Humanoid (Half-Elf), Chaotic Good*  
 > 
 > ---
-> **Armor Class** 14 (Mage Armor)
-> **Hit Points** 66 (12d8+12)
-> **Speed**  30 ft.
-> **Initiative** +7 
+> **Armor Class** 14 (Mage Armor) 
+> **Hit Points** 66 (12d8+12) 
+> **Speed**  30 ft. 
+> **Initiative** +7  
 > 
 > ---
 > | STR | DEX | CON | INT | WIS | CHAR | 
 > | :---:|:---:|:---:|:---:|:---:|:---:|
 > | 10 (+0) | 14 (+2) | 12 (+1) | 18 (+4) | 12 (+1) | 16 (+3) | 
 > ---
-> **Saving Throws**  Int + 7
+> **Saving Throws**  Int + 7 
 > **Skills** Arcana: +10, Insight: +5, Deception: +7  
 > **Damage Vulnerabilities** None  
 > **Damage Resistances** Charm, Sleep  
