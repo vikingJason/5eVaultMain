@@ -13,7 +13,8 @@ Occupation: "[[6. Database/World-Building-main/Occupations/Government/summoner.m
 Alignment: "[[Lawful Neutral]]"
 Religion: 
 Condition: Healthy
-Location: "[[Glitterfall]]"
+Location:
+  - "[[Glitterfall]]"
 Groups: 
 PartyStanding: Friendly
 PhysicalFeatures:
@@ -29,7 +30,7 @@ Mannerisms:
   - Fidgets
   - Paces
   - Taps fingers
-PersonalityTrait: []
+PersonalityTrait: 
 Bonds:
   - Loyal to a benefactor, patron, or employer
 FlawSecret:
@@ -37,6 +38,8 @@ FlawSecret:
 Ideals: Neutral Ideal - Knowledge
 HighAbility: Intelligence — studious; learned; inquisitive
 LowAbility: Strength — feeble; scrawny
+dg-home: true
+dg-publish: true
 ---
 
 > [!infobox]+
