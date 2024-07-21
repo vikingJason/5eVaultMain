@@ -652,7 +652,7 @@
   text-align: center;
   margin: 0;
   padding: 2px;
-  color: var(--text-normal);
+  color: var(--textcolor);
   background: var(--outerbar, var(--note));
 }
 .callout.callout[data-callout~=infobox] .internal-embed, .callout.callout[data-callout~=infobox] img {
@@ -670,7 +670,7 @@
   --callout-margin: 5px 0 0 0;
 }
 .callout.callout[data-callout~=infobox] .callout-content > .callout[data-callout~=infobox] > .callout-title {
-  color: var(--text-normal);
+  color: var(--textcolor);
   background: var(--outerbar, var(--note));
   border: 1px solid var(--outline, var(--background-modifier-border));
   border-bottom: none;
@@ -680,7 +680,7 @@
 }
 
 .callout.callout[data-callout~=infobox][data-callout-metadata~=wikipedia] table {
-  --outline-header-color: var(--text, var(--text-normal));
+  --outline-header-color: var(--text, var(--textcolor));
   --outline-header-background: transparent;
   --outline-header-background-hover: var(--td, var(--outline-background));
   --outline-row-background-hover: var(--td, var(--outline-background));
@@ -778,7 +778,7 @@
   --outline-header-padding-x: 4px;
   --outline-style-column-header-background: transparent;
   --outline-style-column-header-bold-weight: var(--text-weight);
-  --outline-style-column-header-bold-color: var(--text, var(--text-normal));
+  --outline-style-column-header-bold-color: var(--text, var(--textcolor));
   margin: 12px auto;
   width: unset;
 }
@@ -1118,7 +1118,7 @@
   justify-content: center;
 }
 .callout.callout[data-callout=recite][data-callout-metadata*=bg-]:not([data-callout-metadata*=bg-c]) .callout-title {
-  color: var(--text-normal);
+  color: var(--textcolor);
 }
 .callout.callout[data-callout=recite] .callout-title-inner {
   flex: unset;
@@ -1253,7 +1253,7 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i]:is([da
 
 /* Columns */
 .callout[data-callout*=column] {
-  --color: var(--text-normal);
+  --color: var(--textcolor);
   --callout-icon: layout-dashboard;
   --columns: 2;
   background: transparent;

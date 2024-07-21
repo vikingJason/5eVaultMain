@@ -89,6 +89,7 @@ PartyStanding: Friendly
 
 > [!recite|title-Centre] **Secrets**
 > **Easily Discoverable:** She once enchanted a mundane object that turned out to be a powerful artifact, causing unintended chaos.
+> 
 > **Hard to Discover:** Aeloria is searching for a lost lover who disappeared under mysterious circumstances, believing they are still alive.
 
 > [!recite|title-Centre] **Goals**
@@ -157,6 +158,7 @@ PartyStanding: Friendly
 > *Medium Humanoid (Half-Elf), Chaotic Good*  
 > 
 > ---
+> 
 > **Armor Class** 14 (Mage Armor) 
 > **Hit Points** 66 (12d8+12) 
 > **Speed**  30 ft. 
@@ -167,6 +169,7 @@ PartyStanding: Friendly
 > | :---:|:---:|:---:|:---:|:---:|:---:|
 > | 10 (+0) | 14 (+2) | 12 (+1) | 18 (+4) | 12 (+1) | 16 (+3) | 
 > ---
+> 
 > **Saving Throws**  Int + 7 
 > **Skills** Arcana: +10, Insight: +5, Deception: +7  
 > **Damage Vulnerabilities** None  
