@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### Acid
 
 As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact.

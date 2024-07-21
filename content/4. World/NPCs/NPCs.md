@@ -1,6 +1,7 @@
 ---
 Type:
   - NPCTable
+dg-publish: true
 ---
 
 

@@ -159,8 +159,8 @@ PartyStanding: Friendly
 > 
 > ---
 > 
-> **Armor Class** 14 (Mage Armor) 
-> **Hit Points** 66 (12d8+12) 
+> **Armor Class** 14 (Mage Armor)
+> **Hit Points** 66 (12d8+12)
 > **Speed**  30 ft. 
 > **Initiative** +7  
 > 

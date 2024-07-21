@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **Assassin's Blood (Ingested)**
 
 A creature subjected to this poison must make a DC 10 Constitution saving 

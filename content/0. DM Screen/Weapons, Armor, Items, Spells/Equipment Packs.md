@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Burglars Pack
 ![[Pasted image 20211224134843.png]]
 [[Pasted image 20211224134843.png|Show To Players]]
