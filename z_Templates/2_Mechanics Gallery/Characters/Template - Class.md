@@ -16,8 +16,8 @@ RWtopicId: Topic_49
 Placeholder
 
 ### Placeholder Portrait
-![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 ## Class Features
 Placeholder

@@ -37,7 +37,8 @@ export const defaultContentPageLayout: PageLayout = {
           } else {
             node.displayName = "📁 " + node.displayName
           }
-      },
+      }
+    },
       filterFn: (node) => {
         // set containing names of everything you want to filter out
         const omit = new Set(["authoring content", "tags", "hosting"])
@@ -60,7 +61,7 @@ export const defaultContentPageLayout: PageLayout = {
           } else {
             node.displayName = "📁 " + node.displayName
           }
-      },
+      }},
       filterFn: (node) => {
         // set containing names of everything you want to filter out
         const omit = new Set(["authoring content", "tags", "hosting"])

@@ -19,8 +19,8 @@ RWtopicId: Topic_64
 # Template - Creature
 ## Overview
 ### Placeholder Portrait
-![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 **Alignment**: Neutral
 

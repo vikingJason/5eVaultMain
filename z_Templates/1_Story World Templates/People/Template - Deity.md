@@ -22,12 +22,12 @@ Placeholder
 **Domains**: Death, Knowledge, Life, Light, Nature, Tempest, Trickery, War
 
 ### Holy Symbol
-![[content/z_Assets/Misc/ImagePlaceholder.png|Holy Symbol]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder]]
+![[content/assets/Misc/ImagePlaceholder.png|Holy Symbol]]
+[[content/assets/Misc/ImagePlaceholder.png|Placeholder]]
 
 ### Picture
-![[content/z_Assets/Misc/ImagePlaceholder.png|Picture]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder]]
+![[content/assets/Misc/ImagePlaceholder.png|Picture]]
+[[content/assets/Misc/ImagePlaceholder.png|Placeholder]]
 
 ## Profile
 | STR | DEX | CON | WIS | INT | CHA |

@@ -31,12 +31,12 @@ Placeholder
 **Population**: Placeholder
 
 ### Placeholder Map
-![[content/z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
-[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
+![[content/assets/Misc/MapPlaceholder.png|Placeholder Map]]
+[[content/assets/Misc/MapPlaceholder.png|open outside]]
 
 ### Placeholder Picture
-![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

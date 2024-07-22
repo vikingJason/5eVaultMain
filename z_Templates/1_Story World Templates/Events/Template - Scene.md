@@ -23,15 +23,15 @@ RWtopicId: Topic_5
 **Encounter Type**: Exploration, Combat, Social, Subterfuge, Skill Challenge, Puzzle, Roleplaying, Investigative
 
 ### Image
-![[content/z_Assets/Misc/ImagePlaceholder.png|Image]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Image]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 
 ## Setup
 ### Map
-![[content/z_Assets/Misc/MapPlaceholder.png|Map]]
-[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
+![[content/assets/Misc/MapPlaceholder.png|Map]]
+[[content/assets/Misc/MapPlaceholder.png|open outside]]
 
 Placeholder
 
@@ -41,8 +41,8 @@ Placeholder - Encounter Code
 Placeholder - Statblock Code
 
 ### Placeholder Portrait
-![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

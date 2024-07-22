@@ -26,8 +26,8 @@ RWtopicId: Topic_13
 **Criminal Organization**: Cartel, Gang, Guild, Mafia, Other, Ring, Syndicate
 
 ### Placeholder Iconography
-![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

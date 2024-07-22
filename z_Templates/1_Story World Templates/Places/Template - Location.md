@@ -20,8 +20,8 @@ Placeholder
 
 ## Description
 ### Placeholder Picture
-![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

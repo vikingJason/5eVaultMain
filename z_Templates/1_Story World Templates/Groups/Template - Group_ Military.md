@@ -26,8 +26,8 @@ RWtopicId: Topic_17
 **Military Organization**: Air Force, Armada, Army, Battalion, Battlegroup, Brigade, Cohort, Company, Corps, Detachment, Division, Fleet, Flotilla, Formation, Legion, Navy, Other, Outfit, Platoon, Regiment, Section, Squad, Squadron, Task Force, Unit, Wing ;
 
 ### Placeholder Iconography
-![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

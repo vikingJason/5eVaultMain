@@ -26,8 +26,8 @@ RWtopicId: Topic_12
 **Commerce Organization**: Company, Conglomerate, Corporation, Guild, Other, Union
 
 ### Placeholder Iconography
-![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

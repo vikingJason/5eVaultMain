@@ -20,8 +20,8 @@ RWtopicId: Topic_15
 **Family Notability**: Politics, Industry, Commerce, Religion, Military, Crime, Other, Entertainment, Magic, Science, Technology
 
 ### Placeholder Iconography
-![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

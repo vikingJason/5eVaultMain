@@ -26,8 +26,8 @@ RWtopicId: Topic_16
 **Government Organization**: Council
 
 ### Placeholder Iconography
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

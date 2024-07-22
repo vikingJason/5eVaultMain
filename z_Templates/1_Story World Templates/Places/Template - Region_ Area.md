@@ -20,15 +20,15 @@ RWtopicId: Topic_27
 **Usage**: Other, Religious, Civic Services, Commercial, Governmental, Industrial, Infrastructure, Military, Recreation, Residential
 
 ### Placeholder Picture
-![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
-[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
+[[content/assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 
 ## Description
 ### Placeholder Map
-![[content/z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
-[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
+![[content/assets/Misc/MapPlaceholder.png|Placeholder Map]]
+[[content/assets/Misc/MapPlaceholder.png|open outside]]
 
 Placeholder
 

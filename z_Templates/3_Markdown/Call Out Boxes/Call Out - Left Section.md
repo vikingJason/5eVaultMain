@@ -2,7 +2,7 @@
 ---
 > [!infobox|left]+
 > # Name
-> ![[content/z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+> ![[content/assets/Misc/ImagePlaceholder.png|cover hsmall]]
 > ###### Stats
 > Type |  Stat |
 > ---|---|
