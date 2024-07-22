@@ -27,14 +27,46 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      mapFn: (node) => {
+        node.displayName = node.displayName.toUpperCase()
+        if (node.depth > 0) {
+          // set emoji for file/folder
+          if (node.file) {
+            node.displayName = "📄 " + node.displayName
+          } else {
+            node.displayName = "📁 " + node.displayName
+          }
+      },
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["authoring content", "tags", "hosting"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    })),
     Component.MobileOnly(Component.TableOfContents()),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.Graph(),
     Component.Backlinks(),
-    Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.Explorer({
+      mapFn: (node) => {
+        node.displayName = node.displayName.toUpperCase()
+        if (node.depth > 0) {
+          // set emoji for file/folder
+          if (node.file) {
+            node.displayName = "📄 " + node.displayName
+          } else {
+            node.displayName = "📁 " + node.displayName
+          }
+      },
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["authoring content", "tags", "hosting"])
+        return !omit.has(node.name.toLowerCase())
+      },
+    })),
   ],
 
 }

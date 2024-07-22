@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 My 5e Vault",
+    pageTitle: "👨🏻‍💻🤴🏻💁😈 GM in Flux!",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
