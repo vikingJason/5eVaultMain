@@ -741,9 +741,10 @@ ol.overflow {
 /*Fonts*/
 
 @font-face {
-  font-family: 'draconisregular';
-  src: url(draconis-webfont.woff2) format('woff2'),
-       url(draconis-webfont.woff) format('woff'),
+  font-family: "draconisregular";
+  src: url("draconis-webfont.woff2") format("woff2"),
+       url("draconis-webfont.woff") format("woff"),
+       url("Draconis.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 
