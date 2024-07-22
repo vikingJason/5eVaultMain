@@ -1,10 +1,7 @@
 ---
-dg-publish: true
+public: true
 ---
 # Index of Decks
 
 
-```dataview
-LIST 
-FROM "content/2. DM Tools/Decks"
-```
+<!-- SerializedQuery: LIST FROM "content/2. DM Tools/Decks" -->

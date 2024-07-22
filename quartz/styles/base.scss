@@ -15,7 +15,7 @@ section {
   max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: var(--bodyFont);
+  font-family: 'Bookerly', var(--bodyFont);
   color: var(--textcolor);
   --radius-s: 0;
   --radius-m: calc(var(--radius-s) * 1.1);
@@ -310,9 +310,9 @@ h4,
 h5,
 h6,
 thead {
-  font-family: var(--headerFont);
+  font-family: 'draconis', var(--headerFont);
   color: var(--heading1);
-  font-weight: revert;
+  font-weight: normal;
   margin-bottom: 0;
 
   article > & > a[role="anchor"] {
@@ -332,7 +332,7 @@ h6 {
     opacity: 0;
     transition: opacity 0.2s ease;
     transform: translateY(-0.1rem);
-    font-family: var(--codeFont);
+    font-family: '="Fira Code", var(--codeFont);
     user-select: none;
   }
 
@@ -749,6 +749,102 @@ ol.overflow {
   font-style: normal;
 
 }
+
+
+@font-face {
+  font-family: 'Bookerly Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Regular'), url('../static/Bookerly.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Italic'), url('../static/Bookerly Italic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Italic'), url('../static/Bookerly LCD Italic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Light'), url('../static/Bookerly Light.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Light Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Light Italic'), url('../static/Bookerly LCD Light Italic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Light Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Light Italic'), url('../static/Bookerly Light Italic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Bold'), url('../static/Bookerly Bold.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Bold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Bold Italic'), url('../static/Bookerly Bold Italic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Display Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Display Regular'), url('../static/Bookerly Display.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Display Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Display Italic'), url('../static/Bookerly Display Italic.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Display Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Display Bold'), url('../static/Bookerly Display Bold.woff') format('woff');
+  }
+  
+
+  @font-face {
+  font-family: 'Bookerly Display Bold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bookerly Display Bold Italic'), url('../static/Bookerly Display Bold Italic.woff') format('woff');
+  }
 
 @font-face {
   font-family: "Fira Code";
