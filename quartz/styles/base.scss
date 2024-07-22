@@ -26,6 +26,7 @@ section {
   --input-radius: var(--radius-s);
   --icon-btn-radius: var(--radius-s);
   word-break: auto-phrase;
+  box-shadow: 0 0 100px var(--outline) inset;
 
 
 }
@@ -729,6 +730,9 @@ ol.overflow {
   }
 }
 
+
+
+
 .katex-display {
   overflow-x: auto;
   overflow-y: hidden;
@@ -738,8 +742,8 @@ ol.overflow {
 
 @font-face {
   font-family: 'draconisregular';
-  src: url('draconis-webfont.woff2') format('woff2'),
-       url('draconis-webfont.woff') format('woff');
+  src: url(draconis-webfont.woff2) format('woff2'),
+       url(draconis-webfont.woff) format('woff'),
   font-weight: normal;
   font-style: normal;
 
