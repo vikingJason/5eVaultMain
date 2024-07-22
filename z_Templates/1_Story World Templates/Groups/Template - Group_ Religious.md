@@ -23,8 +23,8 @@ RWtopicId: Topic_19
 **Religious Organization**: House of Worship, Chapter, Congregation, Cult, Denomination, Movement, Order, Other, Religion, Sect
 
 ### Placeholder Iconography
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

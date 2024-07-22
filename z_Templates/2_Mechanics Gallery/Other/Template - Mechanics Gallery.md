@@ -17,12 +17,12 @@ Placeholder
 
 ## Gallery
 ### Portrait
-![[z_Assets/Misc/ImagePlaceholder.png|Portrait]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Portrait]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 ### Scenic
-![[z_Assets/Misc/ImagePlaceholder.png|Scenic]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Scenic]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

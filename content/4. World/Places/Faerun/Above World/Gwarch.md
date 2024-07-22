@@ -9,8 +9,8 @@ Region: placeholder
 
 > [!infobox]+
 > # Gwarch
-> ![[ImagePlaceholder.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+> ![[content/z_Assets/Misc/ImagePlaceholder.png|cover hsmall]]
+> [[content/z_Assets/Misc/ImagePlaceholder.png|Show To Players]]
 > ###### Geography
 > Type |  Stat |
 > ---|---|

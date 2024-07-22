@@ -20,12 +20,12 @@ Placeholder
 
 ## Description
 ### Placeholder Map
-![[z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
-[[z_Assets/Misc/MapPlaceholder.png|open outside]]
+![[content/z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
+[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
 
 ### Placeholder Picture
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

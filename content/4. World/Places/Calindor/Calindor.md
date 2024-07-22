@@ -61,8 +61,8 @@ Title:
 Placeholder
 
 ### DM Map
-![[z_Assets/Misc/MapPlaceholder.png|850]]
-[[z_Assets/Misc/MapPlaceholder.png|open outside]]
+![[content/z_Assets/Misc/MapPlaceholder.png|850]]
+[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
 
 
 

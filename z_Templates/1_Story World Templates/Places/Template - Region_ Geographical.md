@@ -19,8 +19,8 @@ RWtopicId: Topic_25
 **Geographical Region**: Mountains, Hills, Plains, Forest, Swamp, Marsh, Jungle, Rainforest, Lake, River, Bay, Reef, Peninsula, Isthmus, Strait, Cove, Delta, Canyon, Glacier, Plateau, Valley, Oasis, Coast, Pass, Continent, Subcontinent, Island, Archipelago, Other, Travel Route, Body of Water, Gulf, Ocean, Sea
 
 ### Placeholder Picture
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 
@@ -30,8 +30,8 @@ Placeholder
 **Climate**: Arctic, Arid, Other, Subtropical, Temperate, Tropical ;
 
 ### Placeholder Map
-![[z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
-[[z_Assets/Misc/MapPlaceholder.png|open outside]]
+![[content/z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
+[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
 
 Placeholder
 

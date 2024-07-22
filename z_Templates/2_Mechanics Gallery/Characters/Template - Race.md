@@ -16,6 +16,6 @@ RWtopicId: Topic_51
 Placeholder
 
 ### Placeholder Portrait
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 

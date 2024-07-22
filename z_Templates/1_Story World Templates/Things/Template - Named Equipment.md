@@ -17,8 +17,8 @@ RWtopicId: Topic_30
 **Equipment Type**: Weapon, Protection, Clothing, Accessory, Gear, Other
 
 ### Placeholder Picture
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

@@ -20,8 +20,8 @@ RWtopicId: Topic_42
 **Rank**: Junior Member ; Placeholder
 
 ### Placeholder Iconography
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Iconography]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 

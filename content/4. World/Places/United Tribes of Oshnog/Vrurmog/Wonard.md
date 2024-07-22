@@ -10,7 +10,7 @@ Region: placeholder
 > [!infobox]+
 > # [[Name]]
 > ![[Map-Wonard.png|cover hsmall]]
-> [[ImagePlaceholder.png|Show To Players]]
+> [[content/z_Assets/Misc/ImagePlaceholder.png|Show To Players]]
 > ###### Geography
 > Type |  Stat |
 > ---|---|
@@ -50,7 +50,7 @@ Region: placeholder
 
 ### Placeholder Map
 ![[Map-Wonard.png|Placeholder Map]]
-[[z_Assets/Misc/MapPlaceholder.png|open outside]]
+[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
 
 ## Notable NPCs
 Placeholder

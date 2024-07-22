@@ -14,8 +14,8 @@ RWtopicId: Topic_31
 # Template - Named Object
 ## Overview
 ### Placeholder Picture
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
-[[z_Assets/Misc/ImagePlaceholder.png|Placeholder]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder]]
 
 Placeholder
 

@@ -63,5 +63,5 @@ The defenders had a standing order to hold the castle against invaders at all co
 
 Commander Tallsword called for frequent drills and inspections.
 ### Placeholder Map
-![[z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
-[[z_Assets/Misc/MapPlaceholder.png|open outside]]
+![[content/z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
+[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]

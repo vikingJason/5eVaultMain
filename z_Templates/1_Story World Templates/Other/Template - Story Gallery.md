@@ -17,16 +17,16 @@ Placeholder
 
 ## Gallery
 ### Placeholder Portrait
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Portrait]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 ### Placeholder Scenic
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Scenic]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Scenic]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 ### Placeholder Map
-![[z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
-[[z_Assets/Misc/MapPlaceholder.png|open outside]]
+![[content/z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
+[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
 
 Placeholder
 

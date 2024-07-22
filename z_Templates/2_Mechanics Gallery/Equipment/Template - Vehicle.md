@@ -14,8 +14,8 @@ RWtopicId: Topic_57
 # Template - Vehicle
 ## Overview
 ### Placeholder Picture
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Picture]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 **AC**: Placeholder
 

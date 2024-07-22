@@ -30,15 +30,15 @@ RWtopicId: Topic_26
 **Religion**: Placeholder
 
 ### Placeholder Flag/Symbol
-![[z_Assets/Misc/ImagePlaceholder.png|Placeholder Flag/Symbol]]
-[[z_Assets/Misc/ImagePlaceholder.png|open outside]]
+![[content/z_Assets/Misc/ImagePlaceholder.png|Placeholder Flag/Symbol]]
+[[content/z_Assets/Misc/ImagePlaceholder.png|open outside]]
 
 Placeholder
 
 ## Description
 ### Placeholder Map
-![[z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
-[[z_Assets/Misc/MapPlaceholder.png|open outside]]
+![[content/z_Assets/Misc/MapPlaceholder.png|Placeholder Map]]
+[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
 
 Placeholder
 
