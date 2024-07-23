@@ -1,0 +1,1 @@
+an ancient group of devil worshippers that use only fire based magic. Their only goal for centuries has been to travel to their master in the Fifth Layer of Hell and melt the ice that imprisons him, and in turn they have been promised eternal life and power if they succeed.
