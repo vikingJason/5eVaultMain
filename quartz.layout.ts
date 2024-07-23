@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     },
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["authoring content", "tags", "hosting"])
+        const omit = new Set(["authoring content", "tags", "hosting", "content/z_Assets"])
         return !omit.has(node.name.toLowerCase())
       },
     })),
@@ -64,7 +64,7 @@ export const defaultContentPageLayout: PageLayout = {
       }},
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["authoring content", "tags", "hosting"])
+        const omit = new Set(["authoring content", "tags", "hosting", "content/z_Assets"])
         return !omit.has(node.name.toLowerCase())
       },
     })),
