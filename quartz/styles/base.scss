@@ -15,7 +15,7 @@ section {
   max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: 'bookerly', var(--bodyFont);
+  font-family: 'ITS-bookerly', var(--bodyFont);
   color: var(--textcolor);
   --radius-s: 0;
   --radius-m: calc(var(--radius-s) * 1.1);
@@ -60,10 +60,6 @@ ul > li:not(.task-list-item)::before {
   float: left;
 }
 
-
-body div.toc-content {
-  margin: auto;
-}
 
 body:not(.list-default-bullet) ul > li:not(.task-list-item)::marker {
   color: transparent;
@@ -317,9 +313,26 @@ h2,
 h3,
 h4,
 h5,
-h6,
-thead {
+h6 {
   font-family: 'draconis', var(--headerFont);
+  color: var(--heading1);
+  font-weight: normal;
+  margin-bottom: 0;
+
+  article > & > a[role="anchor"] {
+    color: var(--dark);
+    background-color: transparent;
+  }
+}
+
+
+body div#toc-content ul>li:before, div#explorer-content ul>li:before {
+  content: none;
+}
+
+
+
+thead {
   color: var(--heading1);
   font-weight: normal;
   margin-bottom: 0;
@@ -587,6 +600,46 @@ tr {
 }
 
 
+
+/*----Image Positions/Adjustments----*/
+body {
+  --micro: 70px;
+  --tiny: 100px;
+  --small: 200px;
+  --small-med: 300px;
+  --med-small: 400px;
+  --medium: 500px;
+  --med-tall: 600px;
+  --tall: 700px;
+}
+
+.popover.hover-popover {
+  --micro: 70px;
+  --tiny: 100px;
+  --small: 150px;
+  --small-med: 200px;
+  --med-small: 250px;
+  --medium: 300px;
+  --med-tall: 450px;
+  --tall: 500px;
+}
+
+/*----Mobile----*/
+@media (max-width: 500px) {
+  .theme-dark, .theme-light {
+    /*Mobile Sizes*/
+    --radius: 0px;
+    --micro: 70px;
+    --tiny: 100px;
+    --small: 150px;
+    --small-med: 200px;
+    --med-small: 250px;
+    --medium: 300px;
+    --med-tall: 450px;
+    --tall: 500px;
+  }
+}
+
 /*-Image Sizing-*/
 /*Fit image within bounds WITHOUT stretching*/
 img:is([alt*=cover], [alt*=cvr]),
@@ -594,6 +647,9 @@ img:is([alt*=cover], [alt*=cvr]),
 span.image-embed:is([src*="#cover"], [src*="#cvr"]) img {
   object-fit: cover;
 }
+
+
+
 
 img[alt][alt]:not([alt*=relative])[alt*=hmicro] {
   height: var(--micro);
