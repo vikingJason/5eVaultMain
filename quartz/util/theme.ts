@@ -33,8 +33,8 @@ export interface Theme {
 export type ThemeKey = keyof Colors
 
 const DEFAULT_SANS_SERIF =
-  "'draconis', Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Microsoft YaHei Light', sans-serif"
-const DEFAULT_MONO = "'bookerly', ui-monospace, SFMono-Regular, SF Mono, Menlo, monospace"
+  "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Microsoft YaHei Light', sans-serif"
+const DEFAULT_MONO = "ui-monospace, SFMono-Regular, SF Mono, Menlo, monospace"
 const DEFAULT_HEADER = "'Fira Code','Calisto MT', 'Palatino Black', 'Book Antiqua', 'Georgia', 'Suez One', serif"
 
 export function googleFontHref(theme: Theme) {

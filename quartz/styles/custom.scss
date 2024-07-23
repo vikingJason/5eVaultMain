@@ -1890,3 +1890,33 @@ body:not(.default-callout-quote, .callout-no-quote) .callout.callout[data-callou
   z-index: 1;
   position: relative;
 }
+
+
+/*Plugin: 5e Statblock*/
+:is(.dnd, .wotc) .obsidian-statblock-plugin .creature-heading > .name {
+  color: var(--embed-h) !important;
+}
+
+:is(.dnd, .wotc) .obsidian-statblock-plugin .property-name {
+  color: var(--headers);
+}
+
+:is(.dnd, .wotc) .obsidian-statblock-plugin .section-header {
+  color: var(--embed-h) !important;
+}
+
+.theme-dark:is(.dnd, .wotc) {
+  --embed-h: #c93c3c;
+  --h1-c: var(--headers);
+  --h2-c: sandybrown;
+  --h3-c: var(--embed-h);
+}
+
+.theme-light:is(.dnd, .wotc) {
+  --embed-h: #d05858;
+  --h1-c: var(--headers);
+  --h2-c: sandybrown;
+  --h3-c: var(--embed-h);
+}
+
+
