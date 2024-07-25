@@ -326,7 +326,7 @@ h6 {
 }
 
 
-body div#toc-content ul>li::before, div#explorer-content ul>li::before {
+body div#toc-content ul>li::before, div#explorer-content ul>li::before, body div#quartz-root.page footer ul>li::before {
   content: none;
 }
 
