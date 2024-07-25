@@ -95,18 +95,20 @@ Motivations:
 >
 
 
-> [!info] Statblock
-> ```statblock
-> name: Individual
-> monster: Commoner
-> columns: 1
-> ```
+```statblock
+name: Individual
+monster: Commoner
+columns: 1
+```
 
 ```encounter-table
 name: Individual
 creatures:
  - 1: Commoner
 ```
+
+
+
 
 ## History
 TBD

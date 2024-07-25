@@ -153,7 +153,7 @@ PartyStanding: Friendly
 >
 >
 > ![[Archdruid, Human.jpg|right cover htiny wtiny circle lp]]
-># Aeloria Starwind  
+>## Aeloria Starwind  
 >
 > *Medium Humanoid (Half-Elf), Chaotic Good*  
 > 
@@ -193,18 +193,15 @@ PartyStanding: Friendly
 > 
 > ***Fey Ancestry.*** Aeloria has advantage on saving throws against being charmed, and magic can't put her to sleep.
 >
-> **Actions**
+> ### **Actions**
 > 
-> ---
-> ***Spellcasting.*** Aeloria casts one of her spells.
+>  ***Spellcasting.*** Aeloria casts one of her spells.
 > 
-> **Legendary Actions.**
+> ### **Legendary Actions.**
 > 
-> ---
 > None
 > 
-> **Reactions**
+> ### **Reactions**
 > 
-> ---
 > ***Counterspell.*** When a creature she can see casts a spell within 60 feet, Aeloria can use her reaction to attempt to interrupt the spell
 > 
