@@ -18,6 +18,7 @@ FamiliarRoute: true
 PartyMembers: 5
 LifestyleCostSP: 20
 IncludeMeals: false
+draft: true
 ---
 
 # Travel Speed

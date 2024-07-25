@@ -55,7 +55,7 @@ Every hour, the infected creature must make a DC 15 Constitution saving throw ag
 
 A failed save causes painful swelling to develop; roll a `1d6` and consult the table to determine its location and effects. If the creature already suffers from the effect rolled, it instead takes `1d4` bludgeoning damage.
 
-`dice: [](diseases-roth.md#^location-and-effect)`
+`dice: [](diseases.md#^location-and-effect)`
 
 | dice: d6 | Location and Effect |
 |----------|---------------------|
