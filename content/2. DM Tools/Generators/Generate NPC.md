@@ -78,13 +78,13 @@ PartyStanding:
 > ###### Info
 > 
 >  | | |
->  |---|---|
->  | **Alias(es)** |   |
->  | **Occupation** |   |
->  | **Party Relationship** |  |
->  | **Group(s)** |  |
->  | **Religion(s)** |   |
->  | **Current Location** |   |
+> |---|---|
+> | **Alias(es)** |   |
+> | **Occupation** |   |
+> | **Party Relationship** |  |
+> | **Group(s)** |  |
+> | **Religion(s)** |   |
+> | **Current Location** |   |
 
 
 <br>

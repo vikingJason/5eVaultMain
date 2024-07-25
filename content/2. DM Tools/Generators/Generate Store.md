@@ -40,29 +40,55 @@ Other Important Items:
 - use the template below
 
 
-### **Name:**
-**Merchant Type:**
-**Location:**
-**Owner:** name of the owner
-> **Skill Level** skill level of the store owner
 
-> ### Goods & Services - fille the below table with a breif list of the type of items sold and/or services provided based on the STORE type
-|Name|Quality|Price|
-|---|---|---|
-| - a - |Excellent|Average|
-| - b - |Exceptional|High|
-| - c - |Variable|High|
-| - d - |Good|Moderate|
-| - e - |Varies|Expensive|
+---
+type: Merchant Store
+merchantType:  
+kingdom:  
+region:  
+settlementName:  
+wardName: 
+title: 
+ownerName: 
+services: 
+---
 
-#### Description
+# **Name**
+
+<br>
+
+> [!infobox|sban]
+> # Name:
+> ---
+>
+> ###### Info
+>  | | |
+> |---|---|
+> | **Merchant Type** |  |
+> | **Location** |  |
+> | **Owner** | name of the owner |
+> | **Skill Level** | skill level of the store owner |
+>
+> ###### Goods & Services - fille the below table with a breif list of the type of items sold and/or services provided based on the STORE type
+> 
+> |Name|Quality|Price|
+> |---|---|---| 
+> | - a - |Excellent|Average| 
+> | - b - |Exceptional|High| 
+> | - c - |Variable|High| 
+> | - d - |Good|Moderate| 
+> | - e - |Varies|Expensive|
+
+<br>
+
+> [!abstract] **Description**
 > **Exterior:** A description of the exterior of the store
 > **Interior:** A description of the interior of the store
 
-#### Staff
+> [!abstract|background-color-purple]  **Staff**
 > Provide a physical description of the staff inside the store and what they are doing as the players enter.
 > How do the staff react when the players enter.
-> An example of what they would say.
+> > [!quote] ***An example of what they would say.***
 
 ## Goods and Services
 ### Services
@@ -87,34 +113,114 @@ Other Important Items:
 
 
 ## Owner
-### **Name:**
-**Race:**
-**Sex:** [(Female,Female), (Male,Male), (Non-Binary,Non-Binary), (N/A,N/A), (Other,Other)]
-**Age:**
-**Occupation:**
-**Religion(s):**
 
-#### Description
-Physical Description: A physical descriptor including skin color, height, weight, and an interesting Physical Feature
-Mannerisms: A description of an interesting mannerism, e.g. body language, tone, speech pattern etc.
->An example of how they would speak to someone.
-Social
-World View: A description of the World View the NPC has.
-> How this world view might impact or set the DC (Difficulty Class) for social interactions with players
-Motivations
-Ideals
-Bonds
-Flaw
-Secret
-Goals
-Abilities
-Likes/Dislikes
-> **Likes:**
-> **Dislikes:**
-Family
-Friends
-Rivals
-Socio-Economic Class
-Inventory
+> [!infobox|sban]
+> # Name: (Pronouns)
+>---
+>
+> ###### Bio
+>  | | |
+> |---|---|
+> | **Race** |  |
+> | **Sex** |  (Female,Female), (Male,Male), (Non-Binary,Non-Binary), (N/A,N/A), (Other,Other)  |
+> | **Age** |  |
+> | **Sexuality** |  (Asexual,Asexual), (Bisexual,Bisexual), (Gay,Gay), (Straight,Straight) |
+> | **Alignment** |  |
+> 
+> ###### Info
+> 
+>  | | |
+> |---|---|
+> | **Alias(es)** |   |
+> | **Occupation** |   |
+> | **Party Relationship** |  |
+> | **Group(s)** |  |
+> | **Religion(s)** |   |
+> | **Current Location** |   |
 
-Potential Quest hook
+
+<br>
+
+## Traits
+
+
+> [!recite|txt-Center] **Physical Description**
+> A description of their physical traits including skin color, height, weight, and an interesting Physical Feature
+
+> [!recite|title-Centre] **Mannerisms**
+> A description of an interesting mannerism, e.g. body language, tone, speech pattern etc.
+>> [!quote] ***An example of how they would speak to someone.***
+
+
+
+
+<br>
+
+## Personality
+
+> [!recite|title-Center] **World View**
+> A description of the World View the NPC has.
+> 
+> > [!warning]
+> > ***How this world view might impact or set the DC (Difficulty Class) for social interactions with players***
+
+
+> [!recite|title-Center] **Socio-Economic Class**
+> 
+
+> [!recite|title-Centre] **Motivations**
+> 
+
+> [!recite|title-Centre] **Ideals**
+> 
+
+> [!recite|title-Centre] **Bonds**
+> 
+
+> [!recite|title-Centre] **Flaw**
+> 
+
+> [!recite|title-Centre] **Secrets**
+> 
+
+> [!recite|title-Centre] **Goals**
+> 
+
+> [!recite|title-Centre] **Likes/Dislikes**
+> ***Likes:***
+>
+> ***Dislikes:***
+
+<br>
+
+## Relationships
+
+> [!kith|family] **Family** 
+> Subtitle/Brief Relationship Description
+> 
+
+> [!kith|friend]  **Friends** 
+> Subtitle/Brief Relationship Description
+> 
+
+> [!kith|romantic]  **Romantic**
+> Subtitle/Brief Relationship Description
+> 
+
+> [!kith|antagonist]  **Rivals** 
+> Subtitle/Brief Relationship Description
+>
+
+
+<br>
+
+> [!example] **Inventory**
+>
+
+<br>
+
+> [!warning] **Potential Quest hook**
+>
+
+<br>
+

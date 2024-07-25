@@ -1,19 +1,12 @@
 ---
-cssclasses:
-  - oRPGPage
-fileType: structure
-structureType: Profession
+type: Merchant Store
 merchantType: Apothecary
-merchantCategory: Service
 kingdom: Calindor
 Region: Borfaldor
 settlementName: Petalwood
 wardName: 
-structure: SHOP,HOUSE
 title: Mystic Roots
 ownerName: Althea Thornblossom
-apprentices:
-  - No apprentices
 services: 
 ---
 

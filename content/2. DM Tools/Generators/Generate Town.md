@@ -37,25 +37,49 @@ Other Important Items:
 - use the template below
 
 
-## **Name:**
-**Settlement Type:**
-**Size:**
-**Government Type:**
-**Current Ruler:** Name and Title
-**Defenses:**
+---
+type: Settlement
+settlementType: 
+govtType: 
+defences: 
+law: 
+military: 
+factions: 
+ruler: 
+title: 
+region: 
+---
 
-### Society
+
+# **Name:**
+
+<br>
+
+> [!infobox|sban]
+> # Name:
+> ---
+>
+> ###### Info
+>  | | |
+> |---|---|
+> | **Settlement Type** |   |
+> | **Size** |   |
+> | **Government Type** |   |
+> | **Current Ruler** | Name and Title |
+> | **Defenses** |   |
+
+#### Society
 **Population:**
 **Racial Mix-Up:**
 **Temples:**
 **Attitudes towards Magic:**
 
-### Commerce
+#### Commerce
 **Exports:**
 **Imports:**
 **Major Industries:**
 
-### Organisations
+#### Organisations
 **Military:**
 **Law and Order:**
 **Judicial System:**
@@ -63,11 +87,14 @@ Other Important Items:
 **Guilds:**
 
 
-### Description
-A description of the of the settlement.
+> [!abstract|background-color-orange] **Description**
+> A description of the of the settlement.
+
+<br>
 
 #### Districts
 If the SETTLEMENT is big enough to have DISTRICTS, list the different districts in the SETTLEMENT
+
 |Name|Description|
 |---|---|
 | | |
@@ -75,6 +102,8 @@ If the SETTLEMENT is big enough to have DISTRICTS, list the different districts 
 | | |
 | | |
 | | |
+
+<br>
 
 #### Points of Interest
 |Name|Type|Description|
@@ -84,6 +113,7 @@ If the SETTLEMENT is big enough to have DISTRICTS, list the different districts 
 | | | |
 | | | |
 
+<br>
 
 #### Notable Stores
 |Name|Type|Description|
@@ -93,6 +123,7 @@ If the SETTLEMENT is big enough to have DISTRICTS, list the different districts 
 | | | |
 | | | |
 
+<br>
 
 #### Notable NPCs
 |Name|Location|Description|
@@ -102,6 +133,8 @@ If the SETTLEMENT is big enough to have DISTRICTS, list the different districts 
 | | | |
 | | | |
 
+<br>
 
+> [!warning] **Potential Quest hook**
+>
 
-Potential Quests
