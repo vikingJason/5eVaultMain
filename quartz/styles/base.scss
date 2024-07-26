@@ -314,7 +314,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'draconis', var(--headerFont);
+  font-family: 'its-draconis', var(--headerFont);
   color: var(--heading1);
   font-weight: normal;
   margin-bottom: 0;
@@ -812,7 +812,7 @@ ol.overflow {
 }
 
 /*Fonts*/
-
+/*
 @font-face {
   font-family: 'draconisregular';
   src: url('../static/draconis-webfont.woff2') format('woff2'),
@@ -822,8 +822,10 @@ ol.overflow {
   font-style: normal;
 
 }
+*/
 
 
+/*
 @font-face {
   font-family: 'bookerly';
   font-style: normal;
@@ -831,7 +833,7 @@ ol.overflow {
   src: url('../static/Bookerly.woff') format('woff'),
        url('../static/Bookerly.ttf') format('truetype');
   }
-  
+  */
 
 
 @font-face {
