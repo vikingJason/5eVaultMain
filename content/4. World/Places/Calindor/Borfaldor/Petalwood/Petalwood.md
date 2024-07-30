@@ -107,7 +107,7 @@ Placeholder
 30. [[Automaton General Store - Gearforge Marketplace]]
 31. Workshop  - Automaton
 32. Undertaker ~ "Gentle Repose"
-33. Manor House ~ the Mayor Family
+33. Manor House ~ the Mayor Family - https://inkarnate.com/m/nwL9gN
 34. Manor House ~ the Eldarios Family
 35. Farm ~ the Bertram Family (a - j)
 	1. a

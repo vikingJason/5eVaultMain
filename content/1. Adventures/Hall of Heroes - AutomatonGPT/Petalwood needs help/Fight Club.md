@@ -108,3 +108,7 @@ They can bet on their fights as well.
   
 - loot  
 -- leather armour that will prevent the wearer from dropping to 0hp, this requires a blood soaked Red Cap hat wiped over a magical rune on the armour to recharge this property. Requires a d20 roll, starting at DC 1. Every subsequent succes increases the DC by 1.
+
+![[content/z_Assets/Maps/FightClubArena.jpg]]
+
+
