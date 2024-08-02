@@ -26,7 +26,7 @@ Region: "[[Borfaldor]]"
 ---
 
 
-> [!infobox]+
+> [!infobox|sban]+
 > # `=this.file.name`
 > **Pronounced:**  "`INPUT[text:Pronounced]`"
 >![[Petalwood - Map.jpg|cover h]]

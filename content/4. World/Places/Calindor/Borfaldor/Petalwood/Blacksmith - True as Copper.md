@@ -7,40 +7,40 @@ kingdom:
 settlement: 
 urbanArea: 
 structure: Shop
-title: True as Copper
+title: The Iron Arms
 services: services
-owner: Jepeth (Half-Elf)
+owner: Eusibic (Human)
 Region: '"[[Borfaldor]]"'
 ---
 > [!oRPG-Layout] 
-> #  True as Copper  (Blacksmith/)
+> #  The Iron Arms  (Blacksmith/)
 > **Structure:** Shop
 > **Resides In:** 
->  **Owner:** Jepeth (Half-Elf)
+>  **Owner:** Eusibic (Human)
 > ###### Services
 > |Name | Quality/Adj | 
 > |:---|:---:| 
-> |Service | Average |
-> |Costs | Below Average |
+> |Service | Poor |
+> |Costs | Low |
 
-##  True as Copper  owned by [[Jepeth]] (Half-Elf)
+##  The Iron Arms  owned by [[Eusibic]] (Human)
 *Blacksmith / *
 
 
-**Building Description:**  An narrow tall building, stairs leading up to a Bronze door with a Hickory frame with shingled siding. The roof is shingled. A shed structure is to the side.  
+**Building Description:**  An narrow building, a set of double Pine wood with Steal bands doors, with brick siding. The roof is planked with Oak planks. A Cherry shed is attached to the side.  
 
 
 
 > ### Owner Description/Background
-> ***Appearance*** : Normal frail build, with blue eyes and braided blond hair. Their face has a beard 
+> ***Appearance*** : Extra tall frail build, with red eyes and strange hairstyle red hair. Their face is squinty 
 >
-> ***Characteristics*** :  Unable to figure out which color clothes match
+> ***Characteristics*** :  Sharpens weapon
 >
-> ***Personality*** :  Irresponsible
+> ***Personality*** :  Feisty
 >
-> ***Trait*** : I don't pay attention to the risks in a situation. Never tell me the odds.
+> ***Trait*** : I often get lost in my own thoughts and contemplations, becoming oblivious to my surroundings.
 >
-> ***Ideal*** : Charity. I always try to help those in need, no matter what the personal cost. (Good)
+> ***Ideal*** : Greed. I will do whatever it takes to become wealthy. (Evil)
 { .ownerDescription }
 
 

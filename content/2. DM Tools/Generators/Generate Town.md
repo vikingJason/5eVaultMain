@@ -115,7 +115,7 @@ If the SETTLEMENT is big enough to have DISTRICTS, list the different districts 
 
 <br>
 
-#### Notable Stores
+#### Notable Stores/Services
 |Name|Type|Description|
 |---|---|---|
 | | | |
