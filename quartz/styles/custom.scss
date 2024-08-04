@@ -554,7 +554,7 @@
   --callout-padding: 0;
   --callout-content-padding: 5px;
   --callout-margin: 0 0 0 5px;
-  background: var(--note);
+  background: transparent;
   --h1-border-line-height: 0;
   --h2-border-line-height: 0;
   --h3-border-line-height: 0;
@@ -632,6 +632,9 @@
   margin: 0;
   border-radius: var(--radius-s);
   padding: var(--callout-content-padding);
+  background-color: var(--calloutinfocolor);
+  background-image: url(/static/parchmentBackground.jpg);
+
 }
 .callout.callout[data-callout~=infobox] table {
   width: 100%;
@@ -735,15 +738,18 @@
   //border-right: 5px solid #fbb4577e;//
   //border-left: 1px solid var(--outline);//
   max-width: 42ch;
-  background-image: url(../static/parchmentBackgroundGrayscale.jpg);
+  background-image: url(static/parchmentBackgroundGrayscale.jpg);
   background-blend-mode: overlay;
-  border-image: url(../static/monsterBorderFancy.png) 14 round;
+  border-image: url(static/monsterBorderFancy.png) 14 round;
   border-image-outset: 0px 2px;
   border-color: transparent;
   border-style: solid;
   border-width: 7px 6px;
   box-shadow: 1px 4px 14px #888888;
+  --aftercolor: #992612;
 }
+
+
 
 .callout.callout[data-callout=statblocks] > .callout-content {
   --heading-spacing-top: 0;
@@ -756,24 +762,33 @@
     color: #000;
 
     & strong {
-      color: #58180D;
+      color: var(--statblockcolor);
     }
   }
 
 
 }
 
+.callout.callout[data-callout=statblocks]:not(.list-default-bullet) ul>li:not(.task-list-item):before {
+  columns: var(--aftercolor);
+}
 
-
-.callout.callout[data-callout=statblocks] h2, h3 {
+.callout.callout[data-callout=statblocks] h2, .callout.callout[data-callout=statblocks] h3 {
   margin: 0;
   line-height: 1em;
-  color: #58180D;
-  & + p {
+  color: var(--statblockcolor);
+  & :not(.page-title):not(.article-title):after {
+    background-color: linear-gradient(90deg,var(--aftercolor),#0000);
+  }
+}
+
+
+
+.callout.callout[data-callout=statblocks] h2 p {
     margin-bottom : 0;
     margin-top: 0;
   }
-}
+
 
 .callout.callout[data-callout=statblocks] h1 {
   width: auto;
@@ -781,7 +796,7 @@
 
 .callout.callout[data-callout=statblocks] h2 + p:after {
   content: "";
-  margin: none;
+  margin: 0;
   background: linear-gradient(90deg, var(--heading1), #0000);
   width: 85%;
   height: 4px;
@@ -795,31 +810,23 @@
   display: block;
   position: relative;*/
   content: "";
-  margin: none;
-  background: linear-gradient(90deg, var(--heading1), #0000);
+  margin: 0;
+  background: linear-gradient(90deg, var(--aftercolor), #0000);
   width: 85%;
   height: 4px;
   display: block;
   line-height: 1.6rem;
 }
 
-.callout.callout[data-callout=statblocks] ul:first-of-type {
-  padding: 0;
-}
-
-.callout.callout[data-callout=statblocks] ul:first-of-type >li:not(.task-list-item):before, .callout.callout[data-callout=statblocks] ul:first-of-type >li:not(.task-list-item)::marker {
-  content: none;
-}
-
-
 
 .callout.callout[data-callout=statblocks] img:not([class]) {
   box-shadow: 0 0 0 4px var(--headers, var(--background-modifier-border));
   margin-right: 4px;
 }
-.callout.callout[data-callout=statblocks] h1::after, .callout.callout[data-callout=statblocks] h1::before, .callout.callout[data-callout=statblocks] h2::after, .callout.callout[data-callout=statblocks] h2::before, .callout.callout[data-callout=statblocks] h3::after, .callout.callout[data-callout=statblocks] h3::before, .callout.callout[data-callout=statblocks] > .callout-title {
+.callout.callout[data-callout=statblocks] h1::after, .callout.callout[data-callout=statblocks] h1::before, .callout.callout[data-callout=statblocks] h2::after, .callout.callout[data-callout=statblocks] h2::before, .callout.callout[data-callout=statblocks] > .callout-title {
   display: none;
 }
+
 .callout.callout[data-callout=statblocks] blockquote {
   --blockquote-border-thickness: 0;
   --blockquote-padding: 5px 0px 2px 0;
@@ -855,12 +862,15 @@
     background-color: transparent;
     color: var(--headers);
       &:nth-child(2n+2) {
-      background-color: #fae0be60;
+      background-color: transparent;
+    }
+    & td:nth-child(2n+2) {
+      background-color: transparent;
     }
   }
 
   & th {
-    columns: #58180D;
+    color: var(--statblockcolor);
   }
 
 
@@ -1539,7 +1549,7 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i]:is([da
   --c-timeline: calc(50% - 2px);
   --callout-color: 8, 109, 221;
   --callout-title-color: 68, 138, 255;
-  background-color: transparent;
+  background-color: #fffefead;
   margin: 0;
   border: 0;
   clear: both;
@@ -1634,7 +1644,7 @@ body:not(.callout-no-metadata) .callout.callout[data-callout~=Metadata i]:is([da
   --callout-color: 115, 167, 202;
   --color: rgb(var(--callout-color));
   border-color: rgba(var(--callout-color), 0.7);
-  background-color: rgba(var(--callout-color),0.1);
+  background-color: rgba(var(--callout-color),0.3);
 }
 .callout[data-callout=kith] .callout-title-inner {
   color: rgb(var(--color));

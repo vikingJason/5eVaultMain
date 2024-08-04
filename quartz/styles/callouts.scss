@@ -58,7 +58,7 @@
   &[data-callout="tip"] {
     --color: #00bfa5;
     --border: #00bfa544;
-    --bg: #00bfa510;
+    --bg: #00bfa533;
     --callout-icon: var(--callout-icon-tip);
   }
 
@@ -79,7 +79,7 @@
   &[data-callout="warning"] {
     --color: #db8942;
     --border: #db894244;
-    --bg: #db894210;
+    --bg: #db89424d;
     --callout-icon: var(--callout-icon-warning);
   }
 
@@ -103,7 +103,7 @@
   &[data-callout="example"] {
     --color: #7a43b5;
     --border: #7a43b544;
-    --bg: #7a43b510;
+    --bg: #7a43b54d;
     --callout-icon: var(--callout-icon-example);
   }
 

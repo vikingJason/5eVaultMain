@@ -12,6 +12,8 @@ export interface ColorScheme {
   note: string
   outerbar: string
   textcolor: string
+  calloutinfocolor: string
+  statblockcolor: string
 }
 
 interface Colors {
@@ -60,6 +62,8 @@ ${stylesheet.join("\n\n")}
   --outline: ${theme.colors.lightMode.outline};
   --outerbar: ${theme.colors.lightMode.outerbar};
   --textcolor: ${theme.colors.lightMode.textcolor};
+  --statblockcolor: ${theme.colors.lightMode.statblockcolor};
+  --calloutinfocolor: ${theme.colors.lightMode.calloutinfocolor};
   --headerFont: "${theme.typography.header}", ${DEFAULT_HEADER};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};

@@ -70,10 +70,10 @@ alignment:
 >> 
 > ---
 > 
-> **Armor Class** 
-> **Hit Points** 
-> **Speed** 
-> **Initiative** 
+> **Armor Class**  
+> **Hit Points**  
+> **Speed**  
+> **Initiative**  
 > 
 > ---
 > | STR | DEX | CON | INT | WIS | CHAR | 
@@ -90,7 +90,7 @@ alignment:
 > **Condition Immunities**   
 > **Senses**   
 > **Languages**   
-> **Challenge**   
+> **Challenge**   <span class="bonus"> **Proficiency Bonus** + </span>
 > 
 > ---
 >

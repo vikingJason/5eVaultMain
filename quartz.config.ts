@@ -29,6 +29,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#fff9f0",
+          calloutinfocolor: "#fff9f050",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           heading1: "#c14343",
@@ -40,6 +41,7 @@ const config: QuartzConfig = {
           note: "#fff9f0",
           outerbar: "#fbe2c5",
           textcolor: "#000",
+          statblockcolor: "#58180d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
@@ -55,6 +57,8 @@ const config: QuartzConfig = {
           note: "#fff9f0",
           outerbar: "#fbe2c5",
           textcolor: "#000",
+          calloutinfocolor: "#fff9f050",
+          statblockcolor: "#58180d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },

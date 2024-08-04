@@ -187,7 +187,8 @@ PartyStanding: Neutral
 > **Damage Immunities** None   
 > **Condition Immunities** Charmed, Frightened   
 > **Senses** Darkvision 60 ft., Passive Perception 14   
-> **Languages** Common, Elvish, Dwarvish, Draconic, Abyssal, Celestial   {{bonus **Challenge** 5 (1,800 XP) }}   
+> **Languages** Common, Elvish, Dwarvish, Draconic, Abyssal, Celestial   
+> **Challenge** 5 (1,800 XP)  <span class="bonus"> **Proficiency Bonus** +2 </span>
 > 
 > ---
 >

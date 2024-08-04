@@ -619,6 +619,7 @@ body {
   --medium: 500px;
   --med-tall: 600px;
   --tall: 700px;
+  background-image: url(static/parchmentBackground.jpg);
 }
 
 .popover.hover-popover {
@@ -793,7 +794,7 @@ ol.overflow {
     bottom: 0;
     opacity: 1;
     transition: opacity 0.3s ease;
-    background: linear-gradient(transparent 0px, var(--light));
+    //background: linear-gradient(transparent 0px, var(--light));
   }
 }
 

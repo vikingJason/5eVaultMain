@@ -105,7 +105,7 @@ What is the organizations agend(or goals), these could be different than what th
 
 ### History/Background 
 
-As part of his efforts to restore the Tower of Luminaria to its former prominence, Daehorn inssued an Edict and invited/accepted Fae creatures to study and teach at the Tower.  
+As part of his efforts to restore the Tower of Luminaria to its former prominence, Daehorn issued an Edict and invited/accepted Fae creatures to study and teach at the Tower.  
   
 From these Fae creatures Daehorn was excited to see Rhyvesh show great promise with his affinity and understanding of the magical weaves and took him under his wing.  
   
@@ -119,7 +119,7 @@ Then suddenly the world as we knew it changed as Calindor was ripped from the Fe
   
 After this cataclysm Daehorn noticed a change in Rhyvesh. Rhyvesh's connection to magical weaves seemed to no longer be as harnessed or controlled, with mistakes happening frequently. He started to become hostile towards non Fae at the Tower, and would mention in times that the Eladrin were responsible for what had happened to the Fae's magic being distorted.  
   
-When the plauge spread across Calindor Daehorn threw the resources of the Tower at trying to help the people of the kingdom, looking at magical ways to keep the people fed.  
+When the plague spread across Calindor Daehorn threw the resources of the Tower at trying to help the people of the kingdom, looking at magical ways to keep the people fed.  
   
 This caused a rift between Rhyvesh and Daehorn, with the former believing that the plague was a result of the Cataclysm amd that the Tower should be focused on restoring Calindor to the realm it belonged at the sake of people now. Rhyvesh would openly question Daehorn's rules of the Tower as these were trying times and more direct measures to address them were required.  
   

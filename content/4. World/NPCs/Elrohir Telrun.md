@@ -156,10 +156,10 @@ PartyStanding: Potential Ally
 >> 
 > ---
 > 
-> - **Armor Class** 18 (Plate Armor) 
-> - **Hit Points** 110 (10d10 +50) 
-> - **Speed** 40 ft. 
-> - **Initiative** +2 
+> **Armor Class** 18 (Plate Armor) 
+> **Hit Points** 110 (10d10 +50) 
+> **Speed** 40 ft. 
+> **Initiative** +2 
 > 
 > ---
 > | STR | DEX | CON | INT | WIS | CHAR | 
