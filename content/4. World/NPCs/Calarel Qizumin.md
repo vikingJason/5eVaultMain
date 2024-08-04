@@ -169,10 +169,10 @@ PartyStanding: Neutral
 >
 > ---
 > 
-> **Armor Class** 15 (Natural Armor)
-> **Hit Points** 85 (10d8+30)
-> **Speed** 30 ft.
-> **Initiative** +3
+> **Armor Class** :: 15 (Natural Armor)
+> **Hit Points** :: 85 (10d8+30)
+> **Speed** :: 30 ft.
+> **Initiative** :: +3
 > 
 > ---
 > | STR | DEX | CON | INT | WIS | CHAR | 
@@ -187,8 +187,7 @@ PartyStanding: Neutral
 > **Damage Immunities** None   
 > **Condition Immunities** Charmed, Frightened   
 > **Senses** Darkvision 60 ft., Passive Perception 14   
-> **Languages** Common, Elvish, Dwarvish, Draconic, Abyssal, Celestial   
-> **Challenge** 5 (1,800 XP)   
+> **Languages** Common, Elvish, Dwarvish, Draconic, Abyssal, Celestial   {{bonus **Challenge** 5 (1,800 XP) }}   
 > 
 > ---
 >

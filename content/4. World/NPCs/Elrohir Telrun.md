@@ -156,10 +156,10 @@ PartyStanding: Potential Ally
 >> 
 > ---
 > 
-> **Armor Class** 18 (Plate Armor)
-> **Hit Points** 110 (10d10 +50)
-> **Speed** 40 ft.
-> **Initiative** +2
+> - **Armor Class** 18 (Plate Armor) 
+> - **Hit Points** 110 (10d10 +50) 
+> - **Speed** 40 ft. 
+> - **Initiative** +2 
 > 
 > ---
 > | STR | DEX | CON | INT | WIS | CHAR | 
@@ -175,7 +175,7 @@ PartyStanding: Potential Ally
 > **Condition Immunities**  Frightened   
 > **Senses** Darkvision 60 ft., Passive Perception 17   
 > **Languages** Common, Leonin   
-> **Challenge** 6 (1,800 XP)   
+> **Challenge** 6 (1,800 XP)  <span class="bonus"> **Proficiency Bonus** +2 </span>
 > 
 > ---
 >
