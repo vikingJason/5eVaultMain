@@ -789,12 +789,28 @@
 }
 
 .callout.callout[data-callout=statblocks] hr:not(:first-of-type):after {
-  content: "";
+  /*content: "";
   background: url(data:image/svg+xml,%3Csvg width='100%25' height='100%25' viewBox='0 0 100 7' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xml:space='preserve' xmlns:serif='http://www.serif.com/' style='fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;'%3E%3Crect id='Artboard1' x='0' y='0' width='100' height='7' style='fill:none;'/%3E%3Cpath d='M50,2.5L100,3.5L50,4L0,3.5L50,2.5Z' style='fill:rgb(200, 57, 57);'/%3E%3C/svg%3E) 50% / 100% no-repeat;
   height: 100%;
   display: block;
-  position: relative;
+  position: relative;*/
+  content: "";
+  margin: none;
+  background: linear-gradient(90deg, var(--heading1), #0000);
+  width: 85%;
+  height: 4px;
+  display: block;
+  line-height: 1.6rem;
 }
+
+.callout.callout[data-callout=statblocks] ul:first-of-type {
+  padding: 0;
+}
+
+.callout.callout[data-callout=statblocks] ul:first-of-type >li:not(.task-list-item):before, .callout.callout[data-callout=statblocks] ul:first-of-type >li:not(.task-list-item)::marker {
+  content: none;
+}
+
 
 
 .callout.callout[data-callout=statblocks] img:not([class]) {
