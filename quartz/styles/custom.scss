@@ -541,7 +541,7 @@
 /*Infobox*/
 :is(.is-mobile:not(.is-tablet),
 .is-mobile .is-live-preview,
-.is-live-preview :not(.markdown-rendered)) .callout[data-callout~=infobox]:not([data-callout-metadata~=mobile]) {
+.is-live-preview:not(.markdown-rendered)) .callout[data-callout~=infobox]:not([data-callout-metadata~=mobile]) {
   float: unset !important;
   max-width: 100%;
   margin: 0 !important;
@@ -770,15 +770,15 @@
 }
 
 .callout.callout[data-callout=statblocks]:not(.list-default-bullet) ul>li:not(.task-list-item):before {
-  columns: var(--aftercolor);
+  color: var(--aftercolor);
 }
 
 .callout.callout[data-callout=statblocks] h2, .callout.callout[data-callout=statblocks] h3 {
   margin: 0;
   line-height: 1em;
   color: var(--statblockcolor);
-  & :not(.page-title):not(.article-title):after {
-    background-color: linear-gradient(90deg,var(--aftercolor),#0000);
+  &:not(.page-title):not(.article-title):after {
+    background: linear-gradient(90deg,var(--aftercolor),#0000);
   }
 }
 
@@ -791,6 +791,10 @@
 
 
 .callout.callout[data-callout=statblocks] h1 {
+  width: auto;
+}
+
+.callout.callout[data-callout=statblocks] h3:after {
   width: auto;
 }
 
