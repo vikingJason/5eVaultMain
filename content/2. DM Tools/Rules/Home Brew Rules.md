@@ -143,6 +143,12 @@ Before you take the Attack action, you can use a bonus action to designate one c
 #### Fall Back 
 Whenever a creature takes the Press the Attack bonus action against you, you can use your reaction to yield ground. You move backwards 5 feet, and your attacker does not gain an expertise die against you from using Press the Attack. As part of its action, your attacker can move 5 feet towards you. Neither you nor the attacker provoke opportunity attacks from this movement. A creature using the Rage class feature can’t choose to Fall Back.
 
+#### Dragging An Ally
+While adjacent to a willing ally, you can use your reaction to grab them by the hand and pull them along with your movement even if they've already expended all of theirs. While doing so, every foot of movement costs you an additional 2 feet of movement, and the ally cannot use their reaction. This movement provokes opportunity attacks as normal.
+
+### Pulling From Below
+
+If you are at least 5 feet below your target, your target is your size or smaller, and you aren't [[grappled]] or [[restrained]], you gain an expertise die on [[Strength]] checks and saving throws made against it.
 
 <br>
 
@@ -201,9 +207,11 @@ You can't benefit from more than two short rest in a 24-hour period, and you mus
 ### Long Rest
 A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps for at least 6 hours and performs no more than 2 hours of light activity, such as reading, talking, eating, or standing watch. If the rest is interrupted by a period of strenuous activity - at least 1 hour of walking, fighting, casting spells, or similar adventuring activity - you must begin the rest again to gain any benefit.
 
-During a long rest, you must consume at least 2 pints of water and 1 ration. If you consume at least one sustenance, food or water, you do not gain any exhaustion. If you consume both food and water, you remove one level of exhaustion. Sleeping in Medium or Heavy Armor prevents you from reducing your Exhaustion during rest.
+At the end of a long rest, you regain all hit points spell slots. You regain up to half of your total number of Hit Dice.
 
-At the end of a long rest, you regain all hit points spell slots. You regain up to half of your total number of Hit Dice
+During a long rest, you must consume at least 2 pints of water and 1 ration. If you consume at least one sustenance, food or water, you do not gain any exhaustion. If you consume both food and water, you remove one level of exhaustion. 
+
+If you sleep in Medium or Heavy Armor other than Hide, you are roughing it, you regain half the usual number of Hit Dice, and you are prevented from reducing your Exhaustion during the rest.
 
 You can't benefit from more than one long rest in a 24-hour period *, and you must have at least 1 hit point at the start of the rest to gain its benefits*.
 
@@ -259,7 +267,7 @@ The Appetite Modifiers table shows the circumstances that affect your appetite. 
 | Size: large                                           | 4                        |
 | Weather: extreme cold                                 | 2                        |
 | Condition: poisoned, or afflicted with a disease | -1                       |
-| Condition: exhaustion                                 | ⁹⁄8 per exhaustion level |
+| Condition: exhaustion                                 | 1.1 per exhaustion level |
 
 A negative appetite is impossible to fill regardless of its magnitude, thus you cannot eat to address your hunger until your appetite is back to normal.
 
@@ -316,15 +324,15 @@ You have an intoxication threshold that is equal to your 1 + your Constitution m
 
 Drinks have 6 levels of strength; the number at the end of the description indicates it's exhaustion save increase:
 
-| Range                                                     | Description |
-| --------------------------------------------------------- | ---------------------- |
-|Diluted | The drink is watered down; every 5 drinks adds a level of intoxication. These drinks typically cost 1 to 5 cp. (Str 1) |
-|Weak | Every 2 weak beverages adds a level of intoxication. These drinks typically costs 5 to 10 cp. (Str 2) |
-| Moderate | A moderate beverage adds a level of intoxication. These drinks typically cost 1 to 5 sp. (Str 3) |
-| Strong | A strong beverage adds 2 levels of intoxication. These drinks typically cost 5 sp to 1 gp. (Str 4) |
-| Very strong | A very strong beverage adds 3 levels of intoxication. These drinks typically cost 1 to 10 gp. (Str 5) |
-| Dangerously strong | A dangerously strong beverage adds 5-levels of intoxication. These drinks range wildly in prices depending on where they are purchased from, but are always at least 10 gp. (Str 6) |
-| Blackout | Once reaching their intoxication threshold, any drink after causes the creature must make a DC 10 Constitution saving throw, becoming blackout drunk and rolling on the Blackout table on a failed save. |
+| Range                                                     | Description | Intoication per Drink |
+| --------------------------------------------------------- | ---------------------- | ------- |
+|Diluted (Str 1) | The drink is watered down; every 5 drinks adds a level of intoxication. These drinks typically cost 1 to 5 cp. | **0.2** |
+|Weak  (Str 2)| Every 2 weak beverages adds a level of intoxication. These drinks typically costs 5 to 10 cp. | **0.5** |
+| Moderate (Str 3) | A moderate beverage adds a level of intoxication. These drinks typically cost 1 to 5 sp. | **1** |
+| Strong (Str 4) | A strong beverage adds 2 levels of intoxication. These drinks typically cost 5 sp to 1 gp. | **2** |
+| Very strong (Str 5) | A very strong beverage adds 3 levels of intoxication. These drinks typically cost 1 to 10 gp. | **3** |
+| Dangerously strong (Str 6) | A dangerously strong beverage adds 5-levels of intoxication. These drinks range wildly in prices depending on where they are purchased from, but are always at least 10 gp. | **5** |
+| Blackout | Once reaching their intoxication threshold, any drink after causes the creature must make a DC 10 Constitution saving throw, becoming blackout drunk and rolling on the Blackout table on a failed save. |  |
 
 ### Liquid Courage
 Liquid courage grants you the following effects for 1d4 hours
@@ -361,30 +369,32 @@ Furthermore, you must make a Constitution saving throw save after each drink con
 - While you’re hungover, you are vulnerable to thunder damage and have disadvantage on saving throws against being blinded. You lose 4 levels of intoxication from a use of lesser restoration.
 - You lose your hangover at the end of a long rest or from a use of greater restoration (must be used after exhaustion is cured).
 
+<br>
 
-## Weapon Properties
+## Weapons, Shields and Armor
+### Weapon Properties
 
 All weapons may deal the same basic types of damage, but they also have special properties that make each unique. You can only benefit from properties marked with † if you are proficient with the weapon.
 
 **Breaker.** This weapon deals double damage to unattended objects, such as doors and walls. If this property only applies to a specific type of material, such as wood, it is stated in parenthesis after this property.   
 
-**Compounding**†**.** You use only your Strength modifier for attack and damage rolls made with this weapon.
+**Compounding.** You use only your Strength modifier for attack and damage rolls made with this weapon.
 
-**Defensive**†. This weapon is designed to be used with a shield of the stated degree or lighter (light, medium, or heavy). When you make an attack with this weapon and are using a shield designed for it, you can use a bonus action to either make an attack with your shield or increase your Armor Class by 1 until the start of your next turn.
+**Defensive.** This weapon is designed to be used with a shield of the stated degree or lighter (light, medium, or heavy). When you make an attack with this weapon and are using a shield designed for it, you can use a bonus action to either make an attack with your shield or increase your Armor Class by 1 until the start of your next turn.
 
-**Dual-Wielding**†. This weapon is designed to be wielded in concert with another weapon. When wielding another weapon in your main hand that does not have the heavy property, you can use your bonus action to make an attack with this weapon (see Two-Weapon Fighting). 
+**Dual-Wielding**. This weapon is designed to be wielded in concert with another weapon. When wielding another weapon in your main hand that does not have the heavy property, you can use your bonus action to make an attack with this weapon (see Two-Weapon Fighting). 
 
 **Finesse.** You may choose to use your Dexterity modifier for attack and damage rolls made with this weapon.
 
-**Hand-Mounted**†**.** This weapon is affixed to your hand. You can do simple activities such as climbing a ladder while wielding this weapon, and you have [[advantage]] made to resist being disarmed. You cannot use a hand that is wielding a hand-mounted weapon to do complex tasks like picking a pocket, using thieves’ tools to bypass a lock, or casting spells with seen components.
+**Hand-Mounted.** This weapon is affixed to your hand. You can do simple activities such as climbing a ladder while wielding this weapon, and you have advantage made to resist being disarmed. You cannot use a hand that is wielding a hand-mounted weapon to do complex tasks like picking a pocket, using thieves’ tools to bypass a lock, or casting spells with seen components.
 
-**Heavy.** This weapon is too large for Small creatures to use effectively. Small creatures have [[disadvantage]] on attack rolls with heavy weapons. 
+**Heavy.** This weapon is too large for Small creatures to use effectively. Small creatures have disadvantage on attack rolls with heavy weapons. 
 
 **Loading.** This weapon must be loaded before it can be used. You may only make one attack with a loading weapon when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make. 
 
-**Mounted**†**.** This weapon deals the damage listed in parenthesis when you are wielding it while mounted.
+**Mounted.** This weapon deals the damage listed in parenthesis when you are wielding it while mounted.
 
-**Parrying**†**.** When you are wielding this weapon and you are not using a shield, once before your next turn you can gain an [[expertise die]] to your AC against a single melee attack made against you by a creature you can see. You cannot use this property while [[incapacitated]], [[paralyzed]], [[restrained]], or [[stunned]].
+**Parrying.** When you are wielding this weapon and you are not using a shield, once before your next turn you can gain an expertise die to your AC against a single melee attack made against you by a creature you can see. You cannot use this property while [[incapacitated]], [[paralyzed]], [[restrained]], or [[stunned]].
 
 **Parrying Immunity.** Attacks with this weapon ignore the parrying property and Armor Class bonuses from shields.
 
@@ -394,9 +404,9 @@ All weapons may deal the same basic types of damage, but they also have special 
 
 **Simple.** This weapon can be used with very little skill or training, and all creatures gain proficiency with it.
 
-**Thrown.** This weapon can be thrown as a ranged weapon attack. The thrown property lists two numbers after it, both measured in feet—the first is the weapon’s normal thrown range, and the second is the weapon’s maximum range. You have [[disadvantage]] on attack rolls made beyond the weapon’s normal range, and you cannot make attacks against targets beyond the weapon’s maximum range. Additionally, when using this weapon to make a ranged weapon attack, you may choose to use your Strength modifier or Dexterity modifier for its attack and damage roll.
+**Thrown.** This weapon can be thrown as a ranged weapon attack. The thrown property lists two numbers after it, both measured in feet—the first is the weapon’s normal thrown range, and the second is the weapon’s maximum range. You have disadvantage on attack rolls made beyond the weapon’s normal range, and you cannot make attacks against targets beyond the weapon’s maximum range. Additionally, when using this weapon to make a ranged weapon attack, you may choose to use your Strength modifier or Dexterity modifier for its attack and damage roll.
 
-**Trip**†**.** When used with a combat maneuver that trips a creature or the Knockdown attack, this weapon increases your Maneuver DC by 1. If the target is mounted, your Maneuver DC is instead increased by 2.
+**Trip.** When used with a combat manoeuvre that trips a creature or the Knockdown attack, this weapon add +1 to your roll. If the target is mounted, it adds +2.
 
 **Two-Handed.** You must use two hands to wield this weapon.
 
@@ -404,10 +414,44 @@ All weapons may deal the same basic types of damage, but they also have special 
 
 **Vicious.** A vicious weapon scores a critical hit on a roll of 19 or 20. If you already have a feature that increases the range of your critical hits, your critical hit range increases by 1 (maximum 17–20).
 
+
+### Shields
+
+**Light.** Light shields increase your Armor Class by 1. You may throw this shield, treating it as an improvised weapon that deals 1d6 bludgeoning damage.
+
+**Medium.** Medium shields increase your Armor Class by 2.
+
+**Heavy.** Heavy shields increase your Armor Class by 2 and you gain an expertise die on [[Dexterity]] saving throws. When you take the Dodge action while wielding a heavy shield, you may instead take cover behind your shield, gaining an expertise die to your Armor Class until the start of your turn. You have disadvantage on [[Dexterity]] ([[Acrobatics]]) and [[Dexterity]] ([[Stealth]]) checks while wielding a heavy shield, and you cannot squeeze through spaces smaller than your size category.
+
+**Tower.** Tower shields share the properties of a heavy shield. These shields cover the entire body and reduce your Speed by 10 feet. On your turn, you may use an object interaction to plant it in the ground, gaining half cover (+2 bonus to AC, [[Dexterity]] saving throws, and ability checks made to hide) and advantage on saving throws made to resist being shoved or knocked [[prone]] and while you remain behind it. Unplanting a tower shield requires a bonus action.
+
+Tower shields are bulky items, and count as such even when donned.
+
+#### Improvised Shields
+
+If you are proficient with shields, you can use an action to pick up a nearby object of your size category or larger to use as a shield. The size of the object determines the degree of shield it becomes: an object your size can be used as a light shield, or an object of one size category larger can be used as a medium shield.
+
+An improvised shield is destroyed when you take a critical hit (it cannot be sacrificed), it cannot be repaired or customized, and it becomes useless after 10 rounds of combat.
+
+#### Sacrifice Shield
+
+When you take a critical hit, you can use your reaction to block it and sacrifice your shield, turning the critical hit into a regular hit. Afterwards your shield is broken, or if your shield is magical it instead becomes mundane for 1 hour.
+
+### Armor
+#### Helms
+
+Helms fit over your head to protect your skull, though in exchange they limit your vision and hearing. No proficiency is required to wear a helm.
+
+**Helm (12g, 4lbs).** This hard leather or metal covering protects the head but not the face, with the exception of a strip over the nose. While wearing this helm you gain an expertise die on saving throws made to resist being [[stunned]], and your passive Perception score is reduced by 2.
+
+**Visored Helm (25gp, 8 lbs).** This helm covers the entirety of the head, including the face; the visor may be moved out of the way of the face as an object interaction, in which case the visored helm functions as a standard helm. While wearing a visored helm you gain an expertise die on saving throws made to resist being [[charmed]] or [[stunned]], and your passive Perception score is reduced by 5. Additionally, whenever you take damage from falling, you reduce that damage by 5.
+
+
+
 <br>
 
 ## Called Shots 
-When a character makes an weapon attack, it can choose to make the attack a Called Shot, before it rolls the die. If it does, it must choose where on the body of its enemy it is attacking. Oozes, Constructs, Undead, Plants, and Elementals are immune to the effects of called shots. As well, some characters will not have the pieces of anatomy required for the Called Shot to take full effect. The permanent effects of Called Shots can be removed via [[regenerate]].
+When a character makes an weapon attack, it can choose to make the attack a Called Shot, before it rolls the die. If it does, it must choose where on the body of its enemy it is attacking. Oozes, Constructs, Undead, Plants, and Elementals are immune to the effects of called shots. As well, some characters will not have the pieces of anatomy required for the Called Shot to take full effect. The permanent effects of Called Shots can be removed via [[Greater Restoration]].
 
 These rules are designed to make higher level combat less of a slog and to make Martial Characters more deadly. As the DM, you can adjust penalties and affects to fit your playstyle and world.
 
