@@ -35,17 +35,17 @@ Other Important Items:
 - use the template below and provide the response in a single markdown code block to use in Obsidian
 
 ---
-Role: NPC
-Name: 
-Race: 
-Gender: Female
-Occupation: 
-Alignment: 
-Religion: 
-Condition: 
-Location: 
-Groups: 
-PartyStanding: 
+role: NPC
+name: 
+race: 
+gender: Female
+occupation: 
+alignment: 
+religion: 
+condition: 
+location: 
+groups: 
+partyStanding: 
 ---
 
 
@@ -207,7 +207,6 @@ PartyStanding:
 > | :---:|:---:|:---:|:---:|:---:|:---:|
 > |  () |  () |  () |  () |  () |  () | 
 > ---
-> 
 > 
 > **Saving Throws**    
 > **Skills**   

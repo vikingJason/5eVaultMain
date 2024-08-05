@@ -66,6 +66,7 @@ ownerName:
 > | **Location** |  |
 > | **Owner** |  |
 > | **Size** |  |
+> | **Socio-Economic Class** | |
 
 <br>
 
@@ -173,7 +174,6 @@ ownerName:
 
 
 
-
 <br>
 
 ## Personality
@@ -184,55 +184,4 @@ ownerName:
 > > [!warning]
 > > ***How this world view might impact or set the DC (Difficulty Class) for social interactions with players***
 
-
-> [!recite|title-Center] **Socio-Economic Class**
-> 
-
-> [!recite|title-Centre] **Motivations**
-> 
-
-> [!recite|title-Centre] **Ideals**
-> 
-
-> [!recite|title-Centre] **Bonds**
-> 
-
-> [!recite|title-Centre] **Flaw**
-> 
-
-> [!recite|title-Centre] **Secrets**
-> 
-
-> [!recite|title-Centre] **Goals**
-> 
-
-> [!recite|title-Centre] **Likes/Dislikes**
-> ***Likes:***
->
-> ***Dislikes:***
-
-<br>
-
-## Relationships
-
-> [!kith|family] **Family** 
-> Subtitle/Brief Relationship Description
-> 
-
-> [!kith|friend]  **Friends** 
-> Subtitle/Brief Relationship Description
-> 
-
-> [!kith|romantic]  **Romantic**
-> Subtitle/Brief Relationship Description
-> 
-
-> [!kith|antagonist]  **Rivals** 
-> Subtitle/Brief Relationship Description
->
-
-> [!example] **Inventory**
->
-
-<br>
 

@@ -42,7 +42,7 @@ Other Important Items:
 
 
 ---
-type: Merchant Store
+locationType: Merchant Store
 merchantType:  
 kingdom:  
 region:  
@@ -68,16 +68,8 @@ services:
 > | **Location** |  |
 > | **Owner** | name of the owner |
 > | **Skill Level** | skill level of the store owner |
+> | **Socio-Economic Class** |    |
 >
-> ###### Goods & Services - fille the below table with a breif list of the type of items sold and/or services provided based on the STORE type
-> 
-> |Name|Quality|Price|
-> |---|---|---| 
-> | - a - |Excellent|Average| 
-> | - b - |Exceptional|High| 
-> | - c - |Variable|High| 
-> | - d - |Good|Moderate| 
-> | - e - |Varies|Expensive|
 
 <br>
 
@@ -110,7 +102,17 @@ services:
 | | | | |
 | | | | |
 
+### Magical Wares
 
+|Item Name|Rarity|Type|Cost|Description|
+|---|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+
+<br>
 
 ## Owner
 
@@ -152,8 +154,6 @@ services:
 >> [!quote] ***An example of how they would speak to someone.***
 
 
-
-
 <br>
 
 ## Personality
@@ -165,62 +165,7 @@ services:
 > > ***How this world view might impact or set the DC (Difficulty Class) for social interactions with players***
 
 
-> [!recite|title-Center] **Socio-Economic Class**
-> 
-
-> [!recite|title-Centre] **Motivations**
-> 
-
-> [!recite|title-Centre] **Ideals**
-> 
-
-> [!recite|title-Centre] **Bonds**
-> 
-
-> [!recite|title-Centre] **Flaw**
-> 
-
-> [!recite|title-Centre] **Secrets**
-> 
-
-> [!recite|title-Centre] **Goals**
-> 
-
-> [!recite|title-Centre] **Likes/Dislikes**
-> ***Likes:***
->
-> ***Dislikes:***
-
-<br>
-
-## Relationships
-
-> [!kith|family] **Family** 
-> Subtitle/Brief Relationship Description
-> 
-
-> [!kith|friend]  **Friends** 
-> Subtitle/Brief Relationship Description
-> 
-
-> [!kith|romantic]  **Romantic**
-> Subtitle/Brief Relationship Description
-> 
-
-> [!kith|antagonist]  **Rivals** 
-> Subtitle/Brief Relationship Description
->
-
-
-<br>
-
-> [!example] **Inventory**
->
-
 <br>
 
 > [!warning] **Potential Quest hook**
 >
-
-<br>
-

@@ -1,83 +1,54 @@
----
-role: NPC
-name: Forge
-age: Unknown
-gender: None (Automaton)
-race: Automaton
-alignment: Neutral
----
-
-# **Forge**
-
-<br>
-
-> [!info|bg-c-purple] Overview
->
-> Forge is an ancient Automaton crafted for the purpose of blacksmithing. It has served in this role for centuries, working tirelessly in the heat of the forge.
-
-<br>
-
-> [!recite|txt-Center] **Physical Description**
-> Forge is a large, humanoid automaton made of dark iron and bronze. Its body is built with the precision of a master craftsman, with powerful arms designed to handle the most intense heat and pressure. Glowing orange eyes peer out from a head that resembles a helmet, and its hands end in heavy, hammer-like appendages.
-
-> [!recite|title-Centre] **Mannerisms/Behaviours**
-> Forge is a creature of habit and efficiency. It moves with purpose and precision, wasting no energy on unnecessary motion. When not actively working, it stands in a state of quiet readiness, awaiting the next task. Forge rarely speaks, but when it does, its voice is a deep, resonant rumble.
-
-> [!recite|title-Centre] **Abilities**
-> - **Master Smith:** Forge has unparalleled skill in blacksmithing, able to create weapons and armor of exceptional quality.
-> - **Heat Resistance:** Forge can withstand extreme temperatures without damage, allowing it to work directly with molten metal.
-> - **Endless Stamina:** Being an Automaton, Forge never tires and can work continuously without rest.
-
-> [!recite|title-Centre] **Social Structure**
-> Forge is a solitary worker, designed to function independently. It does not require companionship or social interaction, though it recognizes the authority of its owner or operator.
-
-> [!recite|title-Centre] **Origin**
-> Forge was created long ago by a master artificer to serve as a blacksmith in a bustling city. Over time, it has outlasted its creators and has become a fixture in Petalwood, where it continues its work in the village's forge.
-
-<br>
-
-## Stats
-
 > [!statblocks|sban]
 > 
 > ![[Placeholder.jpg|right cover htiny wtiny circle lp]] 
 > ## Forge
-> Large Construct, Neutral  
->> 
+> *Medium Construct, Neutral Good*  
+> 
 > ---
 > 
-> **Armor Class** 17 (natural armor)  
-> **Hit Points** 85 (10d10 + 30)  
-> **Speed** 30 ft.  
-> **Initiative** +1  
+> **Armor Class**  16 (Natural Armor)  
+> **Hit Points** 110 (13d8 + 52)  
+> **Speed**  30 ft.  
+> **Initiative**  +2  
 > 
 > ---
 > | STR | DEX | CON | INT | WIS | CHAR | 
 > | :---:|:---:|:---:|:---:|:---:|:---:|
-> | 20 (+5) | 12 (+1) | 16 (+3) | 10 (+0) | 14 (+2) | 6 (-2) | 
+> |  18 (+4) |  14 (+2) |  18 (+4) |  16 (+3) |  14 (+2) |  12 (+1) | 
 > ---
 > 
-> 
-> **Saving Throws** Str +8, Con +6  
-> **Skills** Athletics +8, Perception +5  
-> **Damage Vulnerabilities** Lightning  
-> **Damage Resistances** Fire, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks  
-> **Damage Immunities** Psychic  
-> **Condition Immunities** Charmed, Exhaustion, Frightened, Paralyzed, Poisoned  
-> **Senses** Darkvision 60 ft., Passive Perception 15  
-> **Languages** Common, Dwarvish  
-> **Challenge** 5 <span class="bonus"> **Proficiency Bonus** +3 </span>
+> **Saving Throws**    CON +7, WIS +5    
+> **Skills**   Perception +5, Smith's Tools +10    
+> **Damage Vulnerabilities**   None    
+> **Damage Resistances**   Bludgeoning, Piercing, and Slashing from Nonmagical Attacks    
+> **Damage Immunities**   Fire, Poison    
+> **Condition Immunities**   Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified    
+> **Senses**   Darkvision 60 ft., Passive Perception 15    
+> **Languages**   Common, Dwarvish    
+> **Challenge**  7 <span class="bonus">**Proficiency Bonus** +3</span>
 > 
 > ---
 >
-> ***Heat Aura.*** At the start of each of Forge's turns, each creature within 5 feet of it takes 3 (1d6) fire damage.
-> 
-> ***Masterful Strike.*** Forge can make one weapon attack with advantage once per turn.
+> ***Smithing Expertise.***  
+> Forge has proficiency with Smith's Tools and can use them to repair or create metal objects with expert precision.
 > 
 > ### Actions
->  ***Multiattack.*** Forge makes two hammer attacks.
 > 
-> ***Hammer.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 5) bludgeoning damage.
+> ***Smith’s Hammer.***  
+> *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 22 (3d10 + 6) bludgeoning damage.
+> 
+> ***Heat Ray (Recharge 5-6).***  
+> *Ranged Weapon Attack:* +6 to hit, range 60 ft., one target. *Hit:* 18 (4d8) fire damage.
+> 
+> ### Legendary Actions
+> 
+> ***Hammer Strike.***  
+> Forge makes a Smith’s Hammer attack.
+> 
+> ***Forge’s Guidance.***  
+> Forge uses its Knowledge of Smithing to grant advantage on one attack roll or skill check to an ally within 30 feet.
 > 
 > ### Reactions
-> ***Defensive Posture.*** When a creature within 5 feet of Forge makes an attack against it, Forge can impose disadvantage on the attack roll by raising its arms in a defensive stance.
+> 
+> ***Reactive Repair.***  
+> When Forge is hit by an attack, it can use its reaction to expend 1d10 hit points to repair itself, regaining that many hit points.
