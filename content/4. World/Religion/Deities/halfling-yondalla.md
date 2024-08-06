@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/halfling
-- domain/life
-- domain/twilight
-aliases: ["Yondalla"]
+  - compendium/src/mtf
+  - deity/halfling
+  - domain/life
+  - domain/twilight
+aliases:
+  - Yondalla
 ---
 # Yondalla
 *Source: Mordenkainen's Tome of Foes p. 102, Tasha's Cauldron of Everything p. 34* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/bmt
-- reward/charm
-aliases: ["Charm of the Puzzle"]
+  - compendium/src/5e/bmt
+  - reward/charm
+aliases:
+  - Charm of the Puzzle
 ---
 # Charm of the Puzzle
 

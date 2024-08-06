@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/knowledge
-- domain/trickery
-aliases: ["Lolth"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/knowledge
+  - domain/trickery
+aliases:
+  - Lolth
 ---
 # Lolth
 *Source: Explorer's Guide to Wildemount p. 27* 

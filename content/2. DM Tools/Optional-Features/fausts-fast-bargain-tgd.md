@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tgd
-- optional-feature/ei
-aliases: ["Faust's Fast Bargain"]
+  - compendium/src/5e/tgd
+  - optional-feature/ei
+aliases:
+  - Faust's Fast Bargain
 ---
 # Faust's Fast Bargain
 *Source: The Great Dale*  

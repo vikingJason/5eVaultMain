@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenPocket
- name: 🪙 Generate Pocket Search 🦴
- description: Generate a Pocket Search. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+  promptId: GenPocket
+  name: 🪙 Generate Pocket Search 🦴
+  description: Generate a Pocket Search.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 {{#if selection}}

@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/life
-aliases: ["Lliira", "Our Lady of Joy", "Joybringer", "The Mistress of Revels"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/life
+aliases:
+  - Lliira
+  - Our Lady of Joy
+  - Joybringer
+  - The Mistress of Revels
 ---
 # Lliira
 *Source: Sword Coast Adventurer's Guide p. 21* 

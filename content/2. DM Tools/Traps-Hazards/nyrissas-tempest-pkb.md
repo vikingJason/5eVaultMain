@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Nyrissa's Tempest"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Nyrissa's Tempest
 ---
 # Nyrissa's Tempest
 *Magical Trap*  

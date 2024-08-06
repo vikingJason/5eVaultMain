@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mot
-- deity/theros
-- domain/light
-aliases: ["Heliod"]
+  - compendium/src/mot
+  - deity/theros
+  - domain/light
+aliases:
+  - Heliod
 ---
 # Heliod
 *Source: Mythic Odysseys of Theros p. 46* 

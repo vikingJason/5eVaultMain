@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/toa
-- reward/inhabitation
-aliases: ["Unkh"]
+  - compendium/src/5e/toa
+  - reward/inhabitation
+aliases:
+  - Unkh
 ---
 # Unkh
 *Inhabitation*  

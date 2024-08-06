@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/elven
-- domain/trickery
-aliases: ["Erevan Ilesere"]
+  - compendium/src/mtf
+  - deity/elven
+  - domain/trickery
+aliases:
+  - Erevan Ilesere
 ---
 # Erevan Ilesere
 *Source: Mordenkainen's Tome of Foes p. 43* 

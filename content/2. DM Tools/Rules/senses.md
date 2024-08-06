@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/fleemortals
-- compendium/src/5e/mm
-- compendium/src/5e/phb
-aliases: ["Senses"]
+  - compendium/src/5e/fleemortals
+  - compendium/src/5e/mm
+  - compendium/src/5e/phb
+aliases:
+  - Senses
 ---
 # Senses
 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/ei
-aliases: ["Primal Link"]
+  - compendium/src/5e/toh
+  - optional-feature/ei
+aliases:
+  - Primal Link
 ---
 # Primal Link
 *Source: Tome of Heroes p. 136*  

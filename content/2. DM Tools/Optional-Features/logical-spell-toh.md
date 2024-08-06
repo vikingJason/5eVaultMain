@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/mm
-aliases: ["Logical Spell"]
+  - compendium/src/5e/toh
+  - optional-feature/mm
+aliases:
+  - Logical Spell
 ---
 # Logical Spell
 *Source: Tome of Heroes p. 126*  

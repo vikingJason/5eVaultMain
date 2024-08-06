@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/ei
-aliases: ["Entangling Blast"]
+  - compendium/src/5e/toh
+  - optional-feature/ei
+aliases:
+  - Entangling Blast
 ---
 # Entangling Blast
 *Source: Tome of Heroes p. 135*  

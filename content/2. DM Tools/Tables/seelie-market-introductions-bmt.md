@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/bmt
-aliases: ["Seelie Market Introductions"]
+  - compendium/src/5e/bmt
+aliases:
+  - Seelie Market Introductions
 ---
 # Seelie Market Introductions
 *Source: The Book of Many Things* 

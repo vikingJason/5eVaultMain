@@ -2,10 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/nature
-aliases: ["Mielikki", "Our Lady of the Forest", "The Forest Queen"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/nature
+aliases:
+  - Mielikki
+  - Our Lady of the Forest
+  - The Forest Queen
 ---
 # Mielikki
 *Source: Sword Coast Adventurer's Guide p. 21* 

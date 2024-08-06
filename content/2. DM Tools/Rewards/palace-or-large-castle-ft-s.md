@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/structure
-aliases: ["Palace or Large Castle"]
+  - compendium/src/5e/ft&s
+  - reward/structure
+aliases:
+  - Palace or Large Castle
 ---
 # Palace or Large Castle
 *Structure*  

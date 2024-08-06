@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/mot
-- reward/piety-trait
-aliases: ["Heliod's Disciple"]
+  - compendium/src/5e/mot
+  - reward/piety-trait
+aliases:
+  - Heliod's Disciple
 ---
 # Heliod's Disciple
 *Piety Trait*  

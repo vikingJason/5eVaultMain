@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/tdcsr
-- reward/curse
-aliases: ["Curse of Strife"]
+  - compendium/src/5e/tdcsr
+  - reward/curse
+aliases:
+  - Curse of Strife
 ---
 # Curse of Strife
 

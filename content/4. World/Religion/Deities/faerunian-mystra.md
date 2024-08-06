@@ -2,11 +2,15 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/arcana
-- domain/knowledge
-aliases: ["Mystra", "The Lady of Mysteries", "Our Lady of Spells", "The Mother of All Magic"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/arcana
+  - domain/knowledge
+aliases:
+  - Mystra
+  - The Lady of Mysteries
+  - Our Lady of Spells
+  - The Mother of All Magic
 ---
 # Mystra
 *Source: Sword Coast Adventurer's Guide p. 21, Sword Coast Adventurer's Guide p. 125* 

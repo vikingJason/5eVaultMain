@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/mcdm-pp
-aliases: ["Mind Splinter"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/mcdm-pp
+aliases:
+  - Mind Splinter
 ---
 # Mind Splinter
 *Source: Flee, Mortals! p. 392*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/ucf
-aliases: ["Underground Senses"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/ucf
+aliases:
+  - Underground Senses
 ---
 # Underground Senses
 *Source: Flee, Mortals! p. 338*  

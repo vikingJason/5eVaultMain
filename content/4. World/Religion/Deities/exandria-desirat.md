@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/light
-- domain/trickery
-aliases: ["Desirat"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/light
+  - domain/trickery
+aliases:
+  - Desirat
 ---
 # Desirat
 *Source: Explorer's Guide to Wildemount p. 31* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["Book Titles"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - Book Titles
 ---
 # Book Titles
 *Source: The Great Book of Random Tables p. 8-17* 

@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/death
-aliases: ["Loviatar", "The Maiden of Pain", "The Scourge Mistress", "The Willing Whip"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/death
+aliases:
+  - Loviatar
+  - The Maiden of Pain
+  - The Scourge Mistress
+  - The Willing Whip
 ---
 # Loviatar
 *Source: Sword Coast Adventurer's Guide p. 21* 

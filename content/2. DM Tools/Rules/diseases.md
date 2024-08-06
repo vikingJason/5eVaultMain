@@ -2,27 +2,28 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/ccodex
-- compendium/src/5e/cm
-- compendium/src/5e/dmg
-- compendium/src/5e/egw
-- compendium/src/5e/gos
-- compendium/src/5e/hhhvi
-- compendium/src/5e/hhhviii
-- compendium/src/5e/idrotf
-- compendium/src/5e/oota
-- compendium/src/5e/oow
-- compendium/src/5e/phb
-- compendium/src/5e/pkb
-- compendium/src/5e/roth
-- compendium/src/5e/tftyp
-- compendium/src/5e/toa
-- compendium/src/5e/tob
-- compendium/src/5e/tob2
-- compendium/src/5e/tob3
-- compendium/src/5e/vrgr
-- compendium/src/5e/wdmm
-aliases: ["Diseases"]
+  - compendium/src/5e/ccodex
+  - compendium/src/5e/cm
+  - compendium/src/5e/dmg
+  - compendium/src/5e/egw
+  - compendium/src/5e/gos
+  - compendium/src/5e/hhhvi
+  - compendium/src/5e/hhhviii
+  - compendium/src/5e/idrotf
+  - compendium/src/5e/oota
+  - compendium/src/5e/oow
+  - compendium/src/5e/phb
+  - compendium/src/5e/pkb
+  - compendium/src/5e/roth
+  - compendium/src/5e/tftyp
+  - compendium/src/5e/toa
+  - compendium/src/5e/tob
+  - compendium/src/5e/tob2
+  - compendium/src/5e/tob3
+  - compendium/src/5e/vrgr
+  - compendium/src/5e/wdmm
+aliases:
+  - Diseases
 ---
 # Diseases
 

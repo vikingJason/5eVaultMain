@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/gnome
-- domain/arcana
-- domain/trickery
-aliases: ["Baravar Cloakshadow"]
+  - compendium/src/mtf
+  - deity/gnome
+  - domain/arcana
+  - domain/trickery
+aliases:
+  - Baravar Cloakshadow
 ---
 # Baravar Cloakshadow
 *Source: Mordenkainen's Tome of Foes p. 111* 

@@ -2,11 +2,15 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/knowledge
-- domain/nature
-aliases: ["Gwaeron Windstrom", "The Mouth of Mielikki", "The Master Tracker", "The Tracker Never Led Astray"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/knowledge
+  - domain/nature
+aliases:
+  - Gwaeron Windstrom
+  - The Mouth of Mielikki
+  - The Master Tracker
+  - The Tracker Never Led Astray
 ---
 # Gwaeron Windstrom
 *Source: Sword Coast Adventurer's Guide p. 21* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mech
-aliases: ["Dropping Web Trap"]
+  - compendium/src/5e/pkb
+  - hazard/mech
+aliases:
+  - Dropping Web Trap
 ---
 # Dropping Web Trap
 *Mechanical Trap*  

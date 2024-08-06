@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/structure
-aliases: ["College or Large School"]
+  - compendium/src/5e/ft&s
+  - reward/structure
+aliases:
+  - College or Large School
 ---
 # College or Large School
 *Structure*  

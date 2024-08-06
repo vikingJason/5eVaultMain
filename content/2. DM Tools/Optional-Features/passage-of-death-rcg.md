@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/rcg
-- optional-feature/ei
-aliases: ["Passage of Death"]
+  - compendium/src/5e/rcg
+  - optional-feature/ei
+aliases:
+  - Passage of Death
 ---
 # Passage of Death
 *Source: Rashemen - Unnapproachable East Campaign Guide*  

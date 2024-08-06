@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["The Power of Faith"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - The Power of Faith
 ---
 # The Power of Faith
 *Magical Trap*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/ucf
-aliases: ["Fungal Infestation"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/ucf
+aliases:
+  - Fungal Infestation
 ---
 # Fungal Infestation
 *Source: Flee, Mortals! p. 338*  

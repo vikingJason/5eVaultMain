@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/rcg
-- optional-feature/ei
-aliases: ["Aspect of Hadryllis"]
+  - compendium/src/5e/rcg
+  - optional-feature/ei
+aliases:
+  - Aspect of Hadryllis
 ---
 # Aspect of Hadryllis
 *Source: Rashemen - Unnapproachable East Campaign Guide*  

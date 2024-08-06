@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tdcsr
-aliases: ["Betrayer Gods"]
+  - compendium/src/5e/tdcsr
+aliases:
+  - Betrayer Gods
 ---
 # Betrayer Gods
 *Source: Tal'Dorei Campaign Setting Reborn p. 34* 

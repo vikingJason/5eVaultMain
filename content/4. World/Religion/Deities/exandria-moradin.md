@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/forge
-- domain/knowledge
-- domain/war
-aliases: ["Moradin"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/forge
+  - domain/knowledge
+  - domain/war
+aliases:
+  - Moradin
 ---
 # Moradin
 *Source: Explorer's Guide to Wildemount p. 24* 

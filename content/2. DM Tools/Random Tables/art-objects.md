@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
-aliases: ["Art Objects"]
+aliases:
+  - Art Objects
 ---
 # Art Objects
 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/bam
-- reward/charm
-aliases: ["Charm of Air Bubbles"]
+  - compendium/src/5e/bam
+  - reward/charm
+aliases:
+  - Charm of Air Bubbles
 ---
 # Charm of Air Bubbles
 

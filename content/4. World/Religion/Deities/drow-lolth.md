@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/drow
-- domain/trickery
-- domain/war
-aliases: ["Lolth"]
+  - compendium/src/mtf
+  - deity/drow
+  - domain/trickery
+  - domain/war
+aliases:
+  - Lolth
 ---
 # Lolth
 *Source: Mordenkainen's Tome of Foes p. 53* 

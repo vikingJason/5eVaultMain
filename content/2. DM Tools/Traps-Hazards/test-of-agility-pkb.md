@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mech
-aliases: ["Test of Agility"]
+  - compendium/src/5e/pkb
+  - hazard/mech
+aliases:
+  - Test of Agility
 ---
 # Test of Agility
 *Mechanical Trap*  

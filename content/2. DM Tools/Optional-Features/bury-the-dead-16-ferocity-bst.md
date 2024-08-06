@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/bst
-- optional-feature/exp
-aliases: ["Bury the Dead (16 Ferocity)"]
+  - compendium/src/5e/bst
+  - optional-feature/exp
+aliases:
+  - Bury the Dead (16 Ferocity)
 ---
 # Bury the Dead (16 Ferocity)
 *Source: MCDM - Beastheart and Monstrous Companions p. 29*  

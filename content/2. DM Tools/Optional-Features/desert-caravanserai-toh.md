@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/manor
-aliases: ["Desert Caravanserai"]
+  - compendium/src/5e/toh
+  - optional-feature/manor
+aliases:
+  - Desert Caravanserai
 ---
 # Desert Caravanserai
 *Source: Tome of Heroes p. 241*  

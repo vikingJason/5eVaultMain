@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/hcf
-aliases: ["Phantoms Abound"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/hcf
+aliases:
+  - Phantoms Abound
 ---
 # Phantoms Abound
 *Source: Flee, Mortals! p. 138*  

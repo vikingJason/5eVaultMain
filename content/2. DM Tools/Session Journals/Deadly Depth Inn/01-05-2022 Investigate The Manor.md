@@ -1,5 +1,7 @@
 ---
-tags: [timeline, SessionJournals]
+tags:
+  - timeline
+  - SessionJournals
 sessionDate: 2022-01-05
 players: 6
 ---

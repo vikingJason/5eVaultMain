@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/oaf
-aliases: ["Disease Carrier"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/oaf
+aliases:
+  - Disease Carrier
 ---
 # Disease Carrier
 *Source: Flee, Mortals! p. 42*  

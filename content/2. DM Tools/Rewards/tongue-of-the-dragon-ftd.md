@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ftd
-- reward/draconic-gift
-aliases: ["Tongue of the Dragon"]
+  - compendium/src/5e/ftd
+  - reward/draconic-gift
+aliases:
+  - Tongue of the Dragon
 ---
 # Tongue of the Dragon
 *Draconic Gift, UNCOMMON*  

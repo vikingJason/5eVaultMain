@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cm
-- reward/charm
-aliases: ["Charm of the Water Bearer"]
+  - compendium/src/5e/cm
+  - reward/charm
+aliases:
+  - Charm of the Water Bearer
 ---
 # Charm of the Water Bearer
 

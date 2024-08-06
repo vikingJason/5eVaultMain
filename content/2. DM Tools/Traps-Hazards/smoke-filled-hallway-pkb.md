@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-aliases: ["Smoke-Filled Hallway"]
+  - compendium/src/5e/pkb
+aliases:
+  - Smoke-Filled Hallway
 ---
 # Smoke-Filled Hallway
 *Generic Hazard*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/mcdm-pp
-aliases: ["Control Projectiles"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/mcdm-pp
+aliases:
+  - Control Projectiles
 ---
 # Control Projectiles
 *Source: Flee, Mortals! p. 391*  

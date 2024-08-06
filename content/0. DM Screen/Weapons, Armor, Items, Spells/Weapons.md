@@ -24,48 +24,49 @@ Adventurers use a wide variety of weapons in hand-to-hand combat. The table belo
 
 ### Melee Weapon
 
-|**Damage Die**|**Cost**|**Weight**|**Properties**|**Damage Type**|
-|---|---|---|---|---|
-|**1d4**|   |   |   |   |
-|Brass knuckles|4 gp|½ lb.|Dual-wielding, hand-mounted|Bludgeoning|
-|ClubS|1 sp|2 lbs.|Simple|Bludgeoning|
-|DaggerS|2 gp|1 lb.|Dual-wielding, finesse, simple|Piercing|
-|Dueling dagger|6 gp|1 lb.|Dual-wielding, finesse, parrying|Piercing|
-|Light hammer|2 gp|2 lbs.|Dual-wielding, thrown (20/60)||
-|Punching dagger|4 gp|1 lb.|Dual-wielding, hand-mounted|Piercing|
-|SickleS|1 gp|2 lbs.|Dual-wielding, simple|Slashing|
-|Throwing dagger|3 gp|½ lb.|Dual-wielding, finesse, thrown (30/80)|Piercing|
-|Whip|2 gp|3 lbs.|Finesse, parrying immunity, reach (15), trip|Slashing|
-|**1d6**|   |   |   |   |
-|Handaxes|5 gp|2 lbs.|Breaker (wood), defensive (light), dual-wielding, simple, thrown (20/60)|Slashing|
-|Javelin|5 sp|2 lbs.|Thrown (30/120)|Piercing|
-|MaceS|5 gp|4 lbs.|Defensive (medium), simple|Bludgeoning|
-|QuarterstaffS|2 sp|4 lbs.|Parrying, simple, two-handed|Bludgeoning|
-|Scimitar|20 gp|3 lbs.|Defensive (light), dual-wielding, finesse|Slashing|
-|Shortsword|10 gp|2 lbs.|Defensive (medium), finesse, parrying|Slashing|
-|SpearS|1 gp|3 lbs.|Defensive (heavy), simple, thrown (20/60), versatile (1d8)|Piercing|
-|Trident|10 gp|3 lbs.|Thrown (20/60), versatile (1d8), mounted|Piercing|
-|**1d8**|   |   |   |   |
-|Bastard sword|35 gp|5 lbs.|Parrying, versatile (1d10)|Slashing|
-|Battleaxe|10 gp|6 lbs.|Breaker (wood), versatile (1d10)|Slashing|
-|Flail|20 gp|3 lbs.|Parrying immunity, trip|Bludgeoning|
-|GreatclubS|5 sp|10 lbs.|Simple, versatile (1d10)|Bludgeoning|
-|Longsword|20 gp|3 lbs.|Defensive (medium)|Slashing|
-|Morningstar|15 gp|4 lbs.|Defensive (medium)|Bludgeoning|
-|Rapier|25 gp|2 lbs.|Defensive (light), finesse|Piercing|
-|Saber|30 gp|3 lbs.|Defensive (light), finesse, mounted (1d10)|Slashing|
-|Warhammer|15 gp|3 lbs.|Breaker, versatile (1d10)|Bludgeoning|
-|Warpick|5 gp|2 lbs.|Breaker (stone)|Piercing|
-|**1d10**|   |   |   |   |
-|Glaive|12 gp|5 lbs.|Reach, two-handed|Slashing|
-|Halberd|25 gp|7 lbs.|Heavy, reach, trip, two-handed|Piercing or slashing|
-|Pike|5 gp|13 lbs.|Defensive (heavy), heavy, reach*|Piercing|
-|Scythe|1 gp|12 lbs.|Heavy, parrying, two-handed|Slashing|
-|**1d12**|   |   |   |   |
-|Greataxe|30 gp|9 lbs.|Breaker (wood), heavy, two-handed|Slashing|
-|**2d6**|   |   |   |   |
-|Greatsword|50 gp|7 lbs.|Heavy, parrying, two-handed|Slashing|
-|Maul|20 gp|11 lbs.|Breaker, heavy, two-handed|Bludgeoning|
+| **Damage Die**      | **Cost** | **Low Cost** | **High Cost** | **Weight** | **Properties**                                                           | **Damage Type**      |
+|---------------------|----------|--------------|---------------|------------|--------------------------------------------------------------------------|----------------------|
+| **1d4**             |          |              |               |            |                                                                          |                      |
+| Brass knuckles  | 4 gp     | 32 sp        | 8 gp          | ½ lb.      | Dual-wielding, hand-mounted                                              | Bludgeoning          |
+| Club           | 1 sp     | 8 cp         | 2 sp          | 2 lbs.     | Simple                                                                   | Bludgeoning          |
+| Dagger         | 2 gp     | 16 sp        | 4 gp          | 1 lb.      | Dual-wielding, finesse, simple                                           | Piercing             |
+| Dueling dagger  | 6 gp     | 48 sp        | 12 gp         | 1 lb.      | Dual-wielding, finesse, parrying                                         | Piercing             |
+| Light hammer    | 2 gp     | 16 sp        | 4 gp          | 2 lbs.     | Dual-wielding, thrown (20/60)                                            |                      |
+| Punching dagger | 4 gp     | 32 sp        | 8 gp          | 1 lb.      | Dual-wielding, hand-mounted                                              | Piercing             |
+| Sickle         | 1 gp     | 8 sp         | 2 gp          | 2 lbs.     | Dual-wielding, simple                                                    | Slashing             |
+| Throwing dagger | 3 gp     | 24 sp        | 6 gp          | ½ lb.      | Dual-wielding, finesse, thrown (30/80)                                   | Piercing             |
+| Whip            | 2 gp     | 16 sp        | 4 gp          | 3 lbs.     | Finesse, parrying immunity, reach (15), trip                             | Slashing             |
+| **1d6**             |          |              |               |            |                                                                          |                      |
+| Handaxe        | 5 gp     | 4 gp         | 10 gp         | 2 lbs.     | Breaker (wood), defensive (light), dual-wielding, simple, thrown (20/60) | Slashing             |
+| Javelin         | 5 sp     | 4 sp         | 1 gp          | 2 lbs.     | Thrown (30/120)                                                          | Piercing             |
+| Mace           | 5 gp     | 4 gp         | 10 gp         | 4 lbs.     | Defensive (medium), simple                                               | Bludgeoning          |
+| Quarterstaff   | 2 sp     | 16 cp        | 4 sp          | 4 lbs.     | Parrying, simple, two-handed                                             | Bludgeoning          |
+| Scimitar        | 20 gp    | 16 gp        | 40 gp         | 3 lbs.     | Defensive (light), dual-wielding, finesse                                | Slashing             |
+| Shortsword      | 10 gp    | 8 gp         | 20 gp         | 2 lbs.     | Defensive (medium), finesse, parrying                                    | Slashing             |
+| Spear          | 1 gp     | 8 sp         | 2 gp          | 3 lbs.     | Defensive (heavy), simple, thrown (20/60), versatile (1d8)               | Piercing             |
+| Trident         | 10 gp    | 8 gp         | 20 gp         | 3 lbs.     | Thrown (20/60), versatile (1d8), mounted                                 | Piercing             |
+| **1d8**             |          |              |               |            |                                                                          |                      |
+| Bastard sword   | 35 gp    | 28 gp        | 70 gp         | 5 lbs.     | Parrying, versatile (1d10)                                               | Slashing             |
+| Battleaxe       | 10 gp    | 8 gp         | 20 gp         | 6 lbs.     | Breaker (wood), versatile (1d10)                                         | Slashing             |
+| Flail           | 20 gp    | 16 gp        | 40 gp         | 3 lbs.     | Parrying immunity, trip                                                  | Bludgeoning          |
+| Greatclub      | 5 sp     | 4 sp         | 1 gp          | 10 lbs.    | Simple, versatile (1d10)                                                 | Bludgeoning          |
+| Longsword       | 20 gp    | 16 gp        | 40 gp         | 3 lbs.     | Defensive (medium)                                                       | Slashing             |
+| Morningstar     | 15 gp    | 12 gp        | 30 gp         | 4 lbs.     | Defensive (medium)                                                       | Bludgeoning          |
+| Rapier          | 25 gp    | 20 gp        | 50 gp         | 2 lbs.     | Defensive (light), finesse                                               | Piercing             |
+| Saber           | 30 gp    | 24 gp        | 60 gp         | 3 lbs.     | Defensive (light), finesse, mounted (1d10)                               | Slashing             |
+| Warhammer       | 15 gp    | 12 gp        | 30 gp         | 3 lbs.     | Breaker, versatile (1d10)                                                | Bludgeoning          |
+| Warpick         | 5 gp     | 4 gp         | 10 gp         | 2 lbs.     | Breaker (stone)                                                          | Piercing             |
+| **1d10**            |          |              |               |            |                                                                          |                      |
+| Glaive          | 12 gp    | 96 sp        | 24 gp         | 5 lbs.     | Reach, two-handed                                                        | Slashing             |
+| Halberd         | 25 gp    | 20 gp        | 50 gp         | 7 lbs.     | Heavy, reach, trip, two-handed                                           | Piercing or slashing |
+| Pike            | 5 gp     | 4 gp         | 10 gp         | 13 lbs.    | Defensive (heavy), heavy, reach*                                         | Piercing             |
+| Scythe          | 1 gp     | 8 sp         | 2 gp          | 12 lbs.    | Heavy, parrying, two-handed                                              | Slashing             |
+| **1d12**            |          |              |               |            |                                                                          |                      |
+| Greataxe        | 30 gp    | 24 gp        | 60 gp         | 9 lbs.     | Breaker (wood), heavy, two-handed                                        | Slashing             |
+| **2d6**             |          |              |         |            |                                                                          |                      |
+| Greatsword      | 50 gp    | 40 gp        | 100 gp        | 7 lbs.     | Heavy, parrying, two-handed                                              | Slashing             |
+| Maul            | 20 gp    | 16 gp        | 40 gp         | 11 lbs.    | Breaker, heavy, two-handed                                               | Bludgeoning          |
+
 
 * You have disadvantage when you use a pike to attack a target within 5 feet of you.
 
@@ -76,21 +77,21 @@ Adventurers use a wide variety of weapons in hand-to-hand combat. The table belo
 Ranged weapons require ammunition to use. If you use a ranged weapon to make a melee attack, it is treated as an improvised weapon. A sling must be loaded to be used in this way. A ranged weapon uses your Dexterity modifier for attack and damage rolls.
 
 
-|**Damage Die**|**Cost**|**Weight**|**Properties**|**Damage Type**|
-|---|---|---|---|---|
-|**1d4**|   |   |   |   |
-|BlowgunS|1 gp|½ lb.|Loading, range (25/100), simple|Piercing|
-|Dart|5 sp|¼ lb.|Range (20/60)|Piercing|
-|SlingS|2 sp|—|Range (30/120), simple|Bludgeoning|
-|**1d6**|   |   |   |   |
-|Hand crossbow|60 gp|3 lbs.|Dual-wielding, loading, range (30/120)|Piercing|
-|Shortbow|25 gp|2 lbs.|Range (80/320), two-handed|Piercing|
-|**1d8**|   |   |   |   |
-|Composite bow|200 gp|2 lbs.|Compounding, heavy, range (150/600), two-handed|Piercing|
-|Light crossbowS|45 gp|5 lbs.|Loading, range (80/320), simple, two-handed|Piercing|
-|Longbow|50 gp|2 lbs.|Heavy, range (150/600), two-handed|Piercing|
-|**1d10**|   |   |   |   |
-|Heavy crossbowS|100 gp|15 lbs.|Heavy, loading, range (100/400), simple, two-handed|Piercing|
+| **Damage Die** | **Cost** | Low Cost | High Cost | **Weight** | **Properties**                                      | **Damage Type** |
+| -------------- | -------- | -------- | --------- | ---------- | --------------------------------------------------- | --------------- |
+| **1d4**        |          |          |           |            |                                                     |                 |
+| Blowgun        | 1 gp     | 8 sp     | 2 gp      | ½ lb.      | Loading, range (25/100), simple                     | Piercing        |
+| Dart           | 5 sp     | 4 sp     | 1 gp      | ¼ lb.      | Range (20/60)                                       | Piercing        |
+| Sling          | 2 sp     | 16cp     | 4 sp      | —          | Range (30/120), simple                              | Bludgeoning     |
+| **1d6**        |          |          |           |            |                                                     |                 |
+| Hand crossbow  | 60 gp    | 48 gp    | 120 gp    | 3 lbs.     | Dual-wielding, loading, range (30/120)              | Piercing        |
+| Shortbow       | 25 gp    | 20 gp    | 50 gp     | 2 lbs.     | Range (80/320), two-handed                          | Piercing        |
+| **1d8**        |          |          |           |            |                                                     |                 |
+| Composite bow  | 200 gp   | 160 gp   | 400 gp    | 2 lbs.     | Compounding, heavy, range (150/600), two-handed     | Piercing        |
+| Light crossbow | 45 gp    | 36 gp    | 90 gp     | 5 lbs.     | Loading, range (80/320), simple, two-handed         | Piercing        |
+| Longbow        | 50 gp    | 40 gp    | 100 gp    | 2 lbs.     | Heavy, range (150/600), two-handed                  | Piercing        |
+| **1d10**       |          |          |           |            |                                                     |                 |
+| Heavy crossbow | 100 gp   | 80 gp    | 200 gp    | 15 lbs.    | Heavy, loading, range (100/400), simple, two-handed | Piercing        |
 
 <br>
 
@@ -105,16 +106,16 @@ Ranged weapons require ammunition to fire. Typically that ammunition is made fro
 **Punching.** On a critical hit, this ammunition decreases an armored target’s Armor Class by 1. This cannot reduce the target’s Armor Class to less than 10 + its Dexterity modifier. 
 
 
-|**Ammunition**|**Cost**|**Weight**|
-|---|---|---|
-|Arrows (20)|1 gp|1 lb.|
-|Blowgun needles (50)|1 gp|1 lb.|
-|Crossbow bolts (20)|1 gp|1 ½ lbs.|
-|Firearm bullets (10)|10 gp|1 ½ lbs.|
-|Sling bullets (20)|4 cp|1 ½ lbs.|
-|Explosive arrows (4)|80 gp|½ lb.|
-|Flaming arrows (4)|60 gp|½ lb.|
-|Punching arrows (4)|100 gp|1 lb.|
+| **Ammunition**       | **Cost** | Low Cost | High Cost | **Weight** |
+| -------------------- | -------- | -------- | --------- | ---------- |
+| Arrows (20)          | 1 gp     | 8 sp     | 2 gp      | 1 lb.      |
+| Blowgun needles (50) | 1 gp     | 8 sp     | 2 gp      | 1 lb.      |
+| Crossbow bolts (20)  | 1 gp     | 8 sp     | 2 gp      | 1 ½ lbs.   |
+| Firearm bullets (10) | 10 gp    | 8 gp     | 20 gp     | 1 ½ lbs.   |
+| Sling bullets (20)   | 5 cp     | 4 cp     | 1 sp      | 1 ½ lbs.   |
+| Explosive arrows (4) | 80 gp    | 64 gp    | 160 gp    | ½ lb.      |
+| Flaming arrows (4)   | 60 gp    | 48 gp    | 120 gp    | ½ lb.      |
+| Punching arrows (4)  | 100 gp   | 80 gp    | 200 gp    | 1 lb.      |
 
 <br>
 
@@ -122,12 +123,12 @@ Ranged weapons require ammunition to fire. Typically that ammunition is made fro
 
 Some weapons have special properties unique to them.
 
-|**Weapon**|**Cost**|**Weight**|**Properties**|**Damage**|**Special Properties**|
-|---|---|---|---|---|---|
-|Garrotte|3 sp|—|Two-handed|None (see description)|When wielding a garrotte, you may make a melee weapon attack at [disadvantage](https://a5e.tools/node/137 "Click to view a local node.") against a Large or smaller creature that requires air to breathe. On a hit, the creature is [grappled](https://a5e.tools/node/642 "Click to view a local node.") and begins to [suffocate](https://a5e.tools/rules/environment "Click to view a local node.") .|
-|Lance|10 gp|6 lbs.|Defensive (medium), reach|Piercing (1d12)|You have [disadvantage](https://a5e.tools/node/137 "Click to view a local node.") when you use a lance to attack a target within 5 feet of you. If you are not mounted, you must use two hands to wield the lance.|
-|Net|1 gp|2 lbs.|Thrown (5/15)|None (see description)|A corporeal Large or smaller creature that cannot move through a space one inch or smaller who is hit by a net is [restrained](https://a5e.tools/rules/conditions "Click to view a local node.") until it is freed. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. A net has AC 10, 5 hit points, and is immune to bludgeoning damage.|
-|Spear-thrower|10 gp|4 lbs.|Loading, range (80/320)|Piercing (see description)|A spear-thrower can be used to increase the effectiveness of a javelin, spear, or trident. A weapon thrown in this manner deals an additional 1d6 damage when the target is within its normal range.|
+| **Weapon**    | **Cost** | Low Cost | High Cost | **Weight** | **Properties**            | **Damage**                 | **Special Properties**                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------- | -------- | -------- | --------- | ---------- | ------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Garrotte      | 3 sp     | 24 cp    | 6 sp      | —          | Two-handed                | None (see description)     | When wielding a garrotte, you may make a melee weapon attack at disadvantage) against a Large or smaller creature that requires air to breathe. On a hit, the creature is grappled and begins to suffocate .                |
+| Lance         | 10 gp    | 8 gp     | 20 gp     | 6 lbs.     | Defensive (medium), reach | Piercing (1d12)            | You have disadvantage) when you use a lance to attack a target within 5 feet of you. If you are not mounted, you must use two hands to wield the lance.                                                                                                                                                                                                      |
+| Net           | 1 gp     | 8 sp     | 2 gp      | 2 lbs.     | Thrown (5/15)             | None (see description)     | A corporeal Large or smaller creature that cannot move through a space one inch or smaller who is hit by a net is [[restrained]] until it is freed. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. A net has AC 10, 5 hit points, and is immune to bludgeoning damage. |
+| Spear-thrower | 10 gp    | 8 gp     | 20 gp     | 4 lbs.     | Loading, range (80/320)   | Piercing (see description) | A spear-thrower can be used to increase the effectiveness of a javelin, spear, or trident. A weapon thrown in this manner deals an additional 1d6 damage when the target is within its normal range.                                                                                                                                                                                                                    |
 
 <br>
 
@@ -229,35 +230,35 @@ Ranged rare weapons require ammunition to use, although some firearms can hold m
 **Shotgun.** When this weapon is used to make an attack roll with advantage, the attack becomes a critical hit if both d20 rolls would result in a hit. When this weapon is used to make an attack roll with disadvantage and only one attack roll would result in a hit, you instead deal 1d4 piercing damage (adding no bonuses to damage from ability score modifiers or enchantments)
 
 
-|**Damage Die**|**Cost**|**Weight**|**Properties**|**Damage Type**|
-|---|---|---|---|---|
-|**1d4**|   |   |   |   |
-|Assassin’s gauntlet|50 gp|8 lbs.|Finesse, stealthy|Piercing|
-|Boot dagger|75 gp|4 lbs.|Finesse, stealthy|Piercing|
-|**1d6**|   |   |   |   |
-|Ring blade|10 gp|6 lbs.|Thrown (30/90)|Slashing|
-|**1d8**|   |   |   |   |
-|Double weapon|150 gp|varies|Dual-wielding, parrying, two-handed|Two from bludgeoning, piercing, or slashing|
-|Sword pistol|200 gp|5 lbs.|Finesse, loading, range (10/30)|Piercing|
-|**2d4**|   |   |   |   |
-|Spiked chain|35 gp|20 lbs.|Heavy, parrying immunity, reach (10 ft.), two-handed|Bludgeoning and slashing|
-|**2d6**|   |   |   |   |
-|Mercurial maul|150 gp|15 lbs.|Breaker, heavy, two-handed|Bludgeoning|
+| **Damage Die**      | **Cost** | Low Cost | High Cost | **Weight** | **Properties**                                       | **Damage Type**                             |
+| ------------------- | -------- | -------- | --------- | ---------- | ---------------------------------------------------- | ------------------------------------------- |
+| **1d4**             |          |          |           |            |                                                      |                                             |
+| Assassin’s gauntlet | 50 gp    | 40 gp    | 100 gp    | 8 lbs.     | Finesse, stealthy                                    | Piercing                                    |
+| Boot dagger         | 75 gp    | 60 gp    | 150 gp    | 4 lbs.     | Finesse, stealthy                                    | Piercing                                    |
+| **1d6**             |          |          |           |            |                                                      |                                             |
+| Ring blade          | 10 gp    | 8 gp     | 20 gp     | 6 lbs.     | Thrown (30/90)                                       | Slashing                                    |
+| **1d8**             |          |          |           |            |                                                      |                                             |
+| Double weapon       | 150 gp   | 120 gp   | 300 gp    | varies     | Dual-wielding, parrying, two-handed                  | Two from bludgeoning, piercing, or slashing |
+| Sword pistol        | 200 gp   | 160 gp   | 400 gp    | 5 lbs.     | Finesse, loading, range (10/30)                      | Piercing                                    |
+| **2d4**             |          |          |           |            |                                                      |                                             |
+| Spiked chain        | 35 gp    | 28 gp    | 70 gp     | 20 lbs.    | Heavy, parrying immunity, reach (10 ft.), two-handed | Bludgeoning and slashing                    |
+| **2d6**             |          |          |           |            |                                                      |                                             |
+| Mercurial maul      | 150 gp   | 120 gp   | 300 gp    | 15 lbs.    | Breaker, heavy, two-handed                           | Bludgeoning                                 |
 
-|**Damage Die**|**Cost**|**Weight**|**Properties**|**Damage Type**|
-|---|---|---|---|---|
-|**d6**|   |   |   |   |
-|Geared slingshot|110 gp|25 lbs.|Bulky, heavy, loading, range (60/180), two-handed|Bludgeoning|
-|**d10**|   |   |   |   |
-|Pistol|120 gp|3 lbs.|Loading, range (20/60)|Piercing|
-|Shotgun|150 gp|6 lbs.|Loading, range (30/90)|Piercing|
-|**d12**|   |   |   |   |
-|Carbine|150 gp|5 lbs.|Loading, two-handed, range (50/150)|Piercing|
-|Ratcheting crossbow|125 gp|20 lbs.|Heavy, loading, range (150/600), two-handed|Piercing|
-|**2d6**|   |   |   |   |
-|Revolver|300 gp|3 lbs.|Loading*, range (60/180)|Piercing|
-|**2d8**|   |   |   |   |
-|Musket|350 gp|10 lbs.|Heavy, loading, range (60/180), two-handed|Piercing|
+| **Damage Die**      | **Cost** | Low Cost | High Cost | **Weight** | **Properties**                                    | **Damage Type** |
+| ------------------- | -------- | -------- | --------- | ---------- | ------------------------------------------------- | --------------- |
+| **d6**              |          |          |           |            |                                                   |                 |
+| Geared slingshot    | 110 gp   | 88 gp    | 220 gp    | 25 lbs.    | Bulky, heavy, loading, range (60/180), two-handed | Bludgeoning     |
+| **d10**             |          |          |           |            |                                                   |                 |
+| Pistol              | 120 gp   | 96 gp    | 240 gp    | 3 lbs.     | Loading, range (20/60)                            | Piercing        |
+| Shotgun             | 150 gp   | 120 gp   | 300 gp    | 6 lbs.     | Loading, range (30/90)                            | Piercing        |
+| **d12**             |          |          |           |            |                                                   |                 |
+| Carbine             | 150 gp   | 120 gp   | 300 gp    | 5 lbs.     | Loading, two-handed, range (50/150)               | Piercing        |
+| Ratcheting crossbow | 125 gp   | 100 gp   | 250 gp    | 20 lbs.    | Heavy, loading, range (150/600), two-handed       | Piercing        |
+| **2d6**             |          |          |           |            |                                                   |                 |
+| Revolver            | 300 gp   | 240 gp   | 600 gp    | 3 lbs.     | Loading*, range (60/180)                          | Piercing        |
+| **2d8**             |          |          |           |            |                                                   |                 |
+| Musket              | 350 gp   | 280 gp   | 700 gp    | 10 lbs.    | Heavy, loading, range (60/180), two-handed        | Piercing        |
 
 *Loading a revolver (which holds 6 bullets) requires an action. A revolver can be used to make one ranged attack per bullet loaded into it.
 

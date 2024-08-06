@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/manor
-aliases: ["High Country Ranch"]
+  - compendium/src/5e/toh
+  - optional-feature/manor
+aliases:
+  - High Country Ranch
 ---
 # High Country Ranch
 *Source: Tome of Heroes p. 241*  

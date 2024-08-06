@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/efcf
-aliases: ["Speak with Beasts and Plants"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/efcf
+aliases:
+  - Speak with Beasts and Plants
 ---
 # Speak with Beasts and Plants
 *Source: Flee, Mortals! p. 299*  

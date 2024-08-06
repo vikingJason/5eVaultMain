@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/ei
-aliases: ["Improved Companion"]
+  - compendium/src/5e/toh
+  - optional-feature/ei
+aliases:
+  - Improved Companion
 ---
 # Improved Companion
 *Source: Tome of Heroes p. 135*  

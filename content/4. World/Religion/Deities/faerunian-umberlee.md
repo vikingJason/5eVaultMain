@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/tempest
-aliases: ["Umberlee", "The Bitch Queen", "The Queen of the Depths", "The Wavemother"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/tempest
+aliases:
+  - Umberlee
+  - The Bitch Queen
+  - The Queen of the Depths
+  - The Wavemother
 ---
 # Umberlee
 *Source: Sword Coast Adventurer's Guide p. 21* 

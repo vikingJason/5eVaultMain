@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/arcana
-- domain/knowledge
-aliases: ["Ioun"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/arcana
+  - domain/knowledge
+aliases:
+  - Ioun
 ---
 # Ioun
 *Source: Explorer's Guide to Wildemount p. 23* 

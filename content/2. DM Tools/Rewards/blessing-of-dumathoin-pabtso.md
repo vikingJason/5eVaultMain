@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/pabtso
-- reward/blessing
-aliases: ["Blessing of Dumathoin"]
+  - compendium/src/5e/pabtso
+  - reward/blessing
+aliases:
+  - Blessing of Dumathoin
 ---
 # Blessing of Dumathoin
 

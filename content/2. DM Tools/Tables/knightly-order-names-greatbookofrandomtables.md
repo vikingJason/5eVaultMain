@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["Knightly Order Names"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - Knightly Order Names
 ---
 # Knightly Order Names
 *Source: The Great Book of Random Tables p. 137* 

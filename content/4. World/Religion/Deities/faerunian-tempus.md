@@ -2,10 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/war
-aliases: ["Tempus", "The Foehammer", "The Lord of Battles"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/war
+aliases:
+  - Tempus
+  - The Foehammer
+  - The Lord of Battles
 ---
 # Tempus
 *Source: Sword Coast Adventurer's Guide p. 21* 

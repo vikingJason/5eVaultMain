@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/gnome
-- domain/forge
-- domain/knowledge
-- domain/trickery
-aliases: ["Nebelun"]
+  - compendium/src/mtf
+  - deity/gnome
+  - domain/forge
+  - domain/knowledge
+  - domain/trickery
+aliases:
+  - Nebelun
 ---
 # Nebelun
 *Source: Mordenkainen's Tome of Foes p. 112* 

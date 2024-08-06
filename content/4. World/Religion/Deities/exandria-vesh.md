@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/death
-- domain/life
-aliases: ["Vesh"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/death
+  - domain/life
+aliases:
+  - Vesh
 ---
 # Vesh
 *Source: Explorer's Guide to Wildemount p. 33* 

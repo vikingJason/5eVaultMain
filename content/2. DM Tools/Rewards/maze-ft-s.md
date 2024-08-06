@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/expansion
-aliases: ["Maze"]
+  - compendium/src/5e/ft&s
+  - reward/expansion
+aliases:
+  - Maze
 ---
 # Maze
 *Expansion*  

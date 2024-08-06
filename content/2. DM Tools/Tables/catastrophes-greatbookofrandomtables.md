@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["Catastrophes"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - Catastrophes
 ---
 # Catastrophes
 *Source: The Great Book of Random Tables p. 36* 

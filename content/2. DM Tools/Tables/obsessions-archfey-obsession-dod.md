@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Obsessions; Archfey Obsession"]
+  - compendium/src/5e/dod
+aliases:
+  - Obsessions; Archfey Obsession
 ---
 # Obsessions; Archfey Obsession
 *Source: Domains of Delight p. 13* 

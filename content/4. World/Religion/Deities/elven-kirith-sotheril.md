@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/elven
-- domain/knowledge
-- domain/trickery
-aliases: ["Kirith Sotheril"]
+  - compendium/src/mtf
+  - deity/elven
+  - domain/knowledge
+  - domain/trickery
+aliases:
+  - Kirith Sotheril
 ---
 # Kirith Sotheril
 *Source: Mordenkainen's Tome of Foes p. 43* 

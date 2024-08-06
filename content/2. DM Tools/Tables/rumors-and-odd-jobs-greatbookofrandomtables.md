@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["Rumors and Odd Jobs"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - Rumors and Odd Jobs
 ---
 # Rumors and Odd Jobs
 *Source: The Great Book of Random Tables p. 56-58* 

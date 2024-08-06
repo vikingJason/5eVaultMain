@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/greek
-- domain/forge
-- domain/knowledge
-aliases: ["Hephaestus"]
+  - compendium/src/phb
+  - deity/greek
+  - domain/forge
+  - domain/knowledge
+aliases:
+  - Hephaestus
 ---
 # Hephaestus
 *Source: Player's Handbook p. 298, Xanathar's Guide to Everything p. 18* 

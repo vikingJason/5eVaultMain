@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Dread Aura"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Dread Aura
 ---
 # Dread Aura
 *Magical Trap*  

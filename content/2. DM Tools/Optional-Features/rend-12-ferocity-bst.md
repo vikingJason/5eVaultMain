@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/bst
-- optional-feature/exp
-aliases: ["Rend (12 Ferocity)"]
+  - compendium/src/5e/bst
+  - optional-feature/exp
+aliases:
+  - Rend (12 Ferocity)
 ---
 # Rend (12 Ferocity)
 *Source: MCDM - Beastheart and Monstrous Companions p. 29*  

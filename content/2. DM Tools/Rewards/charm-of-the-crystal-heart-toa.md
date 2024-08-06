@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/toa
-- reward/charm
-aliases: ["Charm of the Crystal Heart"]
+  - compendium/src/5e/toa
+  - reward/charm
+aliases:
+  - Charm of the Crystal Heart
 ---
 # Charm of the Crystal Heart
 

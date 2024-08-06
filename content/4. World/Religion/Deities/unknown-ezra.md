@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/vrgr
-- deity/unknown
-- domain/unknown
-aliases: ["Ezra"]
+  - compendium/src/vrgr
+  - deity/unknown
+  - domain/unknown
+aliases:
+  - Ezra
 ---
 # Ezra
 *Source: Van Richten's Guide to Ravenloft p. 64* 

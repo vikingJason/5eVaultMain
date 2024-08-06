@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/rcg
-- optional-feature/ei
-aliases: ["Death Mask"]
+  - compendium/src/5e/rcg
+  - optional-feature/ei
+aliases:
+  - Death Mask
 ---
 # Death Mask
 *Source: Rashemen - Unnapproachable East Campaign Guide*  

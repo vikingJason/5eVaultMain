@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ftd
-- reward/draconic-gift
-aliases: ["Psionic Reach"]
+  - compendium/src/5e/ftd
+  - reward/draconic-gift
+aliases:
+  - Psionic Reach
 ---
 # Psionic Reach
 *Draconic Gift, VERY_RARE*  

@@ -2,10 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/nature
-aliases: ["Malar", "The Beastlord", "The Black-Blooded One"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/nature
+aliases:
+  - Malar
+  - The Beastlord
+  - The Black-Blooded One
 ---
 # Malar
 *Source: Sword Coast Adventurer's Guide p. 21* 

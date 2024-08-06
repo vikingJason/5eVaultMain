@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/idrotf
-- reward/charm
-aliases: ["Charm of the Traveler's Haven"]
+  - compendium/src/5e/idrotf
+  - reward/charm
+aliases:
+  - Charm of the Traveler's Haven
 ---
 # Charm of the Traveler's Haven
 

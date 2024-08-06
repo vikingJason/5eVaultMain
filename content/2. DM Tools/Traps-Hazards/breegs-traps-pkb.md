@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mech
-aliases: ["Breeg's Traps"]
+  - compendium/src/5e/pkb
+  - hazard/mech
+aliases:
+  - Breeg's Traps
 ---
 # Breeg's Traps
 *Mechanical Trap*  

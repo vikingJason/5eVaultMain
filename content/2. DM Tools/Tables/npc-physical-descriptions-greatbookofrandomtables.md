@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["NPC Physical Descriptions"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - NPC Physical Descriptions
 ---
 # NPC Physical Descriptions
 *Source: The Great Book of Random Tables p. 166-167* 

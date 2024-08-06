@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["Causes of Death"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - Causes of Death
 ---
 # Causes of Death
 *Source: The Great Book of Random Tables p. 150-151* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/oaf
-aliases: ["Arctic Traveler"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/oaf
+aliases:
+  - Arctic Traveler
 ---
 # Arctic Traveler
 *Source: Flee, Mortals! p. 36*  

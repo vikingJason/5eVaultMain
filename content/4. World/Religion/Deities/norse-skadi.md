@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/norse
-- domain/nature
-aliases: ["Skadi"]
+  - compendium/src/phb
+  - deity/norse
+  - domain/nature
+aliases:
+  - Skadi
 ---
 # Skadi
 *Source: Player's Handbook p. 299* 

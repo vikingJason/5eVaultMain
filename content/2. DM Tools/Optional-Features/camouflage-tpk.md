@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tpk
-- optional-feature/et
-aliases: ["Camouflage"]
+  - compendium/src/5e/tpk
+  - optional-feature/et
+aliases:
+  - Camouflage
 ---
 # Camouflage
 *Source: Total Party Kill Bestiary - Vol. 1 p. 50*  

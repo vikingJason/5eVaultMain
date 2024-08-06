@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tgd
-- optional-feature/ei
-aliases: ["Dark Wings, Dark Words"]
+  - compendium/src/5e/tgd
+  - optional-feature/ei
+aliases:
+  - Dark Wings, Dark Words
 ---
 # Dark Wings, Dark Words
 *Source: The Great Dale*  

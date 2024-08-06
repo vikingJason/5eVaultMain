@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/structure
-aliases: ["Inn, town or city"]
+  - compendium/src/5e/ft&s
+  - reward/structure
+aliases:
+  - Inn, town or city
 ---
 # Inn, town or city
 *Structure*  

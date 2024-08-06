@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/death
-- domain/trickery
-aliases: ["Torog"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/death
+  - domain/trickery
+aliases:
+  - Torog
 ---
 # Torog
 *Source: Explorer's Guide to Wildemount p. 28* 

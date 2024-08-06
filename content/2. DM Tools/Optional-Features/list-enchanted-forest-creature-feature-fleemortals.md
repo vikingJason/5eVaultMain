@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/fleemortals
-aliases: ["Enchanted Forest Creature Feature"]
+  - compendium/src/5e/fleemortals
+aliases:
+  - Enchanted Forest Creature Feature
 ---
 # Enchanted Forest Creature Feature
 *Source: Flee, Mortals!* 

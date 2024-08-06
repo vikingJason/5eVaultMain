@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mot
-- deity/theros
-- domain/knowledge
-- domain/tempest
-aliases: ["Keranos"]
+  - compendium/src/mot
+  - deity/theros
+  - domain/knowledge
+  - domain/tempest
+aliases:
+  - Keranos
 ---
 # Keranos
 *Source: Mythic Odysseys of Theros p. 55* 

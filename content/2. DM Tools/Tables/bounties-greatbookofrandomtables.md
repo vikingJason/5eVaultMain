@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["Bounties"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - Bounties
 ---
 # Bounties
 *Source: The Great Book of Random Tables p. 34-35* 

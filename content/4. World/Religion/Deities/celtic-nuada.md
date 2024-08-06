@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/celtic
-- domain/war
-- domain/order
-aliases: ["Nuada"]
+  - compendium/src/phb
+  - deity/celtic
+  - domain/war
+  - domain/order
+aliases:
+  - Nuada
 ---
 # Nuada
 *Source: Player's Handbook p. 298* 

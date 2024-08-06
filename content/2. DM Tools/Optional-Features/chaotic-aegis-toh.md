@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/ei
-aliases: ["Chaotic Aegis"]
+  - compendium/src/5e/toh
+  - optional-feature/ei
+aliases:
+  - Chaotic Aegis
 ---
 # Chaotic Aegis
 *Source: Tome of Heroes p. 134*  

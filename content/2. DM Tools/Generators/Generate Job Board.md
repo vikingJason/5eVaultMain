@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenJobs
- name: 🍻 Generate Job Board 🕶️
- description: Generate a Job Board. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+  promptId: GenJobs
+  name: 🍻 Generate Job Board 🕶️
+  description: Generate a Job Board.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 {{#if selection}}

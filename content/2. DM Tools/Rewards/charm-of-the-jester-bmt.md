@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/bmt
-- reward/charm
-aliases: ["Charm of the Jester"]
+  - compendium/src/5e/bmt
+  - reward/charm
+aliases:
+  - Charm of the Jester
 ---
 # Charm of the Jester
 

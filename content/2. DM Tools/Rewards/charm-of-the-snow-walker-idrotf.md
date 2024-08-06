@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/idrotf
-- reward/charm
-aliases: ["Charm of the Snow Walker"]
+  - compendium/src/5e/idrotf
+  - reward/charm
+aliases:
+  - Charm of the Snow Walker
 ---
 # Charm of the Snow Walker
 

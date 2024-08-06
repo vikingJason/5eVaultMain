@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ftd
-- reward/draconic-gift
-aliases: ["Echo of Dragonsight"]
+  - compendium/src/5e/ftd
+  - reward/draconic-gift
+aliases:
+  - Echo of Dragonsight
 ---
 # Echo of Dragonsight
 *Draconic Gift, VERY_RARE*  

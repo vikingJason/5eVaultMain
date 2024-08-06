@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/gos
-- deity/unknown
-- domain/tempest
-aliases: ["Procan"]
+  - compendium/src/gos
+  - deity/unknown
+  - domain/tempest
+aliases:
+  - Procan
 ---
 # Procan
 *Source: Ghosts of Saltmarsh p. 18* 

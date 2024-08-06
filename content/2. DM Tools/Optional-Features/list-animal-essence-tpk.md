@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tpk
-aliases: ["Animal Essence"]
+  - compendium/src/5e/tpk
+aliases:
+  - Animal Essence
 ---
 # Animal Essence
 *Source: Total Party Kill Bestiary - Vol. 1* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/rsp
-aliases: ["Guildhalls: Initiations"]
+  - compendium/src/5e/rsp
+aliases:
+  - "Guildhalls: Initiations"
 ---
 # Guildhalls: Initiations
 *Source: Raging Swan Press* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/oaf
-aliases: ["Decapitating Strike"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/oaf
+aliases:
+  - Decapitating Strike
 ---
 # Decapitating Strike
 *Source: Flee, Mortals! p. 38*  

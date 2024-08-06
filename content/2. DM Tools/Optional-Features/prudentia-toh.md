@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/dr
-aliases: ["Prudentia"]
+  - compendium/src/5e/toh
+  - optional-feature/dr
+aliases:
+  - Prudentia
 ---
 # Prudentia
 *Source: Tome of Heroes p. 260*  

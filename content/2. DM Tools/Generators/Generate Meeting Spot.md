@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenMeeting
- name: 🎲 Generate Character Meeting 💀
- description: Generate a Job Board.
- author: ColinM
- tags: fantasy, ttrpg
- version: 0.0.1 
+  promptId: GenMeeting
+  name: 🎲 Generate Character Meeting 💀
+  description: Generate a Job Board.
+  author: ColinM
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 {{#if selection}} 

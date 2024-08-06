@@ -4,7 +4,7 @@ Role:
   - organization
 organizationType: Arcane Society
 kingdom: "[[Calindor]]"
-region:  
+region: 
 settlement: 
 urbanArea: 
 leader: 

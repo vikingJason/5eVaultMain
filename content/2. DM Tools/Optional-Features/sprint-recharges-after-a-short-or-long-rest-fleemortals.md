@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/oaf
-aliases: ["Sprint (Recharges after a Short or Long Rest)"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/oaf
+aliases:
+  - Sprint (Recharges after a Short or Long Rest)
 ---
 # Sprint (Recharges after a Short or Long Rest)
 *Source: Flee, Mortals! p. 36*  

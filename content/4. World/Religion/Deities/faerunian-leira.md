@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/trickery
-aliases: ["Leira", "The Lady of the Mists", "Mistshadow", "The Lady of Deception"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/trickery
+aliases:
+  - Leira
+  - The Lady of the Mists
+  - Mistshadow
+  - The Lady of Deception
 ---
 # Leira
 *Source: Sword Coast Adventurer's Guide p. 21* 

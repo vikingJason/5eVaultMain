@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Breath of Despair"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Breath of Despair
 ---
 # Breath of Despair
 *Magical Trap*  

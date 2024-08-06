@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/egyptian
-- domain/life
-- domain/light
-aliases: ["Re-Horakhty"]
+  - compendium/src/phb
+  - deity/egyptian
+  - domain/life
+  - domain/light
+aliases:
+  - Re-Horakhty
 ---
 # Re-Horakhty
 *Source: Player's Handbook p. 299* 

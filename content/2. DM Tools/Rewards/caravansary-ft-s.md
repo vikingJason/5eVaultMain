@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/expansion
-aliases: ["Caravansary"]
+  - compendium/src/5e/ft&s
+  - reward/expansion
+aliases:
+  - Caravansary
 ---
 # Caravansary
 *Expansion*  

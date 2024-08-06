@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/erlw
-- deity/eberron
-- domain/knowledge
-- domain/order
-aliases: ["Aureon"]
+  - compendium/src/erlw
+  - deity/eberron
+  - domain/knowledge
+  - domain/order
+aliases:
+  - Aureon
 ---
 # Aureon
 *Source: Eberron: Rising from the Last War p. 141* 

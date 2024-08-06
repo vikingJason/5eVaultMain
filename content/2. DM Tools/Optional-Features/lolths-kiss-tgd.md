@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tgd
-- optional-feature/ei
-aliases: ["Lolth's Kiss"]
+  - compendium/src/5e/tgd
+  - optional-feature/ei
+aliases:
+  - Lolth's Kiss
 ---
 # Lolth's Kiss
 *Source: The Great Dale*  

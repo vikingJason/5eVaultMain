@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/modification
-aliases: ["Warded or Spell-bound"]
+  - compendium/src/5e/ft&s
+  - reward/modification
+aliases:
+  - Warded or Spell-bound
 ---
 # Warded or Spell-bound
 *Modification*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/secf
-aliases: ["Used to Filth"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/secf
+aliases:
+  - Used to Filth
 ---
 # Used to Filth
 *Source: Flee, Mortals! p. 326*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/mcdm-pp
-aliases: ["Mental Lance"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/mcdm-pp
+aliases:
+  - Mental Lance
 ---
 # Mental Lance
 *Source: Flee, Mortals! p. 392*  

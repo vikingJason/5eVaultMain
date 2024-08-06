@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/norse
-- domain/trickery
-aliases: ["Loki"]
+  - compendium/src/phb
+  - deity/norse
+  - domain/trickery
+aliases:
+  - Loki
 ---
 # Loki
 *Source: Player's Handbook p. 299* 

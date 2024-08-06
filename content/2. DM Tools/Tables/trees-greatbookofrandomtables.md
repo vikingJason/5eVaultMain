@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["Trees"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - Trees
 ---
 # Trees
 *Source: The Great Book of Random Tables p. 119* 

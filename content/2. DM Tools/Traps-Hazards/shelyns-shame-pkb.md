@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Shelyn's Shame"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Shelyn's Shame
 ---
 # Shelyn's Shame
 *Magical Trap*  

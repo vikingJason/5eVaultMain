@@ -2,10 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/light
-aliases: ["Milil", "The Lord of Song", "The One True Hand of All-Wise Oghma"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/light
+aliases:
+  - Milil
+  - The Lord of Song
+  - The One True Hand of All-Wise Oghma
 ---
 # Milil
 *Source: Sword Coast Adventurer's Guide p. 21* 

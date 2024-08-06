@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/dip
-- reward/charm
-aliases: ["Charm of the Storm"]
+  - compendium/src/5e/dip
+  - reward/charm
+aliases:
+  - Charm of the Storm
 ---
 # Charm of the Storm
 

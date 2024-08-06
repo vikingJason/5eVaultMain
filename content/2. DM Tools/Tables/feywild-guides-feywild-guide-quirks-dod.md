@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Feywild Guides; Feywild Guide Quirks"]
+  - compendium/src/5e/dod
+aliases:
+  - Feywild Guides; Feywild Guide Quirks
 ---
 # Feywild Guides; Feywild Guide Quirks
 *Source: Domains of Delight p. 5* 

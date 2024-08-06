@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
-- compendium/src/5e/wdmm
-aliases: ["Elder Runes Deck"]
+  - compendium/src/5e/wdmm
+aliases:
+  - Elder Runes Deck
 ---
 # Elder Runes Deck
 *Source: Waterdeep: Dungeon of the Mad Mage p. 318*  

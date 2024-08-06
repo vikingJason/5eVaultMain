@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/structure
-aliases: ["Keep or Small Castle"]
+  - compendium/src/5e/ft&s
+  - reward/structure
+aliases:
+  - Keep or Small Castle
 ---
 # Keep or Small Castle
 *Structure*  

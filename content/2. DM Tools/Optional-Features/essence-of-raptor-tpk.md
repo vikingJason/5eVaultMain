@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tpk
-- optional-feature/ae
-aliases: ["Essence of Raptor"]
+  - compendium/src/5e/tpk
+  - optional-feature/ae
+aliases:
+  - Essence of Raptor
 ---
 # Essence of Raptor
 *Source: Total Party Kill Bestiary - Vol. 1 p. 17*  

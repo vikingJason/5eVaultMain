@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/erlw
-- deity/eberron
-- domain/tempest
-aliases: ["The Devourer"]
+  - compendium/src/erlw
+  - deity/eberron
+  - domain/tempest
+aliases:
+  - The Devourer
 ---
 # The Devourer
 *Source: Eberron: Rising from the Last War p. 141* 

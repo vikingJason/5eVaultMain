@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/nonhuman
-- domain/war
-- domain/order
-aliases: ["Maglubiyet"]
+  - compendium/src/phb
+  - deity/nonhuman
+  - domain/war
+  - domain/order
+aliases:
+  - Maglubiyet
 ---
 # Maglubiyet
 *Source: Player's Handbook p. 296* 

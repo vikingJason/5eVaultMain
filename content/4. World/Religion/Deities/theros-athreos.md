@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mot
-- deity/theros
-- domain/death
-- domain/grave
-aliases: ["Athreos"]
+  - compendium/src/mot
+  - deity/theros
+  - domain/death
+  - domain/grave
+aliases:
+  - Athreos
 ---
 # Athreos
 *Source: Mythic Odysseys of Theros p. 37* 

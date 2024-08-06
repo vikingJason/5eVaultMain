@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/halfling
-- domain/death
-- domain/grave
-- domain/knowledge
-aliases: ["Urogalan"]
+  - compendium/src/mtf
+  - deity/halfling
+  - domain/death
+  - domain/grave
+  - domain/knowledge
+aliases:
+  - Urogalan
 ---
 # Urogalan
 *Source: Mordenkainen's Tome of Foes p. 104* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/secf
-aliases: ["Of Unusual Size"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/secf
+aliases:
+  - Of Unusual Size
 ---
 # Of Unusual Size
 *Source: Flee, Mortals! p. 326*  

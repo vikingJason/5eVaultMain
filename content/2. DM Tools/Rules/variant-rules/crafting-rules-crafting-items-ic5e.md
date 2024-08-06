@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/ic5e
-aliases: ["Crafting Rules: Crafting Items"]
+  - compendium/src/5e/ic5e
+aliases:
+  - "Crafting Rules: Crafting Items"
 ---
 # Crafting Rules: Crafting Items
 *Source: Item Crafting Rules for 5e* 

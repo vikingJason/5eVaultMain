@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/modification
-aliases: ["Secret Passage"]
+  - compendium/src/5e/ft&s
+  - reward/modification
+aliases:
+  - Secret Passage
 ---
 # Secret Passage
 *Modification*  

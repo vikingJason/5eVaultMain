@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenInn
- name: 🍻 Generate Inn 🛏️
- description: Generate a fantasy inn. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+  promptId: GenInn
+  name: 🍻 Generate Inn 🛏️
+  description: Generate a fantasy inn.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 https://chatgpt.com/c/e2f875cd-4d8f-4fba-933c-8f50b8f4cb9f

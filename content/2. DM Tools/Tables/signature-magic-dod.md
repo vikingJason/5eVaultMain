@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Signature Magic"]
+  - compendium/src/5e/dod
+aliases:
+  - Signature Magic
 ---
 # Signature Magic
 *Source: Domains of Delight p. 14* 

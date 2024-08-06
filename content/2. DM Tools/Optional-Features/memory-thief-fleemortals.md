@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/mcdm-pp
-aliases: ["Memory Thief"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/mcdm-pp
+aliases:
+  - Memory Thief
 ---
 # Memory Thief
 *Source: Flee, Mortals! p. 392*  

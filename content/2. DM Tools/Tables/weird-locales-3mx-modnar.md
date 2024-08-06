@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/3mx-modnar
-aliases: ["Weird Locales"]
+  - compendium/src/5e/3mx-modnar
+aliases:
+  - Weird Locales
 ---
 # Weird Locales
 *Source: Modnar's Marvelous Miscellany - Campaign Expansion* 

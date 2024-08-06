@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Test of Endurance"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Test of Endurance
 ---
 # Test of Endurance
 *Magical Trap*  

@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/dragonlance
-- domain/trickery
-aliases: ["Hiddukel"]
+  - compendium/src/phb
+  - deity/dragonlance
+  - domain/trickery
+aliases:
+  - Hiddukel
 ---
 # Hiddukel
 *Source: Player's Handbook p. 295* 

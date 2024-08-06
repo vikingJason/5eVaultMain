@@ -2,14 +2,15 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/elven
-- domain/arcana
-- domain/life
-- domain/light
-- domain/war
-- domain/arcana
-aliases: ["Corellon Larethian"]
+  - compendium/src/mtf
+  - deity/elven
+  - domain/arcana
+  - domain/life
+  - domain/light
+  - domain/war
+  - domain/arcana
+aliases:
+  - Corellon Larethian
 ---
 # Corellon Larethian
 *Source: Mordenkainen's Tome of Foes p. 43, Sword Coast Adventurer's Guide p. 125* 

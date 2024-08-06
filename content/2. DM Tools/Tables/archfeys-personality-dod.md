@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Archfey's Personality"]
+  - compendium/src/5e/dod
+aliases:
+  - Archfey's Personality
 ---
 # Archfey's Personality
 *Source: Domains of Delight p. 13* 

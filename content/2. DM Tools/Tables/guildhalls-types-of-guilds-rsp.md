@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/rsp
-aliases: ["Guildhalls: Types of Guilds"]
+  - compendium/src/5e/rsp
+aliases:
+  - "Guildhalls: Types of Guilds"
 ---
 # Guildhalls: Types of Guilds
 *Source: Raging Swan Press* 

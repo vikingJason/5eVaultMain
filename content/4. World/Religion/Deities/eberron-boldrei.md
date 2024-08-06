@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/erlw
-- deity/eberron
-- domain/life
-- domain/peace
-- domain/twilight
-aliases: ["Boldrei"]
+  - compendium/src/erlw
+  - deity/eberron
+  - domain/life
+  - domain/peace
+  - domain/twilight
+aliases:
+  - Boldrei
 ---
 # Boldrei
 *Source: Eberron: Rising from the Last War p. 141, Tasha's Cauldron of Everything p. 32, Tasha's Cauldron of Everything p. 34* 

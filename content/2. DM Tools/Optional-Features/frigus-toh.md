@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/dr
-aliases: ["Frigus"]
+  - compendium/src/5e/toh
+  - optional-feature/dr
+aliases:
+  - Frigus
 ---
 # Frigus
 *Source: Tome of Heroes p. 258*  

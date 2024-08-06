@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/bmt
-- reward/charm
-aliases: ["Charm of the Throne"]
+  - compendium/src/5e/bmt
+  - reward/charm
+aliases:
+  - Charm of the Throne
 ---
 # Charm of the Throne
 

@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenDungeonRoom
- name: 💀 Generate Dungeon Room 👻
- description: Generate a fantasy dungeon room. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+  promptId: GenDungeonRoom
+  name: 💀 Generate Dungeon Room 👻
+  description: Generate a fantasy dungeon room.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 {{#if selection}}

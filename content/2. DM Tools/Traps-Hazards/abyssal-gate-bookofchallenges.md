@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/bookofchallenges
-- hazard/mag
-aliases: ["Abyssal Gate"]
+  - compendium/src/5e/bookofchallenges
+  - hazard/mag
+aliases:
+  - Abyssal Gate
 ---
 # Abyssal Gate
 *Magical Trap*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-aliases: ["Spiral Seal"]
+  - compendium/src/5e/pkb
+aliases:
+  - Spiral Seal
 ---
 # Spiral Seal
 *Generic Hazard*  

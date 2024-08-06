@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/dmg
-- deity/dawn-war
-- domain/trickery
-- domain/war
-aliases: ["Tiamat"]
+  - compendium/src/dmg
+  - deity/dawn-war
+  - domain/trickery
+  - domain/war
+aliases:
+  - Tiamat
 ---
 # Tiamat
 *Source: Dungeon Master's Guide p. 10* 

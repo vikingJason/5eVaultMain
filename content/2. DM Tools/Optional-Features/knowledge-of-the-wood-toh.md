@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/ei
-aliases: ["Knowledge of the Wood"]
+  - compendium/src/5e/toh
+  - optional-feature/ei
+aliases:
+  - Knowledge of the Wood
 ---
 # Knowledge of the Wood
 *Source: Tome of Heroes p. 135*  

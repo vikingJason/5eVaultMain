@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/fleemortals
-aliases: ["Ruined Keep Creature Feature"]
+  - compendium/src/5e/fleemortals
+aliases:
+  - Ruined Keep Creature Feature
 ---
 # Ruined Keep Creature Feature
 *Source: Flee, Mortals!* 

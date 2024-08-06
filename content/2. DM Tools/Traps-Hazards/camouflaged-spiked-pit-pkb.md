@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mech
-aliases: ["Camouflaged Spiked Pit"]
+  - compendium/src/5e/pkb
+  - hazard/mech
+aliases:
+  - Camouflaged Spiked Pit
 ---
 # Camouflaged Spiked Pit
 *Mechanical Trap*  

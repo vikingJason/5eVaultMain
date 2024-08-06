@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/rsp
-aliases: ["10 Things to Say When a PC Spectacularly Fails to Pick a Lock"]
+  - compendium/src/5e/rsp
+aliases:
+  - 10 Things to Say When a PC Spectacularly Fails to Pick a Lock
 ---
 # 10 Things to Say When a PC Spectacularly Fails to Pick a Lock
 *Source: Raging Swan Press* 

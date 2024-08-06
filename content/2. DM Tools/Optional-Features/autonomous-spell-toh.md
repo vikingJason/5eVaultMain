@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/mm
-aliases: ["Autonomous Spell"]
+  - compendium/src/5e/toh
+  - optional-feature/mm
+aliases:
+  - Autonomous Spell
 ---
 # Autonomous Spell
 *Source: Tome of Heroes p. 125*  

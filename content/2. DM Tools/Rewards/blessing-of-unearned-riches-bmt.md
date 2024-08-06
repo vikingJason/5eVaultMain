@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/bmt
-- reward/blessing
-aliases: ["Blessing of Unearned Riches"]
+  - compendium/src/5e/bmt
+  - reward/blessing
+aliases:
+  - Blessing of Unearned Riches
 ---
 # Blessing of Unearned Riches
 

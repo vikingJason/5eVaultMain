@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/drow
-- domain/arcana
-- domain/death
-aliases: ["Kiaransalee"]
+  - compendium/src/mtf
+  - deity/drow
+  - domain/arcana
+  - domain/death
+aliases:
+  - Kiaransalee
 ---
 # Kiaransalee
 *Source: Mordenkainen's Tome of Foes p. 54* 

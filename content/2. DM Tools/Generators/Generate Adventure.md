@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenAdventure
- name: 🎲 Generate Adventure 💀
- description: Generate a Job Board. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+  promptId: GenAdventure
+  name: 🎲 Generate Adventure 💀
+  description: Generate a Job Board.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 {{#if selection}}

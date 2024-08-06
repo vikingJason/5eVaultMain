@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Void Pit"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Void Pit
 ---
 # Void Pit
 *Magical Trap*  

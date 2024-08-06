@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Greater Glyph of Warding"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Greater Glyph of Warding
 ---
 # Greater Glyph of Warding
 *Magical Trap*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/dr
-aliases: ["Anima"]
+  - compendium/src/5e/toh
+  - optional-feature/dr
+aliases:
+  - Anima
 ---
 # Anima
 *Source: Tome of Heroes p. 257*  

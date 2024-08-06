@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/life
-- domain/order
-- domain/war
-aliases: ["Bahamut"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/life
+  - domain/order
+  - domain/war
+aliases:
+  - Bahamut
 ---
 # Bahamut
 *Source: Explorer's Guide to Wildemount p. 21* 

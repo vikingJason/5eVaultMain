@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/toa
-- reward/inhabitation
-aliases: ["I'jin"]
+  - compendium/src/5e/toa
+  - reward/inhabitation
+aliases:
+  - I'jin
 ---
 # I'jin
 *Inhabitation*  

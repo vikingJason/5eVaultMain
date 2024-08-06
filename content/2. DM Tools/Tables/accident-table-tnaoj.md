@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tnaoj
-aliases: ["Accident Table"]
+  - compendium/src/5e/tnaoj
+aliases:
+  - Accident Table
 ---
 # Accident Table
 *Source: The Noble Art of Jousting* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tob
-- optional-feature/oth
-aliases: ["Ethereal Jaunt"]
+  - compendium/src/5e/tob
+  - optional-feature/oth
+aliases:
+  - Ethereal Jaunt
 ---
 # Ethereal Jaunt
 *Source: Tome of Beasts*  

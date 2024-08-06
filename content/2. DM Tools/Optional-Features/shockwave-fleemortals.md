@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/mcdm-pp
-aliases: ["Shockwave"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/mcdm-pp
+aliases:
+  - Shockwave
 ---
 # Shockwave
 *Source: Flee, Mortals! p. 393*  

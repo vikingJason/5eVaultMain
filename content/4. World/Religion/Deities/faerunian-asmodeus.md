@@ -2,12 +2,16 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/knowledge
-- domain/trickery
-- domain/order
-aliases: ["Asmodeus", "The Lord of the Ninth", "The Cloven", "Old Hoof and Horn"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/knowledge
+  - domain/trickery
+  - domain/order
+aliases:
+  - Asmodeus
+  - The Lord of the Ninth
+  - The Cloven
+  - Old Hoof and Horn
 ---
 # Asmodeus
 *Source: Sword Coast Adventurer's Guide p. 21* 

@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenFungus
- name: 🎲 Generate Fungus 🌿
- description: Generate a Fungus. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+  promptId: GenFungus
+  name: 🎲 Generate Fungus 🌿
+  description: Generate a Fungus.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 {{#if selection}}

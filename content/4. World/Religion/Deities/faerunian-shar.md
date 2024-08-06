@@ -2,11 +2,15 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/death
-- domain/trickery
-aliases: ["Shar", "The Mistress of the Night", "The Dark Lady", "Our Lady of Loss"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/death
+  - domain/trickery
+aliases:
+  - Shar
+  - The Mistress of the Night
+  - The Dark Lady
+  - Our Lady of Loss
 ---
 # Shar
 *Source: Sword Coast Adventurer's Guide p. 21* 

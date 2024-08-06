@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/structure
-aliases: ["Dungeon or Barrow"]
+  - compendium/src/5e/ft&s
+  - reward/structure
+aliases:
+  - Dungeon or Barrow
 ---
 # Dungeon or Barrow
 *Structure*  

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/death
-- domain/grave
-aliases: ["The Raven Queen"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/death
+  - domain/grave
+aliases:
+  - The Raven Queen
 ---
 # The Raven Queen
 *Source: Explorer's Guide to Wildemount p. 24* 

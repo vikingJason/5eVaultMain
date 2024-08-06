@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-aliases: ["Weakened Floor"]
+  - compendium/src/5e/pkb
+aliases:
+  - Weakened Floor
 ---
 # Weakened Floor
 *Generic Hazard*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/hfstcm
-- reward/charm
-aliases: ["Charm of the Stumblenoodle"]
+  - compendium/src/5e/hfstcm
+  - reward/charm
+aliases:
+  - Charm of the Stumblenoodle
 ---
 # Charm of the Stumblenoodle
 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/expansion
-aliases: ["Invocation Chamber"]
+  - compendium/src/5e/ft&s
+  - reward/expansion
+aliases:
+  - Invocation Chamber
 ---
 # Invocation Chamber
 *Expansion*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/toa
-- reward/charm
-aliases: ["Clay No-Face's Charm"]
+  - compendium/src/5e/toa
+  - reward/charm
+aliases:
+  - Clay No-Face's Charm
 ---
 # Clay No-Face's Charm
 *Charm*  

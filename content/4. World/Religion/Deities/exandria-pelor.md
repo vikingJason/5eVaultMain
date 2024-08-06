@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/life
-- domain/light
-- domain/nature
-aliases: ["Pelor"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/life
+  - domain/light
+  - domain/nature
+aliases:
+  - Pelor
 ---
 # Pelor
 *Source: Explorer's Guide to Wildemount p. 24* 

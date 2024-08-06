@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/bmt
-- hazard/mech
-aliases: ["Balance and Ruin"]
+  - compendium/src/5e/bmt
+  - hazard/mech
+aliases:
+  - Balance and Ruin
 ---
 # Balance and Ruin
 *Mechanical Trap*  

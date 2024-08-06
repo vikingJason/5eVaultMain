@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/swcf
-aliases: ["One with the Swamp"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/swcf
+aliases:
+  - One with the Swamp
 ---
 # One with the Swamp
 *Source: Flee, Mortals! p. 332*  

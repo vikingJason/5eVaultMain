@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/crcotn
-- reward/fragment-of-suffering
-aliases: ["Fragment of Despondence"]
+  - compendium/src/5e/crcotn
+  - reward/fragment-of-suffering
+aliases:
+  - Fragment of Despondence
 ---
 # Fragment of Despondence
 *Fragment of Suffering*  

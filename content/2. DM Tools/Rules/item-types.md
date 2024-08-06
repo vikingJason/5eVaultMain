@@ -2,19 +2,20 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dmg
-- compendium/src/5e/hhbh
-- compendium/src/5e/hhhvi
-- compendium/src/5e/hhhvii
-- compendium/src/5e/hhhviii
-- compendium/src/5e/kpsc
-- compendium/src/5e/phb
-- compendium/src/5e/saf
-- compendium/src/5e/tdcsr
-- compendium/src/5e/toh
-- compendium/src/5e/tradersandmerchants
-- compendium/src/5e/vom
-aliases: ["Item Types"]
+  - compendium/src/5e/dmg
+  - compendium/src/5e/hhbh
+  - compendium/src/5e/hhhvi
+  - compendium/src/5e/hhhvii
+  - compendium/src/5e/hhhviii
+  - compendium/src/5e/kpsc
+  - compendium/src/5e/phb
+  - compendium/src/5e/saf
+  - compendium/src/5e/tdcsr
+  - compendium/src/5e/toh
+  - compendium/src/5e/tradersandmerchants
+  - compendium/src/5e/vom
+aliases:
+  - Item Types
 ---
 # Item Types
 

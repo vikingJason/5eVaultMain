@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Fey Abodes"]
+  - compendium/src/5e/dod
+aliases:
+  - Fey Abodes
 ---
 # Fey Abodes
 *Source: Domains of Delight p. 11* 

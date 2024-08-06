@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenApothecary
- name: 🎲 Generate Apothecary Shop ☘️
- description: Generate a fantasy magic shop. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+  promptId: GenApothecary
+  name: 🎲 Generate Apothecary Shop ☘️
+  description: Generate a fantasy magic shop.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 https://chatgpt.com/c/db80d16c-b8bf-4ad3-9278-73e655a83e67
 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/modification
-aliases: ["Teleportation rune"]
+  - compendium/src/5e/ft&s
+  - reward/modification
+aliases:
+  - Teleportation rune
 ---
 # Teleportation rune
 *Modification*  

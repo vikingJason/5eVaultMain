@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/rcg
-- optional-feature/ei
-aliases: ["Forbidden Magic"]
+  - compendium/src/5e/rcg
+  - optional-feature/ei
+aliases:
+  - Forbidden Magic
 ---
 # Forbidden Magic
 *Source: Rashemen - Unnapproachable East Campaign Guide*  

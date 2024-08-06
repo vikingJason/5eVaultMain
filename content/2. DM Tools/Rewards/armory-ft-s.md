@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/expansion
-aliases: ["Armory"]
+  - compendium/src/5e/ft&s
+  - reward/expansion
+aliases:
+  - Armory
 ---
 # Armory
 *Expansion*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["Curses"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - Curses
 ---
 # Curses
 *Source: The Great Book of Random Tables p. 152-153* 

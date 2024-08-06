@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/expansion
-aliases: ["Arcanist's Study"]
+  - compendium/src/5e/ft&s
+  - reward/expansion
+aliases:
+  - Arcanist's Study
 ---
 # Arcanist's Study
 *Expansion*  

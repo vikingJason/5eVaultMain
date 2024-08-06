@@ -2,10 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/knowledge
-aliases: ["Oghma", "The Binder", "The Lord of Knowledge"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/knowledge
+aliases:
+  - Oghma
+  - The Binder
+  - The Lord of Knowledge
 ---
 # Oghma
 *Source: Sword Coast Adventurer's Guide p. 21* 

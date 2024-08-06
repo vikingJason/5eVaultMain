@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-aliases: ["Exploding Bloom Pods"]
+  - compendium/src/5e/pkb
+aliases:
+  - Exploding Bloom Pods
 ---
 # Exploding Bloom Pods
 *Generic Hazard*  

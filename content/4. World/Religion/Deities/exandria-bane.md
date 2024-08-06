@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/forge
-- domain/order
-- domain/war
-aliases: ["Bane"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/forge
+  - domain/order
+  - domain/war
+aliases:
+  - Bane
 ---
 # Bane
 *Source: Explorer's Guide to Wildemount p. 26* 

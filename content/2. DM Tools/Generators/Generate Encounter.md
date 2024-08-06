@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenEncounter
- name: 🍻 Generate Encounter 🛏️
- description: Generate a enocunter. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+  promptId: GenEncounter
+  name: 🍻 Generate Encounter 🛏️
+  description: Generate a enocunter.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 {{#if selection}}

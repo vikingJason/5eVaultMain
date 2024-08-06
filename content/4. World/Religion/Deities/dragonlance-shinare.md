@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/dragonlance
-- domain/knowledge
-- domain/trickery
-aliases: ["Shinare"]
+  - compendium/src/phb
+  - deity/dragonlance
+  - domain/knowledge
+  - domain/trickery
+aliases:
+  - Shinare
 ---
 # Shinare
 *Source: Player's Handbook p. 295* 

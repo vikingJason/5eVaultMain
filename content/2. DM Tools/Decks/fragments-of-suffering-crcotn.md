@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
-- compendium/src/5e/crcotn
-aliases: ["Fragments of Suffering"]
+  - compendium/src/5e/crcotn
+aliases:
+  - Fragments of Suffering
 ---
 # Fragments of Suffering
 *Source: Critical Role: Call of the Netherdeep p. 218*  

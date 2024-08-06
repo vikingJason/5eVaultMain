@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/bgdia
-- reward/charm
-aliases: ["Charm of Lesser Conscription"]
+  - compendium/src/5e/bgdia
+  - reward/charm
+aliases:
+  - Charm of Lesser Conscription
 ---
 # Charm of Lesser Conscription
 

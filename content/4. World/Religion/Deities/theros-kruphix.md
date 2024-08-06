@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mot
-- deity/theros
-- domain/knowledge
-- domain/trickery
-aliases: ["Kruphix"]
+  - compendium/src/mot
+  - deity/theros
+  - domain/knowledge
+  - domain/trickery
+aliases:
+  - Kruphix
 ---
 # Kruphix
 *Source: Mythic Odysseys of Theros p. 61* 

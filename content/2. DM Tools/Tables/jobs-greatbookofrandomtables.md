@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["Jobs"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - Jobs
 ---
 # Jobs
 *Source: The Great Book of Random Tables p. 46-47* 

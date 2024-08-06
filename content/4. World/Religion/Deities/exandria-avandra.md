@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/nature
-- domain/trickery
-aliases: ["Avandra"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/nature
+  - domain/trickery
+aliases:
+  - Avandra
 ---
 # Avandra
 *Source: Explorer's Guide to Wildemount p. 20* 

@@ -2,12 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/elven
-- domain/grave
-- domain/knowledge
-- domain/light
-aliases: ["Sehanine Moonbow"]
+  - compendium/src/mtf
+  - deity/elven
+  - domain/grave
+  - domain/knowledge
+  - domain/light
+aliases:
+  - Sehanine Moonbow
 ---
 # Sehanine Moonbow
 *Source: Mordenkainen's Tome of Foes p. 46* 

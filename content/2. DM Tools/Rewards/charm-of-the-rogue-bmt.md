@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/bmt
-- reward/charm
-aliases: ["Charm of the Rogue"]
+  - compendium/src/5e/bmt
+  - reward/charm
+aliases:
+  - Charm of the Rogue
 ---
 # Charm of the Rogue
 

@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/celtic
-- domain/light
-aliases: ["Belenus"]
+  - compendium/src/phb
+  - deity/celtic
+  - domain/light
+aliases:
+  - Belenus
 ---
 # Belenus
 *Source: Player's Handbook p. 298* 

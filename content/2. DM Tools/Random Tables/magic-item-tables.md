@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
-aliases: ["Magic Item Tables"]
+aliases:
+  - Magic Item Tables
 ---
 # Magic Item Tables
 

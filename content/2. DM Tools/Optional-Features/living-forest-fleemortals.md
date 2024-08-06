@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/efcf
-aliases: ["Living Forest"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/efcf
+aliases:
+  - Living Forest
 ---
 # Living Forest
 *Source: Flee, Mortals! p. 299*  

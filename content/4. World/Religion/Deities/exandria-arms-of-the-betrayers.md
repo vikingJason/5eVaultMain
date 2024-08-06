@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/death
-- domain/war
-aliases: ["Arms of the Betrayers"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/death
+  - domain/war
+aliases:
+  - Arms of the Betrayers
 ---
 # Arms of the Betrayers
 *Source: Explorer's Guide to Wildemount p. 30* 

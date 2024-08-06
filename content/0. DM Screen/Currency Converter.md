@@ -1,9 +1,9 @@
 ---
-CoinsCopper: 0
-CoinsSilver: 0
-CoinsElectrum: 50
-CoinsGold: 0
-CoinsPlatinum: 0
+CoinsCopper: 1
+CoinsSilver: 1
+CoinsElectrum: 1
+CoinsGold: 1
+CoinsPlatinum: 1
 PartySize: 1
 bind_target: "[[3. Mechanics/Alignments/True Neutral.md|True Neutral]]"
 draft: true

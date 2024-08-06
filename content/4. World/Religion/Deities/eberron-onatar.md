@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/erlw
-- deity/eberron
-- domain/forge
-- domain/knowledge
-aliases: ["Onatar"]
+  - compendium/src/erlw
+  - deity/eberron
+  - domain/forge
+  - domain/knowledge
+aliases:
+  - Onatar
 ---
 # Onatar
 *Source: Eberron: Rising from the Last War p. 141* 

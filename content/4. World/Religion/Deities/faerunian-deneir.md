@@ -2,11 +2,15 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/arcana
-- domain/knowledge
-aliases: ["Deneir", "The Lord of All Glyphs and Images", "The First Scribe", "The Scribe of Oghma"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/arcana
+  - domain/knowledge
+aliases:
+  - Deneir
+  - The Lord of All Glyphs and Images
+  - The First Scribe
+  - The Scribe of Oghma
 ---
 # Deneir
 *Source: Sword Coast Adventurer's Guide p. 21* 

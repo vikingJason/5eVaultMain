@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/dragonlance
-- domain/war
-- domain/peace
-aliases: ["Paladine"]
+  - compendium/src/phb
+  - deity/dragonlance
+  - domain/war
+  - domain/peace
+aliases:
+  - Paladine
 ---
 # Paladine
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 32* 

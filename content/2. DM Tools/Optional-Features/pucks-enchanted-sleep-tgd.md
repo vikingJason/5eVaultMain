@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tgd
-- optional-feature/ei
-aliases: ["Puck's Enchanted Sleep"]
+  - compendium/src/5e/tgd
+  - optional-feature/ei
+aliases:
+  - Puck's Enchanted Sleep
 ---
 # Puck's Enchanted Sleep
 *Source: The Great Dale*  

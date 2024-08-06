@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/egyptian
-- domain/nature
-- domain/tempest
-aliases: ["Sobek"]
+  - compendium/src/phb
+  - deity/egyptian
+  - domain/nature
+  - domain/tempest
+aliases:
+  - Sobek
 ---
 # Sobek
 *Source: Player's Handbook p. 299* 

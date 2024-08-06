@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/morepredictiblewishspells
-aliases: ["(More Predictable) Wish Spells"]
+  - compendium/src/5e/morepredictiblewishspells
+aliases:
+  - (More Predictable) Wish Spells
 ---
 # (More Predictable) Wish Spells
 *Source: (More Predictible) Wish Spells* 

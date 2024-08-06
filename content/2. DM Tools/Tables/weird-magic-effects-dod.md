@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Weird Magic Effects"]
+  - compendium/src/5e/dod
+aliases:
+  - Weird Magic Effects
 ---
 # Weird Magic Effects
 *Source: Domains of Delight p. 19* 

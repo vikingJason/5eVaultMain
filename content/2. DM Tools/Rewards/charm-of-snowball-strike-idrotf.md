@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/idrotf
-- reward/charm
-aliases: ["Charm of Snowball Strike"]
+  - compendium/src/5e/idrotf
+  - reward/charm
+aliases:
+  - Charm of Snowball Strike
 ---
 # Charm of Snowball Strike
 

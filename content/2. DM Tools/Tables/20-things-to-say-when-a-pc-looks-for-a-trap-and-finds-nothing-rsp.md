@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/rsp
-aliases: ["20 Things to Say When a PC Looks for a Trap and Finds Nothing"]
+  - compendium/src/5e/rsp
+aliases:
+  - 20 Things to Say When a PC Looks for a Trap and Finds Nothing
 ---
 # 20 Things to Say When a PC Looks for a Trap and Finds Nothing
 *Source: Raging Swan Press* 

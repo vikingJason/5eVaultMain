@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mot
-- deity/theros
-- domain/war
-aliases: ["Mogis"]
+  - compendium/src/mot
+  - deity/theros
+  - domain/war
+aliases:
+  - Mogis
 ---
 # Mogis
 *Source: Mythic Odysseys of Theros p. 64* 

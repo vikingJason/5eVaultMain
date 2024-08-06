@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/mot
-- reward/piety-trait
-aliases: ["Champion of the Polis"]
+  - compendium/src/5e/mot
+  - reward/piety-trait
+aliases:
+  - Champion of the Polis
 ---
 # Champion of the Polis
 *Piety Trait*  

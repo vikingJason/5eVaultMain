@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/nonhuman
-- domain/nature
-aliases: ["Skerrit"]
+  - compendium/src/phb
+  - deity/nonhuman
+  - domain/nature
+aliases:
+  - Skerrit
 ---
 # Skerrit
 *Source: Player's Handbook p. 296* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/ffnf
-aliases: ["Archery Range Competition Scoring"]
+  - compendium/src/5e/ffnf
+aliases:
+  - Archery Range Competition Scoring
 ---
 # Archery Range Competition Scoring
 *Source: Festival, Feats, and Fairs* 

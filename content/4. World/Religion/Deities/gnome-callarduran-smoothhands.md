@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/gnome
-- domain/knowledge
-- domain/nature
-aliases: ["Callarduran Smoothhands"]
+  - compendium/src/mtf
+  - deity/gnome
+  - domain/knowledge
+  - domain/nature
+aliases:
+  - Callarduran Smoothhands
 ---
 # Callarduran Smoothhands
 *Source: Mordenkainen's Tome of Foes p. 111* 

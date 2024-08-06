@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/drow
-- domain/tempest
-- domain/trickery
-aliases: ["Malyk"]
+  - compendium/src/mtf
+  - deity/drow
+  - domain/tempest
+  - domain/trickery
+aliases:
+  - Malyk
 ---
 # Malyk
 *Source: Mordenkainen's Tome of Foes p. 54* 

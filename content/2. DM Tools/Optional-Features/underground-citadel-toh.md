@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/manor
-aliases: ["Underground Citadel"]
+  - compendium/src/5e/toh
+  - optional-feature/manor
+aliases:
+  - Underground Citadel
 ---
 # Underground Citadel
 *Source: Tome of Heroes p. 242*  

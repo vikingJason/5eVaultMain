@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/celtic
-- domain/knowledge
-- domain/arcana
-aliases: ["Math Mathonwy"]
+  - compendium/src/phb
+  - deity/celtic
+  - domain/knowledge
+  - domain/arcana
+aliases:
+  - Math Mathonwy
 ---
 # Math Mathonwy
 *Source: Player's Handbook p. 298, Sword Coast Adventurer's Guide p. 125* 

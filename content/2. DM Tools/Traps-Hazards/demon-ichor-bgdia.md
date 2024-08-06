@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/bgdia
-aliases: ["Demon Ichor"]
+  - compendium/src/5e/bgdia
+aliases:
+  - Demon Ichor
 ---
 # Demon Ichor
 *Generic Hazard*  

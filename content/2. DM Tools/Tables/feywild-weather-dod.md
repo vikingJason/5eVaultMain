@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Feywild Weather"]
+  - compendium/src/5e/dod
+aliases:
+  - Feywild Weather
 ---
 # Feywild Weather
 *Source: Domains of Delight p. 5* 

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/greyhawk
-- domain/light
-- domain/order
-aliases: ["Pholtus"]
+  - compendium/src/phb
+  - deity/greyhawk
+  - domain/light
+  - domain/order
+aliases:
+  - Pholtus
 ---
 # Pholtus
 *Source: Player's Handbook p. 295* 

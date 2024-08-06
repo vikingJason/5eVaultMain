@@ -8,7 +8,7 @@ Aliases:
   - Transmutation
   - Necromancy
   - Conjuration
-Tags:
+Tags: 
 Source: DoD
 SourceType: Adventure
 Publisher: Dungeons on Demand

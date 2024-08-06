@@ -2,11 +2,15 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/knowledge
-- domain/trickery
-aliases: ["Waukeen", "Our Lady of Gold", "The Coinmaiden", "The Merchant's Friend"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/knowledge
+  - domain/trickery
+aliases:
+  - Waukeen
+  - Our Lady of Gold
+  - The Coinmaiden
+  - The Merchant's Friend
 ---
 # Waukeen
 *Source: Sword Coast Adventurer's Guide p. 21* 

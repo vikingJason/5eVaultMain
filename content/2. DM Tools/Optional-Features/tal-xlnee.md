@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/xlnee
-- optional-feature/f-ra
-aliases: ["Tal"]
+  - compendium/src/5e/xlnee
+  - optional-feature/f-ra
+aliases:
+  - Tal
 ---
 # Tal
 *Source: Xanathar's Lost Notes to Everything Else p. 20*  

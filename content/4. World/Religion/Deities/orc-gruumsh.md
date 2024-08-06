@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/vgm
-- deity/orc
-aliases: ["Gruumsh"]
+  - compendium/src/vgm
+  - deity/orc
+aliases:
+  - Gruumsh
 ---
 # Gruumsh
 *Source: Volo's Guide to Monsters p. 82, Derived from Gruumsh (SCAG)* 

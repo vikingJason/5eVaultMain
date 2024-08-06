@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Phantasmagoric Fog"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Phantasmagoric Fog
 ---
 # Phantasmagoric Fog
 *Magical Trap*  

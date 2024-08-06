@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Fey Curses; Ending the Curse"]
+  - compendium/src/5e/dod
+aliases:
+  - Fey Curses; Ending the Curse
 ---
 # Fey Curses; Ending the Curse
 *Source: Domains of Delight p. 10* 

@@ -2,10 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/death
-aliases: ["Bhaal", "The Lord of Murder"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/death
+aliases:
+  - Bhaal
+  - The Lord of Murder
 ---
 # Bhaal
 *Source: Sword Coast Adventurer's Guide p. 21* 

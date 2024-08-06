@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Frozen Moment"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Frozen Moment
 ---
 # Frozen Moment
 *Magical Trap*  

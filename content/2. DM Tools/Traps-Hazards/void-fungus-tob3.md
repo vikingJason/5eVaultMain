@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/tob3
-- hazard/env
-aliases: ["Void Fungus"]
+  - compendium/src/5e/tob3
+  - hazard/env
+aliases:
+  - Void Fungus
 ---
 # Void Fungus
 *Environmental Hazard*  

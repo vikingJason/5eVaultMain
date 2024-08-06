@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/idrotf
-- reward/charm
-aliases: ["Charm of Bounty"]
+  - compendium/src/5e/idrotf
+  - reward/charm
+aliases:
+  - Charm of Bounty
 ---
 # Charm of Bounty
 

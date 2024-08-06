@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/idrotf
-- reward/charm
-aliases: ["Charm of Cold Resistance"]
+  - compendium/src/5e/idrotf
+  - reward/charm
+aliases:
+  - Charm of Cold Resistance
 ---
 # Charm of Cold Resistance
 

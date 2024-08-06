@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/oaf
-aliases: ["Adept Climber"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/oaf
+aliases:
+  - Adept Climber
 ---
 # Adept Climber
 *Source: Flee, Mortals! p. 36*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Locking Alarm"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Locking Alarm
 ---
 # Locking Alarm
 *Magical Trap*  

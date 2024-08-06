@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/bmt
-- hazard/mech
-aliases: ["Test of the Empty Moon"]
+  - compendium/src/5e/bmt
+  - hazard/mech
+aliases:
+  - Test of the Empty Moon
 ---
 # Test of the Empty Moon
 *Mechanical Trap*  

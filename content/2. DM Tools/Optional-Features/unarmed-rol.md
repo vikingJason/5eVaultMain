@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/rol
-- optional-feature/fs-f
-aliases: ["Unarmed"]
+  - compendium/src/5e/rol
+  - optional-feature/fs-f
+aliases:
+  - Unarmed
 ---
 # Unarmed
 *Source: Rule of Law v2.2a*  

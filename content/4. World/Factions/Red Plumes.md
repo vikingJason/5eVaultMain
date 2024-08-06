@@ -1,5 +1,3 @@
----
----
 
 
 The Red Plumes was a mercenary army of warriors that operated directly under the will of First Lord Maalthiir. They enforced his will within the walls of Hillsfar, even going so far as to harass its inhabitants, while regularly extorting them, in order to maintain a fear of his authority. They understood their limits however, never going as far as to warrant complaints that could be overheard by the First Lord.

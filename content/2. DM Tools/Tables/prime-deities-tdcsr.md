@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tdcsr
-aliases: ["Prime Deities"]
+  - compendium/src/5e/tdcsr
+aliases:
+  - Prime Deities
 ---
 # Prime Deities
 *Source: Tal'Dorei Campaign Setting Reborn p. 27* 

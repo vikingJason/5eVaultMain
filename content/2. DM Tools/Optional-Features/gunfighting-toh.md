@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/fs-f
-- optional-feature/fs-p
-- optional-feature/fs-r
-aliases: ["Gunfighting"]
+  - compendium/src/5e/toh
+  - optional-feature/fs-f
+  - optional-feature/fs-p
+  - optional-feature/fs-r
+aliases:
+  - Gunfighting
 ---
 # Gunfighting
 *Source: Tome of Heroes p. 83; 98; 107*  

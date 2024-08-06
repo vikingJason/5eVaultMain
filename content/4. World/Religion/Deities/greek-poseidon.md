@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/greek
-- domain/tempest
-aliases: ["Poseidon"]
+  - compendium/src/phb
+  - deity/greek
+  - domain/tempest
+aliases:
+  - Poseidon
 ---
 # Poseidon
 *Source: Player's Handbook p. 298* 

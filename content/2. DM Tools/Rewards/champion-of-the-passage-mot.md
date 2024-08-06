@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/mot
-- reward/piety-trait
-aliases: ["Champion of the Passage"]
+  - compendium/src/5e/mot
+  - reward/piety-trait
+aliases:
+  - Champion of the Passage
 ---
 # Champion of the Passage
 *Piety Trait*  

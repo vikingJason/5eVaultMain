@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/expansion
-aliases: ["Topiary Garden"]
+  - compendium/src/5e/ft&s
+  - reward/expansion
+aliases:
+  - Topiary Garden
 ---
 # Topiary Garden
 *Expansion*  

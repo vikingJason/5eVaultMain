@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mech
-aliases: ["Hidden Pressure Plate"]
+  - compendium/src/5e/pkb
+  - hazard/mech
+aliases:
+  - Hidden Pressure Plate
 ---
 # Hidden Pressure Plate
 *Mechanical Trap*  

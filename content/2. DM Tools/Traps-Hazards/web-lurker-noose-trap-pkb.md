@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mech
-aliases: ["Web Lurker Noose Trap"]
+  - compendium/src/5e/pkb
+  - hazard/mech
+aliases:
+  - Web Lurker Noose Trap
 ---
 # Web Lurker Noose Trap
 *Mechanical Trap*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-aliases: ["Azure Lilies"]
+  - compendium/src/5e/pkb
+aliases:
+  - Azure Lilies
 ---
 # Azure Lilies
 *Generic Hazard*  

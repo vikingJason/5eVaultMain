@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/al
-aliases: ["Faction Training"]
+  - compendium/src/5e/al
+aliases:
+  - Faction Training
 ---
 # Faction Training
 *Source: Adventurers' League* 

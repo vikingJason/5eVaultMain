@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenSpellBook
- name: 💰 Generate Spell Book 🪙
- description: Generate a fantasy spell book. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+  promptId: GenSpellBook
+  name: 💰 Generate Spell Book 🪙
+  description: Generate a fantasy spell book.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 {{#if selection}}

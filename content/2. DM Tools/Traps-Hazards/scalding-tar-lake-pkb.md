@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-aliases: ["Scalding Tar Lake"]
+  - compendium/src/5e/pkb
+aliases:
+  - Scalding Tar Lake
 ---
 # Scalding Tar Lake
 *Generic Hazard*  

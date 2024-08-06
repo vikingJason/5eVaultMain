@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/secf
-aliases: ["Low-Light Senses"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/secf
+aliases:
+  - Low-Light Senses
 ---
 # Low-Light Senses
 *Source: Flee, Mortals! p. 326*  

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/elven
-- domain/tempest
-- domain/trickery
-aliases: ["Sarula Iliene"]
+  - compendium/src/mtf
+  - deity/elven
+  - domain/tempest
+  - domain/trickery
+aliases:
+  - Sarula Iliene
 ---
 # Sarula Iliene
 *Source: Mordenkainen's Tome of Foes p. 43* 

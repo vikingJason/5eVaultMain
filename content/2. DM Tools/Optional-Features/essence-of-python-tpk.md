@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tpk
-- optional-feature/ae
-aliases: ["Essence of Python"]
+  - compendium/src/5e/tpk
+  - optional-feature/ae
+aliases:
+  - Essence of Python
 ---
 # Essence of Python
 *Source: Total Party Kill Bestiary - Vol. 1 p. 17*  

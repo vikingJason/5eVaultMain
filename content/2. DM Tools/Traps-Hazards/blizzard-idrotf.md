@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/idrotf
-- hazard/wth
-aliases: ["Blizzard"]
+  - compendium/src/5e/idrotf
+  - hazard/wth
+aliases:
+  - Blizzard
 ---
 # Blizzard
 *Weather*  

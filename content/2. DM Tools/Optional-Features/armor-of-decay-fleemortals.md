@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/tcf
-aliases: ["Armor of Decay"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/tcf
+aliases:
+  - Armor of Decay
 ---
 # Armor of Decay
 *Source: Flee, Mortals! p. 306*  

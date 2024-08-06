@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ftd
-- reward/draconic-gift
-aliases: ["Frightful Presence"]
+  - compendium/src/5e/ftd
+  - reward/draconic-gift
+aliases:
+  - Frightful Presence
 ---
 # Frightful Presence
 *Draconic Gift, VERY_RARE*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/oaf
-aliases: ["Powerful Impact"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/oaf
+aliases:
+  - Powerful Impact
 ---
 # Powerful Impact
 *Source: Flee, Mortals! p. 38*  

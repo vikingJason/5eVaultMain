@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/structure
-aliases: ["Lodge, hunting"]
+  - compendium/src/5e/ft&s
+  - reward/structure
+aliases:
+  - Lodge, hunting
 ---
 # Lodge, hunting
 *Structure*  

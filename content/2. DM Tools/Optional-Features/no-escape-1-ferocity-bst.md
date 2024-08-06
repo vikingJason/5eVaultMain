@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/bst
-- optional-feature/exp
-aliases: ["No Escape (1+ Ferocity)"]
+  - compendium/src/5e/bst
+  - optional-feature/exp
+aliases:
+  - No Escape (1+ Ferocity)
 ---
 # No Escape (1+ Ferocity)
 *Source: MCDM - Beastheart and Monstrous Companions p. 28*  

@@ -2,11 +2,15 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/nature
-- domain/tempest
-aliases: ["Auril", "The Frostmaiden", "Lady Frostkiss", "Icedawn"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/nature
+  - domain/tempest
+aliases:
+  - Auril
+  - The Frostmaiden
+  - Lady Frostkiss
+  - Icedawn
 ---
 # Auril
 *Source: Sword Coast Adventurer's Guide p. 21* 

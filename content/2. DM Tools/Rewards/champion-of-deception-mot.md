@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/mot
-- reward/piety-trait
-aliases: ["Champion of Deception"]
+  - compendium/src/5e/mot
+  - reward/piety-trait
+aliases:
+  - Champion of Deception
 ---
 # Champion of Deception
 *Piety Trait*  

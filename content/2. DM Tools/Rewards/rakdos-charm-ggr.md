@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ggr
-- reward/charm
-aliases: ["Rakdos Charm"]
+  - compendium/src/5e/ggr
+  - reward/charm
+aliases:
+  - Rakdos Charm
 ---
 # Rakdos Charm
 *Charm*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/archfest
-aliases: ["Archery Contest"]
+  - compendium/src/5e/archfest
+aliases:
+  - Archery Contest
 ---
 # Archery Contest
 *Source: Archery Contest* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tgd
-- optional-feature/ei
-aliases: ["Zariel's Wrathful Strike"]
+  - compendium/src/5e/tgd
+  - optional-feature/ei
+aliases:
+  - Zariel's Wrathful Strike
 ---
 # Zariel's Wrathful Strike
 *Source: The Great Dale*  

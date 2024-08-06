@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/toh
-aliases: ["Manor"]
+  - compendium/src/5e/toh
+aliases:
+  - Manor
 ---
 # Manor
 *Source: Tome of Heroes* 

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/dmg
-- deity/dawn-war
-- domain/life
-- domain/light
-aliases: ["Pelor"]
+  - compendium/src/dmg
+  - deity/dawn-war
+  - domain/life
+  - domain/light
+aliases:
+  - Pelor
 ---
 # Pelor
 *Source: Dungeon Master's Guide p. 10* 

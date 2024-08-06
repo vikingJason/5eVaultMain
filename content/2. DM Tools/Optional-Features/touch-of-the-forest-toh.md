@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/ei
-aliases: ["Touch of the Forest"]
+  - compendium/src/5e/toh
+  - optional-feature/ei
+aliases:
+  - Touch of the Forest
 ---
 # Touch of the Forest
 *Source: Tome of Heroes p. 136*  

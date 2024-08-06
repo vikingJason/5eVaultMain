@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/fleemortals
-- compendium/src/5e/phb
-- compendium/src/5e/tob2
-- compendium/src/5e/tpk
-aliases: ["Conditions"]
+  - compendium/src/5e/fleemortals
+  - compendium/src/5e/phb
+  - compendium/src/5e/tob2
+  - compendium/src/5e/tpk
+aliases:
+  - Conditions
 ---
 # Conditions
 

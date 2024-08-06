@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Price of a Contract; Fey Desires for Greater Contracts"]
+  - compendium/src/5e/dod
+aliases:
+  - Price of a Contract; Fey Desires for Greater Contracts
 ---
 # Price of a Contract; Fey Desires for Greater Contracts
 *Source: Domains of Delight p. 9* 

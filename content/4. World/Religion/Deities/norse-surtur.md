@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/norse
-- domain/war
-aliases: ["Surtur"]
+  - compendium/src/phb
+  - deity/norse
+  - domain/war
+aliases:
+  - Surtur
 ---
 # Surtur
 *Source: Player's Handbook p. 299* 

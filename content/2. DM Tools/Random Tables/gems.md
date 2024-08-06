@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclass: json5e-note
-aliases: ["Gems"]
+aliases:
+  - Gems
 ---
 # Gems
 

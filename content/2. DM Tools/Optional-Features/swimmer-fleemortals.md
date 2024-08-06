@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/oaf
-aliases: ["Swimmer"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/oaf
+aliases:
+  - Swimmer
 ---
 # Swimmer
 *Source: Flee, Mortals! p. 44*  

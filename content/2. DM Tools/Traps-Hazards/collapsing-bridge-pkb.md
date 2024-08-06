@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mech
-aliases: ["Collapsing Bridge"]
+  - compendium/src/5e/pkb
+  - hazard/mech
+aliases:
+  - Collapsing Bridge
 ---
 # Collapsing Bridge
 *Mechanical Trap*  

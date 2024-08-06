@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/rcg
-- optional-feature/ei
-aliases: ["Fey Companion"]
+  - compendium/src/5e/rcg
+  - optional-feature/ei
+aliases:
+  - Fey Companion
 ---
 # Fey Companion
 *Source: Rashemen - Unnapproachable East Campaign Guide*  

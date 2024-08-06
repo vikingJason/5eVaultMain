@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/erlw
-- deity/eberron
-- domain/death
-- domain/life
-aliases: ["The Blood of Vol"]
+  - compendium/src/erlw
+  - deity/eberron
+  - domain/death
+  - domain/life
+aliases:
+  - The Blood of Vol
 ---
 # The Blood of Vol
 *Source: Eberron: Rising from the Last War p. 141* 

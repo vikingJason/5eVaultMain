@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/war
-aliases: ["Torm", "The Loyal Fury", "The True", "The Hand of Righteousness"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/war
+aliases:
+  - Torm
+  - The Loyal Fury
+  - The True
+  - The Hand of Righteousness
 ---
 # Torm
 *Source: Sword Coast Adventurer's Guide p. 21* 

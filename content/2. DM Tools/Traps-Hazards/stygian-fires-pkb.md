@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Stygian Fires"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Stygian Fires
 ---
 # Stygian Fires
 *Magical Trap*  

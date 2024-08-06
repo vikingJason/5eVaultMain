@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mech
-aliases: ["Trapped Portcullises"]
+  - compendium/src/5e/pkb
+  - hazard/mech
+aliases:
+  - Trapped Portcullises
 ---
 # Trapped Portcullises
 *Mechanical Trap*  

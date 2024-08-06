@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/manor
-aliases: ["Mountain Fortress"]
+  - compendium/src/5e/toh
+  - optional-feature/manor
+aliases:
+  - Mountain Fortress
 ---
 # Mountain Fortress
 *Source: Tome of Heroes p. 241*  

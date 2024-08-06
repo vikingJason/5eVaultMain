@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/nature
-- domain/war
-aliases: ["Quajath"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/nature
+  - domain/war
+aliases:
+  - Quajath
 ---
 # Quajath
 *Source: Explorer's Guide to Wildemount p. 32* 

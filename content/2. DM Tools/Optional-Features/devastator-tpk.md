@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tpk
-- optional-feature/et
-aliases: ["Devastator"]
+  - compendium/src/5e/tpk
+  - optional-feature/et
+aliases:
+  - Devastator
 ---
 # Devastator
 *Source: Total Party Kill Bestiary - Vol. 1 p. 50*  

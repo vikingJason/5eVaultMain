@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/vgm
-- deity/orc
-aliases: ["Luthic"]
+  - compendium/src/vgm
+  - deity/orc
+aliases:
+  - Luthic
 ---
 # Luthic
 *Source: Volo's Guide to Monsters p. 84, Derived from Luthic (SCAG)* 

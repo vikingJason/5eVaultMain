@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/tcf
-aliases: ["Touch of Rot"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/tcf
+aliases:
+  - Touch of Rot
 ---
 # Touch of Rot
 *Source: Flee, Mortals! p. 306*  

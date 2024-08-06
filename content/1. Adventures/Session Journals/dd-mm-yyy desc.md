@@ -1,5 +1,7 @@
 ---
-tags: [timeline, SessionJournals]
+tags:
+  - timeline
+  - SessionJournals
 ---
 
 <div

@@ -2,13 +2,14 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/elven
-- domain/knowledge
-- domain/life
-- domain/war
-- domain/peace
-aliases: ["Angharradh"]
+  - compendium/src/mtf
+  - deity/elven
+  - domain/knowledge
+  - domain/life
+  - domain/war
+  - domain/peace
+aliases:
+  - Angharradh
 ---
 # Angharradh
 *Source: Mordenkainen's Tome of Foes p. 43, Tasha's Cauldron of Everything p. 32* 

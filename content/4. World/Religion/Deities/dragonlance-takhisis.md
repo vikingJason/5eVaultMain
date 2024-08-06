@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/dragonlance
-- domain/death
-aliases: ["Takhisis"]
+  - compendium/src/phb
+  - deity/dragonlance
+  - domain/death
+aliases:
+  - Takhisis
 ---
 # Takhisis
 *Source: Player's Handbook p. 295* 

@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/dwarven
-- domain/knowledge
-- domain/life
-aliases: ["Mya"]
+  - compendium/src/mtf
+  - deity/dwarven
+  - domain/knowledge
+  - domain/life
+aliases:
+  - Mya
 ---
 # Mya
 *Source: Mordenkainen's Tome of Foes p. 73* 

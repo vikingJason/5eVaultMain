@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/toh
-aliases: ["Draconic Runes"]
+  - compendium/src/5e/toh
+aliases:
+  - Draconic Runes
 ---
 # Draconic Runes
 *Source: Tome of Heroes* 

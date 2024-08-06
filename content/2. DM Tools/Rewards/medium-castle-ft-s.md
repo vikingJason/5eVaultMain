@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/structure
-aliases: ["Medium Castle"]
+  - compendium/src/5e/ft&s
+  - reward/structure
+aliases:
+  - Medium Castle
 ---
 # Medium Castle
 *Structure*  

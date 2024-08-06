@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mot
-- deity/theros
-- domain/knowledge
-- domain/light
-aliases: ["Ephara"]
+  - compendium/src/mot
+  - deity/theros
+  - domain/knowledge
+  - domain/light
+aliases:
+  - Ephara
 ---
 # Ephara
 *Source: Mythic Odysseys of Theros p. 40* 

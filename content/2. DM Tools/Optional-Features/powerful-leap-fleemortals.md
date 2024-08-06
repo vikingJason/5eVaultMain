@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/oaf
-aliases: ["Powerful Leap"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/oaf
+aliases:
+  - Powerful Leap
 ---
 # Powerful Leap
 *Source: Flee, Mortals! p. 44*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Praise of Yog-Sothoth"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Praise of Yog-Sothoth
 ---
 # Praise of Yog-Sothoth
 *Magical Trap*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tgd
-- optional-feature/ei
-aliases: ["Plague of Baalzebul"]
+  - compendium/src/5e/tgd
+  - optional-feature/ei
+aliases:
+  - Plague of Baalzebul
 ---
 # Plague of Baalzebul
 *Source: The Great Dale*  

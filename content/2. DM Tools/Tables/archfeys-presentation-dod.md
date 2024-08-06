@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Archfey's Presentation"]
+  - compendium/src/5e/dod
+aliases:
+  - Archfey's Presentation
 ---
 # Archfey's Presentation
 *Source: Domains of Delight p. 12* 

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/xlnee
-aliases: ["Fighter; Runic Augmentations"]
+  - compendium/src/5e/xlnee
+aliases:
+  - Fighter; Runic Augmentations
 ---
 # Fighter; Runic Augmentations
 *Source: Xanathar's Lost Notes to Everything Else* 

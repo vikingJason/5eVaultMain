@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mot
-- deity/theros
-- domain/trickery
-aliases: ["Phenax"]
+  - compendium/src/mot
+  - deity/theros
+  - domain/trickery
+aliases:
+  - Phenax
 ---
 # Phenax
 *Source: Mythic Odysseys of Theros p. 73* 

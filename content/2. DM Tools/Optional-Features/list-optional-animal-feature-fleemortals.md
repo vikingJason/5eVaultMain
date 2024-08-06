@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/fleemortals
-aliases: ["Optional Animal Feature"]
+  - compendium/src/5e/fleemortals
+aliases:
+  - Optional Animal Feature
 ---
 # Optional Animal Feature
 *Source: Flee, Mortals!* 

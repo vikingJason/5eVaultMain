@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/3mx-modnar
-aliases: ["1372 Roadside Encounter Ideas"]
+  - compendium/src/5e/3mx-modnar
+aliases:
+  - 1372 Roadside Encounter Ideas
 ---
 # 1372 Roadside Encounter Ideas
 *Source: Modnar's Marvelous Miscellany - Campaign Expansion* 

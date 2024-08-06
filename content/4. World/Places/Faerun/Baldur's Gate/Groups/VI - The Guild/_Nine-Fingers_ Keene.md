@@ -18,7 +18,6 @@ prev:
 next:
   - Rilsa Rael
 RWtopicId: Topic_683
-
 ---
 # "Nine-Fingers" Keene
 ## Overview

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/bst
-- optional-feature/exp
-aliases: ["Wicked Deception (3 Ferocity)"]
+  - compendium/src/5e/bst
+  - optional-feature/exp
+aliases:
+  - Wicked Deception (3 Ferocity)
 ---
 # Wicked Deception (3 Ferocity)
 *Source: MCDM - Beastheart and Monstrous Companions p. 36*  

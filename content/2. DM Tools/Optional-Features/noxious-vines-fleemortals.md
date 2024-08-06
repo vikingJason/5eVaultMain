@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/hcf
-aliases: ["Noxious Vines"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/hcf
+aliases:
+  - Noxious Vines
 ---
 # Noxious Vines
 *Source: Flee, Mortals! p. 137*  

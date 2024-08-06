@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/mot
-- reward/piety-trait
-aliases: ["Pharika's Votary"]
+  - compendium/src/5e/mot
+  - reward/piety-trait
+aliases:
+  - Pharika's Votary
 ---
 # Pharika's Votary
 *Piety Trait*  

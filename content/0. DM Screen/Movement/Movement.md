@@ -1,20 +1,20 @@
 ---
 Alias:
-- Travel Pace
-- Difficult Terrain
-- Marching Order
-- Stealth
-- Noticing Threats
-- Climbing
-- Swimming
-- Crawling
-- Jumping
-- Long Jump
-- High Jump
-- Navigate
-- Draw A Map
-- Track
-- Forage
+  - Travel Pace
+  - Difficult Terrain
+  - Marching Order
+  - Stealth
+  - Noticing Threats
+  - Climbing
+  - Swimming
+  - Crawling
+  - Jumping
+  - Long Jump
+  - High Jump
+  - Navigate
+  - Draw A Map
+  - Track
+  - Forage
 ---
 
 # Movement

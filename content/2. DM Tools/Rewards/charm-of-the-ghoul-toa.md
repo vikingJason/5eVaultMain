@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/toa
-- reward/charm
-aliases: ["Charm of the Ghoul"]
+  - compendium/src/5e/toa
+  - reward/charm
+aliases:
+  - Charm of the Ghoul
 ---
 # Charm of the Ghoul
 

@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/norse
-- domain/life
-aliases: ["Freya"]
+  - compendium/src/phb
+  - deity/norse
+  - domain/life
+aliases:
+  - Freya
 ---
 # Freya
 *Source: Player's Handbook p. 299* 

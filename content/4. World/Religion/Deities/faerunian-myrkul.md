@@ -2,10 +2,14 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/death
-aliases: ["Myrkul", "The Lord of Bones", "Old Lord Skull", "The Reaper"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/death
+aliases:
+  - Myrkul
+  - The Lord of Bones
+  - Old Lord Skull
+  - The Reaper
 ---
 # Myrkul
 *Source: Sword Coast Adventurer's Guide p. 21* 

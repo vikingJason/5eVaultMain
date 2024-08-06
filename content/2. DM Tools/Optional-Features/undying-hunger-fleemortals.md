@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/tcf
-aliases: ["Undying Hunger"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/tcf
+aliases:
+  - Undying Hunger
 ---
 # Undying Hunger
 *Source: Flee, Mortals! p. 306*  

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/mot
-- reward/piety-trait
-aliases: ["Kruphix's Devotee"]
+  - compendium/src/5e/mot
+  - reward/piety-trait
+aliases:
+  - Kruphix's Devotee
 ---
 # Kruphix's Devotee
 *Piety Trait*  

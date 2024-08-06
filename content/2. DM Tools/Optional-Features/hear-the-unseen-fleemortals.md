@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/ccf
-aliases: ["Hear the Unseen"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/ccf
+aliases:
+  - Hear the Unseen
 ---
 # Hear the Unseen
 *Source: Flee, Mortals! p. 292*  

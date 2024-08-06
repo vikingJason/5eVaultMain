@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/ddhqp
-aliases: ["100 Quirks and Peculiarities"]
+  - compendium/src/5e/ddhqp
+aliases:
+  - 100 Quirks and Peculiarities
 ---
 # 100 Quirks and Peculiarities
 *Source: 100 Quirks and Peculiarities* 

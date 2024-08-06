@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tradersandmerchants
-aliases: ["Fey Bargains Legendary Merchant"]
+  - compendium/src/5e/tradersandmerchants
+aliases:
+  - Fey Bargains Legendary Merchant
 ---
 # Fey Bargains Legendary Merchant
 *Source: Traders And Merchants p. 27* 

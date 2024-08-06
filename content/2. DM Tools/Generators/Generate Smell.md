@@ -1,11 +1,11 @@
 ---
 PromptInfo:
- promptId: GenJobs
- name: 🐽 Generate Smell 👃
- description: Generate a smell. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+  promptId: GenJobs
+  name: 🐽 Generate Smell 👃
+  description: Generate a smell.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 {{#if selection}}

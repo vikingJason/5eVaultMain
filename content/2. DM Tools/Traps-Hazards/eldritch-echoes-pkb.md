@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Eldritch Echoes"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Eldritch Echoes
 ---
 # Eldritch Echoes
 *Magical Trap*  

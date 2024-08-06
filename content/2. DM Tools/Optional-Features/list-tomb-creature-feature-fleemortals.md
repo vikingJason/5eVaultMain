@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/fleemortals
-aliases: ["Tomb Creature Feature"]
+  - compendium/src/5e/fleemortals
+aliases:
+  - Tomb Creature Feature
 ---
 # Tomb Creature Feature
 *Source: Flee, Mortals!* 

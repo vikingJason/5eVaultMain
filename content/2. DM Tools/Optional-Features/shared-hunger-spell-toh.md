@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/mm
-aliases: ["Shared Hunger Spell"]
+  - compendium/src/5e/toh
+  - optional-feature/mm
+aliases:
+  - Shared Hunger Spell
 ---
 # Shared Hunger Spell
 *Source: Tome of Heroes p. 126*  

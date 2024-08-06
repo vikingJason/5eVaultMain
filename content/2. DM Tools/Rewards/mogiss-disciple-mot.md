@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/mot
-- reward/piety-trait
-aliases: ["Mogis's Disciple"]
+  - compendium/src/5e/mot
+  - reward/piety-trait
+aliases:
+  - Mogis's Disciple
 ---
 # Mogis's Disciple
 *Piety Trait*  

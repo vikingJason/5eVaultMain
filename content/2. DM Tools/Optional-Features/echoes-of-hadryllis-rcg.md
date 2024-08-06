@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/rcg
-- optional-feature/ei
-aliases: ["Echoes of Hadryllis"]
+  - compendium/src/5e/rcg
+  - optional-feature/ei
+aliases:
+  - Echoes of Hadryllis
 ---
 # Echoes of Hadryllis
 *Source: Rashemen - Unnapproachable East Campaign Guide*  

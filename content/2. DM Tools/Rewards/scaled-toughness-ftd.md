@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ftd
-- reward/draconic-gift
-aliases: ["Scaled Toughness"]
+  - compendium/src/5e/ftd
+  - reward/draconic-gift
+aliases:
+  - Scaled Toughness
 ---
 # Scaled Toughness
 *Draconic Gift, LEGENDARY*  

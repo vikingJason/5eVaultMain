@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/egw
-- deity/exandria
-- domain/arcana
-- domain/light
-aliases: ["Corellon"]
+  - compendium/src/egw
+  - deity/exandria
+  - domain/arcana
+  - domain/light
+aliases:
+  - Corellon
 ---
 # Corellon
 *Source: Explorer's Guide to Wildemount p. 22* 

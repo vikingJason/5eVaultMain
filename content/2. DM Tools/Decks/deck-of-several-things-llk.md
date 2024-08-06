@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-deck
 tags:
-- compendium/src/5e/llk
-aliases: ["Deck of Several Things"]
+  - compendium/src/5e/llk
+aliases:
+  - Deck of Several Things
 ---
 # Deck of Several Things
 *Source: Lost Laboratory of Kwalish p. 53*  

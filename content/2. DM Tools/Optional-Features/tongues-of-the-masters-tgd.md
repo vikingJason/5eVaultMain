@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/tgd
-- optional-feature/ei
-aliases: ["Tongues of the Masters"]
+  - compendium/src/5e/tgd
+  - optional-feature/ei
+aliases:
+  - Tongues of the Masters
 ---
 # Tongues of the Masters
 *Source: The Great Dale*  

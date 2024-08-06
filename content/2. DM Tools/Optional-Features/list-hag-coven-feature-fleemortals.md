@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/fleemortals
-aliases: ["Hag Coven Feature"]
+  - compendium/src/5e/fleemortals
+aliases:
+  - Hag Coven Feature
 ---
 # Hag Coven Feature
 *Source: Flee, Mortals!* 

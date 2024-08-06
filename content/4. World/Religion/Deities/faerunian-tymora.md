@@ -2,10 +2,13 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/scag
-- deity/faerunian
-- domain/trickery
-aliases: ["Tymora", "Lady Luck", "Our Smiling Lady"]
+  - compendium/src/scag
+  - deity/faerunian
+  - domain/trickery
+aliases:
+  - Tymora
+  - Lady Luck
+  - Our Smiling Lady
 ---
 # Tymora
 *Source: Sword Coast Adventurer's Guide p. 21* 

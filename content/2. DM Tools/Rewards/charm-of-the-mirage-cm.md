@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/cm
-- reward/charm
-aliases: ["Charm of the Mirage"]
+  - compendium/src/5e/cm
+  - reward/charm
+aliases:
+  - Charm of the Mirage
 ---
 # Charm of the Mirage
 

@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mot
-- deity/theros
-- domain/nature
-aliases: ["Nylea"]
+  - compendium/src/mot
+  - deity/theros
+  - domain/nature
+aliases:
+  - Nylea
 ---
 # Nylea
 *Source: Mythic Odysseys of Theros p. 67* 

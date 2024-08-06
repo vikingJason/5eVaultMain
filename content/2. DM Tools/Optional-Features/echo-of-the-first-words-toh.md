@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/toh
-- optional-feature/ei
-aliases: ["Echo of the First Words"]
+  - compendium/src/5e/toh
+  - optional-feature/ei
+aliases:
+  - Echo of the First Words
 ---
 # Echo of the First Words
 *Source: Tome of Heroes p. 135*  

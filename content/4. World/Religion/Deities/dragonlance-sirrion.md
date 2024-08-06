@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/dragonlance
-- domain/nature
-aliases: ["Sirrion"]
+  - compendium/src/phb
+  - deity/dragonlance
+  - domain/nature
+aliases:
+  - Sirrion
 ---
 # Sirrion
 *Source: Player's Handbook p. 295* 

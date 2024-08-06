@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/tdcsr
-- reward/blessing
-aliases: ["Fortune's Grace"]
+  - compendium/src/5e/tdcsr
+  - reward/blessing
+aliases:
+  - Fortune's Grace
 ---
 # Fortune's Grace
 *Blessing*  

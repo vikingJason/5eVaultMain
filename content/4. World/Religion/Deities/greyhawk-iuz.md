@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/phb
-- deity/greyhawk
-- domain/death
-aliases: ["Iuz"]
+  - compendium/src/phb
+  - deity/greyhawk
+  - domain/death
+aliases:
+  - Iuz
 ---
 # Iuz
 *Source: Player's Handbook p. 295* 

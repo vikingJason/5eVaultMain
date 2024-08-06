@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/hcf
-aliases: ["Grasping Detritus"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/hcf
+aliases:
+  - Grasping Detritus
 ---
 # Grasping Detritus
 *Source: Flee, Mortals! p. 139*  

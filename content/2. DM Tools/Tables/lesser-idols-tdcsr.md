@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tdcsr
-aliases: ["Lesser Idols"]
+  - compendium/src/5e/tdcsr
+aliases:
+  - Lesser Idols
 ---
 # Lesser Idols
 *Source: Tal'Dorei Campaign Setting Reborn p. 39* 

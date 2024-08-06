@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/fleemortals
-- optional-feature/efcf
-aliases: ["Tree Stride"]
+  - compendium/src/5e/fleemortals
+  - optional-feature/efcf
+aliases:
+  - Tree Stride
 ---
 # Tree Stride
 *Source: Flee, Mortals! p. 299*  

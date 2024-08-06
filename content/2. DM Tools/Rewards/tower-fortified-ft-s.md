@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-reward
 tags:
-- compendium/src/5e/ft&s
-- reward/structure
-aliases: ["Tower, fortified"]
+  - compendium/src/5e/ft&s
+  - reward/structure
+aliases:
+  - Tower, fortified
 ---
 # Tower, fortified
 *Structure*  

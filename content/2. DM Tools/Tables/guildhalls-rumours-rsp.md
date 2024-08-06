@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/rsp
-aliases: ["Guildhalls: Rumours"]
+  - compendium/src/5e/rsp
+aliases:
+  - "Guildhalls: Rumours"
 ---
 # Guildhalls: Rumours
 *Source: Raging Swan Press* 

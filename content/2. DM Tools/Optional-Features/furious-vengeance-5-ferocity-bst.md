@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-feat
 tags:
-- compendium/src/5e/bst
-- optional-feature/exp
-aliases: ["Furious Vengeance (5 Ferocity)"]
+  - compendium/src/5e/bst
+  - optional-feature/exp
+aliases:
+  - Furious Vengeance (5 Ferocity)
 ---
 # Furious Vengeance (5 Ferocity)
 *Source: MCDM - Beastheart and Monstrous Companions p. 29*  

@@ -2,10 +2,11 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mtf
-- deity/halfling
-- domain/trickery
-aliases: ["Brandobaris"]
+  - compendium/src/mtf
+  - deity/halfling
+  - domain/trickery
+aliases:
+  - Brandobaris
 ---
 # Brandobaris
 *Source: Mordenkainen's Tome of Foes p. 104* 

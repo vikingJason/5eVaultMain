@@ -1,9 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Price of a Contract; Fey Desires for Lesser Contracts"]
+  - compendium/src/5e/dod
+aliases:
+  - Price of a Contract; Fey Desires for Lesser Contracts
 ---
 # Price of a Contract; Fey Desires for Lesser Contracts
 *Source: Domains of Delight p. 9* 
@@ -22,4 +21,5 @@ aliases: ["Price of a Contract; Fey Desires for Lesser Contracts"]
 | 6 | The spring in your step or the sparkle in your eyes |
 | 7 | A lock of your hair |
 | 8 | Your name (requiring you to choose a new one for yourself) |
+
 ^fey-desires-for-lesser-contracts

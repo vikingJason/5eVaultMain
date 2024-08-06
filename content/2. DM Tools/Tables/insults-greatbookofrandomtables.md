@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/greatbookofrandomtables
-aliases: ["Insults"]
+  - compendium/src/5e/greatbookofrandomtables
+aliases:
+  - Insults
 ---
 # Insults
 *Source: The Great Book of Random Tables p. 162-163* 

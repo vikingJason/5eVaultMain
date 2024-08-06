@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-aliases: ["Stinging Nettle"]
+  - compendium/src/5e/pkb
+aliases:
+  - Stinging Nettle
 ---
 # Stinging Nettle
 *Generic Hazard*  

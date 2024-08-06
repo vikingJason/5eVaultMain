@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/rsp
-aliases: ["Inn & Tavern names"]
+  - compendium/src/5e/rsp
+aliases:
+  - Inn & Tavern names
 ---
 # Inn & Tavern names
 *Source: Raging Swan Press* 

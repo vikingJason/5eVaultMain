@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/erlw
-- deity/eberron
-- domain/life
-- domain/light
-aliases: ["The Path of Light"]
+  - compendium/src/erlw
+  - deity/eberron
+  - domain/life
+  - domain/light
+aliases:
+  - The Path of Light
 ---
 # The Path of Light
 *Source: Eberron: Rising from the Last War p. 141* 

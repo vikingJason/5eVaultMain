@@ -2,11 +2,12 @@
 obsidianUIMode: preview
 cssclass: json5e-deity
 tags:
-- compendium/src/mot
-- deity/theros
-- domain/forge
-- domain/knowledge
-aliases: ["Purphoros"]
+  - compendium/src/mot
+  - deity/theros
+  - domain/forge
+  - domain/knowledge
+aliases:
+  - Purphoros
 ---
 # Purphoros
 *Source: Mythic Odysseys of Theros p. 76* 

@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mech
-aliases: ["Rigged Climbing Loops"]
+  - compendium/src/5e/pkb
+  - hazard/mech
+aliases:
+  - Rigged Climbing Loops
 ---
 # Rigged Climbing Loops
 *Mechanical Trap*  

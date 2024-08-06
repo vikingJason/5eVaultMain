@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/tpk
-aliases: ["Expanded Trait"]
+  - compendium/src/5e/tpk
+aliases:
+  - Expanded Trait
 ---
 # Expanded Trait
 *Source: Total Party Kill Bestiary - Vol. 1* 

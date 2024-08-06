@@ -2,9 +2,10 @@
 obsidianUIMode: preview
 cssclasses: json5e-hazard
 tags:
-- compendium/src/5e/pkb
-- hazard/mag
-aliases: ["Endless Struggle"]
+  - compendium/src/5e/pkb
+  - hazard/mag
+aliases:
+  - Endless Struggle
 ---
 # Endless Struggle
 *Magical Trap*  

@@ -2,8 +2,9 @@
 obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
-- compendium/src/5e/dod
-aliases: ["Coming and Going; Fey Crossings"]
+  - compendium/src/5e/dod
+aliases:
+  - Coming and Going; Fey Crossings
 ---
 # Coming and Going; Fey Crossings
 *Source: Domains of Delight p. 17* 
