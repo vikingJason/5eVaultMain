@@ -93,6 +93,13 @@ They can bet on their fights as well.
   
   
 * as they talk to people, someone realises that a spectator is actually there as a spy to gather information and dob them into the authorities  
+* they notice that [[Felgan]] is there with a couple of other [[Neighbourhood Watch ]] and [[Laundithas]]
+* Felgan actually wants to try and shut the club down so she can take it over/start one of her own with the Automatons running it
+* she has tampered with armor, and the magical wards
+
+
+
+
 - Red Caps want to deal with them harshly  
   
   
@@ -108,6 +115,10 @@ They can bet on their fights as well.
   
 - loot  
 -- leather armour that will prevent the wearer from dropping to 0hp, this requires a blood soaked Red Cap hat wiped over a magical rune on the armour to recharge this property. Requires a d20 roll, starting at DC 1. Every subsequent succes increases the DC by 1.
+
+[[Fight Club Club]]
+
+
 
 [[FightClubArena.jpg|Show to Players]]
 
