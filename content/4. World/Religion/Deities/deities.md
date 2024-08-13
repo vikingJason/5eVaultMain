@@ -219,7 +219,7 @@ obsidianUIMode: preview
 - [Tempus](faerunian-tempus.md)
 - [The Red Knight](faerunian-the-red-knight.md)
 - [Torm](faerunian-torm.md)
-- [Tymora](faerunian-tymora.md)
+- [Tymora](Tymora.md)
 - [Tyr](faerunian-tyr.md)
 - [Umberlee](faerunian-umberlee.md)
 - [Valkur](faerunian-valkur.md)

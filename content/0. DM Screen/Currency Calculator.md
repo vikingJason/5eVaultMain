@@ -12,6 +12,19 @@ PartySize: 5
 metric: 1
 unit: lbs
 ---
+
+
+## Currency Exchange Rates
+
+|Coin|CP|SP|EP|GP|PP|
+|---|---|---|---|---|---|
+|Copper|**1**|1/10|1/50|1/100|1/1000|
+|Silver|10|**1**|1/5|1/10|1/100|
+|Electrum|50|5|**1**|1/2|1/20|
+|Gold|100|10|2|**1**|1/10|
+|Platinum|1000|100|50|10|**1**|
+
+
 # Currency Calculator
 
 ## Input

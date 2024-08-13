@@ -11,7 +11,8 @@
 9. Store
 10. Fighter's Lounge
 11. Warehouse
-12. Animal/monster pen
+12. Animal Pen
+13. Staff Room
 
 
 ### 1. Arena
@@ -28,4 +29,27 @@ A fighting pit
 
 ### 2. Bar (Upper)
 
+
+
+### 3. Bar (Lower)
+
+### 4. Viewing Balcony (Upper)
+
+### 5. Viewing Balcony (Lower)
+
+### 6. Betting Pitt
+
+### 7. Red Cap sleeping quarters
+
+### 8. Fighter Training area
+
+### 9. Armory
+
+### 10. Fighter's Lounge
+
+### 11. Warehouse
+
+### 12. Animal Pen
+
+### 13. Staff Room
 

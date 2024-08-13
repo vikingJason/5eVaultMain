@@ -5,8 +5,8 @@ unit: ft
 fam: 2
 TP_dist: 1000
 roll: 22
-angle: 10.105778974745483
-comp_angle: 26.105778974745483
+angle: 16.861951160346862
+comp_angle: 0.8619511603468624
 ---
 > [!infobox]+
 > # [[Teleport]] Mishap

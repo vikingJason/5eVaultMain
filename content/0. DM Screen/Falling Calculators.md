@@ -1,13 +1,13 @@
 ---
 title: Falling Calculator
 aliases: 
-fall_dist: 55
+fall_dist: 2452
 time_unit: 1
 dist_unit: 1
-fall_time: 1
-v: 17.60179722008887
-x: 148.35483197987398
-v2: 832
+fall_time: 3
+v: 52.065066081317916
+x: 747.2291514228631
+v2: 1025
 drop_dist: 60
 dicenum: "2"
 drop_DC: 60
@@ -35,17 +35,19 @@ The following calculators will give you information on falling, which take into 
 >> -|:-:|
 >> | Falling distance | `INPUT[number(class(nb-mb-55)):fall_dist]` `VIEW[{dist_unit} ? "ft" : "m"]`                                                                                                     |
 >> | Falling speed   | `VIEW[52.184894023 * tanh(acosh(exp((9.81*{fall_dist}*(1-0.6952*{dist_unit}))/52.184894023^2)))][math(hidden):v]` `VIEW[round((1+5*{time_unit})*{v}, 0)]` `VIEW[{dist_unit} ? "ft" : "m"]`/`VIEW[{time_unit} ? "round" : "s"]` |
->> | Falling time | `VIEW[round(52.184894023/(9.81*(1+5*{time_unit})) * acosh(exp(9.81*{fall_dist}*(1-0.6952*{dist_unit})/(52.184894023^2))), 0)]` `VIEW[{time_unit} ? "round" : "s"]`
+>> | Falling time | `VIEW[round(52.184894023/(9.81*(1+5*{time_unit})) * acosh(exp(9.81*{fall_dist}*(1-0.6952*{dist_unit})/(52.184894023^2))), 0)]` `VIEW[{time_unit} ? "round" : "s"]`|
 >> | Damage           | `VIEW[round(({v}/7.690899087747)^2, 0)]`d6 
 >
 >> [!note| clean no-t]
 >>  ### **Distance**
->> ||
->> -|:-:|
+>> 
+>> | | |
+>> |:-:|:-:|
 >> | Falling time     | `INPUT[number(class(nb-mb-55)):fall_time]` `VIEW[{time_unit} ? "rounds" : "s"]` |
 >> | Falling speed    | `VIEW[round(52.184894023*(1+5*{time_unit})/(1-0.6952*{dist_unit})*tanh({fall_time}*(1+5*{time_unit})*9.81/52.184894023), 0)][:v2]` `VIEW[{dist_unit} ? "ft" : "m"]`/`VIEW[{time_unit} ? "rounds" : "s"]` |
->> | Falling distance | `VIEW[(52.184894023)^2/9.81 * log(cosh(9.81*{fall_time}*(1+5*{time_unit})/52.184894023))][math(hidden):x]` `VIEW[round({x}/(1-0.6952*{dist_unit}), 0)]` `VIEW[{dist_unit} ? "ft" : "m"]` |'
->>  | Damage           | `VIEW[round(({v2}*(1-0.6952*{dist_unit})/(7.690899087747*(1+5*{time_unit})))^2, 0)]`d6 
+>> | Falling distance | `VIEW[(52.184894023)^2/9.81 * log(cosh(9.81*{fall_time}*(1+5*{time_unit})/52.184894023))][math(hidden):x]` `VIEW[round({x}/(1-0.6952*{dist_unit}), 0)]` `VIEW[{dist_unit} ? "ft" : "m"]` |
+>> | Damage           | `VIEW[round(({v2}*(1-0.6952*{dist_unit})/(7.690899087747*(1+5*{time_unit})))^2, 0)]`d6  |
+>
 ^FallingCalculator
 
 > [!info | bg-c-red]- Requirements

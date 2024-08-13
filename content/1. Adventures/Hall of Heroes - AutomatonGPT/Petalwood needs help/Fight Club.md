@@ -1,16 +1,16 @@
 - Underground Fighting Ring/ Investigation: Rumors circulate about an illegal underground fighting ring run by a group of Red Cap.  
   
 Head to the village person who raised the report.  
--- she is a well merchant's wife and member of the neighbourhood watch  
+-- she is a well merchant's wife and member of the [[neighbourhood watch]]  
 -- she followed a farmer through the forrest when she suspected they were doing something illegal to obtain money. She lost track of them, they must have raced ahead on the road and taken a hidden path or something  
 --- this suspicion was due to the farmer being able to afford fertiliser, surely they couldn't be able to afford it  
 -- she also overheard them in the tavern later that evening with fresh bruises, talking about the club, and mentioned something about the Apothecary.  
 --- if asked about why she thinks it Red Caps running it, she says that was sure that she did see some Red Caps in the village purchasing some supplies  
----- the neighbourhood watch commander has told them all that Red Caps are known to be drawn to places where blood is often spilled  
+---- the [[neighbourhood watch]] commander has told them all that Red Caps are known to be drawn to places where blood is often spilled  
   
-Neighbourhood watch commander  
+[[Neighbourhood watch]] commander  
 - her actions have not been sanctioned  
-- doesn't preach hate, but rather spreads known information about creatures and people that can used to set up better safety precautions for Petalwood  
+- doesn't preach hate, but rather spreads known information about creatures and people that can used to set up better safety precautions for [[Petalwood]]  
   
   
 Elf farmer  
@@ -94,13 +94,110 @@ They can bet on their fights as well.
   
 * as they talk to people, someone realises that a spectator is actually there as a spy to gather information and dob them into the authorities  
 * they notice that [[Felgan]] is there with a couple of other [[Neighbourhood Watch ]] and [[Laundithas]]
-* Felgan actually wants to try and shut the club down so she can take it over/start one of her own with the Automatons running it
+* [[Felgan]] actually wants to try and shut the club down so she can take it over/start one of her own with the Automatons running it
 * she has tampered with armor, and the magical wards
 
 
 
 
-- Red Caps want to deal with them harshly  
+[[Rorick]] 
+- He shares that he had received a warning letter that the fighters would start to die
+	- This would be bad for the Red Caps, not because of the money, but because the blood source would eventually dry up
+- Asks the party to help and investigate. He suggests:
+	- head to the [[Fight Club Club#9. Armory]], see if the guards on duty here saw anyone tampering with the armor
+	- look into:
+		- [[Gnarl Bloodclaw]] who is unhappy with how boring the fights are for him
+		- [[Raddicus]], his assistant manager, who has challenged him for ownership 
+
+
+- Asks to leave [[Fawn]] and [[Achroteth]] to guard the armor, only ones to be trusted.
+
+- [[Felgan]] is working with both parties, trying to play them against each other and eventually buy the club
+	- she noticed that certain townsfolk were making some good money working for the Red Caps so knew that the club must be successful, and she deserves to own it
+	- figured that if [[Finroth Tilvenar]] knew about it, he would want it shut down, so would help her persuade the owner to sell it
+	- added a little more chaos to help her cause
+	- will be devastated to learn that it doesn't really turn a big profit, the money is invested back into the people that work and fight there, keeping the drinks low etc
+
+##### Clues
+
+[[Raddicus]] 
+- feels limited by [[Rorick]]'s short sightedness, wants even more blood spilled to bring even more Red Caps to town and expand their operation.
+- [[Raddicus]] is unhappy that [[Rorick]] has dismissed the talks to provide the Automatons to do work around the club
+	- knows that it may make it cheaper and easier to run the club though, and will make it more efficient with getting the blood they need
+- knows that the club is not making as much as it could, the money is invested back into the people that work and fight there, keeping the drinks low etc but think about how much more they can help the Fae if they had more money.
+	- has been in talks with a very helpful and successful merchant who has helped him see the potential the club can make
+		- describes the merchant as a lady wearing a green cloak.
+- [[Raddicus]] was in the staff room at the time, can ask anyone there and will verify it
+	- Can be verified by other Red Caps - on the way past there will head past the animal pen
+
+
+[[Gnarl Bloodclaw]]
+- isn't interested in talking unless they have been in fights and proved their worth
+	- [[Intimidation]] check (DC 15) will impress him and will share info
+- became a fighter after being taken in by [[Rorick]] when he was a young pup, has a lot of love and affection for [[Rorick]]
+	- He lost his brood during the plague
+- [[Rorick]] is like a father, but at his age he must challenge and prove himself
+- He has heard that Automatons are tough fighters so is keen to see what they can do in the ring
+	- "Some lady in a green cloak told me about the Automatons, but when I spoke to [[Rorick]] he wasn't interested"
+- was in the [[Fight Club Club#8. Fighter Training area]] sparring with another fighter, can ask anyone there and will verify it
+	- Can be verified by other fighters - on the way past there will head past the animal pen
+
+
+[[Laundithas]]
+- overheard a conversation between [[Finroth Tilvenar|Finroth]] and someone in a green cloak about this place
+- sounded like a great opportunity to sell some more Automaton contracts
+- when [[Finroth Tilvenar|Finroth]] heard he was coming here suggested he take a few members of the [[Neighbourhood Watch]] to help keep him safe
+
+
+[[Felgan]] 
+* she noticed that certain townsfolk were making some good money working for the Red Caps so knew that the club must be successful, and she deserves to own it
+- figured that if [[Finroth Tilvenar]] knew about it, he would want it shut down, so would help her persuade the owner to sell it.
+- was upstairs with [[Laundithas]] the whole evening
+
+When presented with evidence:
+- she admits she added a little more chaos to help her cause - won't revel what though, "they will just have to wait and see" 
+	- (have [[Rinji]]'s next fight be announced - with [[Byll & Teadd]])
+- is working with both parties, trying to play them against each other and eventually buy the club
+- will be devastated to learn that it doesn't really turn a big profit
+
+
+
+
+**[[Fight Club Club#9. Armory]]**
+- someone has disrupted the magical weaves of the armor
+- guard was off talking to a friend to place some bets for him, (against the rules) thought no one would notice, begs for them not to say anything doesn't want to get in trouble
+	- friend was wearing a green cloak, a member of the [[Neighbourhood Watch]]
+- to get to the armory, must go past the [[Fight Club Club#12. Animal Pen]]
+
+
+**[[Fight Club Club#12. Animal Pen]]**
+- A Red Cap named [[Rebeckna]] can be seen tending to some animals and monstrosities in cages.
+- If asked, says that two fighters in green cloaks came through, sneaking about, but told them they weren't allowed in here
+- her only job is to look after these creatures, which she loves doing. She rescues them from the forest, but can't save them all, have been a lot more of these creatures needing help lately
+- [[Rorick]] Said he would free the animals once they have returned to full health and could protect themselves from whatever is out there
+
+
+**[[Fight Club Club#13. Staff Room]]**
+
+
+**[[Fight Club Club#8. Fighter Training area]]** 
+
+
+
+[[Felgan]] can be overheard complaining that all their sabotaging has been for naught, it seems to be spurring on the crowd rather than drive them away, they need to try something more sinister.
+
+Will try to let loose all the monstrosities in the pens
+
+
+
+
+[[Byll & Teadd]] were ordered to fight by [[Felgan]] in an exhibition match
+
+They are scared, they are not really great fighters.
+
+
+
+
   
   
 - traps/puzzle/challenge  
