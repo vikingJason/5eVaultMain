@@ -18,11 +18,11 @@ Region: placeholder
 # Stables
 ## Goods and Services
 ### Mounts and Other Animals
-![[2. World/Places/zz_asset-files/z1z4zvio.mzi.png|Mounts and Other Animals|300]]
+![[z1z4zvio.mzi.png|Mounts and Other Animals|300]]
 [[2. World/Places/zz_asset-files/z1z4zvio.mzi.png|PHB]]
 
 ### Exotic Mounts
-![[2. World/Places/zz_asset-files/gsm2i4eh.smd.png|Exotic Mounts|300]]
+![[gsm2i4eh.smd.png|Exotic Mounts|300]]
 [[2. World/Places/zz_asset-files/gsm2i4eh.smd.png|open outside]]
 
 ---

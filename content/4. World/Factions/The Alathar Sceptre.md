@@ -1,9 +1,8 @@
 ---
-cssclass: oRPGPage
 Role:
   - organization
 organizationType: Arcane Society
-kingdom: "[[Calindor]]"
+kingdom: Calindor
 region: 
 settlement: 
 urbanArea: 

@@ -17,7 +17,7 @@ RWtopicId: Topic_49
 **Type**: Military
 #Organization/Military
 
-[[2. Mechanics Reference Almanac/Items/Mundane Items (WOTC)/Hammer]] of Moradin were a special prestige class on Faerûn for the dwarven worshipers of Moradin. Hammers of Moradin were members of an order of holy warriors, defending Citadel Adbar against the enemies of dwarves: goblinoids, giants and [[Drow|drow]]. Rather than simply defend the city walls, they left that work to the regular army of the Iron [[3. Mechanics/bestiary/humanoid/Guard]] and actively sought their enemies to destroy them and their homes. Very often they were helped by the order of explorers of [[2 - The Underdark|the Underdark]], the Deepscouts. To become a [[2. Mechanics Reference Almanac/Items/Mundane Items (WOTC)/Hammer|hammer]] of Moradin, a dwarf had to show great fighting skills and some degree of [[Chapter 10 - Spellcasting|spellcasting]] ability.
+Hammer of Moradin were a special prestige class on Faerûn for the dwarven worshipers of Moradin. Hammers of Moradin were members of an order of holy warriors, defending Citadel Adbar against the enemies of dwarves: goblinoids, giants and [[Drow|drow]]. Rather than simply defend the city walls, they left that work to the regular army of the [[Iron Guard]] and actively sought their enemies to destroy them and their homes. Very often they were helped by the order of explorers of [[2 - The Underdark|the Underdark]], the Deepscouts. To become a Hammer of Moradin, a dwarf had to show great fighting skills and some degree of Spellcasting ability.
 
 ## Philosophy
 **Ex-Hammers of Moradin**
@@ -33,11 +33,11 @@ As they became more powerful, hammers of Moradin gained earth-related abilites a
 
 Hammers of Moradin gained an aura of courage that functioned exactly like the paladin ability of the same name.
 
-**[[2. Mechanics Reference Almanac/Items/Mundane Items (WOTC)/Hammer]]**** Throw**
+**Hammer Throw**
 
 Hammers of Moradin could use their warhammer as a thrown weapon with a range of 20 feet. They took no additional penalties for using the weapon in this fashion.
 
-**[[2. Mechanics Reference Almanac/Items/Mundane Items (WOTC)/Hammer]]**** Return**
+**Hammer Return**
 
 After becoming a bit more experienced, any warhammer thrown by Moradin's dwarves gained the returning ability. A returning warhammer flew through the air back to the thrower, returning so that it was ready to be used again.
 

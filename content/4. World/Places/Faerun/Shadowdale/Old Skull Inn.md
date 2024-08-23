@@ -1,7 +1,6 @@
 ---
 Tags: Category/Settlement
 Community-Size: Outpost
-Alignment: Chaotic Evil
 Government: Autocracy
 Type: placeholder
 Region: placeholder
@@ -41,7 +40,7 @@ The Old Skull Inn was built in 1280 DR by Buldo Silvermane on top of the ruins o
 
 Some time in late 1359 DR, or 1360 DR, a group of Harpers held a meeting at the inn to discuss what should be done about the growing Zhentarim threat in Anauroch. In the end, it was decided that the inexperienced member of the group Lander would travel out to the great desert and uncover information about the Zhents' activities.
 
-During [[1. Story World Almanac/Forgotten Realms/Toril/Faerun/1 - World Above/Anauroch/Anauroch Groups/The Zhentarim|the Zhentarim]] invasion in 1375 DR, the inn was taken over.
+During [[The Zhentarim]] invasion in 1375 DR, the inn was taken over.
 
 ### Atmosphere
 The Old Skull was known for the honesty of its staff, the quality of the food and drink, and its relative safety in the center of [[Shadowdale]]. It was also known throughout the Heartlands as one of the best adventuring lairs in all of Faerûn. This reputation led to the term "oldskull" being used outside of the Dalelands to describe an excellent place to drink.

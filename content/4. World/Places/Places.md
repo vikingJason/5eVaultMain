@@ -1,5 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
 Tags: Category/Region--Dimensional
 parent:
   - Region_ Dimensional
@@ -98,7 +97,7 @@ marker: default, 27.7, 70.1,[[Plane of Earth]]
 marker: default, 33.1, 32.0,[[Plane of Shadow]]
 marker: default, 24.8, 46.6,[[Plane of Magma]]
 ```
-[[2. World/Places/zz_asset-files/hdz3foun.1uc.png|open outside]]
+[[hdz3foun.1uc.png|open outside]]
 
 ### The Planes
 The various planes of existence are realms of myth and mystery. They're not simply other worlds, but dimensions formed and governed by spiritual and thought. ental principles.

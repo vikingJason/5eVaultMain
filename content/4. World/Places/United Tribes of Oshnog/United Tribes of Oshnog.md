@@ -71,7 +71,7 @@ Placeholder
 Placeholder
 
 ## Points of Interest
-* [[2. World/Places/Kaedimoor/Borfaldor Empire/Scrantonia/Scrantonia]]
+* [[Scrantonia]]
 
 ## Resources
 Placeholder

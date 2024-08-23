@@ -27,10 +27,10 @@ Region: placeholder
 Selgard's Smithy was a metalworking smithy in [[Shadowdale]], originally owned and operated by [[Bronn Selgard]].
 
 ## Location
-Selgard's Smithy lay in central [[Shadowdale]] along the North Ride between Tethgar's House and [[1. Story World Almanac/Forgotten Realms/Toril/Faerun/1 - World Above/Waterdeep/City Wards of Waterdeep/South Ward/The Stone House (Guild Hall)|the Stone House]].
+Selgard's Smithy lay in central [[Shadowdale]] along the North Ride between Tethgar's House and [[The Stone House (Guild Hall)|the Stone House]].
 
 ## History
-After Bronn's death to the Army of Darkhope in Nightal, 1374 DR, Bronn's remaining children were hardpressed to keep up with the demands for weapons and armor by [[1. Story World Almanac/Forgotten Realms/Toril/Faerun/1 - World Above/Anauroch/Anauroch Groups/The Zhentarim|the Zhentarim]] who were occupying the village of [[Shadowdale]].
+After Bronn's death to the Army of Darkhope in Nightal, 1374 DR, Bronn's remaining children were hardpressed to keep up with the demands for weapons and armor by [[The Zhentarim|the Zhentarim]] who were occupying the village of [[Shadowdale]].
 
 [[Aleena Selgard]], eldest and daughter, journeyman apprentice  
 Surd, son, journeyman apprentice  

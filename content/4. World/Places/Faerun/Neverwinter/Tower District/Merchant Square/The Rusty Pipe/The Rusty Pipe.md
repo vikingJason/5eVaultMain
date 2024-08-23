@@ -24,7 +24,7 @@ Region: placeholder
 - [[Amina Fawneye]]
 - [[Marla Erets]]
 - [[River Starchild]]
-- [[Sophronia _Sophie_ Cullen|Sophronia "Sophie" Cullen]]
+- [[Sophronia Sophie Cullen|Sophronia "Sophie" Cullen]]
 - [[Yoruna Faede]]
 
 

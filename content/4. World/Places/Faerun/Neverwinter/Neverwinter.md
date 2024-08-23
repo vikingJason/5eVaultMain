@@ -120,11 +120,11 @@ Common is the language used.
 
 [[Specialty Shop]] - [[Izzy Moran]]
 
-[[Spices and Seasoning]] - [[Salvador _Salty_ Gordon|Salvador "Salty" Gordon]]
+[[Spices and Seasoning]] - [[Salvador Salty Gordon|Salvador "Salty" Gordon]]
 
 [[Stables]] - [[Vikos Kullwood]]
 
-[[The Rusty Pipe]] - [[Amina Fawneye]] / [[Marla Erets]] / [[River Starchild]] / [[Sophronia _Sophie_ Cullen|Sophronia "Sophie" Cullen]]
+[[The Rusty Pipe]] - [[Amina Fawneye]] / [[Marla Erets]] / [[River Starchild]] / [[Sophronia Sophie Cullen|Sophronia "Sophie" Cullen]]
 
 ## Internal Relationships
 Lord [[Lord - Dagult Neverember|Dagult Neverember]] rules over the city.

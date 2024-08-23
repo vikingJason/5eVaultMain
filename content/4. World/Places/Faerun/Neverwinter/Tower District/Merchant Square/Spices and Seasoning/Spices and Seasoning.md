@@ -23,7 +23,7 @@ Region: placeholder
 
 ---
 ## Governed Content
-- [[Salvador _Salty_ Gordon|Salvador "Salty" Gordon]]
+- [[Salvador Salty Gordon|Salvador "Salty" Gordon]]
 
 
 ---
