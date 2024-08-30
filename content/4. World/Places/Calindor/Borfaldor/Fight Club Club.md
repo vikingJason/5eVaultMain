@@ -15,6 +15,8 @@
 13. Staff Room
 
 
+![[FightClubBasement.jpeg]]
+
 ### 1. Arena
 
 ![[FightClubArena.jpg]]
