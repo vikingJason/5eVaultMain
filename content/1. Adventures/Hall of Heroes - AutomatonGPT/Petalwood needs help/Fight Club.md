@@ -213,6 +213,45 @@ They are scared, they are not really great fighters.
 - loot  
 -- leather armour that will prevent the wearer from dropping to 0hp, this requires a blood soaked Red Cap hat wiped over a magical rune on the armour to recharge this property. Requires a d20 roll, starting at DC 1. Every subsequent succes increases the DC by 1.
 
+---
+itemType: Wondrous Item (Headgear)
+rarity: Rare
+attunement: Yes
+---
+
+# **Redcap Hat**
+
+> [!abstract] **Wondrous Item, rare (requires attunement)**
+>
+> The Redcap Hat is a sinister-looking piece of headgear, woven from coarse, blood-stained fabric. The hat was once worn by a Redcap, an evil fey creature known for its bloodlust and malevolent nature. When donned, the hat retains a connection to the dark power of its former owner, granting the wearer a taste of the Redcap's brutal strength.
+>
+> While wearing the Redcap Hat, the player gains the following abilities:
+>
+> ---
+>
+> **Bloodthirsty Ritual (Bonus Action):**
+>
+> Once per combat, the wearer of the Redcap Hat can use a bonus action to smear the hat in the blood of a creature that has lost HP during the current combat. If the creature is still conscious and not incapacitated, it must make a Dexterity saving throw (DC = 8 + your proficiency bonus + your Dexterity modifier). On a failed save, the creature is momentarily weakened, and the player gains temporary hit points equal to 2d6 + their Constitution modifier. These temporary hit points last until the end of combat.
+>
+> ---
+>
+> **Additional Properties:**
+> 
+> - **Sinister Aura:** While attuned to the Redcap Hat, the player has an advantage on Intimidation checks but a disadvantage on Persuasion checks.
+> - **Fey Resilience:** The wearer of the Redcap Hat has resistance to cold iron (non-magical iron weapons) while wearing the hat.
+> - **Curse:** Unbeknownst to the wearer, the Redcap Hat harbors a subtle curse. Each time the hat's Bloodthirsty Ritual is used, the wearer must make a Wisdom saving throw (DC 15). On a failed save, the wearer becomes increasingly bloodthirsty, suffering from bloodlust until they can rest (after a long rest). During this time, they must attack a creature with the lowest current HP on the battlefield or suffer 1d6 psychic damage at the end of their turn.
+>
+> ---
+>
+> **Lore:**
+>
+> The Redcap Hat is a grim trophy taken from a particularly cruel Redcap known as *Blood-Boot*. Its dark powers are fueled by the blood of those it touches, and it subtly influences the wearer, drawing them closer to the Redcap's wicked nature. Despite its benefits, the hat is feared by many, for it carries a price that only the strong-willed can resist.
+>
+> ---
+>
+> **Quest Hook:** The player might need to find a way to cleanse the hat of its curse or learn to master its bloodthirsty influence. An ancient druid or a wise fey might hold the secret to either taming or purifying the Redcap Hat.
+
+
 [[Fight Club Club]]
 
 
