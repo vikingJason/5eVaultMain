@@ -6,17 +6,12 @@
 
 **What is this campaign about? What is the goal?**
 
-- \- In a town where automatons have been created to help with completing all the jobs around town, the trouble the town are facing are only the tip of the iceberg 
+- In a town where automatons have been created to help with completing all the jobs around town, the trouble the town are facing are only the tip of the iceberg 
 
 
 
 
 
-An encounter where magic field cause time to distort, roll new initiative each round - https://slyflourish.com/tarokka_effects.html
-
-An encounter where tiles on the floor raise and or drop each round
-
-An encounter with mines/or volcano chunks going off randomly
 
 
 
@@ -137,7 +132,7 @@ The party is tasked to hunt down a pack of wild animals that has been attacking 
 
 
 
-The party comes across a large, rotted, pirate ship being held aloft in the bows of the swamp trees. It is heavily overgrown. If they investigate, they will find only a few corpses onboard who have burst with mushrooms. Destruction of the ship or damaging of any of the bodies will result in mushroom covered pirate zombies to rise from the swamp around the ship and await the party to attempt an escape. Otherwise, the ship can be looted to minor success and they can be on their way.
+
 
 
 
@@ -176,23 +171,7 @@ Apothecary immediately grabs her belongings and heads over.
   
 The temple in town has communal rooms that each person can step into and they are astrally projected to a demi-plane that can be used as a church/place of worship to their chosen deity.  
   
-An encounter where the environment around them feeds off the mood of the party.  
-  
-The happier and nicer they are, the brighter the light, the more vibrant the colours. Little do they know that staying in this nice and pleasant environment will slowly drain their energy = take levels of exhaustion?? Creatures get stronger etc  
-  
-The more horrible they are, the opposite  
-  
-Shifting battlefield encounter/quest.  
-Can transport them and the room to an alternate location  
-fail - somewhere sinister, dungeon etc  
-mid - a different location, but safe  
-exceed - exactly where they meant to get to  
-Nat 1 - takes them to limbo???  
-  
-Performance based encounter...  
-Someone/something trying to steal Lullaby's ability to mimic  
-  
-Mechanical puzzle based encounter...
+
 
 
 
