@@ -33,7 +33,7 @@ tags: [timeline, SessionJournals]
 
 
 - Party are ambushed by the CIA
-	- [[Byll & Teadd]] looking Changlings follow and attack them, focussing on Dorgle
+	- [[Byll & Teadd]] looking Changelings follow and attack them, focussing on Dorgle
 		- Branded with the mark of the CIA: Clandestine Insurgency Association
 		- After killing the Changelings, Dorgle feels more powerful, has advantage on all rolls for 24 hours.
 

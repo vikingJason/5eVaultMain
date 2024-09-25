@@ -1,5 +1,10 @@
 # The New Campaign Layout
 
+
+![[COS-chart.jpg]]
+
+![[COS-chart2.png]]
+
 With all the additions and changes detailed in this series, I hope to have fixed some of these core issues. And, as modified, this is the new plot we get.
 
 - Firstly, STRAHD CANNOT DIE.
@@ -81,4 +86,6 @@ With these three additions, the players can't just go level up until they're rea
 - This is the most basic and shortest version of the plot I could write for you guys. Of course, there're still side quests and loads of plot in between, but at least now those quests actually lead somewhere. Now, players might confront the Abbott because they're searching for information on the Dark Powers. Now, the players might help the Martikovs at the winery in return for information on the Fanes. The players get to have _plot._ Imagine that!
     
 - Additionally, adding a Vampyr fight to the end of the game gives the players a big baddie that's _not_ on the cover. It's a name they'll only learn in the last stage of the campaign, making things a bit more surprising.
+
+
 

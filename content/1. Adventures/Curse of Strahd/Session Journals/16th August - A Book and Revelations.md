@@ -83,47 +83,7 @@ They fight [[Doru]], a touch foe that appears to resist the damage of their weap
 Doru is finally defeated, but at what cost...
 
 
-A dark figure presents himself, asks [[Marcus]],  to kill someone who is after his disciple - in exchange for full health, no exhaustion and a boost to his power - tell no one of this
 
-
-Dark Power: Vampyr
-
-| Dark Power Alignment | Benefits                                                                                                                     | Consequences/Flaws                                                                                                                                                                                                                                                                                                 |
-| :------------------: | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|          1           | Darkvision up to 60 feet                                                                                                     | Your eyes gain a faint red glow                                                                                                                                                                                                                                                                                    |
-|          2           | Resistance to Necrotic Damage                                                                                                | Vulnerable to fire damage                                                                                                                                                                                                                                                                                          |
-|          3           | Proficiency on Charisma checks                                                                                               | Silver causes 1d4 acid damage                                                                                                                                                                                                                                                                                      |
-|          4           | Able to cast [[Vampiric Touch]] once per day without consuming a spell slot <br> This can also be cast by using a spell slot | When this is used for the first time, you start to crave the life force of other creatures and must use this daily. If you do not drain another creature, you must role a DC 15 CON save or become poisoned. <br>The DC increased by 1 for each additional day that you do not cast this spell on another creature |
-|          5           | Become a vampire                                                                                                             |                                                                                                                                                                                                                                                                                                                    |
-
-What happens if Marcus goes against the agreement?
-* fiend/undead sent after him
-1. becomes blind in sunlight
-2. Vulnerable to fire damage
-3. Start to smell of rotting flesh/flesh starts to rot
-4. Disadvantage on CON saving throws
-5. 
-
-
-
-What affects the alignment?
-
-++ Learn the name of the assassin (Van Richten or Esmerelda)
-++ sabotages Towns etc
-++ convinces the party not to help
-++ attacks the assassin
-
-
--. Kills vampires, vampire spawn etc
--. Helps the assassin
--. Attacks Strahd
-
-
-Remove the Agreement
-. Remove curse
-. Help the Fanes
-. Help the followers of the Morning Lord
-. Help the Abbot
 
 
 
