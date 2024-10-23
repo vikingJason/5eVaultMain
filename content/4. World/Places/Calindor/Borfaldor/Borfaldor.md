@@ -37,6 +37,7 @@ Factions: placeholder
 
 
 ### Map
+
 ![[Borfaldor_Map.png]]
 [[Borfaldor_Map.png|open outside]]
 

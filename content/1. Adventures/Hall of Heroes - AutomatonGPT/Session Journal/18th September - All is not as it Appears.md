@@ -34,7 +34,12 @@ Not wanting to leave without the whole party, Cedric searches the underground es
 
 The rest of the party joins Cedric just as one of the Redcap staff members happens upon the body and retrieves [[Rorick]]. The owner organises the cleanup of the corpse, but not before wiping his hat in the blood as a treat for a hard day's work.
 
-The group heads back to [[Petalwood]] for a much-needed sleep after what feels like an eternity. Cedrick, [[Lullaby]], [[Achroteth]], and [[Dorgle]] wake up and head to the blacksmith to investigate the final report—that some fey have been stealing ore from the local blacksmith.
+The group heads back to [[Petalwood]] for a much-needed sleep after what feels like an eternity. 
+
+
+**Fireday, 5th Of Emberleaf, Cycle 6880 CCE**
+
+Cedrick, [[Lullaby]], [[Achroteth]], and [[Dorgle]] wake up and head to the blacksmith to investigate the final report—that some fey have been stealing ore from the local blacksmith.
 
 Walking through the busy streets, they observe some street kids irritating the local townsfolk without causing major harm.
 

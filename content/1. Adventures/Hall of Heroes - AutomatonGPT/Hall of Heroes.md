@@ -268,6 +268,17 @@
 - An encounter with mines/or volcano chunks going off randomly
 
 
+### Items/Rewards
+
+- Wand of Magic Detection
+- Potion of Heroism
+- Ring of the Ram
+- Boots of Striding and Springing
+- Cloak of the Manta Ray
+- Rope of Entanglement
+- Clockwork Amulet
+- 
+
 
 
 ### Worldbuilding

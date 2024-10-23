@@ -144,6 +144,82 @@ As they cross the bridge, it disappears.
 
 6. Room 6
 	 Puzzle Room - Silence
+
+
+
+### **Speed Challenge Puzzle**
+
+- **Puzzle**: The door can only be opened by hitting a series of pressure plates in quick succession. The room leading to the door contains a circular path with pressure plates scattered around it. The plates must be activated in a specific sequence, and they will reset if the next plate isn’t triggered within a few seconds.
+- **Twist**: Quicklings use their speed to dash between plates, but the party must find clever ways to do it. Perhaps the plates are connected to a magical mechanism that players can manipulate to extend the time window or create shortcuts.
+
+
+
+>___
+> ### Crystal Elemental
+>*Medium Elemental, chaotic neutral*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 57 (6d8 + 30)
+>- **Speed** 30 ft., Burrow 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|16 (+3)|12 (+1)|20 (+5)|12 (+1)|10 (+0)|12 (+1)|
+>___
+>- **Damage Vulnerabilities** thunder
+>- **Damage Resistances** piercing and slashing from nonmagical weapons that aren't adamantine
+>- **Senses** Darkvision 60 ft., Tremorsense 60 ft., passive Perception 10
+>- **Languages** Tarran
+>- **Challenge** 3 (XP 700; PB +2)
+>- **Proficiency Bonus** +2
+>___
+>***Harden.*** At the start of its turn, the elemental can choose to have disadvantage on all melee weapon attack rolls during that turn, but attack rolls against it have disadvantage until the start of its next turn.  
+>
+>***Regeneration.*** The elemental regains 10 hit points at the start of its turn if it has at least 1 hit point. If the elemental takes thunder damage, this trait doesn't function at the start of the elemental's next turn.  
+>
+>### Actions
+>***Multiattack.*** The elemental makes two attacks with its crystal spear.  
+>
+>***Crystal Spear.*** *Melee Weapon Attack:*  +5 to hit, reach 5 ft., one target. Hit 12 (2d8 + 3) piercing damage.
+
+
+
+
+>___
+>## Minotaur Living Crystal Statue
+>*Large Construct, unaligned*
+>___
+>- **Armor Class** 15 (natural armor)
+>- **Hit Points** 136 (16d10 + 48)
+>- **Speed** 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|9 (-1)|16 (+3)|6 (-2)|10 (+0)|5 (-3)|
+>___
+>- **Damage Vulnerabilities** force
+>- **Damage Immunities** lightning, poison
+>- **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+>- **Senses** Darkvision 60 ft., passive Perception 10
+>- **Languages** Understands the languages of its creator but can't speak
+>- **Challenge** 6 (XP 2,300; PB +3)
+>- **Proficiency Bonus** +3
+>___
+>***Immutable Form.*** The statue is immune to any spell or effect that would alter its form.  
+>
+>### Actions
+>***Multiattack.*** The statue makes two attacks: one with its greataxe and one gore attack.  
+>
+>***Greataxe.*** *Melee Weapon Attack:*  +7 to hit, reach 5 ft., one target. *Hit:* 17 (2d12 + 4) slashing damage.  
+>
+>***Gore.*** *Melee Weapon Attack:*  +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage.  
+>
+>### Reactions
+>***Flying Shards.*** In response to a creature hitting the statue with a melee weapon attack, the statue deals 11 (2d10) piercing damage to the attacker.
+
+
+
+
 ## Cracking the Code
 
 The players are greeted by three sets of nine numbers, each arranged in a square. A few of the numbers are colored green... what exactly is going on here?

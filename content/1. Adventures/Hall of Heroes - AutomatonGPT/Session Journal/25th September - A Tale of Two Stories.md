@@ -26,7 +26,7 @@ tags: [timeline, SessionJournals]
  
 ## Session Overview 
  
-**Stoneday, 4th Of Emberleaf, Cycle 6880 CCE**
+**Fireday, 5th Of Emberleaf, Cycle 6880 CCE**
 
 Noticing [[Dorgle]] adding a few more notches to his sword, [[Achroteth]] enquires about them with his friend. [[Dorgle]] shares that he has encountered these creatures before and that those things were other Dorgles, claiming one of the heads of the creatures as a trophy.
 
