@@ -53,6 +53,7 @@ When all hope looks lost for [[Dorgle]], Rineeq's bowstring snaps, and [[Dorgle]
 Cedrick collects his winnings and the group gathers to start the journey back to town. [[Achroteth]] sends a bird to give [[Fawn]] a heads-up that they are on the way to [[Petalwood]].
 
 The bird catches up to [[Fawn]] who is still searching for Charmwell. Watching the bird fly off she finds Charmwell hiding on the roof of an abandoned-looking house.
+
 [[Fawn]] enters the house and convinces Charmwell that she wants to help, on the provision he promises not to mention anything to anyone about it. As she leaves, she is engulfed with wild Fey magic and instead of words, dandelion puffs explode when she tries to speak. 
 
 [[Fawn]] heads to Town Hall and gladly learns that the proposals have been approved and that Finroth has a few questions for her when she has some time to speak.

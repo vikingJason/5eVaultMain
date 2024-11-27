@@ -28,7 +28,7 @@ PartyStanding: Public Ally, Secret Antagonist
 >---
 >
 > ###### Bio
->  | | |
+> | | |
 > |---|---|
 > | **Race** | Eladrin (Autumn) |
 > | **Sex** | Male |
@@ -37,7 +37,7 @@ PartyStanding: Public Ally, Secret Antagonist
 > | **Alignment** | Lawful Evil |
 > 
 > ###### Info
->  | | |
+> | | |
 > |---|---|
 > | **Alias(es)** | The Mayor |
 > | **Occupation** | Mayor of Petalwood |

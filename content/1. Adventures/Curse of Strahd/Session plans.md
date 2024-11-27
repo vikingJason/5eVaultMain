@@ -22,13 +22,10 @@ Wolf Hunters - can find some near the Tower
 - A secret herablist / town Wisdom - has had to hide what they can do for fear of being labelled a friend of Strahd.
 	- Can provide a special brew to relieve exhaustion (coffee - but can cause addiction)
 	- Reveals the best herbs are in the boggy marsh to the south, but it is too dangerous to go herself.
-- Vistani from the camp???
 
 - Izek appeals to Sorrow who is also an orphan, a shared life journey etc
 
-Need to reveal the book club is a cult somehow
-- spot some people wearing black cloaks heading to Lady Wachter's mansion
-- priest will reveal rumors od the cult, but doesn't believe it - he is a just person.
+
 
 Need to get rid of the possessions
 - Rictavio offers to help them with a special ritual, bit will need his journal
@@ -76,7 +73,14 @@ Need to get rid of the possessions
   
   
   
-  
+- Aeli - be trained as the next Vampire Hunter
+- Lars - 
+- Marcus - 
+- Sorrow - 
+- Vidar - 
+
+
+- reopen the Order of the Silver Dragon to prove her 
   
   
   

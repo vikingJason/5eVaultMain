@@ -38,7 +38,7 @@ tags: [timeline, SessionJournals]
 
 After the group hug is released, the adventurers set out towards the large tree where Ellywick said they found the gemstone. Engrossed in his newest discovery regarding his destiny, Rinji rides on his shoulders and reads his book.
 
-With the midday sun beating down on them as they travel the road outside of Petalwood, the group spot a cart pulled by horses  approaching from town. As it draws closer they see that the cart is being driven by a member of the Neighbourhood Watch, with three more Greencloak passengers and the glints of sunlight revealing they mining tools on board.
+With the midday sun beating down on them as they travel the road outside of Petalwood, the group spot a cart pulled by horses  approaching from town. As it draws closer they see that the cart is being driven by a member of the Neighbourhood Watch, with three more Green Cloak passengers and the glints of sunlight revealing they mining tools on board.
 
 The cart passes by without stopping and the adventurers pick up  the pace.
 

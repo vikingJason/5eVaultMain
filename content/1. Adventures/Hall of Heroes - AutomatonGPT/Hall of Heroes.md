@@ -239,6 +239,9 @@
 
 
 
+
+
+
 ### Encounter Ideas
 - An encounter where each player has a cards 1 - 20 for their rolls, as they pull a card, it is discarded
 	- 2 piles for advantage and disadvantage
@@ -293,3 +296,8 @@
 - **Growth:** How will the characters evolve throughout the campaign?
 - **Relationships:** Will there be any significant relationships or rivalries?
 - **Moral dilemmas:** Will the characters face difficult choices or moral conflicts?
+
+
+### 5 - 10 Arc
+- the city has a protective forcefield that prevents the new rules, protects from wild magic surges, or something
+
