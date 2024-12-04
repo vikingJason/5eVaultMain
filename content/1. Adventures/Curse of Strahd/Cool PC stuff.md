@@ -93,9 +93,78 @@ To that effect, I've outlined a few ways to deal with PC death in the CoS Campai
 - This is actually a really good option for early game PC death.
 
 
+Based on what Lars already knows, to create a potion you need the following components:
+1. **Core Ingredients** (Base)
+2. **Catalyst** (Infuses)
+3. **Binding Agents** (Stabilize the Mixture)
+4. **Enhancers**
 
 
+For a potion of healing, you recall the following ingredients :
+1. **Core Ingredients** (Base)
+	1. Crushed Berries
+	2. Distilled Water
+2. **Catalyst** (Infuses)
+	1. *Unknown*
+3. **Binding Agents** (Stabilize the Mixture)
+	1. Honey
+	2. *Unknown*
+4. **Enhancers**
+	1. Rose Petals **or** Mandrake Root
 
 
+In Dungeons & Dragons, the specific components required to craft a _Potion of Healing_ are typically up to the Dungeon Master’s discretion, as the rules in _Xanathar's Guide to Everything_ (which includes crafting mechanics) leave room for creativity. Here’s a suggested list of components you could use for your campaign, rooted in a mix of fantasy alchemy and game lore:
+
+---
+
+### **Potion of Healing Components**
+
+1. **Core Ingredients** (Base for Healing)
+    
+    - **A sprig of Mistletoe**: Known for its symbolic association with vitality and life.
+    - **Crushed Berries**: Especially red ones like _bloodberries_ or _sunberries,_ representing the restoration of blood and vigor.
+    - **Distilled Pure Water**: Drawn from a sacred or magical source, such as a blessed spring or the Feywild.
+2. **Magical Catalyst** (Infuses Healing Power)
+    
+    - **A pinch of Celestial Dust**: Gathered from a celestial being or a holy site.
+    - **Essence of a Unicorn Hair**: A rare magical material with restorative properties.
+    - **Residuum or Arcane Crystals**: Finely powdered magical crystal to bind the potion’s magic.
+3. **Binding Agents** (Stabilize the Mixture)
+    
+    - **Honey**: To bind the ingredients and provide a smooth consistency.
+    - **Beeswax Extract**: Stabilizes and preserves the potion for longer shelf life.
+4. **Optional Flavor Enhancers** (Campaign-Specific Additions)
+    
+    - **Rose Petals**: Symbolizing renewal and added to enhance flavor and scent.
+    - **Mandrake Root**: A potent herb used in healing rituals, though dangerous if handled improperly.
+    - **A drop of Dragon’s Blood**: Imbued with magical energy, if your campaign allows for rare components.
+
+---
+
+### **Crafting Process**
+
+- **Preparation**:
+    
+    - Grind the berries, celestial dust, and other dry components into a fine powder.
+    - Heat the water gently over a magical flame or alchemical device, stirring in the honey and beeswax.
+- **Infusion**:
+    
+    - Slowly add the powdered ingredients, stirring clockwise to infuse the mixture with restorative energy.
+    - Channel healing magic into the mixture (via _Cure Wounds_ spell or equivalent magic) to activate the potion's properties.
+- **Completion**:
+    
+    - Once the liquid glows faintly, allow it to cool before bottling in a sealed vial. The potion is ready to use.
+
+---
+
+### **Optional Adjustments**
+
+- For a **Potion of Greater Healing**, add rarer components like _Elderflower Essence_ or _Phoenix Feather Ash._
+- For a **Potion of Superior Healing**, incorporate ingredients like _Heartroot Sap_ (from a magically enhanced tree) or _Giant’s Blood._
+- For a **Potion of Supreme Healing**, the process might require an elaborate ritual or divine blessing in addition to ingredients.
+
+---
+
+Let me know if you'd like to expand this into an alchemy system for your game or add unique challenges to acquiring these ingredients!
 
 

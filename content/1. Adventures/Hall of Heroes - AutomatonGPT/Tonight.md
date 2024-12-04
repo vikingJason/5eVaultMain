@@ -13,6 +13,10 @@ The party is tasked with retrieving a **Sacred Moonstone**, a powerful artifact 
 ---
 
 
+
+![[Ancient Tomb.jpeg]]
+
+
 ### **Location: The Ruins of Sehanine’s Temple**
 
 The temple lies deep in a forest glade, surrounded by luminous trees whose leaves glow silver in the moonlight. The air hums with quiet energy, and the scent of night-blooming flowers lingers. The ruins are overgrown with vines, moss, and bioluminescent fungi, but their ancient majesty remains apparent.
