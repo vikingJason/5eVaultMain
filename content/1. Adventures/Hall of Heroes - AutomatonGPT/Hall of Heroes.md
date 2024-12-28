@@ -1,4 +1,4 @@
-### Campaign Concept & Theme
++### Campaign Concept & Theme
 
 - **Genre:** Fantasy
 - **Setting:** Calindor

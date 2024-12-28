@@ -153,6 +153,48 @@ Placeholder
 ## Additional Details
 Placeholder
 
+there are:
+- 217 Automaton currently in operation within Petalwood.
+	- Of those, 20 are owned by the town.
+- 16 farms
+	- Of those, the 6 largest and best yielding farms are operated solely by Automatons
+- 7 Artisan stores that are owned and operated by people
+- 11 Artisan stores that are owned by 5 businesses, operated solely by Automatons
+- A number of other merchants and services
+
+ 
+
+
+Apothecary - Mystic Roots
+Bakery - Bake It to the Limit
+Brewery - The Fermentery
+Butcher - Sylvan Cuts
+Tailor - Faebric Fashions
+Smithy - The Iron Arms
+Fishmonger - Symphony Pier
+
+Automaton Smithy - True As Copper
+Automaton Butcher - Clockwork Carvings
+Automaton Brewery - The Omega Craft Ales
+Automaton Leatherworks - The Leatherbound Haven
+Automaton Apothecary - Arcane Apothecary 
+Automaton Stonemason - Oakheart Engineering
+Automaton Dye Maker - The Rainbow Palette
+Automaton Tannery - The Ironhide Tannery
+Automaton Fishmonger - The Obsidian Hook
+Automaton Shearer & Weaver - The Weaver's Emporium
+Automaton  Mill - The Onyx Crusher
+
+Automaton General Store - Gearforge Marketplace
+Automaton Mine -  Rare Reserve Expanse Company
+Automaton Lumberyard - Elemental Lumber Emporium
+
+CLOSED General Store - 
+CLOSED Leather Worker - Silverclasp Leather Works
+CLOSED Mill - Moonsong Mill
+CLOSED Weaver - 
+CLOSED Stonemason - 
+CLOSED Dye Maker - 
 
 
 

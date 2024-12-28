@@ -150,6 +150,8 @@ Upstairs, their search was interrupted by chaos. A crate burst open, and from wi
 
 
 
+
+
 The storm clawed at the hilltop, rain slashing sideways, drenching the ragged figures. Lars stood in the deluge, his hand resting on the hilt of his weapon, eyes narrowed against the gloom. The distant cries of the others reached him—a commotion. Without hesitation, he joined the fray, his steps deliberate, his presence steady as a lodestone. The hill seemed alive with tension, the wind carrying whispers of danger.
 
 Marcus, shadow-bound and watchful, melted into the gloom to keep an eye on their flanks.

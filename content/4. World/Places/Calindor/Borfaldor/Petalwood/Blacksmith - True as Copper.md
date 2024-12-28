@@ -1,7 +1,7 @@
 ---
 type: Merchant Store
 merchantType: Blacksmith
-kingdom: "[[Calindor]]"
+kingdom: "[[content/4. World/History/Calindor]]"
 region: "[[Borfaldor]]"
 settlementName: "[[Petalwood]]"
 wardName: 
@@ -22,7 +22,7 @@ services: Weaponsmithing, Armorsmithing, Tool Repair
 >  | | |
 > |---|---|
 > | **Merchant Type** | Blacksmith |
-> | **Location** | [[Petalwood]], [[Borfaldor]], [[Calindor]] |
+> | **Location** | [[Petalwood]], [[Borfaldor]], [[content/4. World/History/Calindor]] |
 > | **Owner** | [[Forge (Automaton)]] |
 > | **Skill Level** | Masterwork |
 >
