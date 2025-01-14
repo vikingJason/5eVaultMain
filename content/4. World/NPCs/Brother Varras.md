@@ -5,17 +5,17 @@ kingdom: N/A
 region: Petalwood
 settlementName: Ruined Chapel of the Silver Moon
 wardName: N/A
-title: Brother Vallas
+title: Brother Varras
 ownerName: N/A
 services: False Priest, Dream Manipulator
 ---
 
-# **Brother Vallas**
+# **Brother Varras**
 
 <br>
 
 > [!infobox|sban]
-> # Name: Brother Vallas
+> # Name: Brother Varras
 > ---
 >
 > ###### Info
@@ -42,10 +42,10 @@ services: False Priest, Dream Manipulator
 ## **Traits**
 
 > [!recite|txt-Center] **Physical Description**
-> Brother Vallas is tall and gaunt, with pallid skin that seems to shimmer faintly in the moonlight. His silver hair flows like liquid light, always framing his soft, welcoming face. His eyes, seemingly kind, have irises that faintly glow an unnatural violet when under direct moonlight. Around his neck is a crescent moon amulet, marked with subtle but warped runes of Kalistyr’s power.
+> Brother Varras is tall and gaunt, with pallid skin that seems to shimmer faintly in the moonlight. His silver hair flows like liquid light, always framing his soft, welcoming face. His eyes, seemingly kind, have irises that faintly glow an unnatural violet when under direct moonlight. Around his neck is a crescent moon amulet, marked with subtle but warped runes of Kalistyr’s power.
 
 > [!recite|title-Centre] **Mannerisms**
-> Brother Vallas speaks in measured, honeyed tones, often quoting hymns to Sehanine. He gazes deeply into people’s eyes as if looking into their soul. When angered or cornered, his voice deepens unnaturally, and his language subtly shifts to ominous phrases.  
+> Brother Varras speaks in measured, honeyed tones, often quoting hymns to Sehanine. He gazes deeply into people’s eyes as if looking into their soul. When angered or cornered, his voice deepens unnaturally, and his language subtly shifts to ominous phrases.  
 > > [!quote] ***"Child of the night, do not fear. Your dreams are safe within Sehanine’s embrace… though the shadows may seek to test your faith."***
 
 <br>
@@ -53,15 +53,15 @@ services: False Priest, Dream Manipulator
 ## **Personality**
 
 > [!recite|title-Center] **World View**
-> Brother Vallas sees himself as an agent of balance—twisting people’s faith and dreams to siphon their strength for Kalistyr. He believes that suffering is a divine purification process, and his role is to deliver it subtly through whispered terror.  
+> Brother Varras sees himself as an agent of balance—twisting people’s faith and dreams to siphon their strength for Kalistyr. He believes that suffering is a divine purification process, and his role is to deliver it subtly through whispered terror.  
 > 
 > > [!warning]
-> > **Social DC Impact:** Convincing Vallas to reveal his true motives is difficult (DC 18 Persuasion or Insight), as he is adept at weaving lies into comforting half-truths about Sehanine’s mysterious ways. His veneer cracks if the party references his amulet’s runes or confront him with proof of Kalistyr’s influence (DC 14 Intimidation).
+> > **Social DC Impact:** Convincing Varras to reveal his true motives is difficult (DC 18 Persuasion or Insight), as he is adept at weaving lies into comforting half-truths about Sehanine’s mysterious ways. His veneer cracks if the party references his amulet’s runes or confront him with proof of Kalistyr’s influence (DC 14 Intimidation).
 
 <br>
 
 > [!warning] **Potential Quest hook**
-> Villagers suffering from nightmares or sleepwalking are drawn to Brother Vallas’s chapel for help. In truth, Vallas manipulates their dreams, harvesting fear to empower Kalistyr. The party must uncover his deception, either by investigating the nightmares or deciphering the corrupted runes on his holy symbols.
+> Villagers suffering from nightmares or sleepwalking are drawn to Brother Varras’s chapel for help. In truth, Varras manipulates their dreams, harvesting fear to empower Kalistyr. The party must uncover his deception, either by investigating the nightmares or deciphering the corrupted runes on his holy symbols.
 
 
 ### **Dark Secrets**
@@ -71,8 +71,8 @@ services: False Priest, Dream Manipulator
 
 ### **Potential Player Interactions**
 
-- **Nightmare Connection:** Affected party members may experience recurring nightmares where Vallas’s voice whispers ominous prayers.
-- **Destroying the Amulet:** Removing or destroying the amulet weakens Vallas, reducing his spell save DC by 2 and cutting off his connection to Kalistyr.
+- **Nightmare Connection:** Affected party members may experience recurring nightmares where Varras’s voice whispers ominous prayers.
+- **Destroying the Amulet:** Removing or destroying the amulet weakens Varras, reducing his spell save DC by 2 and cutting off his connection to Kalistyr.
 
 
 
@@ -88,7 +88,7 @@ services: False Priest, Dream Manipulator
 > 
 > ![[Placeholder.jpg|right cover htiny wtiny circle lp]]
 > 
-> ## Brother Vallas
+> ## Brother Varras
 > 
 > Medium humanoid (half-elf), Neutral Evil
 > 
@@ -118,16 +118,16 @@ services: False Priest, Dream Manipulator
 > ---
 > 
 > _**Spellcasting.**_  
-> Brother Vallas is a 7th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He has the following spells prepared:  
+> Brother Varras is a 7th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He has the following spells prepared:  
 > **Cantrips (at will):** Guidance, Thaumaturgy, Minor Illusion  
 > **1st level (4 slots):** Healing Word, Command  
 > **2nd level (3 slots):** Calm Emotions, Hold Person  
 > **3rd level (3 slots):** Bestow Curse, Counterspell  
 > **4th level (1 slot):** Phantasmal Killer
 > 
-> _**Dreamweaver (Recharge 5–6).**_ Vallas can cast _Dream_ without expending a spell slot. The dream’s content deals 3d6 psychic damage to the target per night they fail a Wisdom saving throw (DC 15).
+> _**Dreamweaver (Recharge 5–6).**_ Varras can cast _Dream_ without expending a spell slot. The dream’s content deals 3d6 psychic damage to the target per night they fail a Wisdom saving throw (DC 15).
 > 
-> _**Corrupt Faith (Recharge 6).**_ As an action, Vallas can invoke Kalistyr’s power to force all creatures within 20 feet to make a Wisdom saving throw (DC 15). On a failure, they are Frightened for 1 minute and take 3d8 psychic damage.
+> _**Corrupt Faith (Recharge 6).**_ As an action, Varras can invoke Kalistyr’s power to force all creatures within 20 feet to make a Wisdom saving throw (DC 15). On a failure, they are Frightened for 1 minute and take 3d8 psychic damage.
 > 
 > ### Actions
 > 

@@ -1,4 +1,4 @@
-Here’s a list of **10 entertainers** from Petalwood and the surrounding area, each with unique Feywild-inspired acts and quirks, designed to add charm, whimsy, and occasional chaos to the Unity Festival auditions.
+Here’s a list of **10 entertainers** from Petalwood and the surrounding area, each with unique acts and quirks that would be perfect for the Unity Festival.
 
 ---
 
@@ -81,12 +81,3 @@ Here’s a list of **10 entertainers** from Petalwood and the surrounding area, 
 **Quirk**: Orlan sometimes mimics random background noises during his act (like a crying baby or an automaton malfunction), leading to unintended hilarity or confusion.
 
 ---
-
-### **How to Use These Entertainers in the Auditions**
-
-- **Judges**: The players or NPCs can act as judges, evaluating performances based on creativity, theme, and execution.
-- **Drama**: Add tension by introducing rivalries, nervous performers, or sabotage attempts (e.g., a Fey entertainer causing mischief for a human contestant).
-- **Complications**: Some acts may accidentally cause minor chaos (e.g., Willow and Wisp’s prank distracts the audience, or Fernleaf’s flute creates a harmless magical storm).
-- **Choices**: Let the players decide which acts will perform at the festival, possibly influencing the tone or outcome of certain events.
-
-These entertainers can add personality, humor, and depth to the festival while providing opportunities for roleplay and problem-solving!

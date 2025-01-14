@@ -61,12 +61,12 @@
 	- [[Fawn]] - learn to be a princess and serve [[Sehanine]]
 		- [[Celly]], [[Ness]], [[Sehanine]] quests
 			- host Royal Gala, displaying proper Royal etiquette 
-			- help [[Brother Vallas]] secure a Sacred Moonstone blessed by [[Sehanine]] to perform a sacred ritual during the lunar eclipse to strengthen the connection between Calindor and the Feywilds
+			- help [[Brother Varras]] secure a Sacred Moonstone blessed by [[Sehanine]] to perform a sacred ritual during the lunar eclipse to strengthen the connection between Calindor and the Feywilds
 				- they can find the moonstone in an ancient, long-forgotten temple. Along the way, they'll face illusions, lunar-based puzzles, and spirits of the past.
 				- Once the moonstone is stolen, Fawn no longer hears the voice of [[Sehanine]] in her her head.
 					- It was a malevolent spirit, [[Kalistyr]], who has now been released and begins plaguing the villagers with nightmares.
 					- Townspeople begin experiencing disturbing dreams, some unable to wake from their sleep, while others suffer from sleepwalking episodes.
-						- [[Brother Vallas]] reveals he is a member of a Thieves Guild and needed their help to aquire the moonstone to sell to a secret buyer. He tries to manipulate [[Fawn]] by claiming that [[Sehanine]] approved of the release to teach her a lesson about the dangers of power.
+						- [[Brother Varras]] reveals he is a member of a Thieves Guild and needed their help to aquire the moonstone to sell to a secret buyer. He tries to manipulate [[Fawn]] by claiming that [[Sehanine]] approved of the release to teach her a lesson about the dangers of power.
 					- The party must find a way to track and trap [[Kalistyr]] before more lives are ruined.
 						- **Research Kalistyr**: The party must consult sages, old tomes, and maybe even the Fey themselves to learn about [[Kalistyr]]. This investigation could lead them into dangerous territory, such as old Fey ruins or confronting [[Kalistyr]]’s past victims.
 						- **Identify Patterns**: [[Fawn]] must figure out the pattern of [[Kalistyr]]’s attacks. Does it target people based on their fears? Their connection to the moon? With the help of a local dream-reader, the party develops a method to predict who [[Kalistyr]] will target next.
@@ -109,7 +109,7 @@
 						- **Magical Focus**: Enhance spellcasting accuracy when casting spells that require precise targeting.
 					- **New Crafting Skills**: Cedrick learns advanced techniques for repairing and enchanting magical items, which he can use in future crafting endeavors. 
 
-  
+
 	- [[Rinji]] - figure out his destiny and keep his brother safe
 		- [[Bax]]'s daughter tells him that he looks like the Guardian of the [[Shimmering Cave]], from her favourite bed time story. (including the runes)
 			- It is a story about the of the "Kobold of the Fey",  a kobold with a flower beard, a Red Cap, and  Runes etched into his scales, who arises when the cave is in danger, to protect the luminous crystals and precious gems from being stolen. (the source of the Fey Magic)
