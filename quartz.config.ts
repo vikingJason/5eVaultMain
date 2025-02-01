@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian", "**/private", "**/drafts"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -43,6 +44,7 @@ const config: QuartzConfig = {
           textcolor: "#000",
           statblockcolor: "#58180d",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
         },
         darkMode: {
           light: "#161618",
@@ -60,6 +62,7 @@ const config: QuartzConfig = {
           calloutinfocolor: "#fff9f050",
           statblockcolor: "#58180d",
           highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
         },
       },
     },
