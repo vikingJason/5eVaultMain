@@ -75,7 +75,7 @@ When you take damage from any source that deals more than half of your current H
 | --------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1         | The creature drops to 0 hit points.                                                                                       |
 | 2-3       | The creature drops to 0 hit points but is stable.                                                                         |
-| 4-5       | The creature is [[stunned]] until the end of its next turn.              |
+| 4-5       | The creature is [[Stunned]] until the end of its next turn.              |
 | 6-7       | The creature can't take reactions and has disadvantage on attack rolls and ability checks until the end of its next turn. |
 | 8-10      | The creature can't take reactions until the end of its next turn.                                                         |
 
@@ -108,28 +108,28 @@ This section provides new action options for combat as per DMG: pg 271
 #### Climb onto a Bigger Creature
 If one creature wants to jump onto another creature, it can do so by grappling. A small or Medium creature has little chance of making a successful grapple against a Huge or Gargantuan creature, however, unless magic has granted the grappler supernatural might.
 
-As an alternative, a suitably large opponent can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check contested by the target's Dexterity ([[Acrobatics]]) check. If it wins the contest, the smaller creature successfully moves into the target creature's space, the smaller creature moves with the target and has advantage on attack rolls against it.
+As an alternative, a suitably large opponent can be treated as terrain for the purpose of jumping onto its back or clinging to a limb. After making any ability checks necessary to get into position and onto the larger creature, the smaller creature uses its action to make a Strength ([[Athletics - Strength]]) or Dexterity ([[Acrobatics - Dexterity]]) check contested by the target's Dexterity ([[Acrobatics - Dexterity]]) check. If it wins the contest, the smaller creature successfully moves into the target creature's space, the smaller creature moves with the target and has advantage on attack rolls against it.
 
-The smaller creature can move around within the larger creature's space, treating the space as difficult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to your discretion. The larger creature can dislodge the smaller creature as an action—knocking it off, scraping it against a wall, or grabbing and throwing it—by making a Strength ([[Athletics]]) check contested by the smaller creature's Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check. The smaller creature chooses which ability to use.
+The smaller creature can move around within the larger creature's space, treating the space as difficult terrain. The larger creature's ability to attack the smaller creature depends on the smaller creature's location, and is left to your discretion. The larger creature can dislodge the smaller creature as an action—knocking it off, scraping it against a wall, or grabbing and throwing it—by making a Strength ([[Athletics - Strength]]) check contested by the smaller creature's Strength ([[Athletics - Strength]]) or Dexterity ([[Acrobatics - Dexterity]]) check. The smaller creature chooses which ability to use.
 
 #### Disarm
-A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength ([[Athletics]]) check or Dexterity ([[Acrobatics]]) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
+A creature can use a weapon attack to knock a weapon or another item from a target's grasp. The attacker makes an attack roll contested by the target's Strength ([[Athletics - Strength]]) check or Dexterity ([[Acrobatics - Dexterity]]) check. If the attacker wins the contest, the attack causes no damage or other ill effect, but the defender drops the item.
 
 The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 
 #### Mark
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
-When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[incapacitated]] condition or the [[shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
+When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[Incapacitated]] condition or the [[shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
 #### Overrun
-When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([[Athletics]]) check contested by the hostile creature's Strength ([[Athletics]]) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
+When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([[Athletics - Strength]]) check contested by the hostile creature's Strength ([[Athletics - Strength]]) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
 
 #### Shove Aside
-With this option, a creature uses the special [[shove]] attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[Athletics]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
+With this option, a creature uses the special [[shove]] attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[Athletics - Strength]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
 
 #### Tumble
-A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([[Acrobatics]]) check contested by the hostile creature's Dexterity ([[Acrobatics]]) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
+A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([[Acrobatics - Dexterity]]) check contested by the hostile creature's Dexterity ([[Acrobatics - Dexterity]]) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
 
 #### Attacking From Above
 If you are at least 5 feet above your target and you aren’t grappled or restrained, you gain an expertise die on melee attack rolls made against it.
@@ -148,7 +148,7 @@ While adjacent to a willing ally, you can use your reaction to grab them by the 
 
 ### Pulling From Below
 
-If you are at least 5 feet below your target, your target is your size or smaller, and you aren't [[grappled]] or [[restrained]], you gain an expertise die on [[Strength]] checks and saving throws made against it.
+If you are at least 5 feet below your target, your target is your size or smaller, and you aren't [[Grappled]] or [[Restrained]], you gain an expertise die on [[Strength]] checks and saving throws made against it.
 
 <br>
 
@@ -394,7 +394,7 @@ All weapons may deal the same basic types of damage, but they also have special 
 
 **Mounted.** This weapon deals the damage listed in parenthesis when you are wielding it while mounted.
 
-**Parrying.** When you are wielding this weapon and you are not using a shield, once before your next turn you can gain an expertise die to your AC against a single melee attack made against you by a creature you can see. You cannot use this property while [[incapacitated]], [[paralyzed]], [[restrained]], or [[stunned]].
+**Parrying.** When you are wielding this weapon and you are not using a shield, once before your next turn you can gain an expertise die to your AC against a single melee attack made against you by a creature you can see. You cannot use this property while [[Incapacitated]], [[Paralyzed]], [[Restrained]], or [[Stunned]].
 
 **Parrying Immunity.** Attacks with this weapon ignore the parrying property and Armor Class bonuses from shields.
 
@@ -421,9 +421,9 @@ All weapons may deal the same basic types of damage, but they also have special 
 
 **Medium.** Medium shields increase your Armor Class by 2.
 
-**Heavy.** Heavy shields increase your Armor Class by 2 and you gain an expertise die on [[Dexterity]] saving throws. When you take the Dodge action while wielding a heavy shield, you may instead take cover behind your shield, gaining an expertise die to your Armor Class until the start of your turn. You have disadvantage on [[Dexterity]] ([[Acrobatics]]) and [[Dexterity]] ([[Stealth]]) checks while wielding a heavy shield, and you cannot squeeze through spaces smaller than your size category.
+**Heavy.** Heavy shields increase your Armor Class by 2 and you gain an expertise die on [[Dexterity]] saving throws. When you take the Dodge action while wielding a heavy shield, you may instead take cover behind your shield, gaining an expertise die to your Armor Class until the start of your turn. You have disadvantage on [[Dexterity]] ([[Acrobatics - Dexterity]]) and [[Dexterity]] ([[Stealth - Dexterity]]) checks while wielding a heavy shield, and you cannot squeeze through spaces smaller than your size category.
 
-**Tower.** Tower shields share the properties of a heavy shield. These shields cover the entire body and reduce your Speed by 10 feet. On your turn, you may use an object interaction to plant it in the ground, gaining half cover (+2 bonus to AC, [[Dexterity]] saving throws, and ability checks made to hide) and advantage on saving throws made to resist being shoved or knocked [[prone]] and while you remain behind it. Unplanting a tower shield requires a bonus action.
+**Tower.** Tower shields share the properties of a heavy shield. These shields cover the entire body and reduce your Speed by 10 feet. On your turn, you may use an object interaction to plant it in the ground, gaining half cover (+2 bonus to AC, [[Dexterity]] saving throws, and ability checks made to hide) and advantage on saving throws made to resist being shoved or knocked [[Prone]] and while you remain behind it. Unplanting a tower shield requires a bonus action.
 
 Tower shields are bulky items, and count as such even when donned.
 
@@ -442,9 +442,9 @@ When you take a critical hit, you can use your reaction to block it and sacrific
 
 Helms fit over your head to protect your skull, though in exchange they limit your vision and hearing. No proficiency is required to wear a helm.
 
-**Helm (12g, 4lbs).** This hard leather or metal covering protects the head but not the face, with the exception of a strip over the nose. While wearing this helm you gain an expertise die on saving throws made to resist being [[stunned]], and your passive Perception score is reduced by 2.
+**Helm (12g, 4lbs).** This hard leather or metal covering protects the head but not the face, with the exception of a strip over the nose. While wearing this helm you gain an expertise die on saving throws made to resist being [[Stunned]], and your passive Perception score is reduced by 2.
 
-**Visored Helm (25gp, 8 lbs).** This helm covers the entirety of the head, including the face; the visor may be moved out of the way of the face as an object interaction, in which case the visored helm functions as a standard helm. While wearing a visored helm you gain an expertise die on saving throws made to resist being [[charmed]] or [[stunned]], and your passive Perception score is reduced by 5. Additionally, whenever you take damage from falling, you reduce that damage by 5.
+**Visored Helm (25gp, 8 lbs).** This helm covers the entirety of the head, including the face; the visor may be moved out of the way of the face as an object interaction, in which case the visored helm functions as a standard helm. While wearing a visored helm you gain an expertise die on saving throws made to resist being [[Charmed]] or [[Stunned]], and your passive Perception score is reduced by 5. Additionally, whenever you take damage from falling, you reduce that damage by 5.
 
 
 
@@ -461,11 +461,11 @@ These rules are designed to make higher level combat less of a slog and to make 
 |---|---|---|---|
 |Arm|Disadvantage & -4|Target has disadvantage on their next melee attack.|Target has disadvantage on melee attacks until they take a short rest.|
 |Clavicle|Disadvantage & -4|Target's [[Strength]] Score is decreased by 1 until a long rest.|Target's [[Strength]] Score is Permanently decreased by 2.|
-|Ear|Disadvantage & -12|+2 weapon damage die and target becomes [[deafened]] until short rest or healing magic.|+2 weapon damage die and ear is destroyed; if target has more ears, they become [[deafened]] until a long rest and permanently suffer disadvantage on sound-based [[Wisdom]] ([[Perception]] checks. If they have no other ears, they become [[deafened]].|
-|Eye|Disadvantage & -12|+1 weapon damage die and target becomes [[blinded]] until short rest or healing magic.|+2 weapon damage die and eye is destroyed; if the target has other eyes, they become [[blinded]] until a long rest and permanently suffer disadvantage on sight-based [[Wisdom]] ([[Perception]] checks. If they have no other eyes, they become permanently [[blinded]].|
-|Foot|Disadvantage & -8|+1 weapon damage die and target is knocked [[prone]].|+1 weapon damage die and foot is removed; if the target has other feet, they are knocked [[prone]] and their movement is permanently decreased by 5 feet. If the target has no other feet, their movement is permanently halved.|
+|Ear|Disadvantage & -12|+2 weapon damage die and target becomes [[Deafened]] until short rest or healing magic.|+2 weapon damage die and ear is destroyed; if target has more ears, they become [[Deafened]] until a long rest and permanently suffer disadvantage on sound-based [[Wisdom]] ([[Perception - Wisdom]] checks. If they have no other ears, they become [[Deafened]].|
+|Eye|Disadvantage & -12|+1 weapon damage die and target becomes [[Blinded]] until short rest or healing magic.|+2 weapon damage die and eye is destroyed; if the target has other eyes, they become [[Blinded]] until a long rest and permanently suffer disadvantage on sight-based [[Wisdom]] ([[Perception - Wisdom]] checks. If they have no other eyes, they become permanently [[Blinded]].|
+|Foot|Disadvantage & -8|+1 weapon damage die and target is knocked [[Prone]].|+1 weapon damage die and foot is removed; if the target has other feet, they are knocked [[Prone]] and their movement is permanently decreased by 5 feet. If the target has no other feet, their movement is permanently halved.|
 |Hand|Disadvantage & -8|+1 weapon damage die and if they are holding an object, it is knocked out of their hand.|+1 weapon damage die and hand is removed. If they have no other hands, they cannot wield weapons or interact with objects.|
-|Head|Disadvantage & -8|Target cannot take reactions until the start of their next turn, unless they have multiple heads.|Target becomes [[stunned]] until the end of their next turn. If they have more than 1 head, they instead suffer disadvantage on all attack rolls and ability checks until the end of their next turn.|
+|Head|Disadvantage & -8|Target cannot take reactions until the start of their next turn, unless they have multiple heads.|Target becomes [[Stunned]] until the end of their next turn. If they have more than 1 head, they instead suffer disadvantage on all attack rolls and ability checks until the end of their next turn.|
 |Heart|Disadvantage & -12|+2 weapon damage die|+2 weapon damage die and Target makes a [[Constitution]] Save with the DC equal to half the damage caused by the attack. On a failure, they are reduced to 1 HP.|
 |Leg|Disadvantage & -4|Target's movement is decreased by 5 feet until a short rest or magical healing.|Target's movement is decreased by 5 feet. If it has already been decreased by a called shot against this leg, the leg is destroyed.|
 |Vitals|Disadvantage & -4|Target's [[Constitution]] score is decreased by 1 until a long rest.|Target's [[Constitution]] score is permanently decreased by 2.|

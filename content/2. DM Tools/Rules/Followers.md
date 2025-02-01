@@ -30,7 +30,7 @@ Known for assorted tonics and serums, apothecaries are sometimes mistaken for al
 
 **Inexperienced.** Once per day, an ally treated by the apothecary can make a new saving throw against a poison or disease.
 
-**Seasoned.** Once per day, the apothecary can use an antidote to automatically end the [[poisoned]] condition on an ally.
+**Seasoned.** Once per day, the apothecary can use an antidote to automatically end the [[Poisoned]] condition on an ally.
 
 **Expert.** Once per week, the apothecary provides one medicinal of your choosing worth no more than 100 gold. The medicinal must be used within 24 hours or it loses potency.
 
@@ -52,9 +52,9 @@ A bodyguard is tasked with keeping you alive. 
 
 Preparing meals over a campfire is an entirely different skill set than cooking in a kitchen. Warm meals are a luxury many adventurers forgo, but consuming only preserved rations can lead to ill health.
 
-**Inexperienced.** Once per day, when you take a [[short rest]] and expend Hit Dice, you heal 1 additional Hit Die.
+**Inexperienced.** Once per day, when you take a [[Short Rest]] and expend Hit Dice, you heal 1 additional Hit Die.
 
-**Seasoned.** Once per day, when you and up to 4 allies take a [[short rest]] and expend Hit Dice, you heal 1 additional Hit Die.
+**Seasoned.** Once per day, when you and up to 4 allies take a [[Short Rest]] and expend Hit Dice, you heal 1 additional Hit Die.
 
 
 
@@ -148,7 +148,7 @@ Sages are specialists frequently consulted by those in search of obscure informa
 
 A smith keeps your weapons and armor in top condition. 
 
-**Inexperienced.** While you have a smith in your employ, any weapon you wield does +1 damage after your smith has fine-tuned it over the course of a [[short rest]].
+**Inexperienced.** While you have a smith in your employ, any weapon you wield does +1 damage after your smith has fine-tuned it over the course of a [[Short Rest]].
 
 **Experienced.** As inexperienced, and your smith takes particularly good care of some of your equipment. At the end of each week choose a number of items equal to your proficiency bonus. The chosen items do not require any maintenance checks as your smith makes sure to keep them in excellent condition.
 

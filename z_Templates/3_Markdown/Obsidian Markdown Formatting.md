@@ -21,7 +21,7 @@ Embed another file (read more about Embed files). Here's an embedded section:
 ![[Skills#Acrobatics]]
 ```
 
-![[Skills#Acrobatics]]
+![[content/2. DM Tools/Rules/skills#Acrobatics]]
 
 ## Headers
 

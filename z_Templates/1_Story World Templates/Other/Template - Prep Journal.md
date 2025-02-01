@@ -12,7 +12,18 @@
  
 ## Strong Start 
  
-Description of your strong start. 
+Just defeated the corrupted Owlbear and turned the water purifiers back on.
+
+While Rinji is with the Apothecary, Dorgle, Lullaby and Achroteth return to Town Hall, regrouping with Fawn.
+
+
+
+
+
+
+
+
+
  
 ## Scenes 
  

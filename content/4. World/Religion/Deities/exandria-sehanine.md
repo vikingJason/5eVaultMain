@@ -1,15 +1,3 @@
----
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/egw
-  - deity/exandria
-  - domain/arcana
-  - domain/nature
-  - domain/trickery
-aliases:
-  - Sehanine
----
 # Sehanine
 *Source: Explorer's Guide to Wildemount p. 25* 
 ![](/compendium/deities/img/symbol-of-sehanine.png#symbol)

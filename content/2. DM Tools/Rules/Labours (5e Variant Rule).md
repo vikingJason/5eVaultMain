@@ -140,7 +140,7 @@ Labors of constitution often require one to test the limits of their body's endu
 
 *Boon: Your [[Constitution]] score becomes 30.*
 
-You must challenge an [[empyrean]] to a deadly contest of fortitude, whether this be to a death by [[exhaustion]] or by intoxication. If the empyrean perishes, cut out its divine spleen and consume it. Doing so grants you the constitution of a titan.
+You must challenge an [[empyrean]] to a deadly contest of fortitude, whether this be to a death by [[Exhaustion]] or by intoxication. If the empyrean perishes, cut out its divine spleen and consume it. Doing so grants you the constitution of a titan.
 
 #### Skin of Adamantine
 
@@ -170,7 +170,7 @@ You must challenge a [[medusa]] to a staring contest. If you hold out 1 minute
 
 *Boon: Your [[Constitution]] score becomes 16 if it is not already higher.*
 
-Without using magical assistance, you must travel 60 miles by foot in 20 hours or less only retreading the same path a maximum of once. Once you do so, you must continue to run until you collapse from [[exhaustion]]. Once you recover from your exhausted state, you will realize your stamina has reached new heights.
+Without using magical assistance, you must travel 60 miles by foot in 20 hours or less only retreading the same path a maximum of once. Once you do so, you must continue to run until you collapse from [[Exhaustion]]. Once you recover from your exhausted state, you will realize your stamina has reached new heights.
 
 #### Who is The Better Swimmer
 
@@ -182,7 +182,7 @@ You must beat another creature who has a swimming speed in a swimming competitio
 
 *Boon: Your [[Constitution]] score becomes 12 if it is not already higher.*
 
-You must challenge and defeat 5 humanoids in a drinking contest each within a single minute of each other, and then continue drinking until you fall [[unconscious]]. Once you do so, the next time you wake up, you will have found that you have gotten a little bit more resilient than you were previously.
+You must challenge and defeat 5 humanoids in a drinking contest each within a single minute of each other, and then continue drinking until you fall [[Unconscious]]. Once you do so, the next time you wake up, you will have found that you have gotten a little bit more resilient than you were previously.
 
 ### Labors of [[Intelligence]]
 
@@ -376,7 +376,7 @@ You must be under the effects of five different curses simultaneously for the du
 
 #### A Deadly Concoction
 
-*Boon: You become immune to poison damage and the [[poisoned]]*
+*Boon: You become immune to poison damage and the [[Poisoned]]*
 
 You must be subjected to 10 or more different types of poisons at the same time and have all the poisons naturally dissipate. Surviving these poisons has caused your body to undergo a metamorphosis to survive, where you now find yourself immune to poisons.
 
@@ -384,7 +384,7 @@ You must be subjected to 10 or more different types of poisons at the same tim
 
 *Boon: Your [[Constitution]] becomes 13 if it is not already higher and you have advantage on saving throws made against ingested toxins, poisons, and diseases.*
 
-You must survive for at least 30 days straight on a solely unconventional and dangerous diet, which can include raw or spoiled meat, moldy produce or cheese, and other unsavory ingredients. Once you contract a [[disease]] from subsisting on this diet and recover from it naturally, you realize you have gained an iron stomach that can handle even the most dubious of foods.
+You must survive for at least 30 days straight on a solely unconventional and dangerous diet, which can include raw or spoiled meat, moldy produce or cheese, and other unsavory ingredients. Once you contract a [[Cackle Fever]] from subsisting on this diet and recover from it naturally, you realize you have gained an iron stomach that can handle even the most dubious of foods.
 
 #### Skin of Adamantine, Variant
 
@@ -415,4 +415,4 @@ To complete this labor, you must spend 24 hours or more in each of the following
 
 *Boon: You gain the vigilant feat and darkvision out to 60 feet.*
 
-You must go for 120 hours without benefiting from a [[long rest]], during which you must singlehandedly defeat at least 3 encounters of medium difficulty or higher. Once you do so, you gain a heightened sense of danger and vigilance.
+You must go for 120 hours without benefiting from a [[Long Rest]], during which you must singlehandedly defeat at least 3 encounters of medium difficulty or higher. Once you do so, you gain a heightened sense of danger and vigilance.

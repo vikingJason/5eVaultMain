@@ -1,0 +1,3 @@
+Escalation Die!  
+  
+After the first round of combat, the Escalation Die (a d6 and the larger the better) is placed in the center of the table. Starting in round 2 the die has the '1' placed face up. This is the bonus the PCs gain to all attacks. This increases by one each round until a max of 6 is reached in round 7. Now in 13th Age this is balanced by monsters having special attack(s) that trigger when the escalation die hits a certain number(s). If I recall correctly dragons in 13th Age do gain the escalation die bonus lol.

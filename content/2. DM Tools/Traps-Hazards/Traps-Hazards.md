@@ -68,7 +68,7 @@ cssclasses: json5e-note
 - [Poison Needle](poison-needle.md)
 - [Poisoned Tempest](poisoned-tempest-xge.md)
 - [Praise of Yog-Sothoth](praise-of-yog-sothoth-pkb.md)
-- [Quicksand](quicksand.md)
+- [Quicksand](content/2.%20DM%20Tools/Traps-Hazards/quicksand.md)
 - [Razorvine](razorvine.md)
 - [Rickety Bridge](rickety-bridge-pkb.md)
 - [Rigged Climbing Loops](rigged-climbing-loops-pkb.md)
