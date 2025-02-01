@@ -150,7 +150,7 @@ partyStanding:
 ## Hidden Section (Spoilers)
 <!--
 {{Spoiler content hidden from players.}}
--->
+
 
 
 ## Notes
@@ -166,3 +166,5 @@ partyStanding:
 > [!tip] **Inspiration**
 > *** compare this NPC to a famous character from a movie or a book ***
 >
+
+-->
