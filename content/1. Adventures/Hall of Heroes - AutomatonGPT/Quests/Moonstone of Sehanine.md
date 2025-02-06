@@ -14,7 +14,7 @@ The party is tasked with retrieving a **Sacred Moonstone**, a powerful artifact 
 
 
 
-![[Ancient Tomb.jpeg]]
+![[Ancient Tomb.jpeg|349x546]]
 
 
 ### **Location: The Ruins of Sehanine’s Temple**
@@ -25,87 +25,79 @@ The temple lies deep in a forest glade, surrounded by luminous trees whose leave
 
 #### **Temple Layout**
 
-
----
-
-**Entrance: The Moonlit Archway**
+##### **1. Entrance: The Moonlit Archway**
 
 - A **vine-covered archway** marks the entrance to the ruins, flanked by glowing moon-shaped sigils that softly pulse in time with the party’s footsteps.
 - Feywild flora creeps along a cobblestone pathway, with bioluminescent plants casting soft hues of blue and silver light.
 - The air is filled with the faint, sweet scent of blooming moonflowers, adding an otherworldly calm. A gentle wind seems to hum a melody in honor of Sehanine.
 
----
+##### 2. **The Moonlit Courtyard:**  
+The entrance leads to a wide courtyard with a shallow, reflecting pool at its center.
+
+**Statues of Sehanine**, carved from moonstone, are scattered throughout. Many are broken, their elegant forms crumbled into moss-covered rubble. Others remain intact, their serene faces gazing upward as if in prayer.
+
+A **reflecting pool**, broken and cracked, lies at the center of the courtyard. Its waters shimmer unnaturally under the eternal twilight sky, reflecting constellations that aren’t visible in the sky above.
+The water is enchanted—if disturbed, it awakens **Guardian Wisps**, small celestial entities that defend the temple.
+
+**Challenge:**
+
+- Stepping into the pool triggers the wisps to attack (2-4 wisps, use the _Will-o’-Wisp_ stat block).
+- To safely pass, the players can offer a small prayer to Sehanine (DC 13 Religion check) or solve a riddle inscribed on the pool’s edge.
+
+**Riddle Example:**  
+_“I fade in the sun but thrive in the night;  
+I guide the lost with my gentle light.  
+What am I?”_  
+(_Answer: The Moon_)
+
+##### **3. Entry Room**  
+
+##### **4. The Hall of Reflections:**  
+A long, narrow hall stretches before the players, its walls polished to a mirror-like shine. The surfaces shimmer with magical illusions, showing fleeting images of loved ones, past regrets, or unrealized dreams. The hall is enchanted to test the resolve of those who enter.
+
+**Challenge:**
+
+- Creatures passing through must succeed on a **DC 15 Wisdom saving throw** or become charmed for 1d4 rounds, unable to move forward as they are captivated by the illusions.
+- A successful **Insight (DC 14)** or **Arcana (DC 13)** check allows a character to identify the illusions as harmless and guide their companions through.
+- Alternatively, one of the reflections may offer cryptic advice about the temple’s trials if the players interact with it.
+
+##### **5. The Storage Room**  
+- Careful investigation (Perception DC 15) reveals side rooms containing ancient scrolls, moonlit crystals, or Feywild relics, such as:
+	- A **Starlight Diadem** (headwear that grants one use of _Guiding Bolt_ per long rest).
+	- Moonlit **potions of healing**, glowing faintly and tasting of cool night air.
+
+##### **6. Guardian’s Lair**
+One room houses a **celestial wolf** blessed by Sehanine, silently watching intruders. It may attack unless the party passes a test of wisdom or reverence.
+
+##### **7. Central Hallway**
+Animated statues of elven warriors bathed in perpetual moonlight. They defend the temple by testing intruders’ worthiness.
 
 
-1. **The Moonlit Courtyard:**  
-    The entrance leads to a wide courtyard with a shallow, reflecting pool at its center.
-    
-    **Statues of Sehanine**, carved from moonstone, are scattered throughout. Many are broken, their elegant forms crumbled into moss-covered rubble. Others remain intact, their serene faces gazing upward as if in prayer.
-
-    A **reflecting pool**, broken and cracked, lies at the center of the courtyard. Its waters shimmer unnaturally under the eternal twilight sky, reflecting constellations that aren’t visible in the sky above.
-    The water is enchanted—if disturbed, it awakens **Guardian Wisps**, small celestial entities that defend the temple.
-    
-    **Challenge:**
-    
-    - Stepping into the pool triggers the wisps to attack (2-4 wisps, use the _Will-o’-Wisp_ stat block).
-    - To safely pass, the players can offer a small prayer to Sehanine (DC 13 Religion check) or solve a riddle inscribed on the pool’s edge.
-    
-    **Riddle Example:**  
-    _“I fade in the sun but thrive in the night;  
-    I guide the lost with my gentle light.  
-    What am I?”_  
-    (_Answer: The Moon_)
-    
-
----
-
-
-
-
-2. **The Hall of Reflections:**  
-    A long, narrow hall stretches before the players, its walls polished to a mirror-like shine. The surfaces shimmer with magical illusions, showing fleeting images of loved ones, past regrets, or unrealized dreams. The hall is enchanted to test the resolve of those who enter.
-    
-    **Challenge:**
-    
-    - Creatures passing through must succeed on a **DC 15 Wisdom saving throw** or become charmed for 1d4 rounds, unable to move forward as they are captivated by the illusions.
-    - A successful **Insight (DC 14)** or **Arcana (DC 13)** check allows a character to identify the illusions as harmless and guide their companions through.
-    - Alternatively, one of the reflections may offer cryptic advice about the temple’s trials if the players interact with it.
-
----
-
-
-
-**Central Hallway: Path of Moonbeams**
-
+##### **8. Path of Moonbeams**
 - A shattered, once-grand hall leads deeper into the temple. The walls are adorned with faded murals of Sehanine’s blessings—depictions of elves traveling under the moonlight, visions of hidden truths, and the phases of the moon.
 - Faint **beams of moonlight** cut through the cracks in the ceiling, creating shifting spotlights that seem to move when not directly observed.
 - **Illusions and Magical Traps:**
     - Sections of the hallway contain illusory walls that appear solid but can be passed through (Perception DC 14 to detect).
     - False **moonstone decoys** on ornate pedestals radiate faint magical energy, triggering traps if touched. These traps might summon **Lunar Beasts** (shadow panthers or spectral hounds) or release bursts of radiant energy.
 
----
 
+###### **Key NPC: The Moonlit Oracle**
 
+- **Description:** An ancient elven spirit tied to Sehanine’s temple, the **Moonlit Oracle** appears as a shimmering, translucent figure bathed in soft moonlight.
+- **Role:** The Oracle tests the party’s intentions, offering cryptic guidance about the challenges within the temple and the location of the Moonstone. If the party shows reverence, the Oracle may even aid them by dispelling illusions or healing minor wounds.
+- **Personality:** Wise and serene, the Oracle is deeply loyal to Sehanine and speaks in poetic riddles.
 
-
-**Side Rooms: Secrets of the Temple**
-
-- **Hidden Chambers:**
+1. **Activation Clue:**  
+    Inscribed on the edge of the altar is a riddle written in glowing Elvish glyphs: _"Cycles flow and phases shift,  
+    From shadow's fall to moonlight's gift.  
+    Align the path, the truth to see,  
+    A key awaits in harmony."_
     
-    - Careful investigation (Perception DC 15) reveals side rooms containing ancient scrolls, moonlit crystals, or Feywild relics, such as:
-        - A **Starlight Diadem** (headwear that grants one use of _Guiding Bolt_ per long rest).
-        - Moonlit **potions of healing**, glowing faintly and tasting of cool night air.
-
-- **Guardian’s Lair:**
+    This clue hints that the party must interact with the phases in a specific order.
     
-    - One room houses a **celestial wolf** blessed by Sehanine, silently watching intruders. It may attack unless the party passes a test of wisdom or reverence.
-
----
 
 
-
-
-**Ritual Chamber: The Heart of the Temple**
+##### **9. Ritual Chamber: The Heart of the Temple**
 
 The Sacred Moonstone rests on an altar Pale moonlight s, illuminating the room. 
 
@@ -118,47 +110,20 @@ The Sacred Moonstone rests on an altar Pale moonlight s, illuminating the room.
 
 	However, the artifact is guarded by a **Lunar Shade**, a shadowy creature corrupted by dark magic and drawn to the Moonstone’s power.
 
----
 
-#### **Combat Encounter: The Lunar Shade**
-
-**Lunar Shade (Custom Monster)**
-
-- **Type:** Undead
-- **AC:** 15
-- **HP:** 65 (10d8 + 20)
-- **Speed:** 30 ft.
-- **Abilities:** The Lunar Shade is immune to radiant damage and has resistance to non-magical weapon attacks.
-- **Attacks:**
-    - **Shadow Lash:** Melee, +6 to hit, 2d8 necrotic damage.
-    - **Moonlight Bolt:** Ranged, +5 to hit, 2d6 radiant damage (fired once every 3 rounds).
-
-**Special Abilities:**
-
-- **Lunar Pulse (Recharge 5-6):** Releases a wave of corrupt moonlight. All creatures in a 20-foot radius must make a **DC 15 Constitution saving throw** or take 3d8 radiant damage and be blinded for 1 round.
-- **Shadow Merge:** As a bonus action, the Lunar Shade can disappear into any shadow within 30 feet, reappearing at the start of its next turn.
-
----
-
-#### **Tactics and Dynamics**
+###### **Combat Encounter: The Lunar Shade**
 
 - The Lunar Shade uses the shadows of the crumbling temple columns for cover and repositions frequently with **Shadow Merge**.
 - If players bring radiant light into the chamber (such as _Daylight_ or similar spells), it weakens the shade, reducing its AC by 2 and canceling **Shadow Merge**.
 - The Moonstone itself pulses with latent magic during the battle, potentially offering boons to players who interact with it (see below).
 
----
 
 
-
-
-
-### **The Cracked Mosaic of Moon Phases**
+###### **The Cracked Mosaic of Moon Phases**
 
 The mosaic at the heart of the **Ritual Chamber** is an ancient and intricate depiction of the moon’s phases, radiating a quiet, mystical energy. It spans the entire floor of the chamber, and although cracked and weathered with time, its brilliance remains. The mosaic serves as both a narrative centerpiece and a functional challenge for the party.
 
----
-
-#### **Appearance**
+###### **Appearance**
 
 - The mosaic is divided into twelve sections, each representing a different **phase of the moon**, from the **new moon** to the **full moon** and back again.
 - The cracks in the mosaic glow faintly, like veins of moonlight running through the floor, pulsing gently in time with the Sacred Moonstone on the altar.
@@ -168,28 +133,10 @@ The mosaic at the heart of the **Ritual Chamber** is an ancient and intricate de
     - **Full Moon:** Bright white with golden edges.
     - **Waning Phases:** Fading into darker tones, like twilight.
 
----
-
-#### **Functionality and Challenges**
-
-The mosaic plays a crucial role in retrieving the Sacred Moonstone. Its phases are tied to Sehanine’s teachings and the moon’s cyclical power, offering the party both puzzles and opportunities to connect with the goddess.
-
----
-
-### **Puzzle Mechanics**
+###### **Puzzle Mechanics**
 
 The party must interact with the mosaic to progress, using clues found in the temple or provided by the **Moonlit Oracle**. Each phase represents a test or aspect of Sehanine's domain, requiring the players to align their actions with her ideals.
 
-1. **Activation Clue:**  
-    Inscribed on the edge of the altar is a riddle written in glowing Elvish glyphs: _"Cycles flow and phases shift,  
-    From shadow's fall to moonlight's gift.  
-    Align the path, the truth to see,  
-    A key awaits in harmony."_
-    
-    This clue hints that the party must interact with the phases in a specific order.
-    
-
----
 
 ### **Possible Interactions**
 
@@ -208,7 +155,6 @@ The glowing cracks respond to the party’s actions. To unlock the Moonstone, th
     - A brief illusion showing visions of past Guardians’ failures.
 
 Clues for the correct sequence may be found:
-
 - Inscribed on the pillars in the chamber.
 - In visions granted by the **Moonlit Oracle**.
 
@@ -242,17 +188,8 @@ During combat (e.g., with the **Lunar Shade**), the mosaic adds dynamic battlefi
 
 These zones change every round, forcing the players and enemies to reposition strategically.
 
----
 
-### **Lore and Symbolism**
 
-The mosaic isn’t just a functional piece—it tells the story of Sehanine’s influence and teachings.
-
-- **Symbol of Cycles:** The phases represent the natural ebb and flow of life, light, and darkness. Aligning the phases reminds the party that Sehanine values balance and harmony in all things.
-- **Guardian’s Trials:** The mosaic’s tests reflect the trials faced by past Guardians, encouraging the party to demonstrate resolve, trust, and wisdom.
-- **Connection to the Moonstone:** The Sacred Moonstone pulses in tandem with the mosaic, reinforcing its role as the heart of the temple. As the party progresses, they may notice the Moonstone reacting more strongly to their actions, subtly guiding them.
-
----
 
 ### **Expanded Narrative Opportunities**
 
@@ -261,20 +198,8 @@ The cracked mosaic can serve as a deeper narrative touchstone for the party:
 - **Visions of the Past:** Characters who successfully align the phases may see glimpses of past events tied to Sehanine’s worship, the fall of the temple, or the corruption that summoned the Lunar Shade. These visions could provide clues for future encounters or insight into the Moonlit Oracle’s warnings.
 - **A Prophetic Moment:** Lullaby or another moon-touched character might receive a vision of their future role in Sehanine’s plans. For example, they may see themselves wielding the Moonstone’s power against a coming darkness.
 
----
 
-### **Thematic Reward**
 
-Completing the mosaic’s challenge or solving its puzzle in harmony with Sehanine’s teachings grants a **blessing**:
-
-- **Lunar Grace (Blessing):** For the next 24 hours, each party member gains a boon tied to Sehanine’s domain:
-    - **Dreaming Insight:** Once, the character can reroll a failed Insight check.
-    - **Moonlit Protection:** Gain resistance to radiant and necrotic damage.
-    - **Celestial Guidance:** The party automatically succeeds on their next saving throw against illusions or charm effects.
-
----
-
-The cracked mosaic ties seamlessly into the puzzle, combat, and lore of the temple, making it a memorable and dynamic element of the encounter. Let me know if you’d like further refinement or to add specific player interactions!
 
 
 ### **The Sacred Moonstone**
@@ -310,32 +235,11 @@ Once the Lunar Shade is defeated, the party can claim the **Sacred Moonstone**, 
 - **Illusory Terrain:**
     
     - Some sections of the temple feature illusory floors or walls, leading to hidden traps or false paths. Failing to detect these illusions could result in magical bursts (1d8 radiant damage) or temporary disorientation (causing movement halved for 1 round).
-- **Overgrown Roots:**
-    
-    - Thick, gnarled roots twist through parts of the temple, causing difficult terrain and possibly hiding traps or treasure.
-- **Feywild Pools:**
-    
-    - Small pools of Feywild magic occasionally shimmer with energy. Interacting with them can trigger **wild magic surges**, such as temporary glowing skin, uncontrollable laughter, or the summoning of harmless Fey creatures.
+
 
 ---
 
-#### **Key NPC: The Moonlit Oracle**
 
-- **Description:** An ancient elven spirit tied to Sehanine’s temple, the **Moonlit Oracle** appears as a shimmering, translucent figure bathed in soft moonlight.
-- **Role:** The Oracle tests the party’s intentions, offering cryptic guidance about the challenges within the temple and the location of the Moonstone. If the party shows reverence, the Oracle may even aid them by dispelling illusions or healing minor wounds.
-- **Personality:** Wise and serene, the Oracle is deeply loyal to Sehanine and speaks in poetic riddles.
-
----
-
-#### **Final Encounter: The Lunar Shade**
-
-The **Sacred Moonstone** is guarded by a **Lunar Shade** (as detailed previously), a shadowy manifestation of corrupted magic. This creature seeks to claim the Moonstone for itself, using the corrupted moonlight to strengthen its form.
-
-- **Tactics:**
-    - The Shade uses the **pillars** in the chamber to hide and reposition with **Shadow Merge**, striking the party from unexpected angles.
-    - It attempts to trap the party in radiant or shadowy bursts with **Lunar Pulse**, exploiting the confined space of the ritual chamber.
-
----
 
 #### **Potential Outcomes**
 

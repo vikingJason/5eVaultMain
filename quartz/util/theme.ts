@@ -14,6 +14,7 @@ export interface ColorScheme {
   textcolor: string
   calloutinfocolor: string
   statblockcolor: string
+  textHighlight: string
 }
 
 interface Colors {
@@ -67,6 +68,7 @@ ${stylesheet.join("\n\n")}
   --headerFont: "${theme.typography.header}", ${DEFAULT_HEADER};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
+  --textHighlight: ${theme.colors.lightMode.textHighlight};
 }
 
 :root[saved-theme="dark"] {
@@ -81,6 +83,7 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.darkMode.highlight};
   --outline: ${theme.colors.darkMode.outline};
   --heading1: ${theme.colors.darkMode.heading1};
+  --textHighlight: ${theme.colors.darkMode.textHighlight};
 }
 `
 }
