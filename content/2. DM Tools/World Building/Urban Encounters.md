@@ -3,8 +3,10 @@ date: 2022-04-16
 title: "Urban Encounters"
 tags:
 - worldbuilding
-NOTE: use Urban Encounter: `dice: [[Urban Encounters]]` to generate a list of things 
 ---
+
+ `dice: [[Urban Encounters]]` 
+
 
 ***Animals on the Loose***. The character see one or more unexpected animals loose in the street. This challenge could be anything from a pack of baboons to an escaped circus bear, tiger, or elephant.
 
