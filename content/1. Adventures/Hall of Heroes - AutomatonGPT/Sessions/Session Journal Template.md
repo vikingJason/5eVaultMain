@@ -7,10 +7,10 @@ sessionDate: 2025-01-15
 <br>
 
 > [!cards|2]
-> **[[Calindor_Map.jpg]]**
+> **[[Calindor_Map.jpg|Calindor]]**
 > [![[Calindor_Map.jpg\|sban htiny ctr]]](Calindor.md)
 > 
-> **[[Petalwood - Map.jpg]]**
+> **[[Petalwood - Map.jpg|Petalwood]]**
 > [![[Petalwood - Map.jpg\|sban htiny ctr]]](Petalwood.md)
 
 
@@ -29,11 +29,16 @@ fc-category: Campaign Session
 fc-display-name: Event Test
 %%
 
-## Key Events
+---
+- b
+
 
 
 
 %%aat-event-end-of-body%%
+
+## Key Events
+
 
 
 ## Summary

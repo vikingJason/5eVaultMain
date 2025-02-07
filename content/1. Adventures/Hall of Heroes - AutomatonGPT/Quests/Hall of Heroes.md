@@ -64,14 +64,14 @@
 			- help [[Brother Varras]] secure a Sacred Moonstone blessed by [[Sehanine]] to perform a sacred ritual during the lunar eclipse to strengthen the connection between Calindor and the Feywilds
 				- they can find the moonstone in an ancient, long-forgotten temple. Along the way, they'll face illusions, lunar-based puzzles, and spirits of the past.
 				- Once the moonstone is stolen, Fawn no longer hears the voice of [[Sehanine]] in her her head.
-					- It was a malevolent spirit, [[Kalistyr, the Twilit Betrayer|Kalistyr]], who has now been released and begins plaguing the villagers with nightmares.
+					- It was a malevolent spirit, [[Kalistyr, the Twilight Betrayer|Kalistyr]], who has now been released and begins plaguing the villagers with nightmares.
 					- Townspeople begin experiencing disturbing dreams, some unable to wake from their sleep, while others suffer from sleepwalking episodes.
 						- [[Brother Varras]] reveals he is a member of a Thieves Guild and needed their help to aquire the moonstone to sell to a secret buyer. He tries to manipulate [[Fawn]] by claiming that [[Sehanine]] approved of the release to teach her a lesson about the dangers of power.
-					- The party must find a way to track and trap [[Kalistyr, the Twilit Betrayer|Kalistyr]] before more lives are ruined.
-						- **Research Kalistyr**: The party must consult sages, old tomes, and maybe even the Fey themselves to learn about [[Kalistyr, the Twilit Betrayer|Kalistyr]]. This investigation could lead them into dangerous territory, such as old Fey ruins or confronting [[Kalistyr, the Twilit Betrayer|Kalistyr]]’s past victims.
-						- **Identify Patterns**: [[Fawn]] must figure out the pattern of [[Kalistyr, the Twilit Betrayer|Kalistyr]]’s attacks. Does it target people based on their fears? Their connection to the moon? With the help of a local dream-reader, the party develops a method to predict who [[Kalistyr, the Twilit Betrayer|Kalistyr]] will target next.
-						- **Craft a Trap**: Using the moonstone, [[Fawn]] can forge a powerful talisman to trap [[Kalistyr, the Twilit Betrayer|Kalistyr]]. However, the ritual to bind the spirit will require the same lunar energies that released it. The party must prepare for another dangerous ceremony during the next lunar event.
-					- Final confrontation with [[Kalistyr, the Twilit Betrayer|Kalistyr]], offering [[Fawn]] a choice between banishment or attempting to bind the spirit under her control.
+					- The party must find a way to track and trap [[Kalistyr, the Twilight Betrayer|Kalistyr]] before more lives are ruined.
+						- **Research Kalistyr**: The party must consult sages, old tomes, and maybe even the Fey themselves to learn about [[Kalistyr, the Twilight Betrayer|Kalistyr]]. This investigation could lead them into dangerous territory, such as old Fey ruins or confronting [[Kalistyr, the Twilight Betrayer|Kalistyr]]’s past victims.
+						- **Identify Patterns**: [[Fawn]] must figure out the pattern of [[Kalistyr, the Twilight Betrayer|Kalistyr]]’s attacks. Does it target people based on their fears? Their connection to the moon? With the help of a local dream-reader, the party develops a method to predict who [[Kalistyr, the Twilight Betrayer|Kalistyr]] will target next.
+						- **Craft a Trap**: Using the moonstone, [[Fawn]] can forge a powerful talisman to trap [[Kalistyr, the Twilight Betrayer|Kalistyr]]. However, the ritual to bind the spirit will require the same lunar energies that released it. The party must prepare for another dangerous ceremony during the next lunar event.
+					- Final confrontation with [[Kalistyr, the Twilight Betrayer|Kalistyr]], offering [[Fawn]] a choice between banishment or attempting to bind the spirit under her control.
 				- **Potential Rewards**:
 					- **Moonstone Amulet**: A powerful artifact that can be purified or corrupted, depending on Fawn’s choices.
 					- **New Powers from Sehanine**: If Fawn completes the ritual faithfully, she gains Sehanine’s blessing in the form of new divine abilities.

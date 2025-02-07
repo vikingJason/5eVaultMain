@@ -8,11 +8,11 @@ players:
 <br>
 
 > [!cards|2]
-> **[[Calindor_Map.jpg]]**
-> [![[Calindor_Map.jpg\|sban htiny ctr]]](Calindor.md)
+> **[[Placeholder.jpg]]**
+> [![[PlaceholderImage.png]]](Calindor.md)
 > 
-> **[[Petalwood - Map.jpg]]**
-> [![[Petalwood - Map.jpg\|sban htiny ctr]]](Petalwood.md)
+> **[[PlaceholderImage.png]]**
+> [![[PlaceholderImage.png]]](Petalwood.md)
 
 
 # Session {{Date & Title}}
@@ -27,7 +27,7 @@ fc-end: 6880-06-08 ## update dates
 aat-event-start-date: 6880-06-08 ## update dates
 aat-event-end-date: 6880-06-08 ## update dates
 fc-category: Campaign Session
-fc-display-name: Event Test ## update
+fc-display-name: Event Test <br> {date} ## update
 %%
 
 ## Key Events
