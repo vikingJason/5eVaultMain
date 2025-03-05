@@ -15,7 +15,7 @@ aliases: ["Acid Strongbox Trap"]
 - **Complexity** Simple
 - **Stealth** DC 22 trained  
 
-An [invisible](rules/conditions.md#Invisible) magic field around the strongbox releases a spray of acid when disturbed.
+An [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) magic field around the strongbox releases a spray of acid when disturbed.
 
 - **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (expert) to harmlessly bleed away the magical field or dispel magic (2nd level; counteract DC 20) to dispel it.  
 

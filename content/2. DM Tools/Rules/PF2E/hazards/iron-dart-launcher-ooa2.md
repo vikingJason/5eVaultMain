@@ -14,7 +14,7 @@ aliases: ["Iron Dart Launcher"]
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
 
-A half-dozen iron darts fire from spring-loaded launchers [concealed](rules/conditions.md#Concealed) in the desk opposite the front door.
+A half-dozen iron darts fire from spring-loaded launchers [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) in the desk opposite the front door.
 
 - **Disable** DC 22 [Thievery](compendium/skills.md#Thievery) (trained) to disable the trigger, or DC 18 [Acrobatics](compendium/skills.md#Acrobatics) to squeeze through the partially opened door (this doesn't disable the trap but prevents it from triggering)  
 

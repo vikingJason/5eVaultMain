@@ -14,7 +14,7 @@ aliases: ["Stabbing Sentinel"]
 - **Complexity** Simple
 - **Stealth** DC 45 master  
 
-A [petrified](rules/conditions.md#Petrified) creature momentarily animates to attack an adjacent creature.
+A [petrified](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Petrified) creature momentarily animates to attack an adjacent creature.
 
 - **Disable** DC 40 [Thievery](compendium/skills.md#Thievery) (master) to remove the animating magic without triggering the trap, or dispel magic (8th level; counteract DC 38) to counteract the animating magic.  
 

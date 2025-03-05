@@ -15,7 +15,7 @@ aliases: ["Acidic Poison Cloud Trap"]
 - **Complexity** Complex
 - **Stealth** +30 master  
 
-Five nozzles [hidden](rules/conditions.md#Hidden) across the apartment's ceiling spew thick clouds of acidic poison from a reinforced tank behind the wall.
+Five nozzles [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) across the apartment's ceiling spew thick clouds of acidic poison from a reinforced tank behind the wall.
 
 - **Disable** DC 35 [Thievery](compendium/skills.md#Thievery) (expert) to block one of the nozzles or DC 40 [Thievery](compendium/skills.md#Thievery) (master) to shut off the tank. The trap deactivates after 5 rounds, once the tank is empty.  
 

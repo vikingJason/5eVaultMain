@@ -15,7 +15,7 @@ aliases: ["Stalker Summoning Rune"]
 - **Complexity** Complex
 - **Stealth** +15 expert  
 
-The sand conceals a rune that summons an [invisible](rules/conditions.md#Invisible) stalker into this yard.
+The sand conceals a rune that summons an [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) stalker into this yard.
 
 - **Disable** [Acrobatics](compendium/skills.md#Acrobatics) DC 25 to approach without triggering the trap followed by [Arcana](compendium/skills.md#Arcana) DC 25 (expert) or [Thievery](compendium/skills.md#Thievery) DC 27 (expert) to erase the rune, or dispel magic (4th level; counteract DC 25) to counteract the rune.  
 

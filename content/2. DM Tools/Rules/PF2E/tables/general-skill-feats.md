@@ -66,7 +66,7 @@ aliases: ["General Skill Feats"]
 | [Deception](compendium/skills.md#Deception) Skill Feats | Level | Prerequisites | Benefits |
 |---------------------------------------------------------|-------|---------------|----------|
 | [Charming Liar](compendium/feats/charming-liar.md) | 1 | Trained in [Deception](compendium/skills.md#Deception) | Improve a target's attitude with your lies |
-| [Lengthy Diversion](compendium/feats/lengthy-diversion.md) | 1 | Trained in Deception | Remain [hidden](rules/conditions.md#Hidden) after you [Create a Diversion](rules/actions/create-a-diversion.md) |
+| [Lengthy Diversion](compendium/feats/lengthy-diversion.md) | 1 | Trained in Deception | Remain [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) after you [Create a Diversion](rules/actions/create-a-diversion.md) |
 | [Lie to Me](compendium/feats/lie-to-me.md) | 1 | Trained in Deception | Use [Deception](compendium/skills.md#Deception) to detect lies |
 | [Confabulator](compendium/feats/confabulator.md) | 2 | Expert in Deception | Reduce the bonuses against your repeated lies |
 | [Quick Disguise](compendium/feats/quick-disguise.md) | 2 | Expert in Deception | Set up a disguise in only half the time |
@@ -108,7 +108,7 @@ aliases: ["General Skill Feats"]
 | [Battle Medicine](compendium/feats/battle-medicine.md) | 1 | Trained in Medicine | Heal yourself or an ally in battle |
 | [Robust Recovery](compendium/feats/robust-recovery.md) | 2 | Expert in Medicine | Greater benefits from [Treat Disease](rules/actions/treat-disease.md) and [Treat Poison](rules/actions/treat-poison.md) |
 | [Ward Medic](compendium/feats/ward-medic.md) | 2 | Expert in Medicine | Treat several patients at once |
-| [Legendary Medic](compendium/feats/legendary-medic.md) | 15 | Legendary in Medicine | Remove disease or the [blinded](rules/conditions.md#Blinded), [deafened](rules/conditions.md#Deafened), [doomed](rules/conditions.md#Doomed), or [drained](rules/conditions.md#Drained) condition |
+| [Legendary Medic](compendium/feats/legendary-medic.md) | 15 | Legendary in Medicine | Remove disease or the [blinded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Blinded), [deafened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Deafened), [doomed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Doomed), or [drained](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Drained) condition |
 ^general-skill-feats-5-2-73
 
 | [Nature](compendium/skills.md#Nature) Skill Feats | Level | Prerequisites | Benefits |

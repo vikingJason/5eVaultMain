@@ -13,7 +13,7 @@ aliases: ["Entrapping Chair"]
 - **Complexity** Simple
 - **Stealth** DC 26 (0 to notice the chair)  
 
-A chair on [concealed](rules/conditions.md#Concealed) tracks surges forward, knocking a creature into the chair's seat and trapping them in place with clamping armrests.
+A chair on [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) tracks surges forward, knocking a creature into the chair's seat and trapping them in place with clamping armrests.
 
 - **Disable** DC 23 [Thievery](compendium/skills.md#Thievery) (expert) to disrupt the tracks  
 

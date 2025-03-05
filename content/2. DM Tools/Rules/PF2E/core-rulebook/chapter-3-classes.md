@@ -205,7 +205,7 @@ Your companion terrorizes foes with dominance displays and pushes them around th
 
 Your companion joins the fray with graceful leaps and dives.
 
-It gains the deny advantage|barbarian||3 ability, so it isn't [flat-footed](rules/conditions.md#Flat-footed) to hidden, undetected, or flanking creatures unless such a creature's level is greater than yours. Its proficiency rank in [Acrobatics](compendium/skills.md#Acrobatics) increases to master, and its Dexterity modifier increases by 1. Its proficiency rank in unarmored defense increases to expert.
+It gains the deny advantage|barbarian||3 ability, so it isn't [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to hidden, undetected, or flanking creatures unless such a creature's level is greater than yours. Its proficiency rank in [Acrobatics](compendium/skills.md#Acrobatics) increases to master, and its Dexterity modifier increases by 1. Its proficiency rank in unarmored defense increases to expert.
 
 ##### Racer
 <sup>CRB p. 217</sup>

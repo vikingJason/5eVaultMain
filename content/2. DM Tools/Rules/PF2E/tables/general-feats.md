@@ -14,7 +14,7 @@ aliases: ["General Feats"]
 | [Armor Proficiency](compendium/feats/armor-proficiency.md) | 1 | — | Become trained in a type of armor |
 | [Breath Control](compendium/feats/breath-control.md) | 1 | — | Hold your breath longer and gain benefits against inhaled threats |
 | [Canny Acumen](compendium/feats/canny-acumen.md) | 1 | — | Become an expert in a saving throw or [Perception](compendium/skills.md#Perception) |
-| [Diehard](compendium/feats/diehard.md) | 1 | — | Die at [dying](rules/conditions.md#Dying), rather than dying 4 |
+| [Diehard](compendium/feats/diehard.md) | 1 | — | Die at [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying), rather than dying 4 |
 | [Fast Recovery](compendium/feats/fast-recovery.md) | 1 | Constitution 14 | Regain more HP from rest, recover faster from disease and poisons |
 | [Feather Step](compendium/feats/feather-step.md) | 1 | Dexterity 14 | [Step](rules/actions/step.md) into difficult terrain |
 | [Fleet](compendium/feats/fleet.md) | 1 | — | Increase your Speed by 5 feet |

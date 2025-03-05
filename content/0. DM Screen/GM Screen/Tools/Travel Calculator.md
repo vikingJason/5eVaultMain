@@ -47,7 +47,7 @@ Requires hourly [[08-using-ability-scores#Constitution Checks|Constitution Saves
 
 DC 11 at hour 9
 DC 12 at hour 10
-Each failure adds a level of [[conditions#Exhaustion|Exhaustion]].
+Each failure adds a level of [[content/2. DM Tools/Rules/Conditions/Conditions#Exhaustion|Exhaustion]].
 
 ### Transport Services
 

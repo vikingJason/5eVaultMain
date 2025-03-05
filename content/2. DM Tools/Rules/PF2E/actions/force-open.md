@@ -18,7 +18,7 @@ Using your body, a lever, or some other tool, you attempt to forcefully open a d
 
 > [!success-degree] 
 > - **Critical Success** You open the door, window, container, or gate and can avoid damaging it in the process.
-> - **Success** You break the door, window, container, or gate open, and the door, window, container, or gate gains the [broken](rules/conditions.md#Broken) condition. If it's especially sturdy, the GM might have it take damage but not be broken.
+> - **Success** You break the door, window, container, or gate open, and the door, window, container, or gate gains the [broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken) condition. If it's especially sturdy, the GM might have it take damage but not be broken.
 > - **Critical Failure** Your attempt jams the door, window, container, or gate shut, imposing a –2 circumstance penalty on future attempts to Force it Open.
 
 > [!pf2-example] Sample Force Open Tasks

@@ -26,7 +26,7 @@ title: Saving Throw: DC 27 Will
 
 ## Tempting Curse
 
-The sight of the deity's religious symbol burns you with the god's rage. You can activate the tempted curse upon viewing the deity's symbol. You are [quickened](rules/conditions.md#Quickened) for 1 minute and can use the extra action each round only to [Strike](rules/actions/strike.md) and [Stride](rules/actions/stride.md). For the rest of the day, whenever you see the deity's religious symbol, you lose `2d6` Hit Points.
+The sight of the deity's religious symbol burns you with the god's rage. You can activate the tempted curse upon viewing the deity's symbol. You are [quickened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Quickened) for 1 minute and can use the extra action each round only to [Strike](rules/actions/strike.md) and [Stride](rules/actions/stride.md). For the rest of the day, whenever you see the deity's religious symbol, you lose `2d6` Hit Points.
 
 ## Summary
 

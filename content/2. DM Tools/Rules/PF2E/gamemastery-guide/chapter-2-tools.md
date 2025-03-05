@@ -109,7 +109,7 @@ When it comes to statistics, a creature should be balanced overall. That means i
 
 > [!pf2-brown] RESKINNING A CREATURE
 > 
-> Sometimes you need a creature with abilities that are almost exactly the same as those of a published creature. In that case, it can be more efficient to simply "reskin" the old creature rather than design a new one—that is, to change the description but keep the abilities mostly the same. Occasionally reskinning requires small mechanical adjustments. For instance, a fire cat that has immunity to fire, an aura that deals fire damage, and the ability to light people on fire with its jaws to deal [persistent fire damage](rules/conditions.md#Persistent%20Damage) could be reskinned as a caustic animate tree that has immunity to acid, an aura that deals acid damage, and branch attacks that smear acidic sap on a creature's body when they hit, dealing [persistent acid damage](rules/conditions.md#Persistent%20Damage).
+> Sometimes you need a creature with abilities that are almost exactly the same as those of a published creature. In that case, it can be more efficient to simply "reskin" the old creature rather than design a new one—that is, to change the description but keep the abilities mostly the same. Occasionally reskinning requires small mechanical adjustments. For instance, a fire cat that has immunity to fire, an aura that deals fire damage, and the ability to light people on fire with its jaws to deal [persistent fire damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) could be reskinned as a caustic animate tree that has immunity to acid, an aura that deals acid damage, and branch attacks that smear acidic sap on a creature's body when they hit, dealing [persistent acid damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage).
 
 #### Extreme Increases
 <sup>GMG p. 58</sup>
@@ -713,7 +713,7 @@ The effects of an ability should be appropriate to the creature's level. For dam
 ##### Invisible Abilities
 <sup>GMG p. 68</sup>
 
-Avoid abilities that do nothing but change the creature's math, also known as "[invisible](rules/conditions.md#Invisible) abilities." These alter a creature's statistics in a way that's [invisible](rules/conditions.md#Invisible) to the players, which makes the creature less engaging because the players don't see it using its abilities in a tangible or evocative way. For example, an ability that allows a creature to use an action to increase its accuracy for the round with no outward sign (or worse, just grants a passive bonus to its accuracy) isn't that compelling, whereas one that increases its damage by lighting its arrows on fire is noticeable.
+Avoid abilities that do nothing but change the creature's math, also known as "[invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) abilities." These alter a creature's statistics in a way that's [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) to the players, which makes the creature less engaging because the players don't see it using its abilities in a tangible or evocative way. For example, an ability that allows a creature to use an action to increase its accuracy for the round with no outward sign (or worse, just grants a passive bonus to its accuracy) isn't that compelling, whereas one that increases its damage by lighting its arrows on fire is noticeable.
 
 These both work toward the same goal—dealing more damage this round—but one is far more memorable.
 
@@ -726,9 +726,9 @@ Consider how you want your creature to spend its turns.
 
 Two-action activities pretty much define the creature's turn, and single actions work best for supplemental benefits or normal [Strikes](rules/actions/strike.md). And as you build out your idea of a creature's turn, don't forget about movement! A creature often needs to spend actions getting into position, especially early in a fight. This is especially challenging with meleeonly creatures. You can give such creatures abilities similar to Sudden Charge or the deadly mantis's Leaping Grab.
 
-Use 3-action abilities sparingly, as a creature can't use them if it is [slowed](rules/conditions.md#Slowed) or [stunned](rules/conditions.md#Stunned)—making a creature's coolest or most defining ability use up 3 actions might mean the creature never gets to use it. These activities should be reserved for abilities that include some movement (like Trample) or that the creature is likely to use before engaging in combat. Don't make an ability use 3 actions as a way to balance it—saying "This can be more powerful than other abilities because it is less likely to work," is a recipe for frustration if you've made a cool ability that's too hard or even impossible for the creature to use.
+Use 3-action abilities sparingly, as a creature can't use them if it is [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed) or [stunned](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stunned)—making a creature's coolest or most defining ability use up 3 actions might mean the creature never gets to use it. These activities should be reserved for abilities that include some movement (like Trample) or that the creature is likely to use before engaging in combat. Don't make an ability use 3 actions as a way to balance it—saying "This can be more powerful than other abilities because it is less likely to work," is a recipe for frustration if you've made a cool ability that's too hard or even impossible for the creature to use.
 
-Be especially careful with activities when designing boss creatures. They're likely to get targeted with the PCs' most powerful detrimental effects, get [grabbed](rules/conditions.md#Grabbed), become [slowed](rules/conditions.md#Slowed), or otherwise have their actions restricted. Bosses need to have solid options they can use with 1 or 2 actions.
+Be especially careful with activities when designing boss creatures. They're likely to get targeted with the PCs' most powerful detrimental effects, get [grabbed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Grabbed), become [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed), or otherwise have their actions restricted. Bosses need to have solid options they can use with 1 or 2 actions.
 
 This lets them use their remaining actions to get away, use a simple ability, or otherwise keep the fight dynamic.
 
@@ -778,7 +778,7 @@ You can use the dice given or generate your own expression based on the damage i
 #### Defensive Abilities
 <sup>GMG p. 69</sup>
 
-Active offensive abilities usually fit creatures better than defensive abilities do. Save defense increases for creatures that are strongly defense-themed. For martial creatures, something as simple as a shield and [Shield Block](compendium/feats/shield-block.md) is usually plenty. Defensive abilities often run the risk of being [invisible](rules/conditions.md#Invisible) abilities. For examples of good defensive abilities, look at spells like _sanctuary_ for ideas, or other spells that create interesting protective effects instead of just granting a bonus. If you do want to make a creature defensive, pick one defensive ability rather than several, since stacking up multiple defenses can make for a frustrating fight. One solid style of defensive ability is a mode switch, which causes the creature to get stronger defenses, but limits its attacks, spells, or other offensive options.
+Active offensive abilities usually fit creatures better than defensive abilities do. Save defense increases for creatures that are strongly defense-themed. For martial creatures, something as simple as a shield and [Shield Block](compendium/feats/shield-block.md) is usually plenty. Defensive abilities often run the risk of being [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) abilities. For examples of good defensive abilities, look at spells like _sanctuary_ for ideas, or other spells that create interesting protective effects instead of just granting a bonus. If you do want to make a creature defensive, pick one defensive ability rather than several, since stacking up multiple defenses can make for a frustrating fight. One solid style of defensive ability is a mode switch, which causes the creature to get stronger defenses, but limits its attacks, spells, or other offensive options.
 
 #### Reactive Abilities
 <sup>GMG p. 69</sup>
@@ -826,7 +826,7 @@ The skill feats in the _Core Rulebook_ make for a good baseline. Avoid giving yo
 ### Review Holistically
 <sup>GMG p. 69</sup>
 
-Now it's time to look over your completed creature as a whole and make sure it's living up to your concept. Can it do everything you wanted? Does it fit its intended role? Is there anything you could add or anything superfluous you could cut to get the creature where it needs to be? If this creature is built for combat, run through a few turns in your head. Does it still work decently if it gets [slowed](rules/conditions.md#Slowed)? Can it move into combat against the PCs effectively given their mobility options compared to its own? Does it have any abilities it'll never use given its other actions? When you're satisfied with your creation, it's ready to hit the table. But that's not necessarily the end! If you notice issues during the game, you can fix them on the spot. It's your game, and you can freely change what you wrote if you think differently later on.
+Now it's time to look over your completed creature as a whole and make sure it's living up to your concept. Can it do everything you wanted? Does it fit its intended role? Is there anything you could add or anything superfluous you could cut to get the creature where it needs to be? If this creature is built for combat, run through a few turns in your head. Does it still work decently if it gets [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed)? Can it move into combat against the PCs effectively given their mobility options compared to its own? Does it have any abilities it'll never use given its other actions? When you're satisfied with your creation, it's ready to hit the table. But that's not necessarily the end! If you notice issues during the game, you can fix them on the spot. It's your game, and you can freely change what you wrote if you think differently later on.
 
 ### Trait Abilities
 <sup>GMG p. 70</sup>
@@ -1321,7 +1321,7 @@ Haunts are spiritual hazards, usually formed when the spiritual essence of a loc
 
 Much like for creatures, hazard statistics can be extreme, high, or low (hazards don't need as much granularity, so they usually don't have moderate or terrible values for their statistics). While they are defined in creature creation, when building a hazard, you'll use the values slightly differently.
 
-**Extreme:** While extreme values remain world-class statistics that are extremely difficult to meet or exceed, unlike with monsters, almost all hazards have one extreme statistic because hazards normally activate only if they have gone [unnoticed](rules/conditions.md#Unnoticed) or if someone critically failed to disable them. Does it have an extreme [Stealth](compendium/skills.md#Stealth) DC that makes it incredibly hard to find, an extreme Disable DC that makes it perilous to disable, or an extreme save DC that makes it deadly in the event it triggers? These are the most common choices, as each affects a different phase of encountering the hazard.
+**Extreme:** While extreme values remain world-class statistics that are extremely difficult to meet or exceed, unlike with monsters, almost all hazards have one extreme statistic because hazards normally activate only if they have gone [unnoticed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unnoticed) or if someone critically failed to disable them. Does it have an extreme [Stealth](compendium/skills.md#Stealth) DC that makes it incredibly hard to find, an extreme Disable DC that makes it perilous to disable, or an extreme save DC that makes it deadly in the event it triggers? These are the most common choices, as each affects a different phase of encountering the hazard.
 
 **High:** This is a capable level, and can generally serve as a baseline value; this value for hazards covers what would be the high and moderate ranges for creatures.
 
@@ -1332,7 +1332,7 @@ Much like for creatures, hazard statistics can be extreme, high, or low (hazards
 
 When determining a hazard's combat statistics, first decide how the hazard can be located and how hard it is to disable.
 
-A hazard where the main challenge is how difficult it is to find, like the _Core Rulebook's_ [hidden](rules/conditions.md#Hidden) pit, might have a very different effect for its level than a hazard out in plain sight, daring a PC to try to disable it, like the _Armageddon orb_
+A hazard where the main challenge is how difficult it is to find, like the _Core Rulebook's_ [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) pit, might have a very different effect for its level than a hazard out in plain sight, daring a PC to try to disable it, like the _Armageddon orb_
 
 | Level | Extreme | High | Low |
 |-------|---------|------|-----|
@@ -1365,7 +1365,7 @@ A hazard where the main challenge is how difficult it is to find, like the _Core
 
 When deciding how your hazard is disabled, come up with a narrative description of how it would happen, which will inform which methods and skills disable the hazard. You'll need to decide the proficiency rank necessary to find the hazard as well as disable it with each method.
 
-Remember, a hazard without a listed rank next to its [Stealth](compendium/skills.md#Stealth) DC is obvious enough that creatures can find it without [Searching](rules/actions/search.md), and magical hazards without a listed rank are not normally protected against _detect magic_. Most hazards built by intelligent creatures are [concealed](rules/conditions.md#Concealed) have at least a trained rank. Table 2–14 indicates the high and moderate proficiency requirements by level; you can use lower proficiency ranks than the ones listed, and if you use the high rank, consider a secondary, perhaps less-efficient method to disable the hazard using a lower rank. For instance, the bloodthirsty urge haunt in the _Core Rulebook_ can be disabled with master [Religion](compendium/skills.md#Religion), or by a higher DC with expert [Diplomacy](compendium/skills.md#Diplomacy).
+Remember, a hazard without a listed rank next to its [Stealth](compendium/skills.md#Stealth) DC is obvious enough that creatures can find it without [Searching](rules/actions/search.md), and magical hazards without a listed rank are not normally protected against _detect magic_. Most hazards built by intelligent creatures are [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) have at least a trained rank. Table 2–14 indicates the high and moderate proficiency requirements by level; you can use lower proficiency ranks than the ones listed, and if you use the high rank, consider a secondary, perhaps less-efficient method to disable the hazard using a lower rank. For instance, the bloodthirsty urge haunt in the _Core Rulebook_ can be disabled with master [Religion](compendium/skills.md#Religion), or by a higher DC with expert [Diplomacy](compendium/skills.md#Diplomacy).
 
 If you need a [Stealth](compendium/skills.md#Stealth) modifier for a complex hazard, just subtract 10 from the listed DC.
 
@@ -1599,7 +1599,7 @@ Remember that held items are more challenging for martial characters to use, com
 #### Oils
 <sup>GMG p. 84</sup>
 
-Oils are consumables you slather onto items or, rarely, creatures. They provide an interesting opportunity to apply effects to other items. Just remember not to accidentally make something that should be applied topically into a potion; for instance, a [petrified](rules/conditions.md#Petrified) character can't drink an anti-petrifying potion! The actions an oil takes to use depend on how thoroughly it needs to be applied. For one used outside of combat, it could take a minute or more.
+Oils are consumables you slather onto items or, rarely, creatures. They provide an interesting opportunity to apply effects to other items. Just remember not to accidentally make something that should be applied topically into a potion; for instance, a [petrified](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Petrified) character can't drink an anti-petrifying potion! The actions an oil takes to use depend on how thoroughly it needs to be applied. For one used outside of combat, it could take a minute or more.
 
 #### Potions
 <sup>GMG p. 84</sup>
@@ -1629,7 +1629,7 @@ You'll need to come up with a theme and curate a list of spells that stay close 
 #### Structures
 <sup>GMG p. 84</sup>
 
-Structures are evocative and make great tertiary items, quirky but not part of a combat build. This allows you to price them affordably, but make sure there isn't some [hidden](rules/conditions.md#Hidden) abuse where the structure drastically alters encounters. The [structure](rules/traits/structure.md "Structure General Trait") trait is intended to help as a starting point.
+Structures are evocative and make great tertiary items, quirky but not part of a combat build. This allows you to price them affordably, but make sure there isn't some [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) abuse where the structure drastically alters encounters. The [structure](rules/traits/structure.md "Structure General Trait") trait is intended to help as a starting point.
 
 #### Talismans
 <sup>GMG p. 84</sup>
@@ -1648,7 +1648,7 @@ Worn items vary wildly in their effects, but they all take up one of a character
 
 > [!pf2-brown] POTIONS VS. ELIXIRS
 > 
-> Alchemical items and magic items follow a similar price economy based on their level, but the effects of potions can be a bit broader and more directly magical. Alchemists can also make extremely large numbers of elixirs at an item level equal to their alchemist level, so if a 17th level elixir was competing with a 9th level spell for power, an alchemist would be packing the equivalent of over 40 9th level spells, and potentially [quickened](rules/conditions.md#Quickened) spells thanks to the single action activation.
+> Alchemical items and magic items follow a similar price economy based on their level, but the effects of potions can be a bit broader and more directly magical. Alchemists can also make extremely large numbers of elixirs at an item level equal to their alchemist level, so if a 17th level elixir was competing with a 9th level spell for power, an alchemist would be packing the equivalent of over 40 9th level spells, and potentially [quickened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Quickened) spells thanks to the single action activation.
 
 Where the item is worn should usually match its effects or bonuses: shoes help you move, eyepieces affect your vision, and so on. As with held items, imagine a character wearing the item to picture how they use its magic.
 
@@ -1940,7 +1940,7 @@ The following, as well as the intelligent artifact _Serithtial_ on page 112, are
 
 Cursed items are almost never made intentionally; even those who set out to curse an item find the task incredibly difficult or even impossible. These items are the results of magical mishaps, shoddy crafting, or sinister forces interfering with the creation. Many specify how their curses work, but curses are fickle, and you as the GM determine how curses play out in your game. Due to these factors, an item with the [cursed](rules/traits/cursed-gmg.md "Cursed Item Trait") trait is always rare.
 
-**Identifying Cursed Items:** Cursed items often appear to be ordinary magical items, as the magic that warps their function also disguises their curses from detection. Unless you roll a critical success when Identifying a cursed item, it simply appears as something [helpful](rules/conditions.md#Helpful) or benign. A critical success reveals both the presence of the curse and the exact nature of the curse.
+**Identifying Cursed Items:** Cursed items often appear to be ordinary magical items, as the magic that warps their function also disguises their curses from detection. Unless you roll a critical success when Identifying a cursed item, it simply appears as something [helpful](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Helpful) or benign. A critical success reveals both the presence of the curse and the exact nature of the curse.
 
 **Removing Cursed Items:** Many cursed items can't be discarded. Some use magic to fuse to the wielder, making it impossible to remove the item, while others attune to their owner and return even if discarded. (This section uses the term "fuse" to describe either situation.) In many cases, this feature reveals itself only after the cursed item has been triggered for the first time or after investing the item for the first time, allowing the user to develop a false sense of security. Fused cursed items can be removed by targeting the item's owner with a _remove curse_ spell or similar magic. If the spell is successful, the item can be discarded, but nothing prevents the item from cursing the same creature again if the conditions are met, so it's best to dispose of the item quickly. Invested cursed items that can't be removed continue to count against a character's invested items, even without reinvesting them each day.
 
@@ -1957,7 +1957,7 @@ The following are a few examples of cursed items.
 
 Most curses alter a base item. Item curses alter their base item, much like a property rune, though they can't be detected or identified unless a creature critically succeeds at a check to Identify the Item. A curse can be applied to the specific types of magic items listed in its Usage entry.
 
-Curses typically can't be removed or transferred from the item, though at your discretion, either might be possible after the curse is [broken](rules/conditions.md#Broken). If the PCs manage to break the curse, the newly uncursed item could be quite valuable.
+Curses typically can't be removed or transferred from the item, though at your discretion, either might be possible after the curse is [broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken). If the PCs manage to break the curse, the newly uncursed item could be quite valuable.
 
 > [!pf2-note]
 > Please visit the items page to view all item curses.
@@ -1978,7 +1978,7 @@ Other relics can be acquired during play as part of the ongoing story. Regardles
 
 For example, an old, tarnished amulet found around the neck of a buried king might turn out to be an item of deep historical significance that awakens to great power.
 
-The seemingly ordinary family sword, passed down to each new generation, might unlock [hidden](rules/conditions.md#Hidden) potential through the deeds of its owner.
+The seemingly ordinary family sword, passed down to each new generation, might unlock [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) potential through the deeds of its owner.
 
 The PCs might immediately recognize a relic for its ability, or they might carry it for a time before its true nature becomes apparent. The story of a relic should be a tale of discovery. At first, a relic's wielder likely does not fully understand the item's power, or might be unable to use it, learning of its abilities only after a momentous event or fortuitous breakthrough. Ultimately, relics are powerful tools in service of the story, working as a valuable tie to the narrative, but their growth and development are in your hands. Because of the place relics hold in the story, they aren't available for purchase, nor can they be crafted.
 
@@ -2139,7 +2139,7 @@ Then, decide on a trigger for the curse—such as a creature attempting to steal
 ### Diseases
 <sup>GMG p. 118</sup>
 
-Exposure to disease can be a hazard, such as when PCs come into contact with a plague-ridden corpse; such hazards grant XP as a simple hazard of the disease's level. When a disease gives a [sickened](rules/conditions.md#Sickened) condition that can't be reduced until it runs its course, that typically means the disease has symptoms such as a difficulty swallowing, loss of appetite, or nausea that make eating and drinking difficult but not impossible. Despite the condition's prohibition on eating or drinking, a creature can slowly and carefully eat and drink as long as they aren't in an encounter.
+Exposure to disease can be a hazard, such as when PCs come into contact with a plague-ridden corpse; such hazards grant XP as a simple hazard of the disease's level. When a disease gives a [sickened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Sickened) condition that can't be reduced until it runs its course, that typically means the disease has symptoms such as a difficulty swallowing, loss of appetite, or nausea that make eating and drinking difficult but not impossible. Despite the condition's prohibition on eating or drinking, a creature can slowly and carefully eat and drink as long as they aren't in an encounter.
 
 ### Drugs
 <sup>GMG p. 120</sup>
@@ -2394,7 +2394,7 @@ What elements of the nation's predominant culture stand out? A nation might have
 ##### History
 <sup>GMG p. 126</sup>
 
-How did the nation come to be? Has it stood since time immemorial, a bastion of stability while the rest of the world changes around it? Perhaps it was built over the ruins of another civilization, destroyed by some forgotten calamity. Or perhaps it is a young nation, born recently amid ongoing strife in your world. What remnants of the past can be found, or has the past been deliberately [hidden](rules/conditions.md#Hidden)? How have the residents of the nation adapted to change, and in what ways have they failed to do so?
+How did the nation come to be? Has it stood since time immemorial, a bastion of stability while the rest of the world changes around it? Perhaps it was built over the ruins of another civilization, destroyed by some forgotten calamity. Or perhaps it is a young nation, born recently amid ongoing strife in your world. What remnants of the past can be found, or has the past been deliberately [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden)? How have the residents of the nation adapted to change, and in what ways have they failed to do so?
 
 ##### Economy and Political Stances
 <sup>GMG p. 126</sup>
@@ -2622,7 +2622,7 @@ Just like in other adventure locations, all three modes of play can happen in se
 #### Marketplaces
 <sup>GMG p. 132</sup>
 
-Where there are people, there is commerce. The Buying and Selling section on page 24 provides several sets of guidelines for handling commerce in your game, but it can also be [helpful](rules/conditions.md#Helpful) to have a sense of what items and economic power a given settlement has on its own merits.
+Where there are people, there is commerce. The Buying and Selling section on page 24 provides several sets of guidelines for handling commerce in your game, but it can also be [helpful](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Helpful) to have a sense of what items and economic power a given settlement has on its own merits.
 
 In a given settlement, a character can usually purchase any common item (including formulas, alchemical items, and magic items) that is of the same or lower level than the settlement's. Usually, fewer of the highest-level items are available—you can use Table 10–9: Party Treasure by Level on page 509 of the _Core Rulebook_ as a guideline for how many of the highest-level items might be available, using the Permanent Items and Consumables entries for a level 1 lower than the settlement's actual level. Inhabitants of a settlement can usually purchase items from PCs as long as those items are the same or lower level than the settlement, with limitations on higher-level items similar to those available for sale. If a settlement's population is significantly smaller than its level would suggest, its ability to provide and purchase items may be more limited.
 
@@ -2644,7 +2644,7 @@ Outside of city limits, adventurers spend much of their time operating on their 
 
 The government of a settlement often reflects the nature of that settlement. A lawful, militaristic city likely has a hierarchical government with a single figure at the top, a crossroads market town might be under the control of its wealthiest merchant families, and a farming community might simply look to the oldest residents for leadership as necessary.
 
-That said, the lawful and publicly recognized ruler of a settlement isn't always the one calling the shots. They may merely be a puppet to a secret entity that silently pulls the strings from the shadows. Some settlements are ruled by [hidden](rules/conditions.md#Hidden) cabals, from strange religious sects to thieves' guilds. A settlement might be swayed by politically powerful residents, such an occult vizier or a political savvy high priest. In some cases, the legitimate authority may seem to govern but has actually been replaced by a faceless stalker, a devil in disguise, or another powerful shapechanger.
+That said, the lawful and publicly recognized ruler of a settlement isn't always the one calling the shots. They may merely be a puppet to a secret entity that silently pulls the strings from the shadows. Some settlements are ruled by [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) cabals, from strange religious sects to thieves' guilds. A settlement might be swayed by politically powerful residents, such an occult vizier or a political savvy high priest. In some cases, the legitimate authority may seem to govern but has actually been replaced by a faceless stalker, a devil in disguise, or another powerful shapechanger.
 
 ##### Legal Codes
 <sup>GMG p. 133</sup>
@@ -2724,7 +2724,7 @@ Exploring the planes offers several opportunities for high adventure, as well ch
 ### Planar Traits
 <sup>GMG p. 136</sup>
 
-Each plane, dimension, and demiplane has its own properties and attributes. Planar traits can be [broken](rules/conditions.md#Broken) down into six categories: alignment, scope, gravity, time, morphic, and planar essence. Combined, those traits describe the laws and makeup of the plane. These appear in the plane's traits entry, though any trait that matches the Material Plane (described in the Normal entry in each section below) is omitted.
+Each plane, dimension, and demiplane has its own properties and attributes. Planar traits can be [broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken) down into six categories: alignment, scope, gravity, time, morphic, and planar essence. Combined, those traits describe the laws and makeup of the plane. These appear in the plane's traits entry, though any trait that matches the Material Plane (described in the Normal entry in each section below) is omitted.
 
 #### Enhanced and Impeded Magic
 <sup>GMG p. 136</sup>
@@ -2808,13 +2808,13 @@ Planar essence traits describe a plane's fundamental nature. For example, many o
 
 **Earth:** These planes are mostly solid. Travelers arriving upon an earth plane risk suffocation if they don't reach a cavern or some other air pocket within the plane's solid matter. Creatures who can't burrow are entombed in the plane's substance and must attempt to dig their way toward an air pocket. Earth magic is enhanced, and air magic is impeded. Air creatures are ill at ease, as they rarely have the space to move freely through even the most lofty warrens.
 
-**Fire:** Planes with this trait are composed of flames that continually burn with no fuel source. Fire planes are extremely [hostile](rules/conditions.md#Hostile) to non-fire creatures.
+**Fire:** Planes with this trait are composed of flames that continually burn with no fuel source. Fire planes are extremely [hostile](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hostile) to non-fire creatures.
 
-Unprotected wood, paper, cloth, and other flammable materials catch fire almost immediately, and creatures wearing unprotected flammable clothing catch fire, typically taking `1d6` [persistent fire damage](rules/conditions.md#Persistent%20Damage). Extraplanar creatures take moderate environmental fire damage at the end of each round (sometimes minor environmental damage in safer areas, or major or massive damage in even more fiery areas). Fire magic is enhanced, and cold and water magic are impeded. Water creatures are extremely uncomfortable on a fire plane, and any natural resistance they have against fire doesn't function against this environmental fire damage.
+Unprotected wood, paper, cloth, and other flammable materials catch fire almost immediately, and creatures wearing unprotected flammable clothing catch fire, typically taking `1d6` [persistent fire damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage). Extraplanar creatures take moderate environmental fire damage at the end of each round (sometimes minor environmental damage in safer areas, or major or massive damage in even more fiery areas). Fire magic is enhanced, and cold and water magic are impeded. Water creatures are extremely uncomfortable on a fire plane, and any natural resistance they have against fire doesn't function against this environmental fire damage.
 
 **Water:** These planes are mostly liquid. Visitors who can't breathe water or reach an air pocket likely drown. Water magic is enhanced, and fire magic is impeded. Creatures with a weakness to water take damage equal to double their weakness at the end of each round.
 
-**Negative:** Planes with this trait are vast, empty reaches that suck the life from the living. They tend to be lonely, haunted planes, [drained](rules/conditions.md#Drained) of color and filled with winds carrying the moans of those who died within them. At the end of each round, a living creature takes at least minor negative environmental damage. In the strongest areas of a negative plane, they could take moderate or even major negative damage at the end of each round. This damage has the [death](rules/traits/death.md "Death Effect Trait") trait, and if a living creature is reduced to 0 Hit Points by this negative damage and killed, it crumbles into ash and can become a wraith (_Bestiary_ 335). Negative magic is enhanced, and positive magic is impeded.
+**Negative:** Planes with this trait are vast, empty reaches that suck the life from the living. They tend to be lonely, haunted planes, [drained](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Drained) of color and filled with winds carrying the moans of those who died within them. At the end of each round, a living creature takes at least minor negative environmental damage. In the strongest areas of a negative plane, they could take moderate or even major negative damage at the end of each round. This damage has the [death](rules/traits/death.md "Death Effect Trait") trait, and if a living creature is reduced to 0 Hit Points by this negative damage and killed, it crumbles into ash and can become a wraith (_Bestiary_ 335). Negative magic is enhanced, and positive magic is impeded.
 
 **Positive:** These planes are awash with life energy. Colors are brighter, fires are hotter, noises are louder, and sensations are more intense. At the end of each round, an undead creature takes at least minor positive environmental damage. In the strongest areas of a positive plane, they could take moderate or even major positive damage at the end of each round. While this might seem safe for living creatures, positive planes present a different danger. Living creatures regain an amount of HP each round equal to the environmental damage undead take in the same area. If this would bring the living creature above their maximum HP, any excess becomes temporary HP. Unlike normal, these temporary HP combine with each other, and they last until the creature leaves the plane. If a creature's temporary HP from a positive plane ever exceeds its maximum HP, it explodes in a burst of overloaded positive energy, spreading across the area to birth new souls. Positive magic is enhanced, and negative magic is impeded.
 

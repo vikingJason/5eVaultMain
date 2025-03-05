@@ -11,7 +11,7 @@ aliases: ["Conditions"]
 ## Blinded
 _Source: Core Rulebook p. 618_
 
-You can't see. All normal terrain is difficult terrain to you. You can't detect anything using vision. You automatically critically fail [Perception](compendium/skills.md#Perception) checks that require you to be able to see, and if vision is your only precise sense, you take a –4 status penalty to [Perception](compendium/skills.md#Perception) checks. You are immune to visual effects. Blinded overrides [dazzled](rules/conditions.md#Dazzled).
+You can't see. All normal terrain is difficult terrain to you. You can't detect anything using vision. You automatically critically fail [Perception](compendium/skills.md#Perception) checks that require you to be able to see, and if vision is your only precise sense, you take a –4 status penalty to [Perception](compendium/skills.md#Perception) checks. You are immune to visual effects. Blinded overrides [dazzled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dazzled).
 
 ## Broken
 _Source: Core Rulebook p. 618_
@@ -30,12 +30,12 @@ Your movements become clumsy and inexact. Clumsy always includes a value. You ta
 ## Concealed
 _Source: Core Rulebook p. 618_
 
-While you are concealed from a creature, such as in a thick fog, you are difficult for that creature to see. You can still be [observed](rules/conditions.md#Observed), but you're tougher to target. A creature that you're concealed from must succeed at a DC 5 flat check when targeting you with an attack, spell, or other effect. Area effects aren't subject to this flat check. If the check fails, the attack, spell, or effect doesn't affect you.
+While you are concealed from a creature, such as in a thick fog, you are difficult for that creature to see. You can still be [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed), but you're tougher to target. A creature that you're concealed from must succeed at a DC 5 flat check when targeting you with an attack, spell, or other effect. Area effects aren't subject to this flat check. If the check fails, the attack, spell, or effect doesn't affect you.
 
 ## Confused
 _Source: Core Rulebook p. 618_
 
-You don't have your wits about you, and you attack wildly. You are [flat-footed](rules/conditions.md#Flat-footed), you don't treat anyone as your ally (though they might still treat you as theirs), and you can't [Delay](rules/actions/delay.md), [Ready](rules/actions/ready.md), or use reactions.
+You don't have your wits about you, and you attack wildly. You are [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed), you don't treat anyone as your ally (though they might still treat you as theirs), and you can't [Delay](rules/actions/delay.md), [Ready](rules/actions/ready.md), or use reactions.
 
 You use all your actions to [Strike](rules/actions/strike.md) or cast offensive cantrips, though the GM can have you use other actions to facilitate attack, such as draw a weapon, move so that a target is in reach, and so forth. Your targets are determined randomly by the GM. If you have no other viable targets, you target yourself, automatically hitting but not scoring a critical hit. If it's impossible for you to attack or cast spells, you babble incoherently, wasting your actions.
 
@@ -49,7 +49,7 @@ Someone else is making your decisions for you, usually because you're being comm
 ## Dazzled
 _Source: Core Rulebook p. 619_
 
-Your eyes are overstimulated. If vision is your only precise sense, all creatures and objects are [concealed](rules/conditions.md#Concealed) from you.
+Your eyes are overstimulated. If vision is your only precise sense, all creatures and objects are [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) from you.
 
 ## Deafened
 _Source: Core Rulebook p. 619_
@@ -73,14 +73,14 @@ Each time you get a full night's rest, your drained value decreases by 1. This i
 ## Dying
 _Source: Core Rulebook p. 619_
 
-You are bleeding out or otherwise at death's door. While you have this condition, you are [unconscious](rules/conditions.md#Unconscious). Dying always includes a value, and if it ever reaches dying 4, you die. If you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.
+You are bleeding out or otherwise at death's door. While you have this condition, you are [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious). Dying always includes a value, and if it ever reaches dying 4, you die. If you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse. Your dying condition increases by 1 if you take damage while dying, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.
 
-If you lose the dying condition by succeeding at a recovery check and are still at 0 Hit Points, you remain [unconscious](rules/conditions.md#Unconscious), but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Any time you lose the dying condition, you gain the wounded 1 condition, or increase your wounded condition value by 1 if you already have that condition.
+If you lose the dying condition by succeeding at a recovery check and are still at 0 Hit Points, you remain [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious), but you can wake up as described in that condition. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Any time you lose the dying condition, you gain the wounded 1 condition, or increase your wounded condition value by 1 if you already have that condition.
 
 ## Encumbered
 _Source: Core Rulebook p. 619_
 
-You are carrying more weight than you can manage. While you're encumbered, you're [clumsy](rules/conditions.md#Clumsy) and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.
+You are carrying more weight than you can manage. While you're encumbered, you're [clumsy](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Clumsy) and take a 10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.
 
 ## Enfeebled
 _Source: Core Rulebook p. 619_
@@ -102,7 +102,7 @@ You recover from fatigue after a full night's rest.
 ## Flat-Footed
 _Source: Core Rulebook p. 620_
 
-You're distracted or otherwise unable to focus your full attention on defense. You take a –2 circumstance penalty to AC. Some effects give you the [flat-footed](rules/conditions.md#Flat-footed) condition only to certain creatures or against certain attacks. Others—especially conditions—can make you universally flatfooted against everything. If a rule doesn't specify that the condition applies only to certain circumstances, it applies to all of them; for example, many effects simply say "The target is [flat-footed](rules/conditions.md#Flat-footed).
+You're distracted or otherwise unable to focus your full attention on defense. You take a –2 circumstance penalty to AC. Some effects give you the [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) condition only to certain creatures or against certain attacks. Others—especially conditions—can make you universally flatfooted against everything. If a rule doesn't specify that the condition applies only to certain circumstances, it applies to all of them; for example, many effects simply say "The target is [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed).
 
 ## Fleeing
 _Source: Core Rulebook p. 620_
@@ -122,7 +122,7 @@ You're gripped by fear and struggle to control your nerves. The frightened condi
 ## Grabbed
 _Source: Core Rulebook p. 620_
 
-You're held in place by another creature, giving you the [flat-footed](rules/conditions.md#Flat-footed) and [immobilized](rules/conditions.md#Immobilized) conditions. If you attempt a [manipulate](rules/traits/manipulate.md "Manipulate General Trait") action while grabbed, you must succeed at a DC 5 flat check or it is lost; roll the check after spending the action, but before any effects are applied.
+You're held in place by another creature, giving you the [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) and [immobilized](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Immobilized) conditions. If you attempt a [manipulate](rules/traits/manipulate.md "Manipulate General Trait") action while grabbed, you must succeed at a DC 5 flat check or it is lost; roll the check after spending the action, but before any effects are applied.
 
 ## Helpful
 _Source: Core Rulebook p. 620_
@@ -132,7 +132,7 @@ This condition reflects a creature's disposition toward a particular character, 
 ## Hidden
 _Source: Core Rulebook p. 620_
 
-While you're hidden from a creature, that creature knows the space you're in but can't tell precisely where you are. You typically become hidden by using [Stealth](compendium/skills.md#Stealth) to [Hide](rules/actions/hide.md). When [Seeking](rules/actions/seek.md) a creature using only imprecise senses, it remains [hidden](rules/conditions.md#Hidden), rather than [observed](rules/conditions.md#Observed). A creature you're [hidden](rules/conditions.md#Hidden) from is [flat-footed](rules/conditions.md#Flat-footed) to you, and it must succeed at a DC 11 flat check when targeting you with an attack, spell, or other effect or it fails affect you. Area effects aren't subject to this flat check.
+While you're hidden from a creature, that creature knows the space you're in but can't tell precisely where you are. You typically become hidden by using [Stealth](compendium/skills.md#Stealth) to [Hide](rules/actions/hide.md). When [Seeking](rules/actions/seek.md) a creature using only imprecise senses, it remains [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden), rather than [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed). A creature you're [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) from is [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to you, and it must succeed at a DC 11 flat check when targeting you with an attack, spell, or other effect or it fails affect you. Area effects aren't subject to this flat check.
 
 A creature might be able to use the [Seek](rules/actions/seek.md) action to try to observe you, as described on page 471.
 
@@ -154,17 +154,17 @@ This condition reflects a creature's disposition toward a particular character, 
 ## Invisible
 _Source: Core Rulebook p. 620_
 
-While invisible, you can't be seen. You're [undetected](rules/conditions.md#Undetected) to everyone. Creatures can [Seek](rules/actions/seek.md) to attempt to detect you; if a creature succeeds at its [Perception](compendium/skills.md#Perception) check against your [Stealth](compendium/skills.md#Stealth) DC, you become [hidden](rules/conditions.md#Hidden) to that creature until you [Sneak](rules/actions/sneak.md) to become [undetected](rules/conditions.md#Undetected) again. If you become invisible while someone can already see you, you start out [hidden](rules/conditions.md#Hidden) to the observer (instead of [undetected](rules/conditions.md#Undetected)) until you successfully [Sneak](rules/actions/sneak.md). You can't become [observed](rules/conditions.md#Observed) while invisible except via special abilities or magic.
+While invisible, you can't be seen. You're [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) to everyone. Creatures can [Seek](rules/actions/seek.md) to attempt to detect you; if a creature succeeds at its [Perception](compendium/skills.md#Perception) check against your [Stealth](compendium/skills.md#Stealth) DC, you become [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) to that creature until you [Sneak](rules/actions/sneak.md) to become [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) again. If you become invisible while someone can already see you, you start out [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) to the observer (instead of [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected)) until you successfully [Sneak](rules/actions/sneak.md). You can't become [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed) while invisible except via special abilities or magic.
 
 ## Observed
 _Source: Core Rulebook p. 621_
 
-Anything in plain view is observed by you. If a creature takes measures to avoid detection, such as by using [Stealth](compendium/skills.md#Stealth) to [Hide](rules/actions/hide.md), it can become [hidden](rules/conditions.md#Hidden) or [undetected](rules/conditions.md#Undetected) instead of observed. If you have another precise sense instead of or in addition to sight, you might be able to observe a creature or object using that sense instead. You can observe a creature only with precise senses. When Seeking a creature using only imprecise senses, it remains [hidden](rules/conditions.md#Hidden), rather than observed.
+Anything in plain view is observed by you. If a creature takes measures to avoid detection, such as by using [Stealth](compendium/skills.md#Stealth) to [Hide](rules/actions/hide.md), it can become [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) or [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) instead of observed. If you have another precise sense instead of or in addition to sight, you might be able to observe a creature or object using that sense instead. You can observe a creature only with precise senses. When Seeking a creature using only imprecise senses, it remains [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden), rather than observed.
 
 ## Paralyzed
 _Source: Core Rulebook p. 621_
 
-Your body is frozen in place. You have the [flat-footed](rules/conditions.md#Flat-footed) condition and can't act except to [Recall Knowledge](rules/actions/recall-knowledge.md) and use actions that require only the use of your mind (as determined by the GM). Your senses still function, but only in the areas you can perceive without moving your body, so you can't [Seek](rules/actions/seek.md) while paralyzed.
+Your body is frozen in place. You have the [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) condition and can't act except to [Recall Knowledge](rules/actions/recall-knowledge.md) and use actions that require only the use of your mind (as determined by the GM). Your senses still function, but only in the areas you can perceive without moving your body, so you can't [Seek](rules/actions/seek.md) while paralyzed.
 
 ## Persistent Damage
 _Source: Core Rulebook p. 621_
@@ -197,7 +197,7 @@ Persistent damage comes from effects like acid, being on fire, or many other sit
 > ### Multiple Persistent Damage Conditions
 > <sup>CRB p. 621</sup>
 > 
-> You can be simultaneously affected by multiple persistent damage conditions so long as they have different damage types. If you would gain more than one persistent damage condition with the same damage type, the higher amount of damage overrides the lower amount. The damage you take from persistent damage occurs all at once, so if something triggers when you take damage, it triggers only once; for example, if you're [dying](rules/conditions.md#Dying) with several types of persistent damage, the persistent damage increases your [dying](rules/conditions.md#Dying) condition only once.
+> You can be simultaneously affected by multiple persistent damage conditions so long as they have different damage types. If you would gain more than one persistent damage condition with the same damage type, the higher amount of damage overrides the lower amount. The damage you take from persistent damage occurs all at once, so if something triggers when you take damage, it triggers only once; for example, if you're [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) with several types of persistent damage, the persistent damage increases your [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition only once.
 
 ## Petrified
 _Source: Core Rulebook p. 621_
@@ -207,7 +207,7 @@ You have been turned to stone. You can't act, nor can you sense anything. You be
 ## Prone
 _Source: Core Rulebook p. 621_
 
-You're lying on the ground. You are [flat-footed](rules/conditions.md#Flat-footed) and take a –2 circumstance penalty to attack rolls. The only [move](rules/traits/move.md "Move Combat Trait") actions you can use while you're prone are [Crawl](rules/actions/crawl.md) and [Stand](rules/actions/stand.md). Standing up ends the prone condition. You can [Take Cover](rules/actions/take-cover.md) while prone to hunker down and gain greater cover against ranged attacks, even if you don't have an object to get behind, gaining a +4 circumstance bonus to AC against ranged attacks (but you remain [flat-footed](rules/conditions.md#Flat-footed)).
+You're lying on the ground. You are [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) and take a –2 circumstance penalty to attack rolls. The only [move](rules/traits/move.md "Move Combat Trait") actions you can use while you're prone are [Crawl](rules/actions/crawl.md) and [Stand](rules/actions/stand.md). Standing up ends the prone condition. You can [Take Cover](rules/actions/take-cover.md) while prone to hunker down and gain greater cover against ranged attacks, even if you don't have an object to get behind, gaining a +4 circumstance bonus to AC against ranged attacks (but you remain [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed)).
 
 If you would be knocked prone while you're [Climbing](rules/actions/climb.md) or [Flying](rules/actions/fly.md), you fall (see pages 463–464 for the rules on falling). You can't be knocked prone when [Swimming](rules/actions/swim.md).
 
@@ -219,7 +219,7 @@ You gain 1 additional action at the start of your turn each round. Many effects 
 ## Restrained
 _Source: Core Rulebook p. 622_
 
-You're tied up and can barely move, or a creature has you pinned. You have the [flat-footed](rules/conditions.md#Flat-footed) and [immobilized](rules/conditions.md#Immobilized) conditions, and you can't use any actions with the [attack](rules/traits/attack.md "Attack Combat Trait") or [manipulate](rules/traits/manipulate.md "Manipulate General Trait") traits except to attempt to [Escape](rules/actions/escape.md) or [Force Open](rules/actions/force-open.md) your bonds. [Restrained](rules/conditions.md#Restrained) overrides grabbed.
+You're tied up and can barely move, or a creature has you pinned. You have the [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) and [immobilized](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Immobilized) conditions, and you can't use any actions with the [attack](rules/traits/attack.md "Attack Combat Trait") or [manipulate](rules/traits/manipulate.md "Manipulate General Trait") traits except to attempt to [Escape](rules/actions/escape.md) or [Force Open](rules/actions/force-open.md) your bonds. [Restrained](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Restrained) overrides grabbed.
 
 ## Sickened
 _Source: Core Rulebook p. 622_
@@ -238,7 +238,7 @@ _Source: Core Rulebook p. 622_
 
 You've become senseless. You can't act while stunned. Stunned usually includes a value, which indicates how many total actions you lose, possibly over multiple turns, from being stunned. Each time you regain actions (such as at the start of your turn), reduce the number you regain by your stunned value, then reduce your stunned value by the number of actions you lost. For example, if you were stunned 4, you would lose all 3 of your actions on your turn, reducing you to stunned 1; on your next turn, you would lose 1 more action, and then be able to use your remaining 2 actions normally. Stunned might also have a duration instead of a value, such as "stunned for 1 minute." In this case, you lose all your actions for the listed duration.
 
-Stunned overrides [slowed](rules/conditions.md#Slowed). If the duration of your stunned condition ends while you are [slowed](rules/conditions.md#Slowed), you count the actions lost to the stunned condition toward those lost to being [slowed](rules/conditions.md#Slowed). So, if you were stunned 1 and slowed 2 at the beginning of your turn, you would lose 1 action from stunned, and then lose only 1 additional action by being slowed, so you would still have 1 action remaining to use that turn.
+Stunned overrides [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed). If the duration of your stunned condition ends while you are [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed), you count the actions lost to the stunned condition toward those lost to being [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed). So, if you were stunned 1 and slowed 2 at the beginning of your turn, you would lose 1 action from stunned, and then lose only 1 additional action by being slowed, so you would still have 1 action remaining to use that turn.
 
 ## Stupefied
 _Source: Core Rulebook p. 622_
@@ -248,11 +248,11 @@ Your thoughts and instincts are clouded. Stupefied always includes a value. You 
 ## Unconscious
 _Source: Core Rulebook p. 622_
 
-You're sleeping, or you've been knocked out. You can't act. You take a –4 status penalty to AC, Perception, and Reflex saves, and you have the [blinded](rules/conditions.md#Blinded) and [flat-footed](rules/conditions.md#Flat-footed) conditions. When you gain this condition, you fall prone and drop items you are wielding or holding unless the effect states otherwise or the GM determines you're in a position in which you wouldn't.
+You're sleeping, or you've been knocked out. You can't act. You take a –4 status penalty to AC, Perception, and Reflex saves, and you have the [blinded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Blinded) and [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) conditions. When you gain this condition, you fall prone and drop items you are wielding or holding unless the effect states otherwise or the GM determines you're in a position in which you wouldn't.
 
-If you're unconscious because you're [dying](rules/conditions.md#Dying), you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more via healing, you lose the [dying](rules/conditions.md#Dying) and unconscious conditions and can act normally on your next turn.
+If you're unconscious because you're [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying), you can't wake up while you have 0 Hit Points. If you are restored to 1 Hit Point or more via healing, you lose the [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) and unconscious conditions and can act normally on your next turn.
 
-If you are unconscious and at 0 Hit Points, but not [dying](rules/conditions.md#Dying), you naturally return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you receive healing during this time, you lose the unconscious condition and can act normally on your next turn.
+If you are unconscious and at 0 Hit Points, but not [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying), you naturally return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you receive healing during this time, you lose the unconscious condition and can act normally on your next turn.
 
 If you're unconscious and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways. Each causes you to lose the unconscious condition.
 
@@ -265,9 +265,9 @@ If you're unconscious and have more than 1 Hit Point (typically because you are 
 ## Undetected
 _Source: Core Rulebook p. 623_
 
-When you are undetected by a creature, that creature cannot see you at all, has no idea what space you occupy, and can't target you, though you still can be affected by abilities that target an area. When you're undetected by a creature, that creature is [flat-footed](rules/conditions.md#Flat-footed) to you.
+When you are undetected by a creature, that creature cannot see you at all, has no idea what space you occupy, and can't target you, though you still can be affected by abilities that target an area. When you're undetected by a creature, that creature is [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to you.
 
-A creature you're undetected by can guess which square you're in to try targeting you. It must pick a square and attempt an attack. This works like targeting a [hidden](rules/conditions.md#Hidden) creature (requiring a DC 11 flat check, as described on page 466), but the flat check and attack roll are rolled in secret by the GM, who doesn't reveal whether the attack missed due to failing the flat check, failing the attack roll, or choosing the wrong square.
+A creature you're undetected by can guess which square you're in to try targeting you. It must pick a square and attempt an attack. This works like targeting a [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) creature (requiring a DC 11 flat check, as described on page 466), but the flat check and attack roll are rolled in secret by the GM, who doesn't reveal whether the attack missed due to failing the flat check, failing the attack roll, or choosing the wrong square.
 
 A creature can use the [Seek](rules/actions/seek.md) action to try to find you, as described on page 471.
 
@@ -279,11 +279,11 @@ This condition reflects a creature's disposition toward a particular character, 
 ## Unnoticed
 _Source: Core Rulebook p. 623_
 
-If you are unnoticed by a creature, that creature has no idea you are present at all. When you're unnoticed, you're also [undetected](rules/conditions.md#Undetected) by the creature. This condition matters for abilities that can be used only against targets totally unaware of your presence.
+If you are unnoticed by a creature, that creature has no idea you are present at all. When you're unnoticed, you're also [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) by the creature. This condition matters for abilities that can be used only against targets totally unaware of your presence.
 
 ## Wounded
 _Source: Core Rulebook p. 623_
 
-You have been seriously injured. If you lose the [dying](rules/conditions.md#Dying) condition and do not already have the wounded condition, you become wounded 1. If you already have the wounded condition when you lose the dying condition, your wounded condition value increases by 1. If you gain the [dying](rules/conditions.md#Dying) condition while wounded, increase your [dying](rules/conditions.md#Dying) condition value by your wounded value.
+You have been seriously injured. If you lose the [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition and do not already have the wounded condition, you become wounded 1. If you already have the wounded condition when you lose the dying condition, your wounded condition value increases by 1. If you gain the [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition while wounded, increase your [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition value by your wounded value.
 
 The wounded condition ends if someone successfully restores Hit Points to you with [Treat Wounds](rules/actions/treat-wounds.md), or if you are restored to full Hit Points and rest for 10 minutes.

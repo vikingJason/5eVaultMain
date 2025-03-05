@@ -15,10 +15,10 @@ aliases: ["Rage"]
 *Source: Core Rulebook p. 84*  
 
 **Class** barbarian
-- **Requirements**: You aren't [fatigued](rules/conditions.md#Fatigued) or raging.
+- **Requirements**: You aren't [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued) or raging.
 - **Activity**: Single Action
 
-You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall [unconscious](rules/conditions.md#Unconscious), whichever comes first. You can't voluntarily stop raging. While you are raging:
+You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious), whichever comes first. You can't voluntarily stop raging. While you are raging:
 
 - You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is [agile](rules/traits/agile.md "Agile Weapon Trait").
 - You take a –1 penalty to AC.

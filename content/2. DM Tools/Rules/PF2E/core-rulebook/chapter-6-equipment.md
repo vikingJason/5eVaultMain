@@ -60,7 +60,7 @@ You can carry an amount of Bulk equal to 5 plus your Strength modifier without p
 
 > [!pf2-beige] Encumbered
 > 
-> You are carrying more weight than you can manage. While you're [encumbered](rules/conditions.md#Encumbered), you're [clumsy](rules/conditions.md#Clumsy) and take a –10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.
+> You are carrying more weight than you can manage. While you're [encumbered](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Encumbered), you're [clumsy](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Clumsy) and take a –10-foot penalty to all your Speeds. As with all penalties to your Speed, this can't reduce your Speed below 5 feet.
 
 #### Bulk Values
 <sup>CRB p. 272</sup>
@@ -108,9 +108,9 @@ Some abilities require you to wield an item, typically a weapon. You're wielding
 
 An item can be broken or destroyed if it takes enough damage. Every item has a **Hardness** value. Each time an item takes damage, reduce any damage the item takes by its Hardness. The rest of the damage reduces the item's Hit Points. Normally an item takes damage only when a creature is directly attacking it—commonly targeted items include doors and traps. A creature that attacks you doesn't normally damage your armor or other gear, even if it hits you. However, the [Shield Block](compendium/feats/shield-block.md) reaction can cause your shield to take damage as you use it to prevent damage to yourself, and some monsters have exceptional abilities that can damage your items.
 
-An item that takes damage can become and eventually destroyed. It becomes broken when its Hit Points are equal to or lower than its **Broken Threshold** (**BT**); once its Hit Points are reduced to 0, it is **destroyed**. A broken item has the broken condition until Repaired above its Broken Threshold. Anything that automatically makes an item broken immediately reduces its Hit Points to its Broken Threshold if the item had more Hit Points than that when the effect occurred. If an item has no [Broken](rules/conditions.md#Broken) Threshold, then it has no relevant changes to its function due to being broken, but it's still destroyed at 0 Hit Points. (See the broken condition definition on page 273 for more information.) A destroyed item can't be Repaired.
+An item that takes damage can become and eventually destroyed. It becomes broken when its Hit Points are equal to or lower than its **Broken Threshold** (**BT**); once its Hit Points are reduced to 0, it is **destroyed**. A broken item has the broken condition until Repaired above its Broken Threshold. Anything that automatically makes an item broken immediately reduces its Hit Points to its Broken Threshold if the item had more Hit Points than that when the effect occurred. If an item has no [Broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken) Threshold, then it has no relevant changes to its function due to being broken, but it's still destroyed at 0 Hit Points. (See the broken condition definition on page 273 for more information.) A destroyed item can't be Repaired.
 
-An item's Hardness, Hit Points, and [Broken](rules/conditions.md#Broken) Threshold usually depend on the material the item is made of. This information appears in the 11 section of 11.
+An item's Hardness, Hit Points, and [Broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken) Threshold usually depend on the material the item is made of. This information appears in the 11 section of 11.
 
 > [!pf2-beige] Broken
 > 
@@ -479,13 +479,13 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 **Club:** You knock the target away from you up to 10 feet (you choose the distance). This is forced movement.
 
-**Dart:** The target takes `1d6` [persistent bleed damage](rules/conditions.md#Persistent%20Damage). You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Dart:** The target takes `1d6` [persistent bleed damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage). You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
 
-**Flail:** The target is knocked [prone](rules/conditions.md#Prone).
+**Flail:** The target is knocked [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone).
 
-**Hammer:** The target is knocked [prone](rules/conditions.md#Prone).
+**Hammer:** The target is knocked [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone).
 
-**Knife:** The target takes `1d6` [persistent bleed](rules/conditions.md#Persistent%20Damage) damage. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+**Knife:** The target takes `1d6` [persistent bleed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) damage. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
 
 **Pick:** The weapon viciously pierces the target, who takes 2 additional damage per weapon damage die.
 
@@ -497,7 +497,7 @@ Certain feats, class features, weapon runes, and other effects can grant you add
 
 **Spear:** The weapon pierces the target, weakening its attacks. The target is clumsy 1 until the start of your next turn.
 
-**Sword:** The target is made off-balance by your attack, becoming [flat-footed](rules/conditions.md#Flat-footed) until the start of your next turn.
+**Sword:** The target is made off-balance by your attack, becoming [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) until the start of your next turn.
 
 #### Weapon Descriptions
 <sup>CRB p. 284</sup>
@@ -544,7 +544,7 @@ The pack contains the following items: backpack (containing the other goods), be
 
 **Basic Crafter's Book:** This book contains the 0 for [Crafting](compendium/skills.md#Crafting) the common items in this chapter.
 
-**Caltrops:** These four-pronged metal spikes can cause damage to a creature's feet. You can scatter caltrops in an empty square adjacent to you with an Interact action. The first creature that moves into that square must succeed at a DC 14 [Acrobatics](compendium/skills.md#Acrobatics) check or take 1d4 piercing damage and 1 [persistent bleed damage](rules/conditions.md#Persistent%20Damage). A creature taking [persistent bleed damage](rules/conditions.md#Persistent%20Damage) from caltrops takes a –5-foot penalty to its Speed. Spending an Interact action to pluck the caltrops free reduces the DC to stop the bleeding. Once a creature takes damage from caltrops, enough caltrops are ruined that other creatures moving into the square are safe.
+**Caltrops:** These four-pronged metal spikes can cause damage to a creature's feet. You can scatter caltrops in an empty square adjacent to you with an Interact action. The first creature that moves into that square must succeed at a DC 14 [Acrobatics](compendium/skills.md#Acrobatics) check or take 1d4 piercing damage and 1 [persistent bleed damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage). A creature taking [persistent bleed damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) from caltrops takes a –5-foot penalty to its Speed. Spending an Interact action to pluck the caltrops free reduces the DC to stop the bleeding. Once a creature takes damage from caltrops, enough caltrops are ruined that other creatures moving into the square are safe.
 
 Deployed caltrops can be salvaged and reused if no creatures took damage from them. Otherwise, enough caltrops are ruined that they can't be salvaged.
 
@@ -753,11 +753,11 @@ The items listed on Table 6–11 are the most widely available alchemical items 
 
 Alchemical bombs are consumable weapons that deal damage or produce special effects, and they sometimes deal [splash](rules/traits/splash.md "Splash Weapon Trait") damage. For more on alchemical bombs, see page 544.
 
-**Lesser Acid Flask:** This alchemical bomb deals 1 acid damage, `1d6` [persistent acid damage](rules/conditions.md#Persistent%20Damage), and 1 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
+**Lesser Acid Flask:** This alchemical bomb deals 1 acid damage, `1d6` [persistent acid damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage), and 1 acid [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
-**Lesser Alchemist's Fire:** This alchemical bomb deals 1d8 fire damage, 1 [persistent fire damage](rules/conditions.md#Persistent%20Damage), and 1 fire [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
+**Lesser Alchemist's Fire:** This alchemical bomb deals 1d8 fire damage, 1 [persistent fire damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage), and 1 fire [splash](rules/traits/splash.md "Splash Weapon Trait") damage.
 
-**Lesser Bottled Lightning:** This alchemical bomb deals `1d6` electricity damage and 1 electricity [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and it makes the target [flat-footed](rules/conditions.md#Flat-footed).
+**Lesser Bottled Lightning:** This alchemical bomb deals `1d6` electricity damage and 1 electricity [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and it makes the target [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed).
 
 **Lesser Frost Vial:** This alchemical bomb deals `1d6` cold damage and 1 cold [splash](rules/traits/splash.md "Splash Weapon Trait") damage, and it gives the target a –5-foot status penalty to its Speeds until the end of its next turn.
 
@@ -874,9 +874,9 @@ Spellcasting services, listed on [Table 6–15](rules/tables/spellcasting-servic
 ### Animals
 <sup>CRB p. 294</sup>
 
-The Prices for animals are listed both for renting and for purchasing them outright. You usually need to pay for animal rentals up front, and if the vendor believes the animal might be put in danger, they typically require a deposit equal to the purchase Price. Most animals panic in battle. When combat begins, they become [frightened](rules/conditions.md#Frightened) and [fleeing](rules/conditions.md#Fleeing) as long as they're [frightened](rules/conditions.md#Frightened). If you successfully Command your Animal using [Nature](compendium/skills.md#Nature), you can keep it from fleeing, though this doesn't remove its frightened condition. If the animal is attacked or damaged, it returns to [frightened](rules/conditions.md#Frightened) and [fleeing](rules/conditions.md#Fleeing), with the same exceptions.
+The Prices for animals are listed both for renting and for purchasing them outright. You usually need to pay for animal rentals up front, and if the vendor believes the animal might be put in danger, they typically require a deposit equal to the purchase Price. Most animals panic in battle. When combat begins, they become [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) and [fleeing](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fleeing) as long as they're [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened). If you successfully Command your Animal using [Nature](compendium/skills.md#Nature), you can keep it from fleeing, though this doesn't remove its frightened condition. If the animal is attacked or damaged, it returns to [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) and [fleeing](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fleeing), with the same exceptions.
 
-Warhorses and warponies are combat trained. They don't become [frightened](rules/conditions.md#Frightened) or [fleeing](rules/conditions.md#Fleeing) during encounters in this way.
+Warhorses and warponies are combat trained. They don't become [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) or [fleeing](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fleeing) during encounters in this way.
 
 ![Animals](rules/tables/animals.md)
 

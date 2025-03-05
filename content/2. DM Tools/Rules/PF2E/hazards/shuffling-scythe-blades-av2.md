@@ -15,7 +15,7 @@ aliases: ["Shuffling Scythe Blades"]
 - **Complexity** Complex
 - **Stealth** DC 18 expert  
 
-Six long blades, [hidden](rules/conditions.md#Hidden) in grooves in the walls and floor, zigzag through different parts of this hallway when any pressure plate in the hallway intersection is depressed; there are so many plates it's impossible to avoid them when moving through the room. The blades retreat into the floor and move through the [hidden](rules/conditions.md#Hidden) grooves before swinging out from the wall again in a different location.
+Six long blades, [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) in grooves in the walls and floor, zigzag through different parts of this hallway when any pressure plate in the hallway intersection is depressed; there are so many plates it's impossible to avoid them when moving through the room. The blades retreat into the floor and move through the [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) grooves before swinging out from the wall again in a different location.
 
 - **Disable** DC 26 [Thievery](compendium/skills.md#Thievery) (expert) to disable each blade, or utter the magical passphrase (which only Chafkhem knows) to deactivate the trap for 10 minutes.  
 

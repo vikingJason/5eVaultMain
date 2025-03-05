@@ -17,7 +17,7 @@ aliases: ["Clockwork Poison Bomb"]
 
 A clockwork bomb releases gouts of poisonous smoke. The smoke issues forth from a single nozzle attached to two tanks of pressurized poison.
 
-- **Disable** three DC 31 [Thievery](compendium/skills.md#Thievery) (expert) checks to a Device to disable the latches that lock the nozzle in place, then one DC 35 [Thievery](compendium/skills.md#Thievery) (master) check to a Device to turn off the nozzle; DCs decrease by 2 if Oggvurm is [immobilized](rules/conditions.md#Immobilized), [paralyzed](rules/conditions.md#Paralyzed), [unconscious](rules/conditions.md#Unconscious), or dead.  
+- **Disable** three DC 31 [Thievery](compendium/skills.md#Thievery) (expert) checks to a Device to disable the latches that lock the nozzle in place, then one DC 35 [Thievery](compendium/skills.md#Thievery) (master) check to a Device to turn off the nozzle; DCs decrease by 2 if Oggvurm is [immobilized](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Immobilized), [paralyzed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Paralyzed), [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious), or dead.  
 
 - **AC** 32, **Fort** +24, **Ref** +26
 - **Nozzle Hardness** 5, **Nozzle HP** 20 (BT 10) to ruin the nozzle (making it impossible to disable, in which case the only way to disarm the bomb is to destroy both its tanks); **Tank Hardness** 15, **Tank HP** 80 (BT 40) to destroy one of the tanks (both tanks must be destroyed to disarm the bomb)

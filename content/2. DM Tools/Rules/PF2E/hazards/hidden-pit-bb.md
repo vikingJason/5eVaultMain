@@ -8,7 +8,7 @@ aliases: ["Hidden Pit"]
 # Hidden Pit *Hazard 0*  
 
 - **Complexity** Simple
-- **Stealth** DC 18 [Perception](compendium/skills.md#Perception) check (or DC 0 if the trapdoor is disabled or [broken](rules/conditions.md#Broken)).  
+- **Stealth** DC 18 [Perception](compendium/skills.md#Perception) check (or DC 0 if the trapdoor is disabled or [broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken)).  
 
 A wooden trapdoor covers a 10-foot square pit that's 20 feet deep.
 

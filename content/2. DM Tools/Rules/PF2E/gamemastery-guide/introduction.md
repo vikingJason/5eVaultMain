@@ -22,7 +22,7 @@ Nor does the role require mastery, either of the rules or the setting. You'll ne
 ## How to Use This Book
 <sup>GMG p. 4</sup>
 
-The _Gamemastery Guide_ is one of the central rule books for Pathfinder. It's not required to play the game, but it builds upon the basic guidelines provided in the Game Mastering chapter of the _Pathfinder Core Rulebook_, and you'll find it [helpful](rules/conditions.md#Helpful) to read that chapter before delving into this book. This book provides more detail on those topics, as well as many more tools to help you make your game a fun and memorable experience for everyone involved.
+The _Gamemastery Guide_ is one of the central rule books for Pathfinder. It's not required to play the game, but it builds upon the basic guidelines provided in the Game Mastering chapter of the _Pathfinder Core Rulebook_, and you'll find it [helpful](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Helpful) to read that chapter before delving into this book. This book provides more detail on those topics, as well as many more tools to help you make your game a fun and memorable experience for everyone involved.
 
 Throughout most of this book, "you" refers to the Game Master. In some sections of player-facing material, however, such as some player-focused variant rules and the actions for certain subsystems, "you" instead refers to the player using that material.
 

@@ -41,6 +41,6 @@ title: Routine
 ```
 ^routine
 
-**Reset** The haunt deactivates if there are no [frightened](rules/conditions.md#Frightened) creatures in area A7 at the start of its turn. The ghostly kobolds return to the rubble pile. The haunt can't activate again for 1 hour.  
+**Reset** The haunt deactivates if there are no [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) creatures in area A7 at the start of its turn. The ghostly kobolds return to the rubble pile. The haunt can't activate again for 1 hour.  
 
 *Source: Abomination Vaults #1: Ruins of Gauntlight p. 9*

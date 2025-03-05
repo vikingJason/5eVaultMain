@@ -12,7 +12,7 @@ aliases: ["Crushing Gate Trap"]
 - **Complexity** Simple
 - **Stealth** DC 42 master to spot the triggering rod beneath the black sand.  
 
-A [hidden](rules/conditions.md#Hidden) stone rod causes two immense stone doors to fall forward from their gate, crushing anything beneath them. The doors also fall forward if touched.
+A [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) stone rod causes two immense stone doors to fall forward from their gate, crushing anything beneath them. The doors also fall forward if touched.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 42 (expert) to secure the doors in place without triggering the trap.  
 

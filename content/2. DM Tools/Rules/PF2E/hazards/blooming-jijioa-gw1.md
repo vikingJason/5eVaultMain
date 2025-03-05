@@ -12,7 +12,7 @@ aliases: ["Blooming Jijioa"]
 - **Complexity** Simple
 - **Stealth** DC 26 expert  
 
-An [invisible](rules/conditions.md#Invisible) solar flare causes this patch of unassuming ground cover to suddenly bloom into a radioactive field.
+An [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) solar flare causes this patch of unassuming ground cover to suddenly bloom into a radioactive field.
 
 - **Disable** DC 22 [Survival](compendium/skills.md#Survival) (trained) to remove a 5-foot square of jijioa, or 5 points of fire damage to destroy an affected area  
 

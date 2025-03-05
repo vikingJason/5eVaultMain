@@ -13,7 +13,7 @@ aliases: ["Slamming Door"]
 - **Complexity** Simple
 - **Stealth** DC 17 trained  
 
-Pressure-sensitive panels in the floor connect to a stone slab [hidden](rules/conditions.md#Hidden) in a hallway's ceiling.
+Pressure-sensitive panels in the floor connect to a stone slab [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) in a hallway's ceiling.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 15 (trained) on the floor panels before the slab falls.  
 

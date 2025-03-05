@@ -14,7 +14,7 @@ aliases: ["Spinning Blade Pillar"]
 - **Complexity** Complex
 - **Stealth** +11 trained or DC 26 (expert) to notice the control panel.  
 
-A metal pole with three razor-sharp spinning blades is [hidden](rules/conditions.md#Hidden) in the floor, connected to trigger plates in up to eight floor tiles and a [hidden](rules/conditions.md#Hidden) control panel within 30 feet.
+A metal pole with three razor-sharp spinning blades is [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) in the floor, connected to trigger plates in up to eight floor tiles and a [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) control panel within 30 feet.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 21 (trained) twice on the pillar, or [Thievery](compendium/skills.md#Thievery) DC 19 (expert) once on the control panel deactivates the whole trap. Breaking the control panel prevents anyone from disabling the trap using the control panel and prevents the trap from deactivating automatically (see Reset below).  
 

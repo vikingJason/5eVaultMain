@@ -17,7 +17,7 @@ aliases: ["Request"]
 **Skill** [diplomacy](compendium/skills.md#Diplomacy) (untrained)
 - **Activity**: Single Action
 
-You can make a request of a creature that's [friendly](rules/conditions.md#Friendly) or [helpful](rules/conditions.md#Helpful) to you. You must couch the request in terms that the target would accept given their current attitude toward you. The GM sets the DC based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.
+You can make a request of a creature that's [friendly](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Friendly) or [helpful](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Helpful) to you. You must couch the request in terms that the target would accept given their current attitude toward you. The GM sets the DC based on the difficulty of the request. Some requests are unsavory or impossible, and even a helpful NPC would never agree to them.
 
 > [!success-degree] 
 > - **Critical Success** The target agrees to your request without qualifications.

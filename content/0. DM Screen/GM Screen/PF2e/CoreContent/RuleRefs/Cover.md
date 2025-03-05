@@ -15,10 +15,10 @@ Draw a line from the center of the attacker's space or burst to the center of th
 
 | **Lesser Cover** | +1 circumstance bonus to AC if line passes through creatures but no objects. |
 | --- | --- |
-| **Cover** | +2 circumstance bonus to AC, Reflex saves against area effects, and Stealth checks to [[Hide]] or [[Sneak]]. You can use [[Take Cover]] to increase this to greater cover. |
+| **Cover** | +2 circumstance bonus to AC, Reflex saves against area effects, and Stealth checks to [[content/2. DM Tools/Rules/PF2E/actions/hide]] or [[Sneak]]. You can use [[Take Cover]] to increase this to greater cover. |
 | **Greater Cover** | As cover, but a +4 bonus. |
 
-When you're behind an obstacle that could block weapons, guard you against explosions, and make you harder to detect, you're behind cover. Standard cover gives you a +2 circumstance bonus to AC, to Reflex saves against area effects, and to Stealth checks to [[Hide]], [[Sneak]], or otherwise avoid detection. You can increase this to greater cover using the [[Take Cover]] basic action, increasing the circumstance bonus to +4. If cover is especially light, typically when it's provided by a creature, you have lesser cover, which grants a +1 circumstance bonus to AC. A creature with standard cover or greater cover can attempt to use Stealth to [[Hide]], but lesser cover isn't sufficient.
+When you're behind an obstacle that could block weapons, guard you against explosions, and make you harder to detect, you're behind cover. Standard cover gives you a +2 circumstance bonus to AC, to Reflex saves against area effects, and to Stealth checks to [[content/2. DM Tools/Rules/PF2E/actions/hide]], [[Sneak]], or otherwise avoid detection. You can increase this to greater cover using the [[Take Cover]] basic action, increasing the circumstance bonus to +4. If cover is especially light, typically when it's provided by a creature, you have lesser cover, which grants a +1 circumstance bonus to AC. A creature with standard cover or greater cover can attempt to use Stealth to [[content/2. DM Tools/Rules/PF2E/actions/hide]], but lesser cover isn't sufficient.
 
 Cover is relative, so you might simultaneously have cover against one creature and not another. Cover applies only if your path to the target is partially blocked. If a creature is entirely behind a wall or the like, you don't have line of effect and typically can't target it at all.
 

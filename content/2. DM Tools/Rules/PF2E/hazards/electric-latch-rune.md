@@ -15,7 +15,7 @@ aliases: ["Electric Latch Rune"]
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
 
-An [invisible](rules/conditions.md#Invisible) rune imprinted on a door latch releases a powerful electric discharge.
+An [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) rune imprinted on a door latch releases a powerful electric discharge.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 20 (expert) to scratch out the rune without allowing electricity to flow, or dispel magic (2nd level; counteract DC 18) to counteract the rune.  
 

@@ -15,7 +15,7 @@ aliases: ["Fireball Rune"]
 - **Complexity** Simple
 - **Stealth** DC 24 expert  
 
-An [invisible](rules/conditions.md#Invisible) rune creates an [invisible](rules/conditions.md#Invisible), spherical magical sensor with a 20-foot radius.
+An [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) rune creates an [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible), spherical magical sensor with a 20-foot radius.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 22 (expert) to erase the rune without triggering the sensor, or dispel magic (3rd level; counteract DC 20) to counteract the rune.  
 

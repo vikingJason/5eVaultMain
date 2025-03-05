@@ -14,7 +14,7 @@ aliases: ["Dart Barrage"]
 - **Complexity** Complex
 - **Stealth** +11 trained or DC 23 (trained) to notice scratches around the musical pipes and a slight give to the seal.  
 
-Four dart-loaded pipes [hidden](rules/conditions.md#Hidden) in the diagonal walls are connected to a pressure plate under the brass seal in the room's center.
+Four dart-loaded pipes [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) in the diagonal walls are connected to a pressure plate under the brass seal in the room's center.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 22 (trained) to disable the pressure plate, or four [Thievery](compendium/skills.md#Thievery) DC 18 (trained) checks to plug the dart launchers.  
 

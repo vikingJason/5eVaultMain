@@ -110,13 +110,13 @@ The following emotional states are used in the Cathartic Mage archetype. Each em
 
 Your destructive wrath allows you to harm your foes but causes you pain in the process.
 
-**Catharsis Trigger** An enemy deals damage to you. You can't use this reaction if you're [fatigued](rules/conditions.md#Fatigued).
+**Catharsis Trigger** An enemy deals damage to you. You can't use this reaction if you're [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued).
 
-**Catharsis Activation** If you're [grabbed](rules/conditions.md#Grabbed), [immobilized](rules/conditions.md#Immobilized), or [restrained](rules/conditions.md#Restrained), you can attempt to [Escape](rules/actions/escape.md). If you succeed, the creature or hazard imposing the condition on you (if applicable) takes force damage equal to your level.
+**Catharsis Activation** If you're [grabbed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Grabbed), [immobilized](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Immobilized), or [restrained](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Restrained), you can attempt to [Escape](rules/actions/escape.md). If you succeed, the creature or hazard imposing the condition on you (if applicable) takes force damage equal to your level.
 
 **Emotional Fervor** When you [Cast a Spell](rules/actions/cast-a-spell.md) from your spell slots, if the spell deals damage and doesn't have a duration, you gain a status bonus to that spell's damage equal to the spell's level. Spell: [draw ire](compendium/spells/draw-ire-som.md)
 
-**Emotional Fallout** You become [fatigued](rules/conditions.md#Fatigued) until you Settle your Emotions.
+**Emotional Fallout** You become [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued) until you Settle your Emotions.
 
 **Focus Spell** [athletic rush](compendium/spells/athletic-rush.md)
 
@@ -127,11 +127,11 @@ Your powerful sense of wonderment can be infectious and distracting.
 
 **Catharsis Trigger** You or an ally within 30 feet critically succeeds on an attack roll against an enemy's AC or a skill check against one of an enemy's DCs.
 
-**Catharsis Activation** If you're [fascinated](rules/conditions.md#Fascinated) or [stupefied](rules/conditions.md#Stupefied), you can attempt an additional save to end the effect if it allowed a save.
+**Catharsis Activation** If you're [fascinated](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fascinated) or [stupefied](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stupefied), you can attempt an additional save to end the effect if it allowed a save.
 
-**Emotional Fervor** When you cast a spell, choose one creature that was hit by your spell attack roll or that failed its saving throw, if any. That creature becomes [fascinated](rules/conditions.md#Fascinated) with you until the end of its next turn. It's then temporarily immune to this fervor effect for 1 hour. Spell: [glitterdust](compendium/spells/glitterdust.md)
+**Emotional Fervor** When you cast a spell, choose one creature that was hit by your spell attack roll or that failed its saving throw, if any. That creature becomes [fascinated](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fascinated) with you until the end of its next turn. It's then temporarily immune to this fervor effect for 1 hour. Spell: [glitterdust](compendium/spells/glitterdust.md)
 
-**Emotional Fallout** You become [flat-footed](rules/conditions.md#Flat-footed) until you Settle your Emotions.
+**Emotional Fallout** You become [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) until you Settle your Emotions.
 
 **Focus Spell** [dazzling flash](compendium/spells/dazzling-flash.md) (doesn't require a religious symbol)
 
@@ -155,13 +155,13 @@ Your commitment protects those you are dedicated to but can lead to dependency. 
 
 You let your fear fuel you, rather than consume you, but it burns your endurance.
 
-**Catharsis Trigger** An enemy makes you [frightened](rules/conditions.md#Frightened).
+**Catharsis Trigger** An enemy makes you [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened).
 
-**Catharsis Activation** Increase your [frightened](rules/conditions.md#Frightened) value by 1, to a maximum of [frightened](rules/conditions.md#Frightened).
+**Catharsis Activation** Increase your [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) value by 1, to a maximum of [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened).
 
-**Emotional Fervor** You don't take the status penalty from the [frightened](rules/conditions.md#Frightened) condition to your spell DCs or spell attack bonus. Instead, you gain a status bonus to spell attack rolls equal to the penalty you would've taken, and your foes take the same status penalty to their saving throws against your spells. Any other statistic takes the status penalty as normal. Spell: [fear](compendium/spells/fear.md)
+**Emotional Fervor** You don't take the status penalty from the [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) condition to your spell DCs or spell attack bonus. Instead, you gain a status bonus to spell attack rolls equal to the penalty you would've taken, and your foes take the same status penalty to their saving throws against your spells. Any other statistic takes the status penalty as normal. Spell: [fear](compendium/spells/fear.md)
 
-**Emotional Fallout** You are [fleeing](rules/conditions.md#Fleeing) for 2 rounds, running from the source of the [frightened](rules/conditions.md#Frightened) condition that triggered your Catharsis. If that source is no longer present, you instead flee from the position where you were at the start of your emotional fallout.
+**Emotional Fallout** You are [fleeing](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fleeing) for 2 rounds, running from the source of the [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) condition that triggered your Catharsis. If that source is no longer present, you instead flee from the position where you were at the start of your emotional fallout.
 
 **Focus Spell** [waking nightmare](compendium/spells/waking-nightmare.md)
 
@@ -174,9 +174,9 @@ Your unabashed hatred consumes your soul and causes your foe to falter. Your emo
 
 **Catharsis Activation** You can [Step](rules/actions/step.md) or [Stride](rules/actions/stride.md). You must end this movement closer to your emotional focus.
 
-**Emotional Fervor** Your emotional focus is [flat-footed](rules/conditions.md#Flat-footed) to you and takes a –2 status penalty to saves against your spells. You're [flat-footed](rules/conditions.md#Flat-footed) to your emotional focus and take a –2 status penalty to saves against it. Spell: [blood vendetta](compendium/spells/blood-vendetta-apg.md)
+**Emotional Fervor** Your emotional focus is [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to you and takes a –2 status penalty to saves against your spells. You're [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to your emotional focus and take a –2 status penalty to saves against it. Spell: [blood vendetta](compendium/spells/blood-vendetta-apg.md)
 
-**Emotional Fallout** You become [stunned](rules/conditions.md#Stunned).
+**Emotional Fallout** You become [stunned](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stunned).
 
 **Focus Spell** [cry of destruction](compendium/spells/cry-of-destruction.md)
 
@@ -187,11 +187,11 @@ Your unbridled enthusiasm and positive attitude can lead you to success, but you
 
 **Catharsis Trigger** You critically succeed on an attack roll or save, or an enemy critically fails on a save against you.
 
-**Catharsis Activation** Reduce the value of any [frightened](rules/conditions.md#Frightened) or [stupefied](rules/conditions.md#Stupefied) condition you have by 1 and end any [persistent mental damage](rules/conditions.md#Persistent%20Damage) you have.
+**Catharsis Activation** Reduce the value of any [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) or [stupefied](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stupefied) condition you have by 1 and end any [persistent mental damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) you have.
 
 **Emotional Fervor** You gain a +1 status bonus to [Performance](compendium/skills.md#Performance) checks and to the spell attack rolls of [emotion](rules/traits/emotion.md "Emotion Effect Trait") spells, and enemies take a –1 status penalty to saves against your [emotion](rules/traits/emotion.md "Emotion Effect Trait") spells. Spell: [hideous laughter](compendium/spells/hideous-laughter.md)
 
-**Emotional Fallout** You become [fatigued](rules/conditions.md#Fatigued) until you Settle your Emotions.
+**Emotional Fallout** You become [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued) until you Settle your Emotions.
 
 **Focus Spell** [unimpeded stride](compendium/spells/unimpeded-stride.md)
 
@@ -202,11 +202,11 @@ You're joined by the bonds of love and nothing can break that, but love can dist
 
 **Catharsis Trigger** Your emotional focus takes damage from an enemy while within 30 feet of you.
 
-**Catharsis Activation** If either you or your emotional focus is [confused](rules/conditions.md#Confused) or [controlled](rules/conditions.md#Controlled), one of you can attempt a new saving throw against one confusing or controlling effect (if it allowed a save), ending the condition if the new save is a success. If both of you are eligible, your emotional focus gets the new save.
+**Catharsis Activation** If either you or your emotional focus is [confused](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Confused) or [controlled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Controlled), one of you can attempt a new saving throw against one confusing or controlling effect (if it allowed a save), ending the condition if the new save is a success. If both of you are eligible, your emotional focus gets the new save.
 
 **Emotional Fervor** You gain a +1 status bonus to Will saves. If you cast a spell to benefit your emotional focus, this bonus increases to +3 until the start of your next turn. Spell: [soothe](compendium/spells/soothe.md)
 
-**Emotional Fallout** You're [fascinated](rules/conditions.md#Fascinated) with your emotional focus for 1 minute.
+**Emotional Fallout** You're [fascinated](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fascinated) with your emotional focus for 1 minute.
 
 **Focus Spell** [soothing words](compendium/spells/soothing-words.md)
 
@@ -215,11 +215,11 @@ You're joined by the bonds of love and nothing can break that, but love can dist
 
 To suffer is to know you're alive; to make your enemies suffer as greatly as you have eases your suffering.
 
-**Catharsis Trigger** You gain [persistent damage](rules/conditions.md#Persistent%20Damage) from a foe.
+**Catharsis Trigger** You gain [persistent damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) from a foe.
 
 **Catharsis Activation** You gain a number of temporary Hit Points equal to your level. They last for 1 minute.
 
-**Emotional Fervor** You can choose not to attempt a flat check to end [persistent damage](rules/conditions.md#Persistent%20Damage) you're taking. When you cast a damaging spell, you can choose one creature that failed its save or that you hit with your spell attack roll. That target takes [persistent damage](rules/conditions.md#Persistent%20Damage) of the same type the spell dealt, of an amount equal to the highest amount of [persistent damage](rules/conditions.md#Persistent%20Damage) you currently have. You can't choose a creature that's already taking [persistent damage](rules/conditions.md#Persistent%20Damage). Spell: [phantom pain](compendium/spells/phantom-pain.md)
+**Emotional Fervor** You can choose not to attempt a flat check to end [persistent damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) you're taking. When you cast a damaging spell, you can choose one creature that failed its save or that you hit with your spell attack roll. That target takes [persistent damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) of the same type the spell dealt, of an amount equal to the highest amount of [persistent damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) you currently have. You can't choose a creature that's already taking [persistent damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage). Spell: [phantom pain](compendium/spells/phantom-pain.md)
 
 **Emotional Fallout** You take an untyped penalty to any damage you would deal with any spell you cast until you Settle your Emotions. The penalty is –1 per spell level.
 
@@ -236,7 +236,7 @@ All is well as long as you appear well, but you get caught up in the moment and 
 
 **Emotional Fervor** Each time you cast an illusion spell, until the start of your next turn, any critical failure you roll on an attack roll or saving throw is a failure instead. Spell: [color spray](compendium/spells/color-spray.md)
 
-**Emotional Fallout** You momentarily lose track of what's real, becoming [confused](rules/conditions.md#Confused) for 1 round. Spell: [mirror image](compendium/spells/mirror-image.md)
+**Emotional Fallout** You momentarily lose track of what's real, becoming [confused](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Confused) for 1 round. Spell: [mirror image](compendium/spells/mirror-image.md)
 
 **Focus Spell** [veil of confidence](compendium/spells/veil-of-confidence.md)
 
@@ -251,7 +251,7 @@ You attempt to overcome your failings, but your guilt stays with you.
 
 **Emotional Fervor** Any spell you cast that restores Hit Points to the triggering ally gets a status bonus to the Hit Points healed equal to the spell's level, or double the spell's level if the ally is at 0 Hit Points. Spell: [warrior's regret](compendium/spells/warriors-regret-som.md)
 
-**Emotional Fallout** Your emotional weight crushes you, leaving you [stupefied](rules/conditions.md#Stupefied) until you Settle your Emotions.
+**Emotional Fallout** Your emotional weight crushes you, leaving you [stupefied](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stupefied) until you Settle your Emotions.
 
 **Focus Spell** [healer's blessing](compendium/spells/healers-blessing.md)
 
@@ -1361,20 +1361,20 @@ A wellspring surge always has the trait of your magical tradition, plus any trai
 | 1 | **Energy Unleashed** ([evocation](rules/traits/evocation.md "Evocation School Trait")) Raw energy deals 2d6 damage per spell level of the surge (basic Reflex save) in a 10-foot burst. |
 | 2 | **Positive Energy Expulsion** ([healing](rules/traits/healing.md "Healing Effect Trait"), [necromancy](rules/traits/necromancy.md "Necromancy School Trait"), [positive](rules/traits/positive.md "Positive Energy & Element Trait")) Positive energy explodes outward, healing living creatures for 1d8 Hit Points per spell level of the surge in a 20-foot burst. Undead creatures instead take the same amount of positive damage, with a basic Will save. |
 | 3 | **Mass Siphon** ([transmutation](rules/traits/transmutation.md "Transmutation School Trait")) Creatures and objects within a 30-foot emanation become nearly weightless until the end of your next turn. Nearly weightless creatures can [Climb](rules/actions/climb.md) at their land Speed and can [Leap](rules/actions/leap.md) as far upward as they could normally [Leap](rules/actions/leap.md) horizontally. |
-| 4 | **Magical Nemesis** ([conjuration](rules/traits/conjuration.md "Conjuration School Trait"), [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")) A random creature connected to your magic (or inimical to it) appears within 60 feet. The creature should be of a level approximately equal to the level of an animal summoned by [summon animal](compendium/spells/summon-animal.md) of the spell level, although it can be of any type. The GM determines the specific creature. The creature is [unfriendly](rules/conditions.md#Unfriendly) to you and friendly to your apparent enemies. After 1 minute, the creature can choose either to return where it came from or to remain. It is not [summoned](rules/traits/summoned.md "Summoned Creature Trait") or a [minion](rules/traits/minion.md "Minion Creature Trait"). |
-| 5 | **Monstrous Transformation** ([mental](rules/traits/mental.md "Mental Effect Trait"), [morph](rules/traits/morph.md "Morph Effect Trait"), [transmutation](rules/traits/transmutation.md "Transmutation School Trait")) Your head and arms transform into an exaggerated imitation of a creature connected to your magic for 1 minute. The GM determines the creature. You gain a status bonus to weapon and unarmed damage rolls equal to the spell level. At the start of each of your turns while you are transformed, you must succeed at a Will saving throw or be [confused](rules/conditions.md#Confused) until the start of your next turn. On a critical success, you can choose to end the effect entirely, also losing the status bonus. |
-| 6 | **Sudden Gale** ([air](rules/traits/air.md "Air Energy & Element Trait"), [evocation](rules/traits/evocation.md "Evocation School Trait")) Weather in a 40-foot emanation is disturbed. Strong winds blow in a random direction for 1 minute. Each creature that starts its turn in the area must succeed at a Fortitude save or fall [prone](rules/conditions.md#Prone) (and be pushed 10 feet on a critical failure), and you must succeed at this save immediately after the surge. Any movement against the wind is difficult terrain, or greater difficult terrain while flying. |
-| 7 | **Tremor** ([earth](rules/traits/earth.md "Earth Energy & Element Trait"), [evocation](rules/traits/evocation.md "Evocation School Trait")) The earth trembles in a 40-foot emanation. Each creature on a surface must immediately succeed at a Fortitude save or fall [prone](rules/conditions.md#Prone). The surface then becomes difficult terrain for 1 minute. |
-| 8 | **Oppressive Voice** ([divination](rules/traits/divination.md "Divination School Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")) The voice of your muse, your deity, an ancestor, or another appropriate entity suddenly overwhelms your mind. You must attempt a Will saving throw. You take 1d4 mental damage per spell level with a basic Will save. On a failure, you're also [stunned](rules/conditions.md#Stunned) ([stunned](rules/conditions.md#Stunned) on a critical failure). |
+| 4 | **Magical Nemesis** ([conjuration](rules/traits/conjuration.md "Conjuration School Trait"), [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")) A random creature connected to your magic (or inimical to it) appears within 60 feet. The creature should be of a level approximately equal to the level of an animal summoned by [summon animal](compendium/spells/summon-animal.md) of the spell level, although it can be of any type. The GM determines the specific creature. The creature is [unfriendly](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unfriendly) to you and friendly to your apparent enemies. After 1 minute, the creature can choose either to return where it came from or to remain. It is not [summoned](rules/traits/summoned.md "Summoned Creature Trait") or a [minion](rules/traits/minion.md "Minion Creature Trait"). |
+| 5 | **Monstrous Transformation** ([mental](rules/traits/mental.md "Mental Effect Trait"), [morph](rules/traits/morph.md "Morph Effect Trait"), [transmutation](rules/traits/transmutation.md "Transmutation School Trait")) Your head and arms transform into an exaggerated imitation of a creature connected to your magic for 1 minute. The GM determines the creature. You gain a status bonus to weapon and unarmed damage rolls equal to the spell level. At the start of each of your turns while you are transformed, you must succeed at a Will saving throw or be [confused](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Confused) until the start of your next turn. On a critical success, you can choose to end the effect entirely, also losing the status bonus. |
+| 6 | **Sudden Gale** ([air](rules/traits/air.md "Air Energy & Element Trait"), [evocation](rules/traits/evocation.md "Evocation School Trait")) Weather in a 40-foot emanation is disturbed. Strong winds blow in a random direction for 1 minute. Each creature that starts its turn in the area must succeed at a Fortitude save or fall [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone) (and be pushed 10 feet on a critical failure), and you must succeed at this save immediately after the surge. Any movement against the wind is difficult terrain, or greater difficult terrain while flying. |
+| 7 | **Tremor** ([earth](rules/traits/earth.md "Earth Energy & Element Trait"), [evocation](rules/traits/evocation.md "Evocation School Trait")) The earth trembles in a 40-foot emanation. Each creature on a surface must immediately succeed at a Fortitude save or fall [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone). The surface then becomes difficult terrain for 1 minute. |
+| 8 | **Oppressive Voice** ([divination](rules/traits/divination.md "Divination School Trait"), [mental](rules/traits/mental.md "Mental Effect Trait"), [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait")) The voice of your muse, your deity, an ancestor, or another appropriate entity suddenly overwhelms your mind. You must attempt a Will saving throw. You take 1d4 mental damage per spell level with a basic Will save. On a failure, you're also [stunned](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stunned) ([stunned](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stunned) on a critical failure). |
 | 9 | **Trinket Squall** ([illusion](rules/traits/illusion.md "Illusion School Trait")) Visual illusions of objects related to your magic fall like rain throughout a 40-foot burst for 1 minute, giving concealment in the area. Creatures can attempt to 0. |
 | 10 | **Antimagic Eruption** ([abjuration](rules/traits/abjuration.md "Abjuration School Trait")) The surge attempts to counteract a random spell active on you and on each creature within a 10-foot burst. |
 | 11 | **Mental Broadcast** ([detection](rules/traits/detection.md "Detection Effect Trait"), [divination](rules/traits/divination.md "Divination School Trait"), [mental](rules/traits/mental.md "Mental Effect Trait")) For 1 minute, everyone within 30 feet of you can hear your surface thoughts. |
-| 12 | **Verdant Clutch** ([conjuration](rules/traits/conjuration.md "Conjuration School Trait"), [plant](rules/traits/plant.md "Plant Creature Type Trait")) Plants and vines grow from all surfaces within 20 feet, causing all creatures in the area to be [immobilized](rules/conditions.md#Immobilized) unless they succeed at a Reflex save. The [Escape](rules/actions/escape.md) DC is equal to the spell DC. |
-| 13 | **Tinge of Terror** ([emotion](rules/traits/emotion.md "Emotion Effect Trait"), [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), [fear](rules/traits/fear.md "Fear Effect Trait"), [mental](rules/traits/mental.md "Mental Effect Trait")) All creatures within 20 feet are affected by powerful fright. They attempt a Will save, becoming [frightened](rules/conditions.md#Frightened) on a failure or [frightened](rules/conditions.md#Frightened) on a critical failure. |
+| 12 | **Verdant Clutch** ([conjuration](rules/traits/conjuration.md "Conjuration School Trait"), [plant](rules/traits/plant.md "Plant Creature Type Trait")) Plants and vines grow from all surfaces within 20 feet, causing all creatures in the area to be [immobilized](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Immobilized) unless they succeed at a Reflex save. The [Escape](rules/actions/escape.md) DC is equal to the spell DC. |
+| 13 | **Tinge of Terror** ([emotion](rules/traits/emotion.md "Emotion Effect Trait"), [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), [fear](rules/traits/fear.md "Fear Effect Trait"), [mental](rules/traits/mental.md "Mental Effect Trait")) All creatures within 20 feet are affected by powerful fright. They attempt a Will save, becoming [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) on a failure or [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) on a critical failure. |
 | 14 | **Strike up the Band** ([auditory](rules/traits/auditory.md "Auditory Effect Trait"), [illusion](rules/traits/illusion.md "Illusion School Trait")) For 1 minute, you are followed by orchestral theme music tied to the emotional content of the actions you're performing. This grants you a +2 status bonus to [Diplomacy](compendium/skills.md#Diplomacy), [Intimidation](compendium/skills.md#Intimidation), and [Performance](compendium/skills.md#Performance) checks, a –2 status penalty to [Deception](compendium/skills.md#Deception) checks, and makes certain uses of [Stealth](compendium/skills.md#Stealth) virtually impossible. It might have other effects as the GM sees fit. |
-| 15 | **Life Sap** ([necromancy](rules/traits/necromancy.md "Necromancy School Trait")) The surge drains your life force and strength. You become [drained](rules/conditions.md#Drained) and [doomed](rules/conditions.md#Doomed), and you are [enfeebled](rules/conditions.md#Enfeebled) for 1 minute. |
+| 15 | **Life Sap** ([necromancy](rules/traits/necromancy.md "Necromancy School Trait")) The surge drains your life force and strength. You become [drained](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Drained) and [doomed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Doomed), and you are [enfeebled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Enfeebled) for 1 minute. |
 | 16 | **Ablative Barrier** ([abjuration](rules/traits/abjuration.md "Abjuration School Trait")) Energy forms a protective barrier that ablates slowly as creatures in the area take damage. All creatures in a 40-foot burst gain resistance to all damage equal to double the surge's spell level for up to 1 minute. Whenever a creature applies this resistance, the resistance for all affected creatures reduces by 1. The effect ends for all creatures when it reduces to 0. |
-| 17 | **Luminous Pests** ([illusion](rules/traits/illusion.md "Illusion School Trait"), [visual](rules/traits/visual.md "Visual Effect Trait")) Numerous tiny flying creatures formed of bright colorful light, such as bats or hummingbirds, emerge from you, flying in a 30-foot cone. You and all creatures in the cone must succeed at a Will save or be [dazzled](rules/conditions.md#Dazzled) for 1 minute, or [blinded](rules/conditions.md#Blinded) for 1 round and then [dazzled](rules/conditions.md#Dazzled) for 1 minute on a critical failure. |
+| 17 | **Luminous Pests** ([illusion](rules/traits/illusion.md "Illusion School Trait"), [visual](rules/traits/visual.md "Visual Effect Trait")) Numerous tiny flying creatures formed of bright colorful light, such as bats or hummingbirds, emerge from you, flying in a 30-foot cone. You and all creatures in the cone must succeed at a Will save or be [dazzled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dazzled) for 1 minute, or [blinded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Blinded) for 1 round and then [dazzled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dazzled) for 1 minute on a critical failure. |
 | 18 | **Emotional Turmoil** ([emotion](rules/traits/emotion.md "Emotion Effect Trait"), [enchantment](rules/traits/enchantment.md "Enchantment School Trait"), [mental](rules/traits/mental.md "Mental Effect Trait")) A swirl of conflicting emotions overwhelm you from the surging magic. For 1 minute, attempt a DC 11 flat check at the start of each of your turns. On a success, you gain a +2 status bonus to all attack rolls, saving throws, and skill checks; on a failure, you take a –2 status penalty to them instead. |
 | 19 | **Sudden Downpour** ([evocation](rules/traits/evocation.md "Evocation School Trait"), [water](rules/traits/water.md "Water Energy & Element Trait")) Water cascades from above, putting out non-magical fires in a 10-foot burst and attempting to counteract magical fires. |
 | 20 | **Spell Surge** You immediately cast any spell in your repertoire of the surge's spell level or lower (or from your prepared spells or innate spells if you don't have a repertoire but have been forced to generate a wellspring surge). You must choose a spell that takes 3 or fewer actions to cast. |

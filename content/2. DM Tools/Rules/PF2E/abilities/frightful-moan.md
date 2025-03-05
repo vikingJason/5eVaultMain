@@ -15,4 +15,4 @@ aliases: ["Frightful Moan"]
 
 - **Activate**: Two-Action
 
-The ghost laments its fate, forcing each living creature within 30 feet to attempt a Will save. On a failure, a creature becomes [frightened](rules/conditions.md#Frightened) (or [frightened](rules/conditions.md#Frightened) on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute.
+The ghost laments its fate, forcing each living creature within 30 feet to attempt a Will save. On a failure, a creature becomes [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) (or [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) on a critical failure). On a success, a creature is temporarily immune to this ghost's frightful moan for 1 minute.

@@ -18,7 +18,7 @@ aliases: ["Floating Flamethrower"]
 
 A floating skull of fire swoops around the arena, rotating as it weaves through the ring and releasing huge gouts of flame in random directions.
 
-- **Disable** three DC 40 [Thievery](compendium/skills.md#Thievery) (legendary) checks or castings of [dispel magic](compendium/spells/dispel-magic.md) (7th level; counteract DC 40), one each to pull out or disable the elemental cores [hidden](rules/conditions.md#Hidden) in the floating skull's right eye, left eye, and mouth  
+- **Disable** three DC 40 [Thievery](compendium/skills.md#Thievery) (legendary) checks or castings of [dispel magic](compendium/spells/dispel-magic.md) (7th level; counteract DC 40), one each to pull out or disable the elemental cores [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) in the floating skull's right eye, left eye, and mouth  
 
 - **AC** 42, **Fort** +30, **Ref** +33
 - **Hardness** 25, **HP** 100 (BT 50)

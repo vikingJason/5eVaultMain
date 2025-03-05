@@ -26,7 +26,7 @@ title: Saving Throw: DC 31 Will
 
 ## Tempting Curse
 
-Your compulsion to greet newcomers intensifies. You must greet every individual creature you meet for the first time by spending 1 action greeting them or become [slowed](rules/conditions.md#Slowed) for 1 minute. If you meet more creatures than you have actions, you can continue spending actions greeting creatures across multiple turns. For example, if you encountered six bandits, you could greet three bandits on the first round and three bandits on the second round, and you wouldn't become [slowed](rules/conditions.md#Slowed) unless you took another action before you finished greeting them. For 1 minute or until you take a hostile action, you gain the effects of a 7th-level [sanctuary](compendium/spells/sanctuary.md) against creatures you've greeted in this way (DC 31).
+Your compulsion to greet newcomers intensifies. You must greet every individual creature you meet for the first time by spending 1 action greeting them or become [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed) for 1 minute. If you meet more creatures than you have actions, you can continue spending actions greeting creatures across multiple turns. For example, if you encountered six bandits, you could greet three bandits on the first round and three bandits on the second round, and you wouldn't become [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed) unless you took another action before you finished greeting them. For 1 minute or until you take a hostile action, you gain the effects of a 7th-level [sanctuary](compendium/spells/sanctuary.md) against creatures you've greeted in this way (DC 31).
 
 ## Summary
 

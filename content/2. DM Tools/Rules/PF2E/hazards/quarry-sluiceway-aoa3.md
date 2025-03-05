@@ -12,7 +12,7 @@ aliases: ["Quarry Sluiceway"]
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** +17 expert or [Perception](compendium/skills.md#Perception) DC 27 (expert) to notice the six cleverly [hidden](rules/conditions.md#Hidden) sluice gates while they are closed  
+- **Stealth** +17 expert or [Perception](compendium/skills.md#Perception) DC 27 (expert) to notice the six cleverly [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) sluice gates while they are closed  
 
 Six sluice gates open to allow thousands of gallons of water to begin flooding the room. The water churns through the room and flows out through three chutes on the south end of the room.
 

@@ -12,7 +12,7 @@ aliases: ["Black Powder Bomb"]
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 15 (The three powder kegs aren't particularly well [hidden](rules/conditions.md#Hidden), but they are out of sight to casual observation.)  
+- **Stealth** DC 15 (The three powder kegs aren't particularly well [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden), but they are out of sight to casual observation.)  
 
 Three bulky kegs of black powder placed at key locations in the temple are triggered to explode in unison, causing the entire structure to collapse into rubble and slide partially down the cliff face.
 

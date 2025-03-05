@@ -14,7 +14,7 @@ aliases: ["Barzillai's Hounds"]
 - **Complexity** Complex
 - **Stealth** +17  
 
-Hell hounds [invisible](rules/conditions.md#Invisible) to all but their lone target burn their chosen victim.
+Hell hounds [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) to all but their lone target burn their chosen victim.
 
 - **Disable** [Religion](compendium/skills.md#Religion) DC 24 (expert) to perform an exorcism (with 2 actions)  
 

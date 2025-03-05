@@ -13,7 +13,7 @@ aliases: ["Rigged Cubby"]
 - **Complexity** Simple
 - **Stealth** DC 25 expert  
 
-A [hidden](rules/conditions.md#Hidden) string connected to precariously stacked bricks causes the cubby to collapse in on itself when the string is pulled.
+A [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) string connected to precariously stacked bricks causes the cubby to collapse in on itself when the string is pulled.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 20 to cut the string without setting off the trap.  
 

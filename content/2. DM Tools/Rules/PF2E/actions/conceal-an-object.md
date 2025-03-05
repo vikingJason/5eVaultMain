@@ -20,5 +20,5 @@ You hide a small object on your person (such as a weapon of light Bulk). When yo
 You can also conceal an object somewhere other than your person, such as among undergrowth or in a secret compartment within a piece of furniture. In this case, characters Seeking in an area compare their [Perception](compendium/skills.md#Perception) check results to your [Stealth](compendium/skills.md#Stealth) DC to determine whether they find the object.
 
 > [!success-degree] 
-> - **Success** The object remains [undetected](rules/conditions.md#Undetected).
+> - **Success** The object remains [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected).
 > - **Failure** The searcher finds the object.

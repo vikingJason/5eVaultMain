@@ -15,4 +15,4 @@ aliases: ["Bullying Press"]
 - **Requirements**: You're in a duel, you're trained in [Intimidation](compendium/skills.md#Intimidation), and you rolled an [Intimidation](compendium/skills.md#Intimidation) check for initiative this round.
 - **Activity**: Reaction
 
-If you hit, your opponent becomes [frightened](rules/conditions.md#Frightened). If your opponent is using [Perception](compendium/skills.md#Perception) for initiative when this ability is used, they become [frightened](rules/conditions.md#Frightened) instead.
+If you hit, your opponent becomes [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened). If your opponent is using [Perception](compendium/skills.md#Perception) for initiative when this ability is used, they become [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) instead.

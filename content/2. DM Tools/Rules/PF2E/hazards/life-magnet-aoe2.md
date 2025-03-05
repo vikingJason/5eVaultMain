@@ -14,7 +14,7 @@ aliases: ["Life Magnet"]
 - **Complexity** Complex
 - **Stealth** +17 expert  
 
-A magical magnet [hidden](rules/conditions.md#Hidden) behind a panel in the corner of the room pulls not metal but living creatures toward it, heedless of any obstacles in the way.
+A magical magnet [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) behind a panel in the corner of the room pulls not metal but living creatures toward it, heedless of any obstacles in the way.
 
 - **Disable** DC 29 [Thievery](compendium/skills.md#Thievery) (expert) to deactivate the panel, or dispel magic (4th level; counteract DC 22) to counteract the panel's magic.  
 

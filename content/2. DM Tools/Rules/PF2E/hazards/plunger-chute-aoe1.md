@@ -13,9 +13,9 @@ aliases: ["Plunger Chute"]
 - **Complexity** Simple
 - **Stealth** DC 22 expert  
 
-A trapdoor in the floor conceals a [hidden](rules/conditions.md#Hidden) chute, and a moving section of wall shoves victims into it.
+A trapdoor in the floor conceals a [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) chute, and a moving section of wall shoves victims into it.
 
-- **Disable** DC 23 [Thievery](compendium/skills.md#Thievery) (expert) to jam the trapdoor shut or activate a [hidden](rules/conditions.md#Hidden) bypass switch by twisting a fitting on the gas lamp.  
+- **Disable** DC 23 [Thievery](compendium/skills.md#Thievery) (expert) to jam the trapdoor shut or activate a [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) bypass switch by twisting a fitting on the gas lamp.  
 
 - **AC** 22, **Fort** +14, **Ref** +8
 - **Trapdoor Hardness** 10, **Trapdoor HP** 40 (BT 20)

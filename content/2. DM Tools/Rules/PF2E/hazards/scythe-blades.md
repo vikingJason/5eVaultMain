@@ -13,7 +13,7 @@ aliases: ["Scythe Blades"]
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
 
-Two blades, each [hidden](rules/conditions.md#Hidden) in a 15-foot-long ceiling groove, are both connected to a trip wire.
+Two blades, each [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) in a 15-foot-long ceiling groove, are both connected to a trip wire.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 21 (trained) to disable each blade.  
 

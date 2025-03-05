@@ -20,7 +20,7 @@ You push an opponent away from you. Attempt an [Athletics](compendium/skills.md#
 > [!success-degree] 
 > - **Critical Success** You push your opponent up to 10 feet away from you. You can [Stride](rules/actions/stride.md) after it, but you must move the same distance and in the same direction.
 > - **Success** You push your opponent back 5 feet. You can [Stride](rules/actions/stride.md) after it, but you must move the same distance and in the same direction.
-> - **Critical Failure** You lose your balance, fall, and land [prone](rules/conditions.md#Prone).
+> - **Critical Failure** You lose your balance, fall, and land [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone).
 
 > [!pf2-example] Forced Movement
 > 

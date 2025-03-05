@@ -277,12 +277,12 @@ Using their strength to bully others into submission, ruffians often work as bod
 ### Charlatan
 <sup>GMG p. 210</sup>
 
-Charlatans use pretense and misdirection to swindle money and other valuables from the credulous and [confused](rules/conditions.md#Confused). Selling snake oil (literally or figuratively), distracting marks to pick their pockets, or faking mediumship are classic grifts.
+Charlatans use pretense and misdirection to swindle money and other valuables from the credulous and [confused](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Confused). Selling snake oil (literally or figuratively), distracting marks to pick their pockets, or faking mediumship are classic grifts.
 
 ### Burglar
 <sup>GMG p. 211</sup>
 
-Burglars specialize in breaking and entering to rob homes and businesses. These criminals focus on gaining access to secure buildings and bypassing traps and other security measures while remaining [undetected](rules/conditions.md#Undetected) all the while.
+Burglars specialize in breaking and entering to rob homes and businesses. These criminals focus on gaining access to secure buildings and bypassing traps and other security measures while remaining [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) all the while.
 
 ### Fence
 <sup>GMG p. 211</sup>

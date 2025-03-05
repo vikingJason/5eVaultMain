@@ -41,6 +41,6 @@ title: **Formian Trench Poison**  ([poison](rules/traits/poison.md))
 %%
 ```
 
-**Reset** Creatures can still fall into the trap, but the canvas must be reset manually for the trap to become [hidden](rules/conditions.md#Hidden) again.  
+**Reset** Creatures can still fall into the trap, but the canvas must be reset manually for the trap to become [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) again.  
 
 *Source: Gatewalkers #1: The Seventh Arch p. 0*

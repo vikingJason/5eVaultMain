@@ -13,7 +13,7 @@ aliases: ["Scholar's Bane"]
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** +14 trained to notice magical sensors [hidden](rules/conditions.md#Hidden) within four of the carvings' eyes  
+- **Stealth** +14 trained to notice magical sensors [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) within four of the carvings' eyes  
 
 Illusion magic overwhelms the minds of particularly intelligent creatures, forcing them to relive every intellectual failure and shame they've ever suffered.
 

@@ -13,7 +13,7 @@ aliases: ["Hail of Razor Stones"]
 - **Complexity** Simple
 - **Stealth** DC 21 trained  
 
-When a [concealed](rules/conditions.md#Concealed) cord is tripped, several sharp stones fall onto the square containing the cord.
+When a [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) cord is tripped, several sharp stones fall onto the square containing the cord.
 
 - **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) (trained) to safely cut the trip cord  
 

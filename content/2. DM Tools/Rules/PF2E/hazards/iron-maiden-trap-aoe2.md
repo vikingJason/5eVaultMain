@@ -13,7 +13,7 @@ aliases: ["Iron Maiden Trap"]
 - **Complexity** Simple
 - **Stealth** DC 30 expert  
 
-A pressure plate [hidden](rules/conditions.md#Hidden) on the floor before an iron maiden causes the torture device to snap shut and trap the triggering creature inside.
+A pressure plate [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) on the floor before an iron maiden causes the torture device to snap shut and trap the triggering creature inside.
 
 - **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) to disable the pressure plate.  
 

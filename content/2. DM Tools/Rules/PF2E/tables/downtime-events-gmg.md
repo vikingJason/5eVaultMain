@@ -18,7 +18,7 @@ aliases: ["Downtime Events"]
 | Create a Forgery ([Society](compendium/skills.md#Society)) |
 |------------------------------------------------------------|
 | The format for paperwork the PC is attempting to mimic gets changed, and they must adjust. |
-| The paperwork is spoiled by a freak accident, such as a leaky roof above the workshop or a [clumsy](rules/conditions.md#Clumsy) assistant knocking over beakers of chemicals. |
+| The paperwork is spoiled by a freak accident, such as a leaky roof above the workshop or a [clumsy](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Clumsy) assistant knocking over beakers of chemicals. |
 | A mysterious benefactor provides the PC with special tools or a source document they didn't have, but suggests they'll ask for a favor later to reciprocate. |
 ^downtime-events-1-2-8
 

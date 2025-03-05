@@ -20,5 +20,5 @@ You use the [hunter's arrowhead](compendium/equipment/items/hunters-arrowhead-tv
 > [!success-degree] 
 > - **Critical Success** Huntergate is repaired, and the [vision of Dahak](compendium/gm/hazards/vision-of-dahak-aoa2.md) hazard inside of the Huntergate way station is reduced in power; reduce all of the hazard's modifiers and DCs by 2.
 > - **Success** Huntergate is repaired.
-> - **Failure** Huntergate is not repaired, and the character who attempted the repair becomes [clumsy](rules/conditions.md#Clumsy) for 1 hour as an orange arc of magical energy lances painfully through their body. A new attempt to repair the portal cannot be made again for 24 hours.
+> - **Failure** Huntergate is not repaired, and the character who attempted the repair becomes [clumsy](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Clumsy) for 1 hour as an orange arc of magical energy lances painfully through their body. A new attempt to repair the portal cannot be made again for 24 hours.
 > - **Critical Failure** As failure, but the magical backlash also deals `6d6` fire damage to the character attempting the repairs.

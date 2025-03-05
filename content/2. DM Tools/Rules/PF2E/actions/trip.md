@@ -18,12 +18,12 @@ aliases: ["Trip"]
 You try to knock an opponent to the ground. Attempt an [Athletics](compendium/skills.md#Athletics) check against the target's Reflex DC.
 
 > [!success-degree] 
-> - **Critical Success** The target falls and lands [prone](rules/conditions.md#Prone) and takes `1d6` bludgeoning damage.
-> - **Success** The target falls and lands [prone](rules/conditions.md#Prone).
-> - **Critical Failure** You lose your balance and fall and land [prone](rules/conditions.md#Prone).
+> - **Critical Success** The target falls and lands [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone) and takes `1d6` bludgeoning damage.
+> - **Success** The target falls and lands [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone).
+> - **Critical Failure** You lose your balance and fall and land [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone).
 
 > [!pf2-example] Falling
 > 
-> When you fall more than 5 feet, you take falling damage when you land, which is bludgeoning damage equal to half the distance you fell. If you take any damage from a fall, you're knocked [prone](rules/conditions.md#Prone) when you land.
+> When you fall more than 5 feet, you take falling damage when you land, which is bludgeoning damage equal to half the distance you fell. If you take any damage from a fall, you're knocked [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone) when you land.
 > 
 > If you fall into water, snow, or another soft substance, calculate the damage from the fall as though your fall were 20 feet shorter. The reduction can't be greater than the depth of the water (so when falling into water that is only 10 feet deep, you treat the fall as 10 feet shorter). You can [Grab an Edge](rules/actions/grab-an-edge.md) as a reaction to reduce or eliminate the damage from some falls. More detailed rules for falling damage appear on page 463.

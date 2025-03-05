@@ -17,7 +17,7 @@ aliases: ["Burning Chandelier Trap"]
 
 Four large flaming chandeliers swing wildly around the room.
 
-- **Disable** DC 36 [Thievery](compendium/skills.md#Thievery) (master) to disable a chandelier or dispel magic (8th level; counteract DC 33) to permanently drain the magic from a chandelier. Any amount of cold damage that overcomes a chandelier's cold resistance extinguishes its flames and removes its [persistent fire damage](rules/conditions.md#Persistent%20Damage) and flame dart attack. DC 41 [Thievery](compendium/skills.md#Thievery) (legendary) to disable the entire trap from the [hidden](rules/conditions.md#Hidden) control panel in the southeast corner of the room.  
+- **Disable** DC 36 [Thievery](compendium/skills.md#Thievery) (master) to disable a chandelier or dispel magic (8th level; counteract DC 33) to permanently drain the magic from a chandelier. Any amount of cold damage that overcomes a chandelier's cold resistance extinguishes its flames and removes its [persistent fire damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) and flame dart attack. DC 41 [Thievery](compendium/skills.md#Thievery) (legendary) to disable the entire trap from the [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) control panel in the southeast corner of the room.  
 
 - **AC** 36, **Fort** +27, **Ref** +22
 - **Chandelier Hardness** 30, **Chandelier HP** 120 (BT 60); **Panel Hardness** 18, **Panel HP** 88 (BT 44)

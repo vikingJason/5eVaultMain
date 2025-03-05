@@ -16,7 +16,7 @@ aliases: ["Scroll Shock Trap"]
 
 Five scroll symbols shoot electricity bolts around the room.
 
-- **Disable** [Thievery](compendium/skills.md#Thievery) DC 25 (expert) or [dispel magic](compendium/spells/dispel-magic.md) (3rd level; counteract DC 24); [Thievery](compendium/skills.md#Thievery) DC 29 (master) to disable the entire trap from the [hidden](rules/conditions.md#Hidden) control panel beneath the central slab.  
+- **Disable** [Thievery](compendium/skills.md#Thievery) DC 25 (expert) or [dispel magic](compendium/spells/dispel-magic.md) (3rd level; counteract DC 24); [Thievery](compendium/skills.md#Thievery) DC 29 (master) to disable the entire trap from the [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) control panel beneath the central slab.  
 
 - **AC** 28, **Fort** +21, **Ref** +15
 - **Panel Hardness** 18, **Panel HP** 72 (BT 36); **Symbol Hardness** 16, **Symbol HP** 64 (BT 32)

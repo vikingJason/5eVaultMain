@@ -14,4 +14,4 @@ aliases: ["Drop Prone"]
 
 - **Activity**: Single Action
 
-You fall [prone](rules/conditions.md#Prone).
+You fall [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone).

@@ -14,7 +14,7 @@ aliases: ["Angazhan's Rake Trap"]
 - **Complexity** Simple
 - **Stealth** DC 27 expert  
 
-Six metal talons [concealed](rules/conditions.md#Concealed) in the walls swing out and rake across the room.
+Six metal talons [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) in the walls swing out and rake across the room.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 25 (expert) to disable each talon.  
 

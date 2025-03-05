@@ -16,7 +16,7 @@ aliases: ["Maze Of Mirrors"]
 - **Complexity** Complex
 - **Stealth** +18 trained to detect the magical runes in the maze; noticing the maze itself has a DC of 0.  
 
-[Invisible](rules/conditions.md#Invisible) runes in the maze disorient those within it and cause its mirrored walls to shift about.
+[Invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) runes in the maze disorient those within it and cause its mirrored walls to shift about.
 
 - **Disable** DC 26 [Thievery](compendium/skills.md#Thievery) (expert) or dispel magic (5th level; counteract DC 28) to stop the mirrors' shuffling; DC 28.  
 

@@ -158,7 +158,7 @@ Though a published adventure is prewritten, it's not set in stone. Changing the 
 > ### Blindness or Impaired Vision
 > <sup>CRB p. 487</sup>
 > 
-> A blind character can't detect anything using vision, critically fails [Perception](compendium/skills.md#Perception) checks requiring sight, is immune to [visual](rules/traits/visual.md "Visual Effect Trait") effects, and can't be [blinded](rules/conditions.md#Blinded) or [dazzled](rules/conditions.md#Dazzled). You might give this character the [Blind-Fight](compendium/feats/blind-fight-fighter.md) feat for free.
+> A blind character can't detect anything using vision, critically fails [Perception](compendium/skills.md#Perception) checks requiring sight, is immune to [visual](rules/traits/visual.md "Visual Effect Trait") effects, and can't be [blinded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Blinded) or [dazzled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dazzled). You might give this character the [Blind-Fight](compendium/feats/blind-fight-fighter.md) feat for free.
 > 
 > A character with impaired vision might take a –2 to –4 penalty to vision-based [Perception](compendium/skills.md#Perception) checks. [Spectacles](compendium/equipment/items/basic-corrective-lenses-lotgb.md) or other corrective devices might reduce or remove this.
 > 
@@ -472,7 +472,7 @@ Most conversations play best as free-form roleplaying, with maybe one or two che
 
 Sometimes, though, a tense situation or crucial parlay requires a social encounter that uses initiative, much like a combat encounter. As with any other encounter, the stakes of a social encounter need to be high! A failed social encounter could mean a character is imprisoned or put to death, a major rival becomes a political powerhouse, or a key ally is disgraced and ostracized.
 
-Using the structure of an encounter is [helpful](rules/conditions.md#Helpful) because it makes the timing clearer than in free-form play, and each character feels like they're contributing. When running a social encounter, establish the stakes up front, so the players know the consequences of success or failure and the circumstances that will cause the encounter to end.
+Using the structure of an encounter is [helpful](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Helpful) because it makes the timing clearer than in free-form play, and each character feels like they're contributing. When running a social encounter, establish the stakes up front, so the players know the consequences of success or failure and the circumstances that will cause the encounter to end.
 
 You have much more flexibility in how you run a social encounter than in a combat encounter. Extending the length of rounds beyond 6 seconds, allowing more improvisation, and focusing less on special attacks and spells all differentiate a social encounter from a combat one. In most cases, you don't need to worry about character's movements, nor do you need a map. Some examples of social encounters include:
 
@@ -493,7 +493,7 @@ Good social encounters include an opposition. This can be direct, such as a riva
 
 You'll need to decide how to measure the characters' success in social encounters, because there's no AC to target or HP to whittle down. Chapter 4 includes guidance on setting DCs for social skill actions, often using a target's Will DC. If you need a DC for people who don't have stats, such as a crowd or an NPC for whom you haven't already generated statistics, use the guidelines on setting DCs, found on page 503. You can either pick a simple DC or use a level-based DC, estimating a level for the subject or how challenging it should be to sway them.
 
-The attitude conditions—[hostile](rules/conditions.md#Hostile), [unfriendly](rules/conditions.md#Unfriendly), [indifferent](rules/conditions.md#Indifferent), friendly, and helpful—provide a useful way to track the progress of a social encounter. Use these to represent the attitude of an authority, a crowd, a jury, or the like. A typical goal for a social encounter is to change the attitude of a person or group to helpful so they assist you, or calming a hostile group or person to defuse a situation. Try to give the players a clear idea of how much they've progressed as the encounter proceeds.
+The attitude conditions—[hostile](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hostile), [unfriendly](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unfriendly), [indifferent](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Indifferent), friendly, and helpful—provide a useful way to track the progress of a social encounter. Use these to represent the attitude of an authority, a crowd, a jury, or the like. A typical goal for a social encounter is to change the attitude of a person or group to helpful so they assist you, or calming a hostile group or person to defuse a situation. Try to give the players a clear idea of how much they've progressed as the encounter proceeds.
 
 Another option is to track the number of successes or failures the characters accrue. For instance, you might need to trick four guards into leaving their posts, and count each successful attempt to Lie or Create a Diversion toward a total of four necessary successes. You can combine these two methods; if the PCs need a group of important nobles to vote their way, the goal of the encounter might be to ensure that a majority of the nobles have a better attitude toward the PCs than they have of a rival—all within a limited time frame.
 
@@ -602,7 +602,7 @@ Exploration can get broken up by traps and other hazards (see Hazards on page 52
 Transitioning from exploration to an encounter usually involves rolling for initiative. Call for initiative once a trap is triggered, as soon as two opposing groups come into contact, or when a creature on one side decides to take action against the other. For example:
 
 - A group of PCs are exploring a cavern. They enter a narrow passage patrolled by a group of kobold warriors. Now that the two groups are in the same area, it's time to roll initiative.
-- Amiri and a kobold champion agree to have a [friendly](rules/conditions.md#Friendly) wrestling match. They square off on a patch of dirt, and you call for initiative using [Athletics](compendium/skills.md#Athletics).
+- Amiri and a kobold champion agree to have a [friendly](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Friendly) wrestling match. They square off on a patch of dirt, and you call for initiative using [Athletics](compendium/skills.md#Athletics).
 - Merisiel and Kyra are negotiating with the kobold king. Things aren't going well, so Merisiel decides to launch a surprise attack. As soon as she says this is her plan, you call for initiative.
 - Harsk and Ezren are trying to Balance across a narrow beam to reach an isolated kobold treasure trove. When they get halfway across, a red dragon who was hiding behind the mountain flies around to attack! As soon as the dragon makes its appearance, you call for an initiative roll.
 
@@ -653,8 +653,8 @@ When calling for initiative for a combat encounter, you'll need to decide where 
 Characters require 8 hours of sleep each day. Though resting typically happens at night, a group gains the same benefits for resting during the day. Either way, they can gain the benefits of resting only once every 24 hours. A character who rests for 8 hours recovers in the following ways:
 
 - The character regains Hit Points equal to their Constitution modifier (minimum 1) multiplied by their level. If they rest without any shelter or comfort, you might reduce this healing by half (to a minimum of 1 HP).
-- The character loses the [fatigued](rules/conditions.md#Fatigued) condition.
-- The character reduces the severity of the [doomed](rules/conditions.md#Doomed) and [drained](rules/conditions.md#Drained) conditions by 1.
+- The character loses the [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued) condition.
+- The character reduces the severity of the [doomed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Doomed) and [drained](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Drained) conditions by 1.
 - Most spellcasters need to rest before they regain their spells for the day.
 
 A group in exploration mode can attempt to rest, but they aren't entirely safe from danger, and their rest might be interrupted. The 8 hours of rest do not need to be consecutive, however, and after an interruption, characters can go back to sleep.
@@ -1614,7 +1614,7 @@ Wildfires travel mainly along a front moving in a single direction. In a forest,
 ##### Flames
 <sup>CRB p. 519</sup>
 
-Flames are hazardous terrain, usually dealing moderate damage and potentially setting a character on fire, dealing moderate [persistent fire damage](rules/conditions.md#Persistent%20Damage). The flames from a small fire are often less dangerous than the advancing heat from the front of a large fire.
+Flames are hazardous terrain, usually dealing moderate damage and potentially setting a character on fire, dealing moderate [persistent fire damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage). The flames from a small fire are often less dangerous than the advancing heat from the front of a large fire.
 
 ##### Heat
 <sup>CRB p. 519</sup>

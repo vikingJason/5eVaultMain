@@ -24,7 +24,7 @@ title: Routine
 ```
 ^routine
 
-**Reset** The haunt becomes inert at the end of any round in which there are no [frightened](rules/conditions.md#Frightened) creatures it can see.
+**Reset** The haunt becomes inert at the end of any round in which there are no [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) creatures it can see.
 It stays dormant for 1 hour, after which point it resets.  
 
 *Source: Abomination Vaults #1: Ruins of Gauntlight p. 37*

@@ -14,7 +14,7 @@ aliases: ["Drowning Pit"]
 - **Complexity** Complex
 - **Stealth** +10 trained DC 22 (expert) to notice the water spouts once the pit opens.  
 
-A trapdoor covers a 10-foot-square pit that's 30 feet deep and has 5 feet of water at the bottom. Four water spouts in the walls connect to [hidden](rules/conditions.md#Hidden) water tanks. Each water spout extends out of a different wall, 6 inches from the top of the pit.
+A trapdoor covers a 10-foot-square pit that's 30 feet deep and has 5 feet of water at the bottom. Four water spouts in the walls connect to [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) water tanks. Each water spout extends out of a different wall, 6 inches from the top of the pit.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 18 (trained) to seal each water spout,  
 

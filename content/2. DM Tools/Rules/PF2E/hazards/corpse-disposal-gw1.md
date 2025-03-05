@@ -11,7 +11,7 @@ aliases: ["Corpse Disposal"]
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 21 (or 0 if the trapdoor is disabled or [broken](rules/conditions.md#Broken))  
+- **Stealth** DC 21 (or 0 if the trapdoor is disabled or [broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken))  
 
 A wooden trapdoor conceals a spike-filled pit 10 feet square and 20 feet deep. The DC to [Climb](rules/actions/climb.md) out of the pit is 10.
 

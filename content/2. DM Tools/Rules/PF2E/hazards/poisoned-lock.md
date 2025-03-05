@@ -13,7 +13,7 @@ aliases: ["Poisoned Lock"]
 - **Complexity** Simple
 - **Stealth** DC 17 trained  
 
-A spring-loaded, poisoned spine is [hidden](rules/conditions.md#Hidden) near the keyhole of a lock. Disabling or breaking the trap does not disable or break the lock.
+A spring-loaded, poisoned spine is [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) near the keyhole of a lock. Disabling or breaking the trap does not disable or break the lock.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 17 (trained) on the spring mechanism.  
 

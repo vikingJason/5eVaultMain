@@ -187,7 +187,7 @@ NPCs in the influence subsystem have little need for many of the statistics you'
 
 Influence stat blocks are flexible and contain only the stats that you are essential to running the NPC during a social encounter, leaving the rest out. The main stats that matter are the NPC's [Perception](compendium/skills.md#Perception) and Will modifiers.
 
-After the influence stat block, you might want to list important information to help you roleplay the NPC and incorporate the NPC into your influence encounter. You can list any of the following details that are relevant to your NPC: their background (a brief bio focusing on information relevant to the encounter), appearance, personality (this can just be a list of adjectives), affiliations, public goals, [hidden](rules/conditions.md#Hidden) agendas, or the penalty for antagonizing the NPC (or possibly for failing to Influence the NPC, depending on the way you structure the encounter)
+After the influence stat block, you might want to list important information to help you roleplay the NPC and incorporate the NPC into your influence encounter. You can list any of the following details that are relevant to your NPC: their background (a brief bio focusing on information relevant to the encounter), appearance, personality (this can just be a list of adjectives), affiliations, public goals, [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) agendas, or the penalty for antagonizing the NPC (or possibly for failing to Influence the NPC, depending on the way you structure the encounter)
 
 ```ad-pf2-note
 title: NPC Name
@@ -323,7 +323,7 @@ When running the research subsystem, think about the two factors that set the pa
 
 > [!pf2-brown] SAMPLE STAT BLOCK
 > 
-> In this example, the PCs are trying to research [hidden](rules/conditions.md#Hidden) occult secrets about hags known only to the fey of a strange sylvan library. It's a 7th-level challenge. If you'd like to use this sample library for a different research topic, just change the results of each threshold and replace any [Occultism](compendium/skills.md#Occultism) Research checks with checks appropriate to the new topic!
+> In this example, the PCs are trying to research [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) occult secrets about hags known only to the fey of a strange sylvan library. It's a 7th-level challenge. If you'd like to use this sample library for a different research topic, just change the results of each threshold and replace any [Occultism](compendium/skills.md#Occultism) Research checks with checks appropriate to the new topic!
 > 
 > ```ad-pf2-note
 > title: Gade of Forgotten Time *Library 7*
@@ -512,7 +512,7 @@ When creating an infiltration, you'll want to start with the party's broad goals
 #### Objective
 <sup>GMG p. 160</sup>
 
-The first thing you'll need to determine is the party's objective, or broad goal. Maybe the PCs need to find their way into some [hidden](rules/conditions.md#Hidden) sanctum, find a particular person within an organization, locate and get away with a bit of treasure, or plant a piece of evidence. An infiltration can consist of a single objective, but a more complex one might include two or more objectives in sequence—the PCs might first need to find a way to enter the cult's sanctum, then open the vault, and then escape with the relic.
+The first thing you'll need to determine is the party's objective, or broad goal. Maybe the PCs need to find their way into some [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) sanctum, find a particular person within an organization, locate and get away with a bit of treasure, or plant a piece of evidence. An infiltration can consist of a single objective, but a more complex one might include two or more objectives in sequence—the PCs might first need to find a way to enter the cult's sanctum, then open the vault, and then escape with the relic.
 
 To achieve an objective, the PCs must overcome a certain number of obstacles—specific challenges the PCs face, such as getting across a moat or past a nosy butler. For a simple objective, they might need to overcome only one or two obstacles, while a more complex one might require several.
 
@@ -542,7 +542,7 @@ On a character's turn, the character describes what they do to get past the obst
 > - **Failure** The PCs accrue 1 Awareness Point.
 > - **Critical Failure** The PCs accrue 2 Awareness Points.
 
-If the character's actions automatically help without requiring a check, like using a spell, they usually gain 1 IP, but you can award 2 for particularly [helpful](rules/conditions.md#Helpful) actions.
+If the character's actions automatically help without requiring a check, like using a spell, they usually gain 1 IP, but you can award 2 for particularly [helpful](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Helpful) actions.
 
 Sometimes a PC might become stuck on an individual obstacle. Some opportunities (page 162) allow PCs to spend their turn helping others overcome a tricky obstacle.
 
@@ -591,7 +591,7 @@ A trap bars the characters' passage. This obstacle follows the normal degrees of
 
 > [!pf2-brown] SETTING INFILTRATION SKILLS AND DCS
 > 
-> Many of the sample infiltration activities and events give a DC range instead of a fixed DC. Set the DCs based on the standard DC of the party level using the table on page 503 of the Core Rulebook, and adjust them using Table 10–6: DC Adjustments on page 504. When given a range of skills for an activity or event, you should vary the difficulty based on the needs of the story. For instance, if a PC is Scouting a Location, you might want to use a low DC for [Stealth](compendium/skills.md#Stealth) (because it's easier to scout when [unnoticed](rules/conditions.md#Unnoticed)), a hard one for [Perception](compendium/skills.md#Perception) (because while the PC might see the enemy, the enemy might also see them), and a very hard DC for [Society](compendium/skills.md#Society) (because walking in like you belong is difficult if you don't have an invitation or the right uniform). This not only adds a certain degree of plausibility, but by planning for and allowing a broad range of skills as means to complete the activity, you also become better prepared for when your players improvise.
+> Many of the sample infiltration activities and events give a DC range instead of a fixed DC. Set the DCs based on the standard DC of the party level using the table on page 503 of the Core Rulebook, and adjust them using Table 10–6: DC Adjustments on page 504. When given a range of skills for an activity or event, you should vary the difficulty based on the needs of the story. For instance, if a PC is Scouting a Location, you might want to use a low DC for [Stealth](compendium/skills.md#Stealth) (because it's easier to scout when [unnoticed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unnoticed)), a hard one for [Perception](compendium/skills.md#Perception) (because while the PC might see the enemy, the enemy might also see them), and a very hard DC for [Society](compendium/skills.md#Society) (because walking in like you belong is difficult if you don't have an invitation or the right uniform). This not only adds a certain degree of plausibility, but by planning for and allowing a broad range of skills as means to complete the activity, you also become better prepared for when your players improvise.
 
 #### Awareness Points
 <sup>GMG p. 161</sup>
@@ -819,32 +819,32 @@ This is the default for most PCs with most groups, and it carries no special ben
 #### Liked
 <sup>GMG p. 164</sup>
 
-The PCs have gained this group's favor. Many members of the group know about the PCs, and those who do are usually [friendly](rules/conditions.md#Friendly) to them. At this reputation, only moderate and major favors accrue Reputation Points; it takes more to impress the group further.
+The PCs have gained this group's favor. Many members of the group know about the PCs, and those who do are usually [friendly](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Friendly) to them. At this reputation, only moderate and major favors accrue Reputation Points; it takes more to impress the group further.
 
 #### Admired
 <sup>GMG p. 164</sup>
 
-The PCs have earned this group's admiration. The majority of the group knows about the PCs and have an extremely favorable opinion toward them. Many members of the group are [helpful](rules/conditions.md#Helpful) toward the PCs, and those who aren't are [friendly](rules/conditions.md#Friendly). Only major favors accrue Reputation Points.
+The PCs have earned this group's admiration. The majority of the group knows about the PCs and have an extremely favorable opinion toward them. Many members of the group are [helpful](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Helpful) toward the PCs, and those who aren't are [friendly](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Friendly). Only major favors accrue Reputation Points.
 
 #### Revered
 <sup>GMG p. 164</sup>
 
-The group reveres the PCs as heroes and celebrities. Every member has heard of the PCs, is [helpful](rules/conditions.md#Helpful) toward them, and would take major risks to assist them. Only major favors accrue Reputation Points, and only moderate or major disservices can reduce them.
+The group reveres the PCs as heroes and celebrities. Every member has heard of the PCs, is [helpful](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Helpful) toward them, and would take major risks to assist them. Only major favors accrue Reputation Points, and only moderate or major disservices can reduce them.
 
 #### Disliked
 <sup>GMG p. 165</sup>
 
-The PCs have a poor reputation among members of this group. Many members of the group know about the PCs, and are usually [unfriendly](rules/conditions.md#Unfriendly) to them. At this reputation, only moderate and major disservices reduce Reputation Points.
+The PCs have a poor reputation among members of this group. Many members of the group know about the PCs, and are usually [unfriendly](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unfriendly) to them. At this reputation, only moderate and major disservices reduce Reputation Points.
 
 #### Hated
 <sup>GMG p. 165</sup>
 
-The PCs have earned this group's ire. The vast majority of the group knows about the PCs and have an extremely unfavorable opinion toward them. Many members of the group are [hostile](rules/conditions.md#Hostile) toward the PCs, and those who aren't are [unfriendly](rules/conditions.md#Unfriendly). When presented an easy opportunity to hurt the PCs, the group will jump at the chance. Only major disservices can still reduce Reputation Points.
+The PCs have earned this group's ire. The vast majority of the group knows about the PCs and have an extremely unfavorable opinion toward them. Many members of the group are [hostile](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hostile) toward the PCs, and those who aren't are [unfriendly](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unfriendly). When presented an easy opportunity to hurt the PCs, the group will jump at the chance. Only major disservices can still reduce Reputation Points.
 
 #### Hunted
 <sup>GMG p. 165</sup>
 
-The group actively hunts the PCs as scapegoats or nemeses, even at significant cost to itself. Every member has heard of the PCs, is [hostile](rules/conditions.md#Hostile) toward them, and would take major risks to thwart or destroy them. Only major disservices can still reduce Reputation Points, and only moderate or major favors can increase them.
+The group actively hunts the PCs as scapegoats or nemeses, even at significant cost to itself. Every member has heard of the PCs, is [hostile](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hostile) toward them, and would take major risks to thwart or destroy them. Only major disservices can still reduce Reputation Points, and only moderate or major favors can increase them.
 
 ### Running Reputation
 <sup>GMG p. 165</sup>
@@ -1179,7 +1179,7 @@ These activities take two forms: group or individual. The number of hexploration
 | 45–55 feet | 3 |
 | 60 feet or more | 4 |
 
-This rate assumes the PCs are taking time to camp and rest at healthy intervals. When a new day of hexploration begins, the group can decide to take a forced march as long as no one in the group is [fatigued](rules/conditions.md#Fatigued). Doing so allows them to gain an extra Travel activity (or perform a full Travel activity each day if their Speed is 10 feet or less), but this is the only activity they can perform that day. A character can participate in a forced march safely for a number of days equal to the character's Constitution modifier (minimum 1 day). Any additional days of forced march make the character [fatigued](rules/conditions.md#Fatigued) until they spend an entire day of downtime resting.
+This rate assumes the PCs are taking time to camp and rest at healthy intervals. When a new day of hexploration begins, the group can decide to take a forced march as long as no one in the group is [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued). Doing so allows them to gain an extra Travel activity (or perform a full Travel activity each day if their Speed is 10 feet or less), but this is the only activity they can perform that day. A character can participate in a forced march safely for a number of days equal to the character's Constitution modifier (minimum 1 day). Any additional days of forced march make the character [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued) until they spend an entire day of downtime resting.
 
 #### Group Activities
 <sup>GMG p. 172</sup>
@@ -1299,7 +1299,7 @@ There are five main types of propulsion: alchemical, magical, pulled, rowed, and
 ##### Alchemical
 <sup>GMG p. 174</sup>
 
-Powered by the reactions of alchemical reagents, [controlled](rules/conditions.md#Controlled) internal combustion, lighter-than-air gases, or steam, vehicles with alchemical propulsion tend to be powerful but have the potential to be wildly unpredictable. Alchemical vehicles can often be piloted using the [Crafting](compendium/skills.md#Crafting) skill.
+Powered by the reactions of alchemical reagents, [controlled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Controlled) internal combustion, lighter-than-air gases, or steam, vehicles with alchemical propulsion tend to be powerful but have the potential to be wildly unpredictable. Alchemical vehicles can often be piloted using the [Crafting](compendium/skills.md#Crafting) skill.
 
 ##### Magical
 <sup>GMG p. 174</sup>
@@ -1426,7 +1426,7 @@ Actions that have the [reckless](rules/traits/reckless-gmg.md "Reckless Action &
 #### Uncontrolled Vehicles
 <sup>GMG p. 176</sup>
 
-Some situations can cause a pilot to lose control of their vehicle. Most commonly, this is due to a failed piloting check for a reckless action, but it can also occur if a round passes without a pilot using a move action to control the vehicle or Stopping the vehicle. A vehicle can also become uncontrolled if the pilot becomes unable to act during a move action to control the vehicle. For example, if a vehicle's movement triggers an [Attack of Opportunity](rules/actions/attack-of-opportunity.md) that knocks the pilot [unconscious](rules/conditions.md#Unconscious) or paralyzes them, the vehicle becomes uncontrolled.
+Some situations can cause a pilot to lose control of their vehicle. Most commonly, this is due to a failed piloting check for a reckless action, but it can also occur if a round passes without a pilot using a move action to control the vehicle or Stopping the vehicle. A vehicle can also become uncontrolled if the pilot becomes unable to act during a move action to control the vehicle. For example, if a vehicle's movement triggers an [Attack of Opportunity](rules/actions/attack-of-opportunity.md) that knocks the pilot [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious) or paralyzes them, the vehicle becomes uncontrolled.
 
 An uncontrolled vehicle continues to move each round at its most recent pilot's initiative position. The distance it moves each round is 10 feet less than on the previous round, always in a straight line at its current heading until it crashes or it comes to a stop. At your discretion, it could slow down more if it's on uneven terrain, difficult terrain, on an upward slope, or facing adverse wind conditions; by the same token, it could stay at the same speed or even accelerate if it's on a downward slope or being pushed by strong winds.
 
@@ -1446,7 +1446,7 @@ Some vehicles have special mounted weapons that can be used by the pilot or pass
 #### Broken Vehicles
 <sup>GMG p. 177</sup>
 
-When a vehicle is [broken](rules/conditions.md#Broken), it becomes harder to use. It takes a –2 penalty to its AC, saves, and collision DC, and the DC of all piloting checks related to the vehicle increase by 5. The [broken](rules/conditions.md#Broken) vehicle's Speeds are halved.
+When a vehicle is [broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken), it becomes harder to use. It takes a –2 penalty to its AC, saves, and collision DC, and the DC of all piloting checks related to the vehicle increase by 5. The [broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken) vehicle's Speeds are halved.
 
 A vehicle reduced to 0 HP is destroyed, like any other item. If the vehicle is in water when it's destroyed, it sinks; if it is flying, it falls and everyone aboard takes falling damage. A pulled or rowed vehicle that becomes wrecked, regardless of which method of propulsion it's using at the time, deals its collision damage (no saving throw) to the creatures pulling or rowing it, and the creatures may have to be physically freed from the wreckage.
 

@@ -14,7 +14,7 @@ aliases: ["Cordon Alarm"]
 - **Complexity** Simple
 - **Stealth** DC 18 trained  
 
-A hempen rope tied between trees emanates an [invisible](rules/conditions.md#Invisible), cylindrical barrier that sounds an alarm when crossed.
+A hempen rope tied between trees emanates an [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible), cylindrical barrier that sounds an alarm when crossed.
 
 - **Disable** DC 18 [Thievery](compendium/skills.md#Thievery) (trained) to move the rope without setting off the alarm, or dispel magic (1st level; counteract DC 16) to disable the rope's magic  
 

@@ -14,13 +14,13 @@ aliases: ["Master Strike"]
 
 **Class** rogue
 - **Frequency**: once per round
-- **Trigger**: Your [Strike](rules/actions/strike.md) hits a [flat-footed](rules/conditions.md#Flat-footed) creature and deals damage.
+- **Trigger**: Your [Strike](rules/actions/strike.md) hits a [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) creature and deals damage.
 - **Activity**: Free Action
 
 The target attempts a Fortitude save at your class DC. It then becomes temporarily immune to your Master Strike for 1 day.
 
 > [!success-degree] 
 > - **Critical Success** The target is unaffected.
-> - **Success** The target is [enfeebled](rules/conditions.md#Enfeebled) until the end of your next turn.
-> - **Failure** The target is [paralyzed](rules/conditions.md#Paralyzed) for 4 rounds.
-> - **Critical Failure** The target is [paralyzed](rules/conditions.md#Paralyzed) for 4 rounds, knocked [unconscious](rules/conditions.md#Unconscious) for 2 hours, or killed (your choice).
+> - **Success** The target is [enfeebled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Enfeebled) until the end of your next turn.
+> - **Failure** The target is [paralyzed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Paralyzed) for 4 rounds.
+> - **Critical Failure** The target is [paralyzed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Paralyzed) for 4 rounds, knocked [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious) for 2 hours, or killed (your choice).

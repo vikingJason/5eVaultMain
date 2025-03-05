@@ -33,6 +33,6 @@ A creature in the tar pit can attempt a DC 33 [Athletics](compendium/skills.md#A
 ```
 ^routine
 
-**Reset** Though the hazard still captures anyone who touches it, the surface doesn't become [hidden](rules/conditions.md#Hidden) again until it settles, which takes 24 hours.  
+**Reset** Though the hazard still captures anyone who touches it, the surface doesn't become [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) again until it settles, which takes 24 hours.  
 
 *Source: Quest for the Frozen Flame #3: Burning Tundra p. 34*

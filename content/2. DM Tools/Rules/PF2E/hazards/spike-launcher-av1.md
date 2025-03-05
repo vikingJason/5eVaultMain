@@ -13,7 +13,7 @@ aliases: ["Spike Launcher"]
 - **Complexity** Simple
 - **Stealth** DC 19  
 
-A jagged spike of metal shoots from a [hidden](rules/conditions.md#Hidden) launcher.
+A jagged spike of metal shoots from a [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) launcher.
 
 - **Disable** DC 16 [Thievery](compendium/skills.md#Thievery) to disable one of the four launchers.  
 

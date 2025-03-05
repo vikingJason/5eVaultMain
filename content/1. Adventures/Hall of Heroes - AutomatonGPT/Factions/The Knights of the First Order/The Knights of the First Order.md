@@ -1,4 +1,5 @@
 ---
+type: faction
 cssclass: oRPGPage
 Role:
   - organization
@@ -11,7 +12,18 @@ leader:
 size: unknown
 structure: 
 hierarchy: 
+faction: "The Knights of the First Order"
+benefits:
+  - standing: 1
+    reward: "Love"
+  - standing: 2
+    reward: "Respect"
+  - standing: 3
+    reward: "What do they get at level 3?"
 ---
+
+<br>
+
 > [!Overview] 
 > #   `=this.file.name`
 > ![[arcaneSymbol.png]]

@@ -12,7 +12,7 @@ aliases: ["Malaria"]
 *Disease 7*  
 [disease](rules/traits/disease.md "Disease Effect Trait")  
 
-The victim has a fever and flu-like symptoms, and can't recover from the [fatigued](rules/conditions.md#Fatigued) condition from malaria until the disease is cured.
+The victim has a fever and flu-like symptoms, and can't recover from the [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued) condition from malaria until the disease is cured.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 23 Fortitude

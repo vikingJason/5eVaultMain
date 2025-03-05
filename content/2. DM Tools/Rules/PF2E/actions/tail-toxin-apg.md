@@ -17,4 +17,4 @@ aliases: ["Tail Toxin"]
 - **Requirements**: You are wielding a piercing or slashing weapon.
 - **Activity**: Single Action
 
-You apply your tail's venom to a piercing or slashing weapon. If your next [Strike](rules/actions/strike.md) with that weapon before the end of your next turn hits and deals damage, you deal [persistent poison damage](rules/conditions.md#Persistent%20Damage) equal to your level to the target.
+You apply your tail's venom to a piercing or slashing weapon. If your next [Strike](rules/actions/strike.md) with that weapon before the end of your next turn hits and deals damage, you deal [persistent poison damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) equal to your level to the target.

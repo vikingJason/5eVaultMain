@@ -19,4 +19,4 @@ If you didn't [Stride](rules/actions/stride.md) at least 10 feet, or if you atte
 > [!success-degree] 
 > - **Success** Increase the maximum horizontal distance you [Leap](rules/actions/leap.md) to the desired distance.
 > - **Failure** You [Leap](rules/actions/leap.md) normally.
-> - **Critical Failure** You [Leap](rules/actions/leap.md) normally, but then fall and land [prone](rules/conditions.md#Prone).
+> - **Critical Failure** You [Leap](rules/actions/leap.md) normally, but then fall and land [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone).

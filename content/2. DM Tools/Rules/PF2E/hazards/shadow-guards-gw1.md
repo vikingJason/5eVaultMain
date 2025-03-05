@@ -14,7 +14,7 @@ aliases: ["Shadow Guards"]
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Complex
-- **Stealth** +11 trained to notice the runes [concealed](rules/conditions.md#Concealed) among the drawings  
+- **Stealth** +11 trained to notice the runes [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) among the drawings  
 
 Shadowy caricatures of elves peel themselves from the floor and attack everyone in the room.
 

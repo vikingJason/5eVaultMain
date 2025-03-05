@@ -14,7 +14,7 @@ aliases: ["Summoning Rune"]
 - **Complexity** Complex
 - **Stealth** +7 trained  
 
-A cloud of [invisible](rules/conditions.md#Invisible) magical sensors in a 10-foot radius surrounds an [invisible](rules/conditions.md#Invisible) wall or floor rune the size of the creature to be summoned.
+A cloud of [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) magical sensors in a 10-foot radius surrounds an [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) wall or floor rune the size of the creature to be summoned.
 
 - **Disable** [Acrobatics](compendium/skills.md#Acrobatics) DC 15 to approach without triggering the trap followed by [Thievery](compendium/skills.md#Thievery) DC 17 (trained) to erase the rune, or dispel magic (1st level; counteract DC 15) to counteract the rune.  
 

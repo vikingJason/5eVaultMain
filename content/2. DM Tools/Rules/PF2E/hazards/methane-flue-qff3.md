@@ -12,7 +12,7 @@ aliases: ["Methane Flue"]
 - **Complexity** Simple
 - **Stealth** DC 28 expert to hear hissing gas  
 
-[Invisible](rules/conditions.md#Invisible) but highly flammable natural gas has built up beneath the ground, where geological pressure can ignite it.
+[Invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) but highly flammable natural gas has built up beneath the ground, where geological pressure can ignite it.
 
 - **Disable** [Survival](compendium/skills.md#Survival) DC 28 to dig around the vent in a way that diffuses the fumes  
 

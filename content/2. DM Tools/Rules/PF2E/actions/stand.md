@@ -14,4 +14,4 @@ aliases: ["Stand"]
 
 - **Activity**: Single Action
 
-You stand up from [prone](rules/conditions.md#Prone).
+You stand up from [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone).

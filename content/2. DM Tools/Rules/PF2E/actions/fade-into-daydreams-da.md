@@ -15,4 +15,4 @@ aliases: ["Fade Into Daydreams"]
 
 - **Activity**: Single Action
 
-Your flights of imagination spill into the real world, causing you to become indistinct, hazy, or cloaked in figments. You become [concealed](rules/conditions.md#Concealed) until the start of your next turn. This concealment can't be used to [Hide](rules/actions/hide.md), as normal for concealing effects that leave your location obvious.
+Your flights of imagination spill into the real world, causing you to become indistinct, hazy, or cloaked in figments. You become [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) until the start of your next turn. This concealment can't be used to [Hide](rules/actions/hide.md), as normal for concealing effects that leave your location obvious.

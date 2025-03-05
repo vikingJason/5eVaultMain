@@ -13,7 +13,7 @@ aliases: ["Painful Suggestion Trap"]
 - **Complexity** Simple
 - **Stealth** DC 26 expert  
 
-A [hidden](rules/conditions.md#Hidden) rune on the floor under the filth, just past the threshold, triggers an ersatz ghost.
+A [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) rune on the floor under the filth, just past the threshold, triggers an ersatz ghost.
 
 - **Disable** DC 28 [Thievery](compendium/skills.md#Thievery) (expert) to remove the rune without triggering it, or dispel magic (4th level; counteract DC 26) to dispel the rune.  
 

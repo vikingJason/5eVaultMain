@@ -368,7 +368,7 @@ The following example is presented to give you a better idea of how the game of 
 
 **James:** I have a +5.
 
-_Erik rolls a d20 behind his GM screen, [hidden](rules/conditions.md#Hidden) from the players' view, and gets a 17 on the die for a total of 22, more than enough to find the trip wire on the third step._
+_Erik rolls a d20 behind his GM screen, [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) from the players' view, and gets a 17 on the die for a total of 22, more than enough to find the trip wire on the third step._
 
 **Erik:** Your caution pays off! You spot a thin wire located at ankle height just above the third stair.
 
@@ -434,7 +434,7 @@ _Casting this spell is an activity that requires two actions to complete, and it
 
 _James rolls an 8, for a total of 14._
 
-**Erik:** Not quite enough—you gain the [sickened](rules/conditions.md#Sickened) condition, which is going to give you a –1 penalty to most of your d20 rolls. Next, it lunges at you, trying to bite you!
+**Erik:** Not quite enough—you gain the [sickened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Sickened) condition, which is going to give you a –1 penalty to most of your d20 rolls. Next, it lunges at you, trying to bite you!
 
 **James:** Oh no! I use my reaction to nimbly dodge out of the way.
 
@@ -456,9 +456,9 @@ _James rolls a Fortitude saving throw. He gets a 4 on the die, and after adding 
 
 **James:** This isn't my day. I don't suppose a 9 is good enough?
 
-**Erik:** I am afraid not. You are [paralyzed](rules/conditions.md#Paralyzed)!
+**Erik:** I am afraid not. You are [paralyzed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Paralyzed)!
 
-_Erik notes that Merisiel is [paralyzed](rules/conditions.md#Paralyzed), making her unable to act, but she will get a new saving throw at the end of each of her turns to shake off the effect._
+_Erik notes that Merisiel is [paralyzed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Paralyzed), making her unable to act, but she will get a new saving throw at the end of each of her turns to shake off the effect._
 
 **Erik:** A dry, creaking laugh escapes the ghast's curled lips, but that's the end of its turn. Valeros, you are the last one to act this round.
 

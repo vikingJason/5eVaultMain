@@ -13,7 +13,7 @@ aliases: ["Kharnas's Lesser Glyph"]
 - **Complexity** Simple
 - **Stealth** DC 43  
 
-A [hidden](rules/conditions.md#Hidden) glyph suddenly lights up and dominates the mind of any creature not bearing the sigil of Kharnas the Angel-Binder.
+A [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) glyph suddenly lights up and dominates the mind of any creature not bearing the sigil of Kharnas the Angel-Binder.
 
 - **Disable** DC 46 [Thievery](compendium/skills.md#Thievery) (legendary) to destroy the glyph, DC 42 [Arcana](compendium/skills.md#Arcana) (master) to harmlessly divert the glyph's power, or dispel magic (7th level; counteract DC 38) to counteract the glyph.  
 

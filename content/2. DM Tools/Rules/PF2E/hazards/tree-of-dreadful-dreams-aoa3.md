@@ -50,6 +50,6 @@ title: **Terrifying Visions** A creature that begins its turn [grabbed](rules/co
 ````
 ^routine
 
-**Reset** The trap deactivates and resets if it has no creatures [grabbed](rules/conditions.md#Grabbed) and no creatures in the room to attack. If an uncursed [dreamstone](compendium/equipment/items/dreamstone-aoa3.md) is placed in its trunk, the statue doesn't reactivate.  
+**Reset** The trap deactivates and resets if it has no creatures [grabbed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Grabbed) and no creatures in the room to attack. If an uncursed [dreamstone](compendium/equipment/items/dreamstone-aoa3.md) is placed in its trunk, the statue doesn't reactivate.  
 
 *Source: Age of Ashes #3: Tomorrow Must Burn p. 11*

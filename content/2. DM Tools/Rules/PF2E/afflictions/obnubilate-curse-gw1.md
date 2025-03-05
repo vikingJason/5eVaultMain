@@ -17,7 +17,7 @@ aliases: ["Obnubilate Curse"]
 *Curse 10*  
 [curse](rules/traits/curse.md "Curse Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  
 
-Only elves can be afflicted with this magical curse; other creatures are immune. An elf who touches the Shadewither Key must save against the curse. Victims quickly fall [unconscious](rules/conditions.md#Unconscious); then, over several days, they slowly blacken and shrivel like rotting fruit until they die. The corpse of an elf killed by the obnubilate curse is dry and charcoal-like; it collapses into ash at the slightest touch.
+Only elves can be afflicted with this magical curse; other creatures are immune. An elf who touches the Shadewither Key must save against the curse. Victims quickly fall [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious); then, over several days, they slowly blacken and shrivel like rotting fruit until they die. The corpse of an elf killed by the obnubilate curse is dry and charcoal-like; it collapses into ash at the slightest touch.
 
 ```ad-inline-affliction
 title: Saving Throw: DC 27 Fortitude

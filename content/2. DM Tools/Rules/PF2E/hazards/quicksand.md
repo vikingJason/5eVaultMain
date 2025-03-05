@@ -33,6 +33,6 @@ A creature in the quicksand can attempt a DC 20 [Athletics](compendium/skills.md
 ```
 ^routine
 
-**Reset** The hazard still submerges anyone who walks in, but the surface doesn't become [hidden](rules/conditions.md#Hidden) again until it settles over the course of 24 hours.  
+**Reset** The hazard still submerges anyone who walks in, but the surface doesn't become [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) again until it settles over the course of 24 hours.  
 
 *Source: Core Rulebook p. 526*

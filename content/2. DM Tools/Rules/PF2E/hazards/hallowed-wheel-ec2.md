@@ -16,7 +16,7 @@ aliases: ["Hallowed Wheel"]
 - **Complexity** Complex
 - **Stealth** +19 expert to detect the magical sensor; noticing the wheel has a DC of 0.  
 
-An ornate wheel, divided into eight segments with a rune painted on each, is mounted on a pole and [controlled](rules/conditions.md#Controlled) by a lever that can be triggered manually or a sensor that detects creatures within 30 feet in front of it.
+An ornate wheel, divided into eight segments with a rune painted on each, is mounted on a pole and [controlled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Controlled) by a lever that can be triggered manually or a sensor that detects creatures within 30 feet in front of it.
 
 - **Disable** DC 31 [Thievery](compendium/skills.md#Thievery) (master) on the wheel to flip the switch returning it to a harmless carnival game, DC 26 [Thievery](compendium/skills.md#Thievery) (expert) to erase each rune, or dispel magic (5th level; counteract DC 28) to counteract each rune.  
 

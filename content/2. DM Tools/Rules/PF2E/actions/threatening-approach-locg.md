@@ -12,4 +12,4 @@ aliases: ["Threatening Approach"]
 **Ancestry** Lizardfolk; **Heritage** Lizardfolk|LOCG|Frilled|Frilled|LOCG|
 - **Activity**: Two-Action
 
-You [Stride](rules/actions/stride.md) to be adjacent to a foe and [Demoralize](rules/actions/demoralize.md) that foe. If you succeed, the foe is [frightened](rules/conditions.md#Frightened) instead of [frightened](rules/conditions.md#Frightened).
+You [Stride](rules/actions/stride.md) to be adjacent to a foe and [Demoralize](rules/actions/demoralize.md) that foe. If you succeed, the foe is [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) instead of [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened).

@@ -25,5 +25,5 @@ You attempt to clear the room by promising a grim fate to anyone who doesn't do 
 For example, if you attempt a [Deception](compendium/skills.md#Deception) check, you lie and boast about your prowess or the large group of friends on their way to back you up. If you attempt an [Intimidation](compendium/skills.md#Intimidation) check, you promise everyone in the room that you're going to be the last thing they see.
 
 > [!success-degree] 
-> - **Critical Success** The creature becomes [frightened](rules/conditions.md#Frightened). If it's lower level than you, it's also [fleeing](rules/conditions.md#Fleeing) for 1 round.
-> - **Success** The creature becomes [frightened](rules/conditions.md#Frightened).
+> - **Critical Success** The creature becomes [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened). If it's lower level than you, it's also [fleeing](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fleeing) for 1 round.
+> - **Success** The creature becomes [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened).

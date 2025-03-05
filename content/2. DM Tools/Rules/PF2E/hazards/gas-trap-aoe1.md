@@ -14,7 +14,7 @@ aliases: ["Gas Trap"]
 - **Complexity** Complex
 - **Stealth** +14 trained to smell the poison gas or hear it hissing.  
 
-A spring slams and locks the room's door before four [hidden](rules/conditions.md#Hidden) gas vents begin pumping poison gas into the chamber.
+A spring slams and locks the room's door before four [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) gas vents begin pumping poison gas into the chamber.
 
 - **Disable** Four DC 20 [Thievery](compendium/skills.md#Thievery) checks to block the gas vents, or a DC 26 [Thievery](compendium/skills.md#Thievery) check to unlock the door and escape Door Hardness 13, Door HP 52 (BT 26); Immunities critical hits, object immunities, precision damage.  
 

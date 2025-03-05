@@ -8,4 +8,4 @@ aliases: ["Knockdown"]
 - **Activate**: Single Action
 - **Requirements**: The monster's last action was a success with a Strike that lists Knockdown in its damage entry.
 
-**Effect** The monster knocks the target [prone](rules/conditions.md#Prone).
+**Effect** The monster knocks the target [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone).

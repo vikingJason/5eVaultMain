@@ -15,7 +15,7 @@ aliases: ["Spectral Archers"]
 
 Ghostly soldiers wielding crossbows manifest within the towers that flank the gatehouse and rain bolts down upon intruders.
 
-- **Disable** DC 31 [Intimidation](compendium/skills.md#Intimidation) (expert) to cow the archers into [fleeing](rules/conditions.md#Fleeing) or DC 28 [Religion](compendium/skills.md#Religion) (expert) to temporarily banish the spirits  
+- **Disable** DC 31 [Intimidation](compendium/skills.md#Intimidation) (expert) to cow the archers into [fleeing](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fleeing) or DC 28 [Religion](compendium/skills.md#Religion) (expert) to temporarily banish the spirits  
 
 ```ad-embed-ability
 title: **Rain of Bolts** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")

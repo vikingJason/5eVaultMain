@@ -13,7 +13,7 @@ aliases: ["Spear Launcher"]
 - **Complexity** Simple
 - **Stealth** DC 20 trained  
 
-An old heavy crossbow is [hidden](rules/conditions.md#Hidden) in a pile of trash, loaded with a wooden spear, and connected to the rope holding the door.
+An old heavy crossbow is [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) in a pile of trash, loaded with a wooden spear, and connected to the rope holding the door.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 18 (trained) on the rope allows a PC to tie the rope off and open the door without setting off the trap.  
 

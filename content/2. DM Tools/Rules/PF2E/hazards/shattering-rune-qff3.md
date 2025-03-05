@@ -15,7 +15,7 @@ aliases: ["Shattering Rune"]
 - **Complexity** Simple
 - **Stealth** DC 33 master  
 
-A magical rune is inscribed on the tarry earth at the entrance to the hut, buried beneath snow, with an [invisible](rules/conditions.md#Invisible) sensor that detects creatures within a 10-foot-radius sphere.
+A magical rune is inscribed on the tarry earth at the entrance to the hut, buried beneath snow, with an [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) sensor that detects creatures within a 10-foot-radius sphere.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 30 (master) to erase the rune without triggering the sensor or dispel magic (5th level; counteract DC 28) to dispel the rune  
 

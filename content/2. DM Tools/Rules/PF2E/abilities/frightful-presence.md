@@ -16,6 +16,6 @@ A creature that first enters the area must attempt a Will save. Regardless of th
 
 > [!success-degree] 
 > - **Critical Success** The creature is unaffected by the presence.
-> - **Success** The creature is [frightened](rules/conditions.md#Frightened).
-> - **Failure** The creature is [frightened](rules/conditions.md#Frightened).
-> - **Critical Failure** The creature is [frightened](rules/conditions.md#Frightened).
+> - **Success** The creature is [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened).
+> - **Failure** The creature is [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened).
+> - **Critical Failure** The creature is [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened).

@@ -21,13 +21,6 @@ A character can go without food for a number of days equal to 3 + their [[Consti
 
 A normal day of eating resets the count of days without food to zero.
 
-### Foraging DC
-
-| Food/Water availability | DC  |
-| ----------------------- | --- |
-| Abundant                | 10  |
-| Limited                 | 15  |
-| Vary little             | 20  |
 
 ## Water
 

@@ -8,4 +8,4 @@ aliases: ["Aquatic Ambush"]
 - **Activate**: Single Action
 - **Requirements**: The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.
 
-**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a [Strike](rules/actions/strike.md) against it. The creature is [flat-footed](rules/conditions.md#Flat-footed) against this [Strike](rules/actions/strike.md).
+**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a [Strike](rules/actions/strike.md) against it. The creature is [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) against this [Strike](rules/actions/strike.md).

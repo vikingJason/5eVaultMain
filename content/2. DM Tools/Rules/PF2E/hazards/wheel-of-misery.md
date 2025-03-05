@@ -15,7 +15,7 @@ aliases: ["Wheel Of Misery"]
 - **Complexity** Complex
 - **Stealth** +16 expert to detect the magical sensor; noticing the wheel has a DC of 0.  
 
-An ornate wheel set into a wall—divided into six segments with colored runes on each—is [controlled](rules/conditions.md#Controlled) by a magical sensor that detects any creature within 100 feet in front of it.
+An ornate wheel set into a wall—divided into six segments with colored runes on each—is [controlled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Controlled) by a magical sensor that detects any creature within 100 feet in front of it.
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 26 (expert) on the wheel to stop it from spinning, [Thievery](compendium/skills.md#Thievery) DC 22 (master) to erase each rune, or dispel magic (4th level; counteract DC 22) to counteract each rune.  
 

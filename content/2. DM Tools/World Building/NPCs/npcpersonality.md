@@ -8,7 +8,7 @@ tags:
 - tool/tables
 - character/npc
 ---
-A `dice:[[20220424160705#^26fb6c]]|Modifier`  `dice:[[20220424160705#^26fb6c]]|Noun` with `dice:[[20220424160705#^26fb6c]]|Motivation Verb` `dice:[[20220424160705#^26fb6c]]|Motivation Noun` and `dice:[[20220424160705#^26fb6c]]|Motivation Verb` `dice:[[20220424160705#^26fb6c]]|Motivation Noun`  as their motivation.
+A `dice:[[npcpersonality#^26fb6c]]|Modifier`  `dice:[[npcpersonality#^26fb6c]]|Noun` with `dice:[[npcpersonality#^26fb6c]]|Motivation Verb` `dice:[[npcpersonality#^26fb6c]]|Motivation Noun` and `dice:[[npcpersonality#^26fb6c]]|Motivation Verb` `dice:[[npcpersonality#^26fb6c]]|Motivation Noun`  as their motivation.
 
 Table 1: NPC  
 

@@ -18,7 +18,7 @@ You Stride, then make a vertical [Leap](rules/actions/leap.md) and attempt a DC 
 > - **Critical Success** Increase the maximum vertical distance to 8 feet, or increase the maximum vertical distance to 5 feet and maximum horizontal distance to 10 feet.
 > - **Success** Increase the maximum vertical distance to 5 feet.
 > - **Failure** You [Leap](rules/actions/leap.md) normally.
-> - **Critical Failure** You don't [Leap](rules/actions/leap.md) at all, and instead you fall [prone](rules/conditions.md#Prone) in your space.
+> - **Critical Failure** You don't [Leap](rules/actions/leap.md) at all, and instead you fall [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone) in your space.
 
 > [!pf2-example] Leap
 > 

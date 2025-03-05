@@ -15,7 +15,7 @@ aliases: ["Broken Rebus Attack"]
 - **Complexity** Complex
 - **Stealth** +20 trained  
 
-Ghostly attackers knock the tables about, send dishes flying, and pull [fleeing](rules/conditions.md#Fleeing) creatures into the room.
+Ghostly attackers knock the tables about, send dishes flying, and pull [fleeing](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fleeing) creatures into the room.
 
 - **Disable** DC 34 [Religion](compendium/skills.md#Religion) (expert) to say an Iroran prayer and put the haunt temporarily to rest, DC 38 [Occultism](compendium/skills.md#Occultism) (master) to create a ward against future hauntings.  
 

@@ -14,7 +14,7 @@ aliases: ["Flying Guillotine"]
 - **Complexity** Complex
 - **Stealth** +10 trained or DC 23 (expert) to spot the glyph  
 
-An [invisible](rules/conditions.md#Invisible) magical glyph on the guillotine's blade detects living creatures in the room, which causes the guillotine to fly off its hinges and attack.
+An [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) magical glyph on the guillotine's blade detects living creatures in the room, which causes the guillotine to fly off its hinges and attack.
 
 - **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to erase the glyph (which requires a successful unarmed attack roll if the blade is already active) or [dispel magic](compendium/spells/dispel-magic.md) (3rd level; counteract DC 20) to counteract it. The trap has a secret bypass known only to Ralso and Pratchett: as long as the guillotine can see a creature in the room touching thumb and pinky together with an empty hand, it remains dormant.  
 

@@ -11,7 +11,7 @@ aliases: ["Hidden Pit"]
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 18 (or 0 if the trapdoor is disabled or [broken](rules/conditions.md#Broken))  
+- **Stealth** DC 18 (or 0 if the trapdoor is disabled or [broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken))  
 
 A wooden trapdoor covers a pit that's 10 feet square and 20 feet deep.
 
@@ -29,6 +29,6 @@ title: **Pitfall** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions
 **Effect** The triggering creature falls in and takes falling damage (typically 10 bludgeoning damage). That creature can use the [Grab an Edge](rules/actions/grab-an-edge.md) reaction to avoid falling.
 ```
 
-**Reset** Creatures can still fall into the trap, but the trapdoor must be reset manually for the trap to become [hidden](rules/conditions.md#Hidden) again.  
+**Reset** Creatures can still fall into the trap, but the trapdoor must be reset manually for the trap to become [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) again.  
 
 *Source: Core Rulebook p. 522*

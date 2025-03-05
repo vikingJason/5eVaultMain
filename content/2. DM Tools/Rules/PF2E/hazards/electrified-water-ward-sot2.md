@@ -14,7 +14,7 @@ aliases: ["Electrified Water Ward"]
 - **Complexity** Complex
 - **Stealth** +18 expert  
 
-Passing over an [invisible](rules/conditions.md#Invisible) rune on the floor between the north and south doors triggers a dancing burst of electricity.
+Passing over an [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) rune on the floor between the north and south doors triggers a dancing burst of electricity.
 
 - **Disable** DC 26 [Thievery](compendium/skills.md#Thievery) (expert), DC 28 [Arcana](compendium/skills.md#Arcana) (expert),  
 

@@ -21,4 +21,4 @@ You attempt to steal a section of Kothogaz's heart. Attempt an attack roll or a 
 > - **Critical Success** You steal a small disharmonic heartsliver, stow it on your person, and can exit Kothogaz's body.
 > - **Success** As critical success, but you can't exit.
 > - **Failure** You take Kothogaz's [Swallow Whole](rules/abilities/swallow-whole.md) damage.
-> - **Critical Failure** You take double Kothogaz's Swallow Whole damage and are [deafened](rules/conditions.md#Deafened) by its heartbeat for 1 minute.
+> - **Critical Failure** You take double Kothogaz's Swallow Whole damage and are [deafened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Deafened) by its heartbeat for 1 minute.

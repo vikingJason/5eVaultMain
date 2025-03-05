@@ -21,7 +21,7 @@ tags: Exploration
 | [[Refocus]] | _concentrate_ | You spend 10 minutes performing deeds to restore your magical connection. |
 | [[Repeat a Spell]] | _concentrate_ | You repeatedly cast the same spell while moving at half speed. |
 | [[2-Mechanics/PF2e Journals/Archetypes/Scout]] | _concentrate_ | You scout ahead and behind the group to watch danger, moving at half speed. |
-| [[Search]] | _concentrate_ | You Seek meticulously for hidden doors, concealed hazards, and so on. |
+| [[content/2. DM Tools/Rules/PF2E/actions/search]] | _concentrate_ | You Seek meticulously for hidden doors, concealed hazards, and so on. |
 
 **TABLE: SKILL EXPLORATION ACTIVITIES**
 

@@ -25,7 +25,7 @@ title: Saving Throw: DC 28 Will
 
 ## Tempting Curse
 
-When you activate the tempted curse, you must spend 2 actions to attempt to speak the triggering knowledge. This allows you to redirect the curse's energy and cast [silence](compendium/spells/silence.md) heightened to 4th level, centered on yourself. You are still unable to speak the knowledge clearly, but you can convey a single word to an adjacent creature. You gain the [stupefied](rules/conditions.md#Stupefied) condition for the remainder of the day. This condition can't be reduced until the next time you perform your daily preparations, at which point it ends.
+When you activate the tempted curse, you must spend 2 actions to attempt to speak the triggering knowledge. This allows you to redirect the curse's energy and cast [silence](compendium/spells/silence.md) heightened to 4th level, centered on yourself. You are still unable to speak the knowledge clearly, but you can convey a single word to an adjacent creature. You gain the [stupefied](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stupefied) condition for the remainder of the day. This condition can't be reduced until the next time you perform your daily preparations, at which point it ends.
 
 ## Summary
 

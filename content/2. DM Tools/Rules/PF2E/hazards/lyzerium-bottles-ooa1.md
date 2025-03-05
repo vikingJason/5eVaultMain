@@ -15,7 +15,7 @@ aliases: ["Lyzerium Bottles"]
 
 Five tiny glass bottles, each full of volatile green liquid, are discretely positioned around the room.
 
-Each bottle explodes when its glass is [broken](rules/conditions.md#Broken).
+Each bottle explodes when its glass is [broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken).
 
 - **Disable** [Interact](rules/actions/interact.md) action to pick up one of the five bottles (see Lyzerium sidebar on page 63)  
 

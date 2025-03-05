@@ -1,0 +1,30 @@
+---
+created: 2025-02-22T08:36:07 (UTC +11:00)
+tags: []
+source: https://www.d20pfsrd.com/equipmenT/goods-and-services/herbs-oils-other-substances/
+author: 
+---
+# Alchemical Reagents
+
+| Name              | Price | Description                                                                                | Doses      | Spells                                      | Effects                                                                   |
+| ----------------- | ----- | ------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------- | ------------------------------------------------------------------------- |
+| Brain Mold Spores | 5 gp  | Versatile reagent used in creating deliriums, hallucinogens, and psychotics.               | 1 (5 gp)   | Charm or compulsion subschool               | Spells cast at +1 caster level for duration.                              |
+| Brimstone/Sulfur  | 5 sp  | Distinctive odor and caustic properties.                                                   | 2 (1 gp)   | Acid descriptor                             | Spells deal +1 acid damage.                                               |
+| Cold Iron         | 1 gp  | Used to produce alloyed metals, catalysts, and items that interfere with magic.            | 5 (5 gp)   | Abjuration school                           | Spells cast at +1 caster level for caster level and dispel checks.        |
+| Darkwood          | 2 gp  | Useful in alchemical applications requiring a light but strong foundation.                 | 5 (10 gp)  | Creation subschool                          | Spells cast at +1 caster level for all effects.                           |
+| Ginger Extract    | 5 sp  | Used in herbal remedies for nausea and pain.                                               | 10 (5 gp)  | Transmutation school                        | Spells cast at +1 caster level for overcoming spell resistance.           |
+| Gold              | 5 gp  | Useful in stains and treating swelling, pain, and infections.                              | 1 (5 gp)   | Healing subschool                           | Spells heal +1 hit point if they heal hit points.                         |
+| Keif              | 15 gp | Sublimated to create new forms of drugs.                                                   | 1 (15 gp)  | Enchantment school                          | Spells cast at +1 caster level for determining duration.                  |
+| Magnesium         | 1 gp  | Burns brightly when exposed to air; important for all living things.                       | 2 (2 gp)   | Transmutation school                        | Spells cast at +1 caster level for determining duration.                  |
+| Moondew           | 4 gp  | Derived from a potent herb; used in medicinal, protective, and divinatory items.           | 5 (20 gp)  | Divination school                           | Spells cast at +1 caster level for all effects.                           |
+| Mugwort Extract   | 2 gp  | Used in herbal remedies for fatigue, cold, or supernatural dangers.                        | 2 (4 gp)   | Abjuration school                           | Spells cast at +1 caster level for determining range.                     |
+| Myrrh             | 5 sp  | Aromatic gum used as a base for alchemical remedies and bonding agent.                     | 4 (2 gp)   | Abjuration school                           | Spells cast at +1 caster level for caster level checks and dispel checks. |
+| Phosphorus        | 2 sp  | Highly reactive mineral used in fertilizers, poisons, soaps, and tindertwigs.              | 10 (2 gp)  | Light descriptor or teleportation subschool | Spells cast at +1 caster level for determining range.                     |
+| Powder, Black     | 10 gp | Volatile explosive used in fireworks and explosives.                                       | 1 (10 gp)  | Evocation school                            | Spells deal +1 energy damage.                                             |
+| Quicksilver       | 1 gp  | Liquid metal with dangerous mental effects; distilled from crystalline amalgams.           | 3 (3 gp)   | Mind-affecting descriptor                   | Spells cast at +1 caster level for determining duration.                  |
+| Realgar           | 3 gp  | Red crystal used in poisons and medicines; purified into arsenic.                          | 1 (3 gp)   | Poison descriptor                           | DC to identify or neutralize spells with the poison descriptor +2.        |
+| Salt              | 5 sp  | Vital mineral used as a desiccant and catalyst.                                            | 20 (10 gp) | Necromancy school                           | Spells cast at +1 caster level for effects.                               |
+| Saltpeter         | 3 gp  | Used in fertilizers, propellants, fireworks, and preservatives.                            | 1 (1 gp)   | Fire descriptor                             | Spells deal +1 fire damage.                                               |
+| Silver            | 1 gp  | Lustrous precious metal used in mirrors, disinfectants, and illusion-creating magic items. | 10         | Illusion school                             | DC of Will saves to disbelieve illusion spells +1.                        |
+| Spirit of Wine    | 5 sp  | Purified alcohol used as a fuel or solvent in alchemical items.                            | 6 (3 gp)   | Calling and summoning subschools            | Spells cast at +1 caster level for determining duration of effects.       |
+| Urea              | 5 sp  | Versatile reagent used in salves and as a stabilizer for volatile alchemical reactions.    | 4 (2 gp)   | Cold descriptor                             | Spells cast at +1 caster level for all effects.                           |

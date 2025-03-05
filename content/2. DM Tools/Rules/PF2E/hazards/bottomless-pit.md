@@ -12,7 +12,7 @@ aliases: ["Bottomless Pit"]
 [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  
 
 - **Complexity** Simple
-- **Stealth** DC 30 (or 0 if the trapdoor is disabled or [broken](rules/conditions.md#Broken)) or [detect magic](compendium/spells/detect-magic.md).  
+- **Stealth** DC 30 (or 0 if the trapdoor is disabled or [broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken)) or [detect magic](compendium/spells/detect-magic.md).  
 
 An iron trapdoor covers an infinitely deep 10-foot-square pit.
 
@@ -29,6 +29,6 @@ title: **Infinite Pitfall** [R](rules/core-rulebook/chapter-9-playing-the-game.m
 **Effect** The triggering creature falls in and continues to fall, potentially forever. That creature can try to [Grab an Edge](rules/actions/grab-an-edge.md) to avoid falling. The DC to [Climb](rules/actions/climb.md) the walls or [Grab an Edge](rules/actions/grab-an-edge.md) is 26. The pit contains many handholds, so the falling creature can try to [Grab an Edge](rules/actions/grab-an-edge.md) again every 6 seconds. If the creature succeeds, it can start to [Climb](rules/actions/climb.md) out from that point (though it might be a very long climb, depending on how far the creature fell). Since the creature falls endlessly, it can rest and even prepare spells while falling, though items dropped while falling are usually lost forever.
 ```
 
-**Reset** The trap still causes creatures to fall forever if they fall in, but the trapdoor must be reset manually for the trap to become [hidden](rules/conditions.md#Hidden) again.  
+**Reset** The trap still causes creatures to fall forever if they fall in, but the trapdoor must be reset manually for the trap to become [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) again.  
 
 *Source: Core Rulebook p. 524*

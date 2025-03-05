@@ -15,7 +15,7 @@ aliases: ["Hidden Chute"]
 
 A trapdoor in the floor conceals a stone chute.
 
-- **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to remove the trapdoor or lock it in position using a catch [hidden](rules/conditions.md#Hidden) inside the room's doorframe.  
+- **Disable** DC 20 [Thievery](compendium/skills.md#Thievery) (trained) to remove the trapdoor or lock it in position using a catch [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) inside the room's doorframe.  
 
 - **AC** 12, **Fort** +10, **Ref** +6
 - **Trapdoor Hardness** 5, **Trapdoor HP** 30 (BT 15)

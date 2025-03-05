@@ -13,7 +13,7 @@ aliases: ["Seismic Spears Trap"]
 - **Complexity** Simple
 - **Stealth** DC 43 master  
 
-Lines of searing lava lance through the area, causing targets to shake as if caught in an earthquake and potentially become [petrified](rules/conditions.md#Petrified).
+Lines of searing lava lance through the area, causing targets to shake as if caught in an earthquake and potentially become [petrified](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Petrified).
 
 - **Disable** [Thievery](compendium/skills.md#Thievery) DC 43 (master) to disable the wards or [dispel magic](compendium/spells/dispel-magic.md) (9th level; counteract DC 38) to counteract the ward.  
 

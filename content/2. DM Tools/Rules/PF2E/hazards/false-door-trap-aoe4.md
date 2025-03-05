@@ -14,7 +14,7 @@ aliases: ["False Door Trap"]
 - **Complexity** Simple
 - **Stealth** DC 37 expert  
 
-A [hidden](rules/conditions.md#Hidden) needle delivers a magical poison to anyone trying to open the door.
+A [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) needle delivers a magical poison to anyone trying to open the door.
 
 - **Disable** DC 32 [Thievery](compendium/skills.md#Thievery) (master) to jam the needle in its housing or dispel magic (6th level, counteract DC 30) to dispel the magical poison.  
 

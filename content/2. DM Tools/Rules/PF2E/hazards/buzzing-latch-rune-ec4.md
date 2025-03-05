@@ -15,7 +15,7 @@ aliases: ["Buzzing Latch Rune"]
 - **Complexity** Simple
 - **Stealth** DC 32 master  
 
-An [invisible](rules/conditions.md#Invisible) rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder.
+An [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) rune on the door begins emitting a very loud buzzing sound, potentially paralyzing an intruder.
 
 - **Disable** DC 34 [Thievery](compendium/skills.md#Thievery) (master) to disrupt the rune without triggering it or dispel magic (6th level; counteract DC 31) to magically counteract the rune.  
 

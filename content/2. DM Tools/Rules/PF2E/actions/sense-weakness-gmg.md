@@ -13,4 +13,4 @@ aliases: ["Sense Weakness"]
 - **Requirements**: You're in a duel, you're trained in [Perception](compendium/skills.md#Perception), and you rolled a [Perception](compendium/skills.md#Perception) check for initiative this round.
 - **Activity**: Reaction
 
-You pick a precise moment to attack, giving you an edge. Your opponent is [flat-footed](rules/conditions.md#Flat-footed) against the attack. If your opponent is using [Deception](compendium/skills.md#Deception) for initiative when this ability is used, they are instead [flat-footed](rules/conditions.md#Flat-footed) until the start of their next turn.
+You pick a precise moment to attack, giving you an edge. Your opponent is [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) against the attack. If your opponent is using [Deception](compendium/skills.md#Deception) for initiative when this ability is used, they are instead [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) until the start of their next turn.

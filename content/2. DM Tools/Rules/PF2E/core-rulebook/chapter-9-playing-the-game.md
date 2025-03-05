@@ -430,7 +430,7 @@ See the Conditions Appendix on pages 618–623 for the complete rules regarding 
 #### Doubling and Halving Damage
 <sup>CRB p. 451</sup>
 
-Sometimes you'll need to halve or double an amount of damage, such as when the outcome of your Strike is a critical hit, or when you succeed at a basic Reflex save against a spell. When this happens, you roll the damage normally, adding all the normal modifiers, bonuses, and penalties. Then you double or halve the amount as appropriate (rounding down if you halved it). The GM might allow you to roll the dice twice and double the modifiers, bonuses, and penalties instead of doubling the entire result, but this usually works best for singletarget attacks or spells at low levels when you have a small number of damage dice to roll. Benefits you gain specifically from a critical hit, like the [flaming](compendium/equipment/items/flaming.md) weapon rune's [persistent fire damage](rules/conditions.md#Persistent%20Damage) or the extra damage die from the fatal weapon trait, aren't doubled.
+Sometimes you'll need to halve or double an amount of damage, such as when the outcome of your Strike is a critical hit, or when you succeed at a basic Reflex save against a spell. When this happens, you roll the damage normally, adding all the normal modifiers, bonuses, and penalties. Then you double or halve the amount as appropriate (rounding down if you halved it). The GM might allow you to roll the dice twice and double the modifiers, bonuses, and penalties instead of doubling the entire result, but this usually works best for singletarget attacks or spells at low levels when you have a small number of damage dice to roll. Benefits you gain specifically from a critical hit, like the [flaming](compendium/equipment/items/flaming.md) weapon rune's [persistent fire damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) or the extra damage die from the fatal weapon trait, aren't doubled.
 
 ### Step 2: Determine The Damage Type
 <sup>CRB p. 451</sup>
@@ -556,89 +556,89 @@ Conditions are persistent; when you're affected by a condition, its effects last
 > 
 > These conditions appear often in the game and are defined in detail in the Conditions Appendix on pages 618–623. Here's a brief summary of each.
 > 
-> **[Blinded](rules/conditions.md#Blinded):** You're unable to see.
+> **[Blinded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Blinded):** You're unable to see.
 > 
-> **[Broken](rules/conditions.md#Broken):** This item can't be used for its normal function until repaired.
+> **[Broken](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Broken):** This item can't be used for its normal function until repaired.
 > 
-> **[Clumsy](rules/conditions.md#Clumsy):** You can't move as easily or gracefully as usual.
+> **[Clumsy](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Clumsy):** You can't move as easily or gracefully as usual.
 > 
-> **[Concealed](rules/conditions.md#Concealed):** Fog or similar obscuration makes you difficult to see and target.
+> **[Concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed):** Fog or similar obscuration makes you difficult to see and target.
 > 
-> **[Confused](rules/conditions.md#Confused):** You attack indiscriminately.
+> **[Confused](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Confused):** You attack indiscriminately.
 > 
-> **[Controlled](rules/conditions.md#Controlled):** Another creature determines your actions.
+> **[Controlled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Controlled):** Another creature determines your actions.
 > 
-> **[Dazzled](rules/conditions.md#Dazzled):** Everything is [concealed](rules/conditions.md#Concealed) to you.
+> **[Dazzled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dazzled):** Everything is [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) to you.
 > 
-> **[Deafened](rules/conditions.md#Deafened):** You're unable to hear.
+> **[Deafened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Deafened):** You're unable to hear.
 > 
-> **[Doomed](rules/conditions.md#Doomed):** With your soul in peril, you are now closer to death.
+> **[Doomed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Doomed):** With your soul in peril, you are now closer to death.
 > 
-> **[Drained](rules/conditions.md#Drained):** Blood loss or something similar has leached your vitality.
+> **[Drained](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Drained):** Blood loss or something similar has leached your vitality.
 > 
-> **[Dying](rules/conditions.md#Dying):** You're slipping closer to death.
+> **[Dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying):** You're slipping closer to death.
 > 
-> **[Encumbered](rules/conditions.md#Encumbered):** You're carrying more weight than you can manage.
+> **[Encumbered](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Encumbered):** You're carrying more weight than you can manage.
 > 
-> **[Enfeebled](rules/conditions.md#Enfeebled):** Your strength has been sapped away.
+> **[Enfeebled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Enfeebled):** Your strength has been sapped away.
 > 
-> **[Fascinated](rules/conditions.md#Fascinated):** You are compelled to focus your attention on something.
+> **[Fascinated](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fascinated):** You are compelled to focus your attention on something.
 > 
-> **[Fatigued](rules/conditions.md#Fatigued):** Your defenses are lower and you can't focus while exploring.
+> **[Fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued):** Your defenses are lower and you can't focus while exploring.
 > 
-> **[Flat-Footed](rules/conditions.md#Flat-footed):** You're unable to defend yourself to your full capability.
+> **[Flat-Footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed):** You're unable to defend yourself to your full capability.
 > 
-> **[Fleeing](rules/conditions.md#Fleeing):** You must run away.
+> **[Fleeing](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fleeing):** You must run away.
 > 
-> **[Friendly](rules/conditions.md#Friendly):** An NPC with this condition has a good attitude toward you.
+> **[Friendly](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Friendly):** An NPC with this condition has a good attitude toward you.
 > 
-> **[Frightened](rules/conditions.md#Frightened):** Fear makes you less capable of attacking and defending.
+> **[Frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened):** Fear makes you less capable of attacking and defending.
 > 
-> **[Grabbed](rules/conditions.md#Grabbed):** A creature, object, or magic holds you in place.
+> **[Grabbed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Grabbed):** A creature, object, or magic holds you in place.
 > 
-> **[Helpful](rules/conditions.md#Helpful):** An NPC with this condition wants to assist you.
+> **[Helpful](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Helpful):** An NPC with this condition wants to assist you.
 > 
-> **[Hidden](rules/conditions.md#Hidden):** A creature you're [hidden](rules/conditions.md#Hidden) from knows your location but can't see you.
+> **[Hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden):** A creature you're [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) from knows your location but can't see you.
 > 
-> **[Hostile](rules/conditions.md#Hostile):** An NPC with this condition wants to harm you.
+> **[Hostile](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hostile):** An NPC with this condition wants to harm you.
 > 
-> **[Immobilized](rules/conditions.md#Immobilized):** You can't move.
+> **[Immobilized](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Immobilized):** You can't move.
 > 
-> **[Indifferent](rules/conditions.md#Indifferent):** An NPC with this condition doesn't have a strong opinion about you.
+> **[Indifferent](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Indifferent):** An NPC with this condition doesn't have a strong opinion about you.
 > 
-> **[Invisible](rules/conditions.md#Invisible):** Creatures can't see you.
+> **[Invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible):** Creatures can't see you.
 > 
-> **[Observed](rules/conditions.md#Observed):** You're in plain view.
+> **[Observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed):** You're in plain view.
 > 
-> **[Paralyzed](rules/conditions.md#Paralyzed):** You body is frozen in place.
+> **[Paralyzed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Paralyzed):** You body is frozen in place.
 > 
-> **[Persistent Damage](rules/conditions.md#Persistent%20Damage):** You keep taking damage every round.
+> **[Persistent Damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage):** You keep taking damage every round.
 > 
-> **[Petrified](rules/conditions.md#Petrified):** You've been turned to stone.
+> **[Petrified](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Petrified):** You've been turned to stone.
 > 
-> **[Prone](rules/conditions.md#Prone):** You're lying on the ground and easier to attack.
+> **[Prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone):** You're lying on the ground and easier to attack.
 > 
-> **[Quickened](rules/conditions.md#Quickened):** You get an extra action each turn.
+> **[Quickened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Quickened):** You get an extra action each turn.
 > 
-> **[Restrained](rules/conditions.md#Restrained):** You're tied up and can't move, or a grappling creature has you pinned.
+> **[Restrained](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Restrained):** You're tied up and can't move, or a grappling creature has you pinned.
 > 
-> **[Sickened](rules/conditions.md#Sickened):** You're sick to your stomach.
+> **[Sickened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Sickened):** You're sick to your stomach.
 > 
-> **[Slowed](rules/conditions.md#Slowed):** You lose actions each turn.
+> **[Slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed):** You lose actions each turn.
 > 
-> **[Stunned](rules/conditions.md#Stunned):** You can't use actions.
+> **[Stunned](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stunned):** You can't use actions.
 > 
-> **[Stupefied](rules/conditions.md#Stupefied):** Your can't access your full mental faculties, and you have trouble casting spells.
+> **[Stupefied](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stupefied):** Your can't access your full mental faculties, and you have trouble casting spells.
 > 
-> **[Unconscious](rules/conditions.md#Unconscious):** You're asleep or knocked out.
+> **[Unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious):** You're asleep or knocked out.
 > 
-> **[Undetected](rules/conditions.md#Undetected):** A creature you're [undetected](rules/conditions.md#Undetected) by doesn't know where you are.
+> **[Undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected):** A creature you're [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) by doesn't know where you are.
 > 
-> **[Unfriendly](rules/conditions.md#Unfriendly):** An NPC with this condition doesn't like you.
+> **[Unfriendly](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unfriendly):** An NPC with this condition doesn't like you.
 > 
-> **[Unnoticed](rules/conditions.md#Unnoticed):** A creature is entirely unaware you're present.
+> **[Unnoticed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unnoticed):** A creature is entirely unaware you're present.
 > 
-> **[Wounded](rules/conditions.md#Wounded):** You've been brought back from the brink of death but haven't fully recovered.
+> **[Wounded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Wounded):** You've been brought back from the brink of death but haven't fully recovered.
 
 ## Effects
 <sup>CRB p. 453</sup>
@@ -821,7 +821,7 @@ Player characters, their companions, and other significant characters and creatu
 As a player character, when you are reduced to 0 Hit Points, you're knocked out with the following effects:
 
 - You immediately move your initiative position to directly before the turn in which you were reduced to 0 HP.
-- You gain the [dying](rules/conditions.md#Dying) condition. If the effect that knocked you out was a critical success from the attacker or the result of your critical failure, you gain the [dying](rules/conditions.md#Dying) condition instead. If you have the [wounded](rules/conditions.md#Wounded) condition (page 460), increase your [dying](rules/conditions.md#Dying) value by an amount equal to your [wounded](rules/conditions.md#Wounded) value. If the damage was dealt by a nonlethal attack or nonlethal effect, you don't gain the dying condition; you are instead unconscious with 0 Hit Points.
+- You gain the [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition. If the effect that knocked you out was a critical success from the attacker or the result of your critical failure, you gain the [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition instead. If you have the [wounded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Wounded) condition (page 460), increase your [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) value by an amount equal to your [wounded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Wounded) value. If the damage was dealt by a nonlethal attack or nonlethal effect, you don't gain the dying condition; you are instead unconscious with 0 Hit Points.
 
 #### Taking Damage while Dying
 <sup>CRB p. 459</sup>
@@ -834,43 +834,43 @@ If you take damage while you already have the dying condition, increase your dyi
 When you're dying, at the start of each of your turns, you must attempt a flat check with a DC equal to 10 + your current dying value to see if you get better or worse. This is called a recovery check. The effects of this check are as follows.
 
 > [!success-degree] 
-> - **Critical Success** Your [dying](rules/conditions.md#Dying) value is reduced by 2.
-> - **Success** Your [dying](rules/conditions.md#Dying) value is reduced by 1.
-> - **Failure** Your [dying](rules/conditions.md#Dying) value increases by 1.
-> - **Critical Failure** Your [dying](rules/conditions.md#Dying) value increases by 2.
+> - **Critical Success** Your [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) value is reduced by 2.
+> - **Success** Your [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) value is reduced by 1.
+> - **Failure** Your [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) value increases by 1.
+> - **Critical Failure** Your [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) value increases by 2.
 
 ### Conditions Related to Death and Dying
 <sup>CRB p. 459</sup>
 
 To understand the rules for getting knocked out and how dying works in the game, you'll need some more information on the conditions used in those rules.
 
-Presented below are the rules for the [dying](rules/conditions.md#Dying), [unconscious](rules/conditions.md#Unconscious), wounded, and doomed conditions.
+Presented below are the rules for the [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying), [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious), wounded, and doomed conditions.
 
 #### Dying
 <sup>CRB p. 459</sup>
 
 You are bleeding out or otherwise at death's door. While you have this condition, you are unconscious. Dying always includes a value. If this value ever reaches dying 4, you die. If you're dying, you must attempt a recovery check at the start of your turn each round to determine whether you get better or worse.
 
-If you lose the [dying](rules/conditions.md#Dying) condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described on page 460. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Anytime you lose the dying condition, you gain the wounded 1 condition, or increase your wounded value by 1 if you already have that condition.
+If you lose the [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition by succeeding at a recovery check and are still at 0 Hit Points, you remain unconscious, but you can wake up as described on page 460. You lose the dying condition automatically and wake up if you ever have 1 Hit Point or more. Anytime you lose the dying condition, you gain the wounded 1 condition, or increase your wounded value by 1 if you already have that condition.
 
 #### Unconscious
 <sup>CRB p. 459</sup>
 
 You're sleeping, or you've been knocked out. You can't act.
 
-You take a –4 status penalty to AC, Perception, and Reflex saves, and you have the blinded and [flat-footed](rules/conditions.md#Flat-footed) conditions.
+You take a –4 status penalty to AC, Perception, and Reflex saves, and you have the blinded and [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) conditions.
 
-When you gain this condition, you fall [prone](rules/conditions.md#Prone) and drop items you are wielding or holding unless the effect states otherwise or the GM determines you're in a position in which you wouldn't.
+When you gain this condition, you fall [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone) and drop items you are wielding or holding unless the effect states otherwise or the GM determines you're in a position in which you wouldn't.
 
-**If you're [unconscious](rules/conditions.md#Unconscious) because you're [dying](rules/conditions.md#Dying)**, you can't wake up as long as you have 0 Hit Points. If you're restored to 1 Hit Point or more via healing, you lose the dying and unconscious conditions and can act normally on your next turn.
+**If you're [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious) because you're [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying)**, you can't wake up as long as you have 0 Hit Points. If you're restored to 1 Hit Point or more via healing, you lose the dying and unconscious conditions and can act normally on your next turn.
 
-If you are [unconscious](rules/conditions.md#Unconscious) and at 0 Hit Points, but not **dying**, you naturally return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you receive healing during this time, you lose the unconscious condition and can act normally on your next turn.
+If you are [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious) and at 0 Hit Points, but not **dying**, you naturally return to 1 Hit Point and awaken after sufficient time passes. The GM determines how long you remain unconscious, from a minimum of 10 minutes to several hours. If you receive healing during this time, you lose the unconscious condition and can act normally on your next turn.
 
-If you're [unconscious](rules/conditions.md#Unconscious) and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways.
+If you're [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious) and have more than 1 Hit Point (typically because you are asleep or unconscious due to an effect), you wake up in one of the following ways.
 
-Each causes you to lose the [unconscious](rules/conditions.md#Unconscious) condition.
+Each causes you to lose the [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious) condition.
 
-- You take damage, provided the damage doesn't reduce you to 0 Hit Points. (If the damage reduces you to 0 Hit Points, you remain [unconscious](rules/conditions.md#Unconscious) and gain the [dying](rules/conditions.md#Dying) condition as normal.)
+- You take damage, provided the damage doesn't reduce you to 0 Hit Points. (If the damage reduces you to 0 Hit Points, you remain [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious) and gain the [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition as normal.)
 - You receive healing, other than the natural healing you get from resting.
 - Someone nudges or shakes you awake using an Interact action.
 - Loud noise is being made around you—though this isn't automatic. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. This is often DC 5 for a battle, but if creatures are attempting to stay quiet around you, this Perception check uses their [Stealth](compendium/skills.md#Stealth) DC. Some magical effects make you sleep so deeply that they don't allow you to attempt this Perception check.
@@ -884,9 +884,9 @@ You have been seriously injured during a fight. Anytime you lose the dying condi
 #### Doomed
 <sup>CRB p. 460</sup>
 
-Your life is ebbing away, bringing you ever closer to death. Some powerful spells and evil creatures can inflict the doomed condition on you. Doomed always includes a value. The maximum dying value at which you die is reduced by your doomed value. For example, if you were [doomed](rules/conditions.md#Doomed), you would die upon reaching dying 3 instead of dying 4. If your maximum dying value is ever reduced to 0, you instantly die. When you die, you're no longer doomed.
+Your life is ebbing away, bringing you ever closer to death. Some powerful spells and evil creatures can inflict the doomed condition on you. Doomed always includes a value. The maximum dying value at which you die is reduced by your doomed value. For example, if you were [doomed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Doomed), you would die upon reaching dying 3 instead of dying 4. If your maximum dying value is ever reduced to 0, you instantly die. When you die, you're no longer doomed.
 
-Your [doomed](rules/conditions.md#Doomed) value decreases by 1 each time you get a full night's rest.
+Your [doomed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Doomed) value decreases by 1 each time you get a full night's rest.
 
 ### Death
 <sup>CRB p. 460</sup>
@@ -1054,7 +1054,7 @@ A climb Speed allows you to move up or down inclines and vertical surfaces. Inst
 
 You might still have to attempt [Athletics](compendium/skills.md#Athletics) checks to Climb in hazardous conditions, to Climb extremely difficult surfaces, or to cross horizontal planes such as ceilings. You can also choose to roll an [Athletics](compendium/skills.md#Athletics) check to Climb rather than accept an automatic success in hopes of getting a critical success. Your climb Speed grants you a +4 circumstance bonus to [Athletics](compendium/skills.md#Athletics) checks to Climb.
 
-If you have a climb Speed, you're not [flat-footed](rules/conditions.md#Flat-footed) while climbing.
+If you have a climb Speed, you're not [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) while climbing.
 
 #### Fly Speed
 <sup>CRB p. 463</sup>
@@ -1112,17 +1112,17 @@ The amount of light in an area can affect how well you see things. There are thr
 #### Bright Light
 <sup>CRB p. 464</sup>
 
-In bright light, such as sunlight, creatures and objects can be observed clearly by anyone with average vision or better. Some types of creatures are [dazzled](rules/conditions.md#Dazzled) or [blinded](rules/conditions.md#Blinded) by bright light.
+In bright light, such as sunlight, creatures and objects can be observed clearly by anyone with average vision or better. Some types of creatures are [dazzled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dazzled) or [blinded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Blinded) by bright light.
 
 #### Dim Light
 <sup>CRB p. 464</sup>
 
-Areas in shadow or lit by weak light sources are in dim light. Creatures and objects in dim light have the [concealed](rules/conditions.md#Concealed) condition, unless the seeker has [darkvision](rules/abilities/darkvision.md) or [low-light vision](rules/abilities/low-light-vision.md), or a 0 other than vision.
+Areas in shadow or lit by weak light sources are in dim light. Creatures and objects in dim light have the [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) condition, unless the seeker has [darkvision](rules/abilities/darkvision.md) or [low-light vision](rules/abilities/low-light-vision.md), or a 0 other than vision.
 
 #### Darkness
 <sup>CRB p. 464</sup>
 
-A creature or object within darkness is hidden or undetected unless the seeker has [darkvision](rules/abilities/darkvision.md) or a 0 other than vision. A creature without [darkvision](rules/abilities/darkvision.md) or another means of perceiving in darkness has the [blinded](rules/conditions.md#Blinded) condition while in darkness, though it might be able to see illuminated areas beyond the darkness. If a creature can see into an illuminated area, it can observe creatures within that illuminated area normally. After being in darkness, sudden exposure to bright light might make you [dazzled](rules/conditions.md#Dazzled) for a short time, as determined by the GM.
+A creature or object within darkness is hidden or undetected unless the seeker has [darkvision](rules/abilities/darkvision.md) or a 0 other than vision. A creature without [darkvision](rules/abilities/darkvision.md) or another means of perceiving in darkness has the [blinded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Blinded) condition while in darkness, though it might be able to see illuminated areas beyond the darkness. If a creature can see into an illuminated area, it can observe creatures within that illuminated area normally. After being in darkness, sudden exposure to bright light might make you [dazzled](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dazzled) for a short time, as determined by the GM.
 
 ### Senses
 <sup>CRB p. 464</sup>
@@ -1137,12 +1137,12 @@ Average vision is a precise sense—a sense that can be used to perceive the wor
 #### Imprecise Senses
 <sup>CRB p. 464</sup>
 
-Hearing is an imprecise sense—it cannot detect the full range of detail that a 0 can. You can usually sense a creature automatically with an imprecise sense, but it has the [hidden](rules/conditions.md#Hidden) condition instead of the [observed](rules/conditions.md#Observed) condition. It might be [undetected](rules/conditions.md#Undetected) by you if it's using [Stealth](compendium/skills.md#Stealth) or is in an environment that distorts the sense, such as a noisy room in the case of hearing. In those cases, you have to use the [Seek](rules/actions/seek.md) basic action to detect the creature. At best, an imprecise sense can be used to make an [undetected](rules/conditions.md#Undetected) creature (or one you didn't even know was there) merely [hidden](rules/conditions.md#Hidden)—it can't make the creature [observed](rules/conditions.md#Observed).
+Hearing is an imprecise sense—it cannot detect the full range of detail that a 0 can. You can usually sense a creature automatically with an imprecise sense, but it has the [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) condition instead of the [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed) condition. It might be [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) by you if it's using [Stealth](compendium/skills.md#Stealth) or is in an environment that distorts the sense, such as a noisy room in the case of hearing. In those cases, you have to use the [Seek](rules/actions/seek.md) basic action to detect the creature. At best, an imprecise sense can be used to make an [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) creature (or one you didn't even know was there) merely [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden)—it can't make the creature [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed).
 
 #### Vague Senses
 <sup>CRB p. 465</sup>
 
-A character also has many vague senses—ones that can alert you that something is there but aren't useful for zeroing in on it to determine exactly what it is. The most useful of these for a typical character is the sense of smell. At best, a vague sense can be used to detect the presence of an [unnoticed](rules/conditions.md#Unnoticed) creature, making it [undetected](rules/conditions.md#Undetected). Even then, the vague sense isn't sufficient to make the creature [hidden](rules/conditions.md#Hidden) or [observed](rules/conditions.md#Observed).
+A character also has many vague senses—ones that can alert you that something is there but aren't useful for zeroing in on it to determine exactly what it is. The most useful of these for a typical character is the sense of smell. At best, a vague sense can be used to detect the presence of an [unnoticed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unnoticed) creature, making it [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected). Even then, the vague sense isn't sufficient to make the creature [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) or [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed).
 
 When one creature might detect another, the GM almost always uses the most 0 available.
 
@@ -1163,7 +1163,7 @@ A creature with [darkvision](rules/abilities/darkvision.md) or [greater darkvisi
 #### Low-Light Vision
 <sup>CRB p. 465</sup>
 
-A creature with [low-light vision](rules/abilities/low-light-vision.md) can see in dim light as though it were bright light, so it ignores the [concealed](rules/conditions.md#Concealed) condition due to dim light.
+A creature with [low-light vision](rules/abilities/low-light-vision.md) can see in dim light as though it were bright light, so it ignores the [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) condition due to dim light.
 
 #### Scent
 <sup>CRB p. 465</sup>
@@ -1179,7 +1179,7 @@ Tremorsense allows a creature to feel the vibrations through a solid surface cau
 
 > [!pf2-brown] DETECTING WITH OTHER SENSES
 > 
-> If a monster uses a sense other than vision, the GM can adapt the variables that keep its foes from being detected to equivalents that work with the monster's senses. For example, a creature that has echolocation might use hearing as a primary sense. This could mean its quarry is concealed in a noisy chamber, hidden in a great enough din, or even [invisible](rules/conditions.md#Invisible) in the area of a [silence](compendium/spells/silence.md) spell.
+> If a monster uses a sense other than vision, the GM can adapt the variables that keep its foes from being detected to equivalents that work with the monster's senses. For example, a creature that has echolocation might use hearing as a primary sense. This could mean its quarry is concealed in a noisy chamber, hidden in a great enough din, or even [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) in the area of a [silence](compendium/spells/silence.md) spell.
 > 
 > ### Using Stealth with Other Senses
 > <sup>CRB p. 465</sup>
@@ -1193,7 +1193,7 @@ Tremorsense allows a creature to feel the vibrations through a solid surface cau
 
 There are three conditions that measure the degree to which you can sense a creature: observed, hidden, and undetected. However, the concealed and invisible conditions can partially mask a creature, and the unnoticed condition indicates you have no idea a creature is around. In addition to the descriptions here, you can find these conditions in the Conditions page.
 
-With the exception of [invisible](rules/conditions.md#Invisible), these conditions are relative to the viewer—it's possible for a creature to be observed to you but hidden from your ally. When you're trying to target a creature that's hard to see or otherwise sense, various drawbacks apply. Most of these rules apply to objects you're trying to detect as well as creatures.
+With the exception of [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible), these conditions are relative to the viewer—it's possible for a creature to be observed to you but hidden from your ally. When you're trying to target a creature that's hard to see or otherwise sense, various drawbacks apply. Most of these rules apply to objects you're trying to detect as well as creatures.
 
 Typically, the GM tracks how well creatures detect each other, since neither party has perfect information. For example, you might think a creature is in the last place you sensed it, but it was able to Sneak away. Or you might think a creature can't see you in the dark, but it has [darkvision](rules/abilities/darkvision.md).
 
@@ -1202,21 +1202,21 @@ You can attempt to avoid detection by using the [Stealth](compendium/skills.md#S
 #### Observed
 <sup>CRB p. 466</sup>
 
-In most circumstances, you can sense creatures without difficulty and target them normally. Creatures in this state are observed. Observing requires a precise sense, which for most creatures means sight, but see the Detecting with Other Senses sidebar for advice regarding creatures that don't use sight as their primary sense. If you can't observe the creature, it's either [hidden](rules/conditions.md#Hidden), [undetected](rules/conditions.md#Undetected), or [unnoticed](rules/conditions.md#Unnoticed), and you'll need to factor in the targeting restrictions. Even if a creature is [observed](rules/conditions.md#Observed), it might still be [concealed](rules/conditions.md#Concealed).
+In most circumstances, you can sense creatures without difficulty and target them normally. Creatures in this state are observed. Observing requires a precise sense, which for most creatures means sight, but see the Detecting with Other Senses sidebar for advice regarding creatures that don't use sight as their primary sense. If you can't observe the creature, it's either [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden), [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected), or [unnoticed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unnoticed), and you'll need to factor in the targeting restrictions. Even if a creature is [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed), it might still be [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed).
 
 #### Hidden
 <sup>CRB p. 466</sup>
 
-A creature that's hidden is only barely perceptible. You know what space a hidden creature occupies, but little else. Perhaps the creature just moved behind cover and successfully used the Hide action. Your target might be in a deep fogbank or behind a waterfall, where you can see some movement but can't determine an exact location. Maybe you've been [blinded](rules/conditions.md#Blinded) or the creature is under the effects of [invisibility](compendium/spells/invisibility.md), but you used the [Seek](rules/actions/seek.md) basic action to determine its general location based on hearing alone. Regardless of the specifics, you're [flat-footed](rules/conditions.md#Flat-footed) to a hidden creature.
+A creature that's hidden is only barely perceptible. You know what space a hidden creature occupies, but little else. Perhaps the creature just moved behind cover and successfully used the Hide action. Your target might be in a deep fogbank or behind a waterfall, where you can see some movement but can't determine an exact location. Maybe you've been [blinded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Blinded) or the creature is under the effects of [invisibility](compendium/spells/invisibility.md), but you used the [Seek](rules/actions/seek.md) basic action to determine its general location based on hearing alone. Regardless of the specifics, you're [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to a hidden creature.
 
-When targeting a [hidden](rules/conditions.md#Hidden) creature, before you roll to determine your effect, you must attempt a DC 11 flat check. If you fail, you don't affect the creature, though the actions you used are still expended—as well as any spell slots, costs, and other resources. You remain [flat-footed](rules/conditions.md#Flat-footed) to the creature, whether you successfully target it or not.
+When targeting a [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) creature, before you roll to determine your effect, you must attempt a DC 11 flat check. If you fail, you don't affect the creature, though the actions you used are still expended—as well as any spell slots, costs, and other resources. You remain [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to the creature, whether you successfully target it or not.
 
 #### Undetected
 <sup>CRB p. 466</sup>
 
-If a creature is undetected, you don't know what space it occupies, you're [flat-footed](rules/conditions.md#Flat-footed) to it, and you can't easily target it. Using the [Seek](rules/actions/seek.md) basic action can help you find an undetected creature, usually making it [hidden](rules/conditions.md#Hidden) from you instead of [undetected](rules/conditions.md#Undetected). If a creature is [undetected](rules/conditions.md#Undetected), that doesn't necessarily mean you're unaware of its presence—you might suspect an [undetected](rules/conditions.md#Undetected) creature is in the room with you, even though you're unable to find its space. The [unnoticed](rules/conditions.md#Unnoticed) condition covers creatures you're entirely unaware of.
+If a creature is undetected, you don't know what space it occupies, you're [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to it, and you can't easily target it. Using the [Seek](rules/actions/seek.md) basic action can help you find an undetected creature, usually making it [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) from you instead of [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected). If a creature is [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected), that doesn't necessarily mean you're unaware of its presence—you might suspect an [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) creature is in the room with you, even though you're unable to find its space. The [unnoticed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unnoticed) condition covers creatures you're entirely unaware of.
 
-Targeting an [undetected](rules/conditions.md#Undetected) creature is difficult. If you suspect there's a creature around, you can pick a square and attempt an attack. This works like targeting a [hidden](rules/conditions.md#Hidden) creature, but the flat check and attack roll are both rolled in secret by the GM. The GM won't tell you why you missed—whether it was due to failing the flat check, rolling an insufficient attack roll, or choosing the wrong square. The GM might allow you to try targeting an undetected creature with some spells or other abilities in a similar fashion. [Undetected](rules/conditions.md#Undetected) creatures are subject to area effects normally.
+Targeting an [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) creature is difficult. If you suspect there's a creature around, you can pick a square and attempt an attack. This works like targeting a [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) creature, but the flat check and attack roll are both rolled in secret by the GM. The GM won't tell you why you missed—whether it was due to failing the flat check, rolling an insufficient attack roll, or choosing the wrong square. The GM might allow you to try targeting an undetected creature with some spells or other abilities in a similar fashion. [Undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) creatures are subject to area effects normally.
 
 For instance, suppose an enemy elf wizard cast [invisibility](compendium/spells/invisibility.md) and then [Sneaked](rules/actions/sneak.md) away. You suspect that with the elf's Speed of 30 feet, they probably moved 15 feet toward an open door. You move up and attack a space 15 feet from where the elf started and directly on the path to the door. The GM secretly rolls an attack roll and flat check, but they know that you were not quite correct—the elf was actually in the adjacent space! The GM tells you that you missed, so you decide to make your next attack on the adjacent space, just in case. This time, it's the right space, and the GM's secret attack roll and flat check both succeed, so you hit!
 
@@ -1235,18 +1235,18 @@ The concealed and invisible conditions reflect certain circumstances that can ma
 
 This condition protects a creature if it's in mist, within dim light, or amid something else that obscures sight but does not provide a physical barrier to effects. An effect or type of terrain that describes an area of concealment makes all creatures within it concealed.
 
-When you target a creature that's [concealed](rules/conditions.md#Concealed) from you, you must attempt a DC 5 flat check before you roll to determine your effect. If you fail, you don't affect the target. the [concealed](rules/conditions.md#Concealed) condition doesn't change which of the main categories of detection apply to the creature. A creature in a light fog bank is still observed even though it's concealed.
+When you target a creature that's [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) from you, you must attempt a DC 5 flat check before you roll to determine your effect. If you fail, you don't affect the target. the [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) condition doesn't change which of the main categories of detection apply to the creature. A creature in a light fog bank is still observed even though it's concealed.
 
 ### Invisible
 <sup>CRB p. 467</sup>
 
-A creature with the invisible condition (by way of an [invisibility](compendium/spells/invisibility.md) spell or [invisibility potion](compendium/equipment/items/invisibility-potion.md), for example) is automatically [undetected](rules/conditions.md#Undetected) to any creatures relying on sight as their only precise sense. Precise senses other than sight ignore the invisible condition.
+A creature with the invisible condition (by way of an [invisibility](compendium/spells/invisibility.md) spell or [invisibility potion](compendium/equipment/items/invisibility-potion.md), for example) is automatically [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) to any creatures relying on sight as their only precise sense. Precise senses other than sight ignore the invisible condition.
 
-You can use the [Seek](rules/actions/seek.md) basic action to attempt to figure out an [invisible](rules/conditions.md#Invisible) creature's location, making it instead only [hidden](rules/conditions.md#Hidden) from you. This lasts until the [invisible](rules/conditions.md#Invisible) creature successfully uses [Sneak](rules/actions/sneak.md) to become [undetected](rules/conditions.md#Undetected) again. If you're already [observing](rules/conditions.md#Observed) a creature when it becomes [invisible](rules/conditions.md#Invisible), it starts out [hidden](rules/conditions.md#Hidden), since you know where it was when it became [invisible](rules/conditions.md#Invisible), though it can then [Sneak](rules/actions/sneak.md) to become [undetected](rules/conditions.md#Undetected).
+You can use the [Seek](rules/actions/seek.md) basic action to attempt to figure out an [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) creature's location, making it instead only [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) from you. This lasts until the [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) creature successfully uses [Sneak](rules/actions/sneak.md) to become [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) again. If you're already [observing](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed) a creature when it becomes [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible), it starts out [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden), since you know where it was when it became [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible), though it can then [Sneak](rules/actions/sneak.md) to become [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected).
 
-Other effects might make an [invisible](rules/conditions.md#Invisible) creature hidden or even observed but concealed. For instance, if you were tracking an invisible creature's footprints through the snow, the footprints would make it hidden.
+Other effects might make an [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) creature hidden or even observed but concealed. For instance, if you were tracking an invisible creature's footprints through the snow, the footprints would make it hidden.
 
-Similarly, throwing a net over an [invisible](rules/conditions.md#Invisible) creature would make it [observed](rules/conditions.md#Observed) but [concealed](rules/conditions.md#Concealed) for as long as the net is on the creature.
+Similarly, throwing a net over an [invisible](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Invisible) creature would make it [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed) but [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) for as long as the net is on the creature.
 
 ## Hero Points
 <sup>CRB p. 467</sup>
@@ -1262,7 +1262,7 @@ You can spend your Hero Points in one of two ways.
 Neither of these is an action, and you can spend Hero Points even if you aren't able to act. You can spend a Hero Point on behalf of your familiar or animal companion.
 
 - **Spend 1 Hero Point** to reroll a check. You must use the second result. This is a fortune effect (which means you can't use more than 1 Hero Point on a check).
-- **Spend all your Hero Points** (minimum 1) to avoid death. You can do this when your [dying](rules/conditions.md#Dying) condition would increase. You lose the [dying](rules/conditions.md#Dying) condition entirely and stabilize with 0 Hit Points. You don't gain the [wounded](rules/conditions.md#Wounded) condition or increase its value from losing the [dying](rules/conditions.md#Dying) condition in this way, but if you already had that condition, you don't lose it or decrease its value.
+- **Spend all your Hero Points** (minimum 1) to avoid death. You can do this when your [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition would increase. You lose the [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition entirely and stabilize with 0 Hit Points. You don't gain the [wounded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Wounded) condition or increase its value from losing the [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying) condition in this way, but if you already had that condition, you don't lose it or decrease its value.
 
 ### Describing Heroic Deeds
 <sup>CRB p. 467</sup>
@@ -1323,12 +1323,12 @@ Many things happen automatically at the start of your turn—it's a common point
 
 - If you created an effect lasting for a certain number of rounds, reduce the number of rounds remaining by 1. The effect ends if the duration is reduced to 0. For example, if you cast a spell that lasts 3 rounds on yourself during your first turn of a fight, it would affect you during that turn, decrease to 2 rounds of duration at the start of your second turn, decrease to 1 round of duration at the start of your third turn, and expire at the start of your fourth turn.
 - You can use 1 free action or reaction with a trigger of "Your turn begins" or something similar.
-- If you're [dying](rules/conditions.md#Dying), roll a recovery check (page 459).
+- If you're [dying](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Dying), roll a recovery check (page 459).
 - Do anything else that is specified to happen at the start of your turn.
 
 The last step of starting your turn is always the same.
 
-- Regain your 3 actions and 1 reaction. If you haven't spent your reaction from your last turn, you lose it—you can't "save" actions or reactions from one turn to use during the next turn. If a condition prevents you from being able to act, you don't regain any actions or your reaction. Some abilities or conditions (such as [quickened](rules/conditions.md#Quickened) and [slowed](rules/conditions.md#Slowed)) can change how many actions you regain and whether you regain your reaction. If you lose actions and gain additional actions (such as if you're both [quickened](rules/conditions.md#Quickened) and [slowed](rules/conditions.md#Slowed)), you choose which actions to lose.
+- Regain your 3 actions and 1 reaction. If you haven't spent your reaction from your last turn, you lose it—you can't "save" actions or reactions from one turn to use during the next turn. If a condition prevents you from being able to act, you don't regain any actions or your reaction. Some abilities or conditions (such as [quickened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Quickened) and [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed)) can change how many actions you regain and whether you regain your reaction. If you lose actions and gain additional actions (such as if you're both [quickened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Quickened) and [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed)), you choose which actions to lose.
 
 #### Step 2: Act
 <sup>CRB p. 469</sup>
@@ -1347,7 +1347,7 @@ Once you've done all the things you want to do with the actions you have availab
 Take the following steps in any order you choose. Play then proceeds to the next creature in the initiative order.
 
 - End any effects that last until the end of your turn. For example, spells with a sustained duration end at the end of your turn unless you used the [Sustain a Spell](rules/actions/sustain-a-spell.md) action during your turn to extend them. Some effects caused by enemies might also last through a certain number of your turns, and you decrease the remaining duration by 1 during this step, ending the effect if its duration is reduced to 0.
-- If you have a [persistent damage](rules/conditions.md#Persistent%20Damage) condition, you take the damage at this point. After you take the damage, you can attempt the flat check to end the [persistent damage](rules/conditions.md#Persistent%20Damage). You then attempt any saving throws for ongoing afflictions. Many other conditions change at the end of your turn, such as the [frightened](rules/conditions.md#Frightened) condition decreasing in severity. These take place after you've taken any [persistent damage](rules/conditions.md#Persistent%20Damage), attempted flat checks to end the [persistent damage](rules/conditions.md#Persistent%20Damage), and attempted saves against any afflictions.
+- If you have a [persistent damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage) condition, you take the damage at this point. After you take the damage, you can attempt the flat check to end the [persistent damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage). You then attempt any saving throws for ongoing afflictions. Many other conditions change at the end of your turn, such as the [frightened](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Frightened) condition decreasing in severity. These take place after you've taken any [persistent damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage), attempted flat checks to end the [persistent damage](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Persistent%20Damage), and attempted saves against any afflictions.
 - You can use 1 free action or reaction with a trigger of "Your turn ends" or something similar.
 - Resolve anything else specified to happen at the end of your turn.
 
@@ -1496,26 +1496,26 @@ Hazardous terrain damages you whenever you move through it. An acid pool and a p
 #### Narrow Surfaces
 <sup>CRB p. 476</sup>
 
-A narrow surface is so precariously thin that you need to [Balance](rules/actions/balance.md) or risk falling. Even on a success, you are [flat-footed](rules/conditions.md#Flat-footed) on a narrow surface.
+A narrow surface is so precariously thin that you need to [Balance](rules/actions/balance.md) or risk falling. Even on a success, you are [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) on a narrow surface.
 
 Each time you are hit by an attack or fail a save on a narrow surface, you must succeed at a Reflex save (with the same DC as the [Acrobatics](compendium/skills.md#Acrobatics) check to [Balance](rules/actions/balance.md)) or fall.
 
 #### Uneven Ground
 <sup>CRB p. 476</sup>
 
-Uneven ground is an area unsteady enough that you need to [Balance](rules/actions/balance.md) or risk falling prone and possibly injuring yourself, depending on the specifics of the uneven ground. You are [flat-footed](rules/conditions.md#Flat-footed) on uneven ground. Each time you are hit by an attack or fail a save on uneven ground, you must succeed at a Reflex save (with the same DC as the [Acrobatics](compendium/skills.md#Acrobatics) check to Balance) or fall prone.
+Uneven ground is an area unsteady enough that you need to [Balance](rules/actions/balance.md) or risk falling prone and possibly injuring yourself, depending on the specifics of the uneven ground. You are [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) on uneven ground. Each time you are hit by an attack or fail a save on uneven ground, you must succeed at a Reflex save (with the same DC as the [Acrobatics](compendium/skills.md#Acrobatics) check to Balance) or fall prone.
 
 #### Inclines
 <sup>CRB p. 476</sup>
 
 An incline is an area so steep that you need to [Climb](rules/actions/climb.md) using the [Athletics](compendium/skills.md#Athletics) skill in order to progress upward.
 
-You're [flat-footed](rules/conditions.md#Flat-footed) when [Climbing](rules/actions/climb.md) an incline.
+You're [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) when [Climbing](rules/actions/climb.md) an incline.
 
 ### Flanking
 <sup>CRB p. 476</sup>
 
-When you and an ally are flanking a foe, it has a harder time defending against you. A creature is [flat-footed](rules/conditions.md#Flat-footed) (taking a –2 circumstance penalty to AC) to melee attacks from creatures that are flanking it.
+When you and an ally are flanking a foe, it has a harder time defending against you. A creature is [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) (taking a –2 circumstance penalty to AC) to melee attacks from creatures that are flanking it.
 
 To flank a foe, you and your ally must be on opposites sides or corners of the creature. A line drawn between the center of your space and the center of your ally's space must pass through opposite sides or opposite corners of the foe's space. Additionally, both you and the ally have to be able to act, must be wielding melee weapons or able to make an unarmed attack, can't be under any effects that prevent you from attacking, and must have the enemy within reach. If you are wielding a reach weapon, you use your [reach](rules/traits/reach.md "Reach Weapon Trait") with that weapon for this purpose.
 
@@ -1591,7 +1591,7 @@ Many monsters can fly, and PCs can use spells and items to gain the ability to f
 
 Use these rules for battles in water or underwater:
 
-- You're [flat-footed](rules/conditions.md#Flat-footed) unless you have a swim Speed.
+- You're [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) unless you have a swim Speed.
 - You gain resistance 5 to acid and fire.
 - You take a –2 circumstance penalty to melee slashing or bludgeoning attacks that pass through water.
 - Ranged attacks that deal bludgeoning or slashing damage automatically miss if the attacker or target is underwater, and piercing ranged attacks made by an underwater creature or against an underwater target have their range increments halved.
@@ -1603,7 +1603,7 @@ Use these rules for battles in water or underwater:
 
 You can hold your breath for a number of rounds equal to 5 + your Constitution modifier. Reduce your remaining air by 1 round at the end of each of your turns, or by 2 if you attacked or cast any spells that turn. You also lose 1 round worth of air each time you are critically hit or critically fail a save against a damaging effect. If you speak (including casting spells with verbal components or activating items with command components) you lose all remaining air.
 
-When you run out of air, you fall [unconscious](rules/conditions.md#Unconscious) and start suffocating. You can't recover from being unconscious and must attempt a DC 20 Fortitude save at the end of each of your turns. On a failure, you take 1d10 damage, and on a critical failure, you die. On each check after the first, the DC increases by 5 and the damage by 1d10; these increases are cumulative. Once your access to air is restored, you stop suffocating and are no longer unconscious (unless you're at 0 Hit Points).
+When you run out of air, you fall [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious) and start suffocating. You can't recover from being unconscious and must attempt a DC 20 Fortitude save at the end of each of your turns. On a failure, you take 1d10 damage, and on a critical failure, you die. On each check after the first, the DC increases by 5 and the damage by 1d10; these increases are cumulative. Once your access to air is restored, you stop suffocating and are no longer unconscious (unless you're at 0 Hit Points).
 
 ## Exploration Mode
 <sup>CRB p. 479</sup>
@@ -1667,7 +1667,7 @@ These are most common exploration activities.
 ### Rest and Daily Preparations
 <sup>CRB p. 480</sup>
 
-You perform at your best when you take enough time to rest and prepare. Once every 24 hours, you can take a period of rest (typically 8 hours), after which you regain Hit Points equal to your Constitution modifier (minimum 1) times your level, and you might recover from or improve certain conditions (page 453). Sleeping in armor results in poor rest that leaves you [fatigued](rules/conditions.md#Fatigued). If you go more than 16 hours without resting, you become [fatigued](rules/conditions.md#Fatigued) (you cannot recover from this until you rest at least 6 continuous hours).
+You perform at your best when you take enough time to rest and prepare. Once every 24 hours, you can take a period of rest (typically 8 hours), after which you regain Hit Points equal to your Constitution modifier (minimum 1) times your level, and you might recover from or improve certain conditions (page 453). Sleeping in armor results in poor rest that leaves you [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued). If you go more than 16 hours without resting, you become [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued) (you cannot recover from this until you rest at least 6 continuous hours).
 
 After you rest, you make your daily preparations, which takes around 1 hour. You can prepare only if you've rested, and only once per day. Preparing includes the following:
 

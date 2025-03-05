@@ -12,7 +12,7 @@ aliases: ["Treacherous Scree"]
 - **Complexity** Simple
 - **Stealth** DC 23 trained  
 
-The footing on this sloped ground appears to be stable at first glance, but the tiny rocks that cover it are loosely packed and [prone](rules/conditions.md#Prone) to slipping.
+The footing on this sloped ground appears to be stable at first glance, but the tiny rocks that cover it are loosely packed and [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone) to slipping.
 
 - **Disable** DC 20 [Survival](compendium/skills.md#Survival) (trained) to navigate a safe path  
 

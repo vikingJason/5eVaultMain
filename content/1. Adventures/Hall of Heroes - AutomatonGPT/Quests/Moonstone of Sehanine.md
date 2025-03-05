@@ -206,6 +206,10 @@ The cracked mosaic can serve as a deeper narrative touchstone for the party:
 
 Once the Lunar Shade is defeated, the party can claim the **Sacred Moonstone**, which radiates cool, soothing energy. It appears as a large, perfectly smooth orb, faintly glowing with shifting light. Interacting with the Moonstone reveals its power and significance.
 
+The Sacred Moonstone of Sehanine is an intricately carved, milky-white gemstone in the shape of a crescent moon, its surface adorned with delicate etchings of swirling starlit skies and lunar phases. Embedded along its outer curve are tiny silver inlays resembling constellations, which shimmer faintly as if reflecting a night sky. When bathed in moonlight, the carvings seem to shift and dance, revealing fleeting glimpses of hidden truths and distant realms.
+
+
+
 #### **Moonstone’s Magical Properties**
 
 - **Weightless Guidance:** While holding the Moonstone, its bearer can cast _Guiding Bolt_ (spell attack +5, 4d6 radiant damage) once per long rest.

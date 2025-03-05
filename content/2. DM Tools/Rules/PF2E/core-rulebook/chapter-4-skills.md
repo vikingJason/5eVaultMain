@@ -551,11 +551,11 @@ You influence others through negotiation and flattery.
 > 
 > The attitudes are detailed in the Conditions Appendix and are summarized here.
 > 
-> - **[Helpful:](rules/conditions.md#Helpful)** Willing to help you and responds favorably to your requests.
-> - **[Friendly:](rules/conditions.md#Friendly)** Has a good attitude toward you, but won't necessarily stick their neck out to help you.
-> - **[Indifferent:](rules/conditions.md#Indifferent)** Doesn't care about you either way. (Most NPCs start out indifferent.)
-> - **[Unfriendly:](rules/conditions.md#Unfriendly)** Dislikes you and doesn't want to help you.
-> - **[Hostile:](rules/conditions.md#Hostile)** Actively works against you—and might attack you just because of their dislike.
+> - **[Helpful:](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Helpful)** Willing to help you and responds favorably to your requests.
+> - **[Friendly:](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Friendly)** Has a good attitude toward you, but won't necessarily stick their neck out to help you.
+> - **[Indifferent:](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Indifferent)** Doesn't care about you either way. (Most NPCs start out indifferent.)
+> - **[Unfriendly:](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unfriendly)** Dislikes you and doesn't want to help you.
+> - **[Hostile:](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hostile)** Actively works against you—and might attack you just because of their dislike.
 > 
 > No one can ever change the attitude of a player character with these skills. You can roleplay interactions with player characters, and even use [Diplomacy](compendium/skills.md#Diplomacy) results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
 
@@ -782,10 +782,10 @@ You are skilled at avoiding detection, allowing you to slip past foes, hide, or 
 > 
 > If you want to sneak around when there are creatures that can see you, you can use a combination of [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md) to do so.
 > 
-> - First, [Hide](rules/actions/hide.md) behind something (either by taking advantage of cover or having the [concealed](rules/conditions.md#Concealed) condition due to fog, a spell, or a similar effect). A successful [Stealth](compendium/skills.md#Stealth) check makes you hidden, though the creatures still know roughly where you are.
-> - Second, now that you're hidden, you can [Sneak](rules/actions/sneak.md). That means you can move at half your Speed and attempt another [Stealth](compendium/skills.md#Stealth) check. If it's successful, you're now [undetected](rules/conditions.md#Undetected). That means the creatures don't know which square you're in anymore.
+> - First, [Hide](rules/actions/hide.md) behind something (either by taking advantage of cover or having the [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) condition due to fog, a spell, or a similar effect). A successful [Stealth](compendium/skills.md#Stealth) check makes you hidden, though the creatures still know roughly where you are.
+> - Second, now that you're hidden, you can [Sneak](rules/actions/sneak.md). That means you can move at half your Speed and attempt another [Stealth](compendium/skills.md#Stealth) check. If it's successful, you're now [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected). That means the creatures don't know which square you're in anymore.
 > 
-> If you were approaching creatures that didn't know you were there, you could begin [Sneaking](rules/actions/sneak.md) right away, since they didn't know your location to start with. Some actions can cause you to become [observed](rules/conditions.md#Observed) again, but they're mostly what you'd expect: standing out in the open, attacking someone, making a bunch of noise, and so forth. If you [Strike](rules/actions/strike.md) someone after successfully [Hiding](rules/actions/hide.md) or [Sneaking](rules/actions/sneak.md), though, they're [flat-footed](rules/conditions.md#Flat-footed) to that [Strike](rules/actions/strike.md).
+> If you were approaching creatures that didn't know you were there, you could begin [Sneaking](rules/actions/sneak.md) right away, since they didn't know your location to start with. Some actions can cause you to become [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed) again, but they're mostly what you'd expect: standing out in the open, attacking someone, making a bunch of noise, and so forth. If you [Strike](rules/actions/strike.md) someone after successfully [Hiding](rules/actions/hide.md) or [Sneaking](rules/actions/sneak.md), though, they're [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to that [Strike](rules/actions/strike.md).
 > 
 > Creatures can try to find you using the [Seek](rules/actions/seek.md) action , described on page 471.
 > 

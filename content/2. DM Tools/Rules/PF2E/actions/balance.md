@@ -15,7 +15,7 @@ aliases: ["Balance"]
 - **Requirements**: You are in a square that contains a narrow surface, uneven ground, or another similar feature.
 - **Activity**: Single Action
 
-You move across a narrow surface or uneven ground, attempting an [Acrobatics](compendium/skills.md#Acrobatics) check against its Balance DC. You are [flat-footed](rules/conditions.md#Flat-footed) while on a narrow surface or uneven ground.
+You move across a narrow surface or uneven ground, attempting an [Acrobatics](compendium/skills.md#Acrobatics) check against its Balance DC. You are [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) while on a narrow surface or uneven ground.
 
 > [!success-degree] 
 > - **Critical Success** You move up to your Speed.
