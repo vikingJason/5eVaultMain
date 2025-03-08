@@ -1,17 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/10
-- compendium/src/pf2e/gw1
-- trait/curse
-- trait/enchantment
-- trait/incapacitation
-- trait/magical
-- trait/mental
-- trait/shadow
-aliases: ["Obnubilate Curse"]
+aliases:
+  - Obnubilate Curse
+tags: []
 ---
 # Obnubilate Curse
 *Curse 10*  

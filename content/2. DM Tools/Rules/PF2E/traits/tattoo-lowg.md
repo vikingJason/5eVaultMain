@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/lowg
-- trait/category/item
-aliases: ["Tattoo"]
+tags: []
+aliases:
+  - Tattoo
 ---
 # Tattoo  
 *Source: Lost Omens: World Guide p. 124*  

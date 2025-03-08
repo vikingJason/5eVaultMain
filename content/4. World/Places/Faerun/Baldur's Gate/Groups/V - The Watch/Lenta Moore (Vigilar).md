@@ -1,17 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Lenta Moore
-Tags: Category/Individual Suffix/Vigilar
 Race: Human
-Gender: Female
 Age: Adult
 Class: Commoner
-parent:
-  - V - The Watch
-up:
-  - V - The Watch
-RWtopicId: Topic_690
 Type: placeholder
 Region: placeholder
 ---

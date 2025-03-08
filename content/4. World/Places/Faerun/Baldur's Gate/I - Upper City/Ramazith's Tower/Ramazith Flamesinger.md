@@ -1,13 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
-parent:
-  - Ramazith's Tower
-up:
-  - Ramazith's Tower
-RWtopicId: Topic_624
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Ramazith Flamesinger
 ## Profile

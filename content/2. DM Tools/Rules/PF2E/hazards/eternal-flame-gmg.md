@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/complex
-- trait/haunt
-aliases: ["Eternal Flame"]
+tags: []
+aliases:
+  - Eternal Flame
 ---
 # Eternal Flame *Hazard 7*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

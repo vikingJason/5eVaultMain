@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/1
-- compendium/src/pf2e/ooa1
-- trait/contact
-- trait/environmental
-- trait/poison
-- trait/rare
-aliases: ["Poison Sedum"]
+aliases:
+  - Poison Sedum
+tags: []
 ---
 # Poison Sedum
 *Disease 1*  

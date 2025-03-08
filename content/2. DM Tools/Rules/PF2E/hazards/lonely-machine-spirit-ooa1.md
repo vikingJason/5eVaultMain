@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ooa1
-- trait/complex
-- trait/haunt
-aliases: ["Lonely Machine Spirit"]
+tags: []
+aliases:
+  - Lonely Machine Spirit
 ---
 # Lonely Machine Spirit *Hazard 3*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-7-spells"]
+tags: []
+aliases:
+  - chapter-7-spells
 ---
 # Chapter 7: Spells
 <sup>CRB p. 297</sup>

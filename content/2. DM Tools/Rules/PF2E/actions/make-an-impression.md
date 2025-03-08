@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/auditory
-- trait/concentrate
-- trait/exploration
-- trait/linguistic
-- trait/mental
-aliases: ["Make an Impression"]
+aliases:
+  - Make an Impression
+tags: []
 ---
 # Make an Impression (basic)
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

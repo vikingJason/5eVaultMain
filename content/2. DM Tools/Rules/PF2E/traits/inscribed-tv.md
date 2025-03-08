@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/tv
-- trait/category/armor
-aliases: ["Inscribed"]
+tags: []
+aliases:
+  - Inscribed
 ---
 # Inscribed  
 *Source: Treasure Vault p. 8*  

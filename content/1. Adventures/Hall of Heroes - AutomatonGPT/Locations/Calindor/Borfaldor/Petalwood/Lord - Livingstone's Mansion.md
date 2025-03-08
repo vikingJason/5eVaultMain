@@ -18,6 +18,7 @@ services:
   - Noble( Horrible   quality, Average  costs)
   - Diplomacy( Average   quality, Low  costs)
 Region: '"[[Borfaldor]]"'
+tags: []
 ---
 
 

@@ -7,8 +7,7 @@ aliases:
   - Slowed 3
   - Slowed
 foundryId: Item.3nNYy2uW4Q9TYft7
-tags:
-  - pf2econdition
+tags: []
 effect: Penalty to total actions based on **Slowed** value.
 ---
 ![[gm_slowed.png|150]]

@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/phb
-  - deity/dragonlance
-  - domain/death
-aliases:
-  - Chemosh
+{}
 ---
 # Chemosh
 *Source: Player's Handbook p. 295* 

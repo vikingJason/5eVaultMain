@@ -1,23 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Female
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - The Rusty Pipe
-up:
-  - The Rusty Pipe
-prev:
-  - Sophronia _Sophie_ Cullen
-next:
-  - Marla Erets
-RWtopicId: Topic_252
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Yoruna Faede
 ## Overview

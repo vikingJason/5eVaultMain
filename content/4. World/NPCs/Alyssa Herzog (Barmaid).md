@@ -1,25 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Alyssa Herzog
-Tags: Category/Individual Suffix/Barmaid
 Alignment: Neutral
 Race: Elf
-Gender: Female
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Beverages and Food
-up:
-  - Beverages and Food
-prev:
-  - Urt, The Irongut (Local Drunk)
-next:
-  - Barley Herzog (Bar Tender)
-RWtopicId: Topic_292
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Alyssa Herzog (Barmaid)
 ## Overview

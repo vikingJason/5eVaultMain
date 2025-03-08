@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-reward
-tags:
-  - compendium/src/5e/toa
-  - reward/inhabitation
+tags: []
 aliases:
   - Obo'laka
 ---

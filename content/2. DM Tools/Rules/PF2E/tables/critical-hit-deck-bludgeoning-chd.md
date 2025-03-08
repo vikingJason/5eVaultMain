@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/chd
-aliases: ["Critical Hit Deck: Bludgeoning"]
+tags: []
+aliases:
+  - "Critical Hit Deck: Bludgeoning"
 ---
 # Critical Hit Deck: Bludgeoning  
 *Source: Critical Hit Deck p. 0*  

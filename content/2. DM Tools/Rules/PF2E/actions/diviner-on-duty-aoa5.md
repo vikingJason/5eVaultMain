@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa5
-- trait/exploration
-aliases: ["Diviner on Duty"]
+aliases:
+  - Diviner on Duty
+tags: []
 ---
 # Diviner on Duty
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

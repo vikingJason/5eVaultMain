@@ -1,19 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Female
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Mercenary Camp
-up:
-  - Mercenary Camp
-RWtopicId: Topic_249
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Brynhild Skaldmeier
 ## Overview

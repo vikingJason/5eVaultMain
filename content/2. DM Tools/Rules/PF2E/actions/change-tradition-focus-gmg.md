@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/magical
-aliases: ["Change Tradition Focus"]
+aliases:
+  - Change Tradition Focus
+tags: []
 ---
 # Change Tradition Focus [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [magical](rules/traits/magical.md "Magical Item Trait")  

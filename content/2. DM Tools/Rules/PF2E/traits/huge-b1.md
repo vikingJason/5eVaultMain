@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/size
-aliases: ["Huge"]
+tags: []
+aliases:
+  - Huge
 ---
 # Huge  
 *Source: Bestiary p. 345*  

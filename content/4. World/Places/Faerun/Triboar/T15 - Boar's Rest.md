@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Boar's Rest
-  - T15
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T14 - Six Windows
-next:
-  - T16 - The Triboar Arms
-RWtopicId: Topic_373
 Type: placeholder
 Region: placeholder
 ---

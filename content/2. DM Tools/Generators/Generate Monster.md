@@ -1,3 +1,6 @@
+---
+tags: []
+---
 
 GAME: Dungeons & Dragons: 5th Edition
 BOOKS: Any Random Campaign Book, official and unofficial

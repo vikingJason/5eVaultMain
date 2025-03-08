@@ -1,22 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Gold Lahar
-  - Exchequer Favil Blanthe
-Tags: Category/Individual
 Race: Human
-Gender: Male
 Age: Adult
 Class: Commoner
-Appearance-Traits: Flabby
-Social-Traits: Dependable
-parent:
-  - IV - The Flaming Fist
-up:
-  - IV - The Flaming Fist
-prev:
-  - Blaze Ulder Ravengard
-RWtopicId: Topic_672
 Type: placeholder
 Region: placeholder
 ---

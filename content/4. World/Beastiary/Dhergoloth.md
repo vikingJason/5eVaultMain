@@ -1,25 +1,11 @@
 ---
-ImportedOn: Tuesday, 21 December 2021 11:45:48 PM
-Aliases:
-  - Dhergoloths
-Tags: Category/Creature
-Source: MToF
-SourceType: Bestiary
-Publisher: WOTC
 Alignment: Lawful Evil
 Challenge: CR 7
 Size: Medium
 Type: Fiend
-Creature-Tags: Yugoloth
 parent:
   - Yugoloths
-up:
-  - Yugoloths
-prev:
-  - Canoloth
-next:
-  - Hydroloth
-RWtopicId: Topic_833
+tags: []
 ---
 # Dhergoloth
 ## Overview

@@ -1,15 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/scag
-  - deity/faerunian
-  - domain/war
-aliases:
-  - The Red Knight
-  - The Lady of Strategy
-  - The Crimson General
-  - The Grandmaster of the Lanceboard
+{}
 ---
 # The Red Knight
 *Source: Sword Coast Adventurer's Guide p. 21* 

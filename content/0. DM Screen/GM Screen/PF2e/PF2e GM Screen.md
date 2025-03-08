@@ -1,7 +1,6 @@
 ---
 sessions: 
-tags:
-  - gmscreen
+tags: []
 ---
 
 ![[GMScreen.png]]

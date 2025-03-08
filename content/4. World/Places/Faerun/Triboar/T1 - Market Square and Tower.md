@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Market Square and Tower
-  - T1
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - F - Farm
-next:
-  - T2 - North Caravan Campground
-RWtopicId: Topic_359
 Type: placeholder
 Region: placeholder
 ---

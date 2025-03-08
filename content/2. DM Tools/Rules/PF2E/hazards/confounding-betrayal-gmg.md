@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/complex
-- trait/haunt
-aliases: ["Confounding Betrayal"]
+tags: []
+aliases:
+  - Confounding Betrayal
 ---
 # Confounding Betrayal *Hazard 8*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

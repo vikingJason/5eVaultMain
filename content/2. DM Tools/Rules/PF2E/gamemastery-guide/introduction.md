@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["introduction"]
+tags: []
+aliases:
+  - introduction
 ---
 # Introduction
 <sup>GMG p. 4</sup>

@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
 Type:
   - Dungeon
   - placeholder
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - The Quarter of Emptiness
-next:
-  - The Saiyaddar
-RWtopicId: Topic_774
 Region: placeholder
 ---
 # Rasilith

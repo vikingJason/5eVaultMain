@@ -2,8 +2,9 @@
 title: Help
 aliases:
   - Help
-tags:
+type:
   - 5eAction
+tags: []
 ---
 
 ![[Help.png|150]]

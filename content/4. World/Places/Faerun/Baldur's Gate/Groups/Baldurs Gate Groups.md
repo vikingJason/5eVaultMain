@@ -1,26 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group-List
-parent:
-  - Baldur's Gate
-up:
-  - Baldur's Gate
-prev:
-  - IV - Wyrm's Crossing
-next:
-  - I - Upper City
-down:
-  - II - Officers of the City
-  - VIII - Professional Guilds
-  - IV - The Flaming Fist
-  - I - The Council of Four
-  - III - Parliament of Peers
-  - VI - The Guild
-  - VII - The Patriars
-  - V - The Watch
-RWtopicId: Topic_662
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Baldurs Gate Groups
 ## Overview

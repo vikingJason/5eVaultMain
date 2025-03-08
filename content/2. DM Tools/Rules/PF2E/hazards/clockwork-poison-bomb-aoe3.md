@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe3
-- trait/alchemical
-- trait/complex
-- trait/mechanical
-- trait/trap
-aliases: ["Clockwork Poison Bomb"]
+tags: []
+aliases:
+  - Clockwork Poison Bomb
 ---
 # Clockwork Poison Bomb *Hazard 11*  
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

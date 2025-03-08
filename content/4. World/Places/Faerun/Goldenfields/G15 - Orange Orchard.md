@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Orange Orchard
-  - G15
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G14 - Herb Gardens
-next:
-  - G16 - Apple Orchard
-RWtopicId: Topic_333
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G15 - Orange Orchard
 ## Overview

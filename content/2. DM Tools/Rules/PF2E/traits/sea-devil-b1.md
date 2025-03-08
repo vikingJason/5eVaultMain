@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/creature
-aliases: ["Sea Devil"]
+tags: []
+aliases:
+  - Sea Devil
 ---
 # Sea Devil  
 *Source: Bestiary p. 347*  

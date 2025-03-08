@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Paralyzed
 
 A paralyzed creature is [[Incapacitated]] and can’t move or speak.

@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe6
-- trait/magical
-- trait/transmutation
-- trait/trap
-aliases: ["Living Paints"]
+tags: []
+aliases:
+  - Living Paints
 ---
 # Living Paints *Hazard 19*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

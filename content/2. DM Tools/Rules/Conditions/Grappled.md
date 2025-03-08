@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Grappled
 
 The condition also ends if an effect removes the grappled creature from the reach of the grappler or grapple effect, such as when a creature is hurled away by the Thunderwave spell.

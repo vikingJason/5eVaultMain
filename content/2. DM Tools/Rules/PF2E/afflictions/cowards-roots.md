@@ -1,16 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/4
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/enchantment
-- trait/fear
-- trait/magical
-- trait/mental
-aliases: ["Coward's Roots"]
+aliases:
+  - Coward's Roots
+tags: []
 ---
 # Coward's Roots
 *Curse 4*  

@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Felzoun's Folly
-Tags: Category/Merchant Suffix/Tavern
-Goods-Sold: Food and Drink
-Services-Sold: Food
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - The Plinth (City Building _ Temple)
-next:
-  - Surtlan's Metalwares (Business)
-RWtopicId: Topic_122
 Owner:
   - - Felzoun Thar
 Type: placeholder

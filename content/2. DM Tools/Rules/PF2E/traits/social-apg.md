@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/apg
-- trait/category/feat
-aliases: ["Social"]
+tags: []
+aliases:
+  - Social
 ---
 # Social  
 *Source: Advanced Player's Guide p. 270*  

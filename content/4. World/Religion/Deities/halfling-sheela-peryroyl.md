@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mtf
-  - deity/halfling
-  - domain/nature
-  - domain/tempest
-aliases:
-  - Sheela Peryroyl
+{}
 ---
 # Sheela Peryroyl
 *Source: Mordenkainen's Tome of Foes p. 103* 

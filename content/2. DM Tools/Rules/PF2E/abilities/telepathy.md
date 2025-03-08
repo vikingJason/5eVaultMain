@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-tags:
-- trait/aura
-- trait/divination
-- trait/magical
-aliases: ["Telepathy"]
+tags: []
+aliases:
+  - Telepathy
 ---
 # Telepathy
 [aura](rules/traits/aura.md "Aura Combat Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  

@@ -1,22 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Smilin' Boar
-Tags: Category/Merchant Suffix/Cafe
-Services-Sold: Food
-Prices: Average
 Quality: Average
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Three Old Kegs (Inn & Tavern)
-next:
-  - The Blade and Stars (Inn)
-RWtopicId: Topic_643
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # The Smilin' Boar (Cafe)
 ## Overview

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/complex
-- trait/environmental
-aliases: ["Quicksand"]
+tags: []
+aliases:
+  - Quicksand
 ---
 # Quicksand *Hazard 3*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

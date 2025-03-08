@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/magus-som
-- compendium/src/pf2e/som
-- trait/concentrate
-- trait/magus
-- trait/stance
-aliases: ["Arcane Cascade"]
+aliases:
+  - Arcane Cascade
+tags: []
 ---
 # Arcane Cascade [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  

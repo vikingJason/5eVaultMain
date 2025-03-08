@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/creature
-- trait/category/effect
-aliases: ["Mental"]
+tags: []
+aliases:
+  - Mental
 ---
 # Mental  
 *Source: Core Rulebook p. 634*  

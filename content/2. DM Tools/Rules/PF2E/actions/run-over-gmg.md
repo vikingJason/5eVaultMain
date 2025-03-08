@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/move
-- trait/reckless
-aliases: ["Run Over"]
+aliases:
+  - Run Over
+tags: []
 ---
 # Run Over [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 [move](rules/traits/move.md "Move Combat Trait")  [reckless](rules/traits/reckless-gmg.md "Reckless Action & Ability Trait")  

@@ -20,6 +20,7 @@ services:
   - Common Room (Sleeping)( Low   quality, Average  costs)
   - Room (Meeting)( Excellent   quality, Above Average  costs)
 Region: '"[[Borfaldor]]"'
+tags: []
 ---
 
 

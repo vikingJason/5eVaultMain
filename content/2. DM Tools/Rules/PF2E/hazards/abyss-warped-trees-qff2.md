@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff2
-- trait/complex
-- trait/environmental
-- trait/unique
-aliases: ["Abyss-Warped Trees"]
+tags: []
+aliases:
+  - Abyss-Warped Trees
 ---
 # Abyss-Warped Trees *Hazard 4*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  

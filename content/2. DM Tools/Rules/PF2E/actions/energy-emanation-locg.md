@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/dwarf
-- compendium/src/pf2e/locg
-aliases: ["Energy Emanation"]
+aliases:
+  - Energy Emanation
+tags: []
 ---
 # Energy Emanation [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 *Source: Lost Omens: Character Guide p. 19*  

@@ -1,17 +1,12 @@
 ---
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Barbarian
 Character-Role: Neutral
 parent:
   - Spokesman's House
-up:
-  - Spokesman's House
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Revjak
 ## Overview

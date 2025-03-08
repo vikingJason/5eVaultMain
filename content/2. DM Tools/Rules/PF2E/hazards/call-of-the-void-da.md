@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/da
-- trait/complex
-- trait/environmental
-- trait/magical
-- trait/unique
-aliases: ["Call of the Void"]
+tags: []
+aliases:
+  - Call of the Void
 ---
 # Call of the Void *Hazard 12*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  

@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/2
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/illusion
-- trait/magical
-- trait/mental
-aliases: ["Curse of Nightmares"]
+aliases:
+  - Curse of Nightmares
+tags: []
 ---
 # Curse of Nightmares
 *Curse 2*  

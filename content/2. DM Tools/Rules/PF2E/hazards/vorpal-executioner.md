@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/mechanical
-- trait/trap
-aliases: ["Vorpal Executioner"]
+tags: []
+aliases:
+  - Vorpal Executioner
 ---
 # Vorpal Executioner *Hazard 19*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

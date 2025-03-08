@@ -1,3 +1,6 @@
+---
+tags: []
+---
 **[Blinded](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Blinded):** All terrain is difficult. Critically fail vision-based [Perception](../../../TTRPGShare-Pathfinder-2E-Vault/compendium/skills.md#Perception) checks and -4 status penalty to other [Perception](../../../TTRPGShare-Pathfinder-2E-Vault/compendium/skills.md#Perception) Checks.
 
 **[[Clumsy]]:** Your movements become clumsy. Clumsy always includes a value. You take a status penalty equal to the condition value to Dexterity-based checks and DCs, including AC, Reflex saves, ranged attack rolls, and Acrobatics, Stealth, and Thievery.

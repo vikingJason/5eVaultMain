@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Hawk's Nest
-next:
-  - High Forest
-RWtopicId: Topic_450
 Type: placeholder
 Region: placeholder
 ---

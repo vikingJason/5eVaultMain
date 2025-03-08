@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Hops Field
-  - G19
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G18 - Barley Field
-next:
-  - G20 - Pumpkin Patch
-RWtopicId: Topic_352
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G19 - Hops Field
 ## Overview

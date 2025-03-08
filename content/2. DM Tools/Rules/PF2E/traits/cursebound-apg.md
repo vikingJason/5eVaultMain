@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/apg
-- trait/category/spell
-aliases: ["Cursebound"]
+tags: []
+aliases:
+  - Cursebound
 ---
 # Cursebound  
 *Source: Advanced Player's Guide p. 267*  

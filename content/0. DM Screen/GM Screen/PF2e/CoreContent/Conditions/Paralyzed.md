@@ -5,8 +5,7 @@ aliases:
   - Paralyzed
   - paralysis
 foundryId: Item.8Vk0UKs12lw7y0Yk
-tags:
-  - pf2econdition
+tags: []
 effect: " **Off-Guard **condition, and actions with only **Mental** trait."
 ---
 ![[gm_paralyzed.png|150]]

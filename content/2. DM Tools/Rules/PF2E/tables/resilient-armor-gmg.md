@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Resilient Armor"]
+tags: []
+aliases:
+  - Resilient Armor
 ---
 # Resilient Armor  
 *Source: Gamemastery Guide p. 197*  

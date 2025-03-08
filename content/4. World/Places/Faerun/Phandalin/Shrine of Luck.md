@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
-parent:
-  - Phandalin
-up:
-  - Phandalin
-prev:
-  - Alderleaf Farm
-next:
-  - The Sleeping Giant
-RWtopicId: Topic_68
 Type: placeholder
 Region: placeholder
 ---

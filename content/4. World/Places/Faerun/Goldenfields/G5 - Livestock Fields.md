@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Livestock Fields
-  - G5
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G4 - Grain Towers
-next:
-  - G9 - Goldengulp Brewery
-RWtopicId: Topic_327
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G5 - Livestock Fields
 ## Overview

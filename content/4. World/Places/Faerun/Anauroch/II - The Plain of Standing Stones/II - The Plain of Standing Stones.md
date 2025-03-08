@@ -1,30 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Plain of Standing Stones
-Tags: Category/Region--Geographical
 Geographical-Region: Mountains
 Terrain: Treacherous
 Climate: Arctic
-parent:
-  - Anauroch
-up:
-  - Anauroch
-next:
-  - III - The High Ice
-down:
-  - Aerithae's Rest
-  - Fallen Giant Rift
-  - Heroes' Helm
-  - The Hidden Valley of Srindin
-  - The Pillar of Tauros
-  - The River of Gems
-  - The Shattered Tower
-  - The Swordpoint
-  - The Throat
-  - Spellgard
-  - Oreme
-RWtopicId: Topic_709
 Type: placeholder
 Region: placeholder
 ---

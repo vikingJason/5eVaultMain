@@ -1,22 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Felogyr's Fireworks
-Tags: Category/Merchant Suffix/Fireworks-Shop
-Goods-Sold: Other
-Prices: Average
 Quality: Average
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Counting House
-next:
-  - The Blushing Mermaid (Inn & Tavern)
-RWtopicId: Topic_638
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Felogyr's Fireworks (Fireworks Shop)
 ## Overview

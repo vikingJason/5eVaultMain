@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/15
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/magical
-- trait/transmutation
-aliases: ["Unending Thirst"]
+aliases:
+  - Unending Thirst
+tags: []
 ---
 # Unending Thirst
 *Curse 15*  

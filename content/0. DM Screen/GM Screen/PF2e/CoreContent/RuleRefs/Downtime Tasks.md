@@ -1,10 +1,9 @@
 ---
-title: "Downtime Tasks"
+title: Downtime Tasks
 noteType: ":sticky-note:"
-aliases: "Downtime Tasks"
+aliases: Downtime Tasks
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.SpWLU1ixQRT6rkUP
-tags:
-  - Downtime
+tags: []
 ---
 
 # Downtime Tasks

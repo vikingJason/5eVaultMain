@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/ec3
-- trait/category/ancestry-heritage
-- trait/category/creature
-aliases: ["Shoony"]
+tags: []
+aliases:
+  - Shoony
 ---
 # Shoony  
 *Source: Extinction Curse #3: Life's Long Shadows p. 82*  

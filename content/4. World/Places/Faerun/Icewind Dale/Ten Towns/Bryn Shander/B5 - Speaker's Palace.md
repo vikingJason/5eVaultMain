@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Speaker's Palace
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B4 - House of the Triad
-next:
-  - B6 - Town Hall
-RWtopicId: Topic_315
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B5 - Speaker's Palace
 ## Overview

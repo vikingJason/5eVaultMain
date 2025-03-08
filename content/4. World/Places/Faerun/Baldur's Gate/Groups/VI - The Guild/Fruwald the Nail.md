@@ -1,20 +1,10 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Race: Human
-Gender: Male
 Age: Adult
 Class: Rogue
-Mental-Traits: Courageous
-parent:
-  - VI - The Guild
-up:
-  - VI - The Guild
-prev:
-  - Rilsa Rael
-RWtopicId: Topic_685
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Fruwald the Nail
 ## Overview

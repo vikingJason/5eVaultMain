@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## Notable Areas
 
 1. Arena

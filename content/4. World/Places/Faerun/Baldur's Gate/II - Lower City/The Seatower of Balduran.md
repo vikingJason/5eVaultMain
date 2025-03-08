@@ -1,19 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
 Type:
   - Area
   - placeholder
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Gray Harbor
-next:
-  - Bloomridge
-RWtopicId: Topic_647
 Region: placeholder
+tags: []
 ---
 # The Seatower of Balduran
 ## Overview

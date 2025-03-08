@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec1
-- trait/mechanical
-- trait/trap
-aliases: ["Envenomed Thorns Trap"]
+tags: []
+aliases:
+  - Envenomed Thorns Trap
 ---
 # Envenomed Thorns Trap *Hazard 2*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

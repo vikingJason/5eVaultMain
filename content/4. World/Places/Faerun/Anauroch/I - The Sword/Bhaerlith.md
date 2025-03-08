@@ -1,18 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Oasis
-"": Arid
 Climate: Arid
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - Azirrhat
-next:
-  - Colored Waters
-RWtopicId: Topic_760
 Type: placeholder
 Region: placeholder
 ---

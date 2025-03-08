@@ -1,11 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-feat
-tags:
-  - compendium/src/5e/toh
-  - optional-feature/fs-f
-  - optional-feature/fs-p
-  - optional-feature/fs-r
+tags: []
 aliases:
   - Gunfighting
 ---

@@ -1,21 +1,12 @@
 ---
-tags:
-  - Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Barthen's Provisions
-up:
-  - Barthen's Provisions
-prev:
-  - Ander
-Type:
-  - placeholder
 Region: placeholder
+Type: NPC
 ---
 # Thistle
 ## Overview

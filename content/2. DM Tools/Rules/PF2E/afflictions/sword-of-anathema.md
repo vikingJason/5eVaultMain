@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/20
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/divine
-- trait/evocation
-aliases: ["Sword of Anathema"]
+aliases:
+  - Sword of Anathema
+tags: []
 ---
 # Sword of Anathema
 *Curse 20*  

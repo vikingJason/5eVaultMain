@@ -1,25 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Wanderer
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Waterdeep
-up:
-  - Waterdeep
-prev:
-  - Red Sashes
-next:
-  - Waterdeep Zoo
-RWtopicId: Topic_226
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Durnan
 ## Overview

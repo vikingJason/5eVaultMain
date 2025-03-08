@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/phb
-  - deity/norse
-  - domain/death
-aliases:
-  - Hel
+{}
 ---
 # Hel
 *Source: Player's Handbook p. 299* 

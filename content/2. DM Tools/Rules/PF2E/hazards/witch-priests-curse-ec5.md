@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec5
-- trait/curse
-- trait/magical
-- trait/trap
-aliases: ["Witch-priests' Curse"]
+tags: []
+aliases:
+  - Witch-priests' Curse
 ---
 # Witch-priests' Curse *Hazard 18*  
 [curse](rules/traits/curse.md "Curse Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

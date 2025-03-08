@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/move
-aliases: ["Maneuver in Flight"]
+aliases:
+  - Maneuver in Flight
+tags: []
 ---
 # Maneuver in Flight (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [move](rules/traits/move.md "Move Combat Trait")  

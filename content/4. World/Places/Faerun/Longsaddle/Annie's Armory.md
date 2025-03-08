@@ -1,14 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Merchant
-Goods-Sold: Protection
-parent:
-  - Longsaddle
-up:
-  - Longsaddle
-RWtopicId: Topic_20
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Annie's Armory
 ## Goods and Services

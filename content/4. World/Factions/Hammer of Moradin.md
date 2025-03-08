@@ -1,16 +1,8 @@
 ---
-ImportedOn: Saturday, 8 January 2022 7:06:05 PM
-Tags: Category/Group--Military
 Type: Military
 parent:
   - Group_ Military
-up:
-  - Group_ Military
-prev:
-  - 1358 - 1385 - Era of Upheaval
-next:
-  - Homebrew - Equipment
-RWtopicId: Topic_49
+tags: []
 ---
 # Hammer of Moradin
 ## Overview

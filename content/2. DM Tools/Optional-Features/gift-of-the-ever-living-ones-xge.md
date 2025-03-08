@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-feat
-tags:
-  - compendium/src/5e/xge
-  - optional-feature/ei
+tags: []
 aliases:
   - Gift of the Ever-Living Ones
 ---

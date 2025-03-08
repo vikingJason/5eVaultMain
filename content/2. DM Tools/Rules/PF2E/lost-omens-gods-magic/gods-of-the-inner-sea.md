@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/logm
-aliases: ["gods-of-the-inner-sea"]
+tags: []
+aliases:
+  - gods-of-the-inner-sea
 ---
 # Gods of the Inner Sea
 <sup>LOGM p. 10</sup>

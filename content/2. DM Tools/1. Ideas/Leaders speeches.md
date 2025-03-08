@@ -1,3 +1,6 @@
+---
+tags: []
+---
 **1. King Arion of the Golden Sun**
 
 "Beloved subjects of the realm, on this auspicious day, I stand before you with a heart brimming with gratitude. You, the radiant rays that illuminate the kingdom with warmth and prosperity, are the true treasures of Kaedimoor. Like the resplendent sun that graces our skies, your unwavering loyalty and tireless endeavors have been the foundation of our strength.

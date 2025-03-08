@@ -2,8 +2,7 @@
 title: Invisible
 aliases:
   - Invisible
-tags:
-  - 5eCondition
+tags: []
 effect: Hidden to non-magical sight, attack rolls have **advantage**.
 ---
 

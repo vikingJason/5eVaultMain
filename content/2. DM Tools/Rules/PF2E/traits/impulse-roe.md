@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/roe
-- trait/category/action-ability
-aliases: ["Impulse"]
+tags: []
+aliases:
+  - Impulse
 ---
 # Impulse  
 *Source: Rage of Elements p. 15*  

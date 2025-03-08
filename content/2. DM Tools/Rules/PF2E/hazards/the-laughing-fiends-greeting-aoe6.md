@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe6
-- trait/magical
-- trait/trap
-aliases: ["The Laughing Fiend's Greeting"]
+tags: []
+aliases:
+  - The Laughing Fiend's Greeting
 ---
 # The Laughing Fiend's Greeting *Hazard 20*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

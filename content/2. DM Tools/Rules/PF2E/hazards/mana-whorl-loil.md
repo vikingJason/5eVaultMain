@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/loil
-- trait/complex
-- trait/environmental
-- trait/magical
-aliases: ["Mana Whorl"]
+tags: []
+aliases:
+  - Mana Whorl
 ---
 # Mana Whorl *Hazard 7*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  

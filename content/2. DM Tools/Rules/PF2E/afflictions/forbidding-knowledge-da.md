@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse/tempted
-- affliction/level/10
-- compendium/src/pf2e/da
-- trait/abjuration
-- trait/curse
-- trait/magical
-- trait/rare
-aliases: ["Forbidding Knowledge"]
+aliases:
+  - Forbidding Knowledge
+tags: []
 ---
 # Forbidding Knowledge
 *Curse 10*  

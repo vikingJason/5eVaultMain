@@ -1,5 +1,5 @@
 ---
-NoteIcon: group
+tags: []
 ---
 > [!infobox]
 > # Purple Dragons

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec2
-- trait/environmental
-- trait/uncommon
-aliases: ["Ghost Crystal Cloud"]
+tags: []
+aliases:
+  - Ghost Crystal Cloud
 ---
 # Ghost Crystal Cloud *Hazard 8*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

@@ -1,21 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Watchful Shield
-Tags: Category/Location Suffix/Shrine-of-Helm
 Type:
   - Shrine
   - placeholder
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - The Unscrolling Scroll (Shrine of Oghma)
-next:
-  - Sorcerous Sundries (Reagent Shop)
-RWtopicId: Topic_632
 Region: placeholder
+tags: []
 ---
 # The Watchful Shield (Shrine of Helm)
 ## Overview

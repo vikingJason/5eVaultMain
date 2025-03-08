@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/magical
-- trait/trap
-aliases: ["Polymorph Trap"]
+tags: []
+aliases:
+  - Polymorph Trap
 ---
 # Polymorph Trap *Hazard 12*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

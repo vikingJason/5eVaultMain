@@ -1,3 +1,6 @@
+---
+Type: NPC
+---
 > [!statblocks|sban]
 > 
 > ![[Placeholder.jpg|right cover htiny wtiny circle lp]] 

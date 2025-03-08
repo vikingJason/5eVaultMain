@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/roe
-- trait/impulse
-- trait/kineticist
-- trait/primal
-aliases: ["Base Kinesis"]
+aliases:
+  - Base Kinesis
+tags: []
 ---
 # Base Kinesis [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  

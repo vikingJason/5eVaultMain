@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/da
-- trait/concentrate
-aliases: ["Recenter"]
+aliases:
+  - Recenter
+tags: []
 ---
 # Recenter [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  

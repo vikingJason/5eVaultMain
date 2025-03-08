@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/da
-- trait/category/action-ability
-- trait/category/combat
-aliases: ["Psyche"]
+tags: []
+aliases:
+  - Psyche
 ---
 # Psyche  
 *Source: Dark Archive p. 13*  

@@ -1,24 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Wyrm's Crossing
-Tags: Category/Region--Urban
 Urban-Region: Neigborhood
-Usage: Infrastructure
-parent:
-  - Baldur's Gate
-up:
-  - Baldur's Gate
-prev:
-  - III - Outer City
-next:
-  - Baldurs Gate Groups
-down:
-  - Danthelon's Dancing Axe (Secondhand Goods Shop)
-  - Wyrm's Rock
-RWtopicId: Topic_659
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # IV - Wyrm's Crossing
 ## Overview

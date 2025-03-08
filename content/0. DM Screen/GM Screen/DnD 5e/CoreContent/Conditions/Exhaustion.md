@@ -2,8 +2,7 @@
 title: Exhaustion
 aliases:
   - Exhaustion
-tags:
-  - 5eCondition
+tags: []
 effect: Exhaustion is measured in six levels An effect can give a creature one or more levels of exhaustion as specified in the effect’s description
 ---
 

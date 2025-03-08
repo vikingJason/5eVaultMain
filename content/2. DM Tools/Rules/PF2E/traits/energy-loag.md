@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/loag
-- trait/category/energy-element
-aliases: ["Energy"]
+tags: []
+aliases:
+  - Energy
 ---
 # Energy  
 *Source: Lost Omens: Ancestry Guide p. 139*  

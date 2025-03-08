@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Calling Horns
-next:
-  - Citadel Adbar
-RWtopicId: Topic_413
 Type: placeholder
 Region: placeholder
 ---

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/sot2
-- trait/environmental
-- trait/uncommon
-aliases: ["Agitated Carnivorous Plants"]
+tags: []
+aliases:
+  - Agitated Carnivorous Plants
 ---
 # Agitated Carnivorous Plants *Hazard 5*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

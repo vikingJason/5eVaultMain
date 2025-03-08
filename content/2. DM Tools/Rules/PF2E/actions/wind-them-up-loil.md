@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/gunslinger-g-g
-- compendium/src/pf2e/loil
-- trait/gunslinger
-aliases: ["Wind Them Up"]
+aliases:
+  - Wind Them Up
+tags: []
 ---
 # Wind Them Up [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

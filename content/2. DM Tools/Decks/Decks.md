@@ -1,5 +1,6 @@
 ---
 public: true
+tags: []
 ---
 # Index of Decks
 

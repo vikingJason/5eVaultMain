@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/1
-- compendium/src/pf2e/botd
-- trait/disease
-aliases: ["Waterborne Zombie Rot"]
+aliases:
+  - Waterborne Zombie Rot
+tags: []
 ---
 # Waterborne Zombie Rot
 *Disease 1*  

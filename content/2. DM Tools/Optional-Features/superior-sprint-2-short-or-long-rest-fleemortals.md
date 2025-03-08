@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-feat
-tags:
-  - compendium/src/5e/fleemortals
-  - optional-feature/oaf
+tags: []
 aliases:
   - Superior Sprint (2/Short or Long Rest)
 ---

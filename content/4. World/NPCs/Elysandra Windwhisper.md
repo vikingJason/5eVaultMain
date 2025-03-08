@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Elysandra Windwhisper
 Race: Elf
-Gender: Female
 Occupation: Enchanter
 Alignment: Chaotic Good
 Religion: Follower of Corellon Larethian
 Condition: Healthy
 Location: Enchanted Glade in the Forest of Whispers
 Groups: The Circle of Enchanters
-PartyStanding: Potential Ally
+Type: NPC
 ---
 
 # **Elysandra Windwhisper**

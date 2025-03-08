@@ -3,8 +3,9 @@ title: Hide
 aliases:
   - Hide
   - Stealth
-tags:
+type:
   - 5eAction
+tags: []
 ---
 
 ![[Hide.png|150]]

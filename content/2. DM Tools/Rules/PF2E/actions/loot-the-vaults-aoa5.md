@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa5
-- trait/exploration
-aliases: ["Loot the Vaults"]
+aliases:
+  - Loot the Vaults
+tags: []
 ---
 # Loot the Vaults
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

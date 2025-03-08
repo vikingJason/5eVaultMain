@@ -1,5 +1,4 @@
 ---
-alias: Caravan City, Overland City
 Type: placeholder
 Region: placeholder
 ---

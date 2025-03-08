@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec5
-- trait/complex
-- trait/magical
-- trait/mechanical
-- trait/trap
-aliases: ["Imperious Darkside Mirror"]
+tags: []
+aliases:
+  - Imperious Darkside Mirror
 ---
 # Imperious Darkside Mirror *Hazard 19*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/nagaji-loil
-- compendium/src/pf2e/loil
-aliases: ["Raise Neck"]
+aliases:
+  - Raise Neck
+tags: []
 ---
 # Raise Neck [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Lost Omens: Impossible Lands p. 48*  

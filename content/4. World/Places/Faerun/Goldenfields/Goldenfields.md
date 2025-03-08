@@ -1,38 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Glimmerwood
-next:
-  - Grandfather Tree
-down:
-  - G1 - Gatehouse
-  - G2 - Watch Posts
-  - G3 - Earth Mother's Bounty
-  - G4 - Grain Towers
-  - G5 - Livestock Fields
-  - G9 - Goldengulp Brewery
-  - G10 - Freshwater Spring
-  - G11 - Rice Paddies
-  - G12 - Vegetable Gardens
-  - G13 - Wheat Fields
-  - G14 - Herb Gardens
-  - G15 - Orange Orchard
-  - G16 - Apple Orchard
-  - G17 - Corn Field
-  - G18 - Barley Field
-  - G19 - Hops Field
-  - G20 - Pumpkin Patch
-  - G6 - Town
-  - G7 - Harvesthome Abbey
-  - G8 - Northfurrow's End
-RWtopicId: Topic_23
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Goldenfields
 ## Overview

@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/barbarian
-- compendium/src/pf2e/crb
-- trait/barbarian
-aliases: ["Mighty Rage"]
+aliases:
+  - Mighty Rage
+tags: []
 ---
 # Mighty Rage [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  

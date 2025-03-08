@@ -1,6 +1,5 @@
 ---
-tags:
-  - pf2eaction
+tags: []
 ---
 # `=this.file.name` `pf2:1`
 

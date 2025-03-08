@@ -1,19 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
 Type:
   - Facility
   - placeholder
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Candlekeep Chandlery (Chandlery)
-next:
-  - Felogyr's Fireworks (Fireworks Shop)
-RWtopicId: Topic_637
 Region: placeholder
+tags: []
 ---
 # Counting House
 ## Overview

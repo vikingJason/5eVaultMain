@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/gmg
-- trait/category/planar
-- trait/category/scope
-aliases: ["Finite"]
+tags: []
+aliases:
+  - Finite
 ---
 # Finite  
 *Source: Gamemastery Guide p. 251*  

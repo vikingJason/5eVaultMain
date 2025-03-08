@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Fascinated
 foundryId: Item.2KiKCxsJfQf2LQVJ
-tags:
-  - pf2econdition
+tags: []
 effect: Cannot use actions with Concentrate trait. -2 status penalty to skill checks.
 ---
 ![[gm_hypno.png|150]]

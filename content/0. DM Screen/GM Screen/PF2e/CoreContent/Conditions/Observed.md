@@ -1,10 +1,9 @@
 ---
-title: "Observed"
+title: Observed
 noteType: ":luggage:"
-aliases: "Observed"
+aliases: Observed
 foundryId: Item.vd97jb6czpakfX0j
-tags:
-  - Item
+tags: []
 ---
 
 # Observed

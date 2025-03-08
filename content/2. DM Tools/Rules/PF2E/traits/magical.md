@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/item
-aliases: ["Magical"]
+tags: []
+aliases:
+  - Magical
 ---
 # Magical  
 *Source: Core Rulebook p. 633*  

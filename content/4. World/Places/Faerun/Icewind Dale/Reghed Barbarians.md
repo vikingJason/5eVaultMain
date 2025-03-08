@@ -1,17 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Other
-parent:
-  - Icewind Dale
-up:
-  - Icewind Dale
-prev:
-  - Ten Towns
-next:
-  - Kelvin's Cairn
-RWtopicId: Topic_193
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Reghed Barbarians
 ## Overview

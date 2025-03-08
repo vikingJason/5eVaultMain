@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/g&g
-aliases: ["Innovation Armor Statistics"]
+tags: []
+aliases:
+  - Innovation Armor Statistics
 ---
 # Innovation Armor Statistics  
 *Source: Guns & Gears p. 16*  

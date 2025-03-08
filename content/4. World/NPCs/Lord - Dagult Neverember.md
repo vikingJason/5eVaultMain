@@ -1,23 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Dagult Neverember
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Supporting Character
 parent:
   - 1 - Ruler
-up:
-  - 1 - Ruler
-down:
-  - Neverwinter Nine
-RWtopicId: Topic_18
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Lord - Dagult Neverember
 ## Overview

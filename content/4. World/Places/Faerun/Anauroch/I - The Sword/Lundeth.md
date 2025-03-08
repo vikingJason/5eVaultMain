@@ -1,16 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-Community-Size: Village
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - Lion's Eye Oasis
-next:
-  - Ma'atar
-RWtopicId: Topic_768
 Type: placeholder
 Region: placeholder
 ---

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/logm
-aliases: ["Uncommon Martial Ranged Weapons"]
+tags: []
+aliases:
+  - Uncommon Martial Ranged Weapons
 ---
 # Uncommon Martial Ranged Weapons  
 *Source: Lost Omens: Gods & Magic p. 120*  

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/school
-- trait/category/spell/transmutation
-aliases: ["Transmutation"]
+tags: []
+aliases:
+  - Transmutation
 ---
 # Transmutation  
 *Source: Core Rulebook p. 637*  

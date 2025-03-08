@@ -5,6 +5,7 @@ PromptInfo:
   description: Generate a fantasy Settlement.
   tags: fantasy, ttrpg
   version: 0.0.1
+tags: []
 ---
 https://chatgpt.com/c/156b8141-2057-4030-b75d-2d9d7e7b9731
 

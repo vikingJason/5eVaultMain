@@ -1,8 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-tags:
-  - compendium/src/5e/3mx-modnar
+tags: []
 aliases:
   - 1372 Roadside Encounter Ideas
 ---

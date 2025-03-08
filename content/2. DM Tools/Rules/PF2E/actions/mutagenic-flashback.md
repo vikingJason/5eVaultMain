@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/alchemist
-- compendium/src/pf2e/crb
-- trait/alchemist
-aliases: ["Mutagenic Flashback"]
+aliases:
+  - Mutagenic Flashback
+tags: []
 ---
 # Mutagenic Flashback [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  

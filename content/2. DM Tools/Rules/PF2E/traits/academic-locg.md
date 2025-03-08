@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/locg
-- trait/category/general
-aliases: ["Academic"]
+tags: []
+aliases:
+  - Academic
 ---
 # Academic  
 *Source: Lost Omens: Character Guide p. 132*  

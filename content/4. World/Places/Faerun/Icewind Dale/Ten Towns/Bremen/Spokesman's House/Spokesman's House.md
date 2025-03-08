@@ -1,19 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
-parent:
-  - Bremen
-up:
-  - Bremen
-prev:
-  - Statue of Rolph Bremen
-next:
-  - Town Hall
-down:
-  - Revjak
-RWtopicId: Topic_33
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Spokesman's House
 ## Overview

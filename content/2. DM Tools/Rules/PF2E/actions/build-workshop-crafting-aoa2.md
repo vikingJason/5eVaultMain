@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa2
-- trait/downtime
-- trait/manipulate
-aliases: ["Build Workshop (Crafting)"]
+aliases:
+  - Build Workshop (Crafting)
+tags: []
 ---
 # Build Workshop (Crafting)
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

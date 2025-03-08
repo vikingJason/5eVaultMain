@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/loil
-- trait/category/ancestry-heritage
-aliases: ["Vanara"]
+tags: []
+aliases:
+  - Vanara
 ---
 # Vanara  
 *Source: Lost Omens: Impossible Lands p. 343*  

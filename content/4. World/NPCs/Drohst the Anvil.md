@@ -1,22 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-tags:
-  - Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Armor Shop
-up:
-  - Armor Shop
-RWtopicId: Topic_246
-Owner: Armor Shop
-Type:
-  - placeholder
 Region: placeholder
+Type: NPC
 ---
 # Drohst the Anvil
 ## Overview

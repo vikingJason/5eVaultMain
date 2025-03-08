@@ -1,20 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Merchant
-Goods-Sold: Protection
-parent:
-  - Merchant Square
-up:
-  - Merchant Square
-prev:
-  - Equipment Shop
-next:
-  - Clothing Shop
-down:
-  - Drohst the Anvil
-RWtopicId: Topic_229
-Subsidiary:
-  - - Drohst the Anvil
 Type: placeholder
 Region: placeholder
 ---

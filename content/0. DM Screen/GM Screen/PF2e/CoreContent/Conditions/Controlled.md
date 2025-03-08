@@ -1,10 +1,9 @@
 ---
-title: "Controlled"
+title: Controlled
 noteType: ":luggage:"
-aliases: "Controlled"
+aliases: Controlled
 foundryId: Item.oslJeC7KzsJV9Mw8
-tags:
-  - pf2econdition
+tags: []
 effect: Someone else is making your decisions for you.
 ---
 ![[gm_charmed.png|150]]

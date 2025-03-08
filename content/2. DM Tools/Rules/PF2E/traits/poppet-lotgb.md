@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/lotgb
-- trait/category/ancestry-heritage
-- trait/category/creature
-aliases: ["Poppet"]
+tags: []
+aliases:
+  - Poppet
 ---
 # Poppet  
 *Source: Lost Omens: The Grand Bazaar p. 134*  

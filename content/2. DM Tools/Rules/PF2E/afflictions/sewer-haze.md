@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/7
-- compendium/src/pf2e/gmg
-- trait/disease
-- trait/virulent
-aliases: ["Sewer Haze"]
+aliases:
+  - Sewer Haze
+tags: []
 ---
 # Sewer Haze
 *Disease 7*  

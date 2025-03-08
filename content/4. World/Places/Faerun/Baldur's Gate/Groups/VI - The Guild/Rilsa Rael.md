@@ -1,21 +1,10 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Race: Human
-Gender: Female
 Age: Adult
 Class: Rogue
-parent:
-  - VI - The Guild
-up:
-  - VI - The Guild
-prev:
-  - _Nine-Fingers_ Keene
-next:
-  - Fruwald the Nail
-RWtopicId: Topic_684
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Rilsa Rael
 ## Overview

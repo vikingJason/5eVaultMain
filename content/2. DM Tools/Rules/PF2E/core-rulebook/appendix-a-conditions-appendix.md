@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["appendix-a-conditions-appendix"]
+tags: []
+aliases:
+  - appendix-a-conditions-appendix
 ---
 # Conditions Appendix
 <sup>CRB p. 618</sup>

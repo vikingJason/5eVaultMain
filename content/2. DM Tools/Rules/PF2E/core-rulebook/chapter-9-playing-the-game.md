@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-9-playing-the-game"]
+tags: []
+aliases:
+  - chapter-9-playing-the-game
 ---
 # Chapter 9: Playing the Game
 <sup>CRB p. 443</sup>

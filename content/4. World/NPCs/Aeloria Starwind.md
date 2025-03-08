@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Aeloria Starwind
 Race: Half-Elf
-Gender: Female
 Occupation: Enchanter
 Alignment: Chaotic Good
 Religion: Sehanine Moonbow
 Condition: Alive
 Location: Elmswatch Enclave
 Groups: The Moonlit Order
-PartyStanding: Friendly
+Type: NPC
 ---
 # **Aeloria Starwind**
 

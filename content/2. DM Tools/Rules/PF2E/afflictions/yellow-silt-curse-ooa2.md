@@ -1,16 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/6
-- compendium/src/pf2e/ooa2
-- trait/curse
-- trait/enchantment
-- trait/fear
-- trait/magical
-- trait/mental
-aliases: ["Yellow Silt Curse"]
+aliases:
+  - Yellow Silt Curse
+tags: []
 ---
 # Yellow Silt Curse
 *Curse 6*  

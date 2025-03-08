@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw1
-- trait/complex
-- trait/evocation
-- trait/magical
-- trait/shadow
-- trait/trap
-aliases: ["Shadow Guards"]
+tags: []
+aliases:
+  - Shadow Guards
 ---
 # Shadow Guards *Hazard 2*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [shadow](rules/traits/shadow.md "Shadow General Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

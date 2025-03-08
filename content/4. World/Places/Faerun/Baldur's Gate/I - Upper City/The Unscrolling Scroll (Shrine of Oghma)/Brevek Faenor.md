@@ -1,16 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
-Gender: Male
 Race: Human
 Age: Adult
-parent:
-  - The Unscrolling Scroll (Shrine of Oghma)
-up:
-  - The Unscrolling Scroll (Shrine of Oghma)
-RWtopicId: Topic_631
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Brevek Faenor
 ## Overview

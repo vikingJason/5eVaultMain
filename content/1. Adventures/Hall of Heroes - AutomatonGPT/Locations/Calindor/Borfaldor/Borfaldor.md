@@ -1,7 +1,6 @@
 ---
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-tags:
-  - Category/Region--Political
+tags: []
 Political-Region: Nation
 Alignment: Chaotic Evil
 parent:

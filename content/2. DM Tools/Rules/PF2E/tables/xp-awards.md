@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["XP Awards"]
+tags: []
+aliases:
+  - XP Awards
 ---
 # XP Awards  
 *Source: Core Rulebook p. 508*  

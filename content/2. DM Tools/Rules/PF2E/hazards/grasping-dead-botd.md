@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/complex
-- trait/haunt
-aliases: ["Grasping Dead"]
+tags: []
+aliases:
+  - Grasping Dead
 ---
 # Grasping Dead *Hazard 5*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

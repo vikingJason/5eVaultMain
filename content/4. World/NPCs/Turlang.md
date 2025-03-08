@@ -1,19 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Treant
-Gender: Male
-Age: Adult
 Class: Druid
 Character-Role: Neutral
 parent:
   - Shadowtop Cathedral
-up:
-  - Shadowtop Cathedral
-RWtopicId: Topic_72
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Turlang
 ## Overview

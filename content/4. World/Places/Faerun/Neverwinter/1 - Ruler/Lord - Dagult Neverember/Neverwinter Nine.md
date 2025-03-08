@@ -1,14 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Military
 Type:
   - Military
   - placeholder
-parent:
-  - Lord - Dagult Neverember
-up:
-  - Lord - Dagult Neverember
-RWtopicId: Topic_173
 Region: placeholder
 ---
 # Neverwinter Nine

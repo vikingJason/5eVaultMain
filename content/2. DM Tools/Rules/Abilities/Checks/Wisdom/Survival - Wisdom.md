@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Survival
 
 The GM might ask you to make a Survival check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Barovian Lore
 
 Typical Barovians know certain facts, or have certain beliefs, about their existence and their surroundings. This common lore is summarized here. Characters can learn this information after earning a Barovian's trust.

@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse/tempted
-- affliction/level/5
-- compendium/src/pf2e/da
-- trait/curse
-- trait/magical
-- trait/necromancy
-- trait/rare
-aliases: ["Unraveling Skin"]
+aliases:
+  - Unraveling Skin
+tags: []
 ---
 # Unraveling Skin
 *Curse 5*  

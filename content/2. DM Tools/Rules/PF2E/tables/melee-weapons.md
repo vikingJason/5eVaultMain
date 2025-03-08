@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Melee Weapons"]
+tags: []
+aliases:
+  - Melee Weapons
 ---
 # Melee Weapons  
 *Source: Core Rulebook p. 280*  

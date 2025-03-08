@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/som
-aliases: ["chapter-1-essentials-of-magic"]
+tags: []
+aliases:
+  - chapter-1-essentials-of-magic
 ---
 # Chapter 1: Essentials of Magic
 <sup>SoM p. 7</sup>

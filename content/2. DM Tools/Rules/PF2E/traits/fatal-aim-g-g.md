@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/g&g
-- trait/category/weapon
-aliases: ["Fatal Aim"]
+tags: []
+aliases:
+  - Fatal Aim
 ---
 # Fatal Aim  
 *Source: Guns & Gears p. 150*  

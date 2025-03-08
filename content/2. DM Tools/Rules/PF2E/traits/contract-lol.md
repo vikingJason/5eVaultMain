@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/lol
-- trait/category/item
-aliases: ["Contract"]
+tags: []
+aliases:
+  - Contract
 ---
 # Contract  
 *Source: Lost Omens: Legends p. 126*  

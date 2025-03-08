@@ -1,12 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/dmg
-  - deity/dawn-war
-  - domain/tempest
-aliases:
-  - Kord
+Alignment: Chaotic Neutral
+Domains:
+  - Tempest
+Pantheon: Dawn War
 ---
 # Kord
 *Source: Dungeon Master's Guide p. 10* 

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-tags:
-- trait/divination
-- trait/mental
-- trait/occult
-aliases: ["Coven"]
+tags: []
+aliases:
+  - Coven
 ---
 # Coven
 [divination](rules/traits/divination.md "Divination School Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  

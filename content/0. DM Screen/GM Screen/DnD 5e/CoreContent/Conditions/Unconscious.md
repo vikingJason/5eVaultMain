@@ -2,8 +2,7 @@
 title: Unconscious
 aliases:
   - Unconscious
-tags:
-  - 5eCondition
+tags: []
 effect: Incapacitated,can’t move, speak or act, and is unaware of its surroundings.
 ---
 ![[Unconscious.png|150]]

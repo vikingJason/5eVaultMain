@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Encumbered
 foundryId: Item.3gYNWyTHJ7cLVqfn
-tags:
-  - pf2econdition
+tags: []
 effect: " **Clumsy** 1 and -10 foot speed."
 ---
 ![[gm_encumbered.png|150]]

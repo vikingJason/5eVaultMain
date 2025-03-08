@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Rice Paddies
-  - G11
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G10 - Freshwater Spring
-next:
-  - G12 - Vegetable Gardens
-RWtopicId: Topic_329
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G11 - Rice Paddies
 ## Overview

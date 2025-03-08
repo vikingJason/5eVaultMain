@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Mountains
 Climate: Arctic
-parent:
-  - III - The High Ice
-up:
-  - III - The High Ice
-prev:
-  - LLashloch (The Lake of Ice)
-next:
-  - Untrivvin
-RWtopicId: Topic_728
 Type: placeholder
 Region: placeholder
 ---

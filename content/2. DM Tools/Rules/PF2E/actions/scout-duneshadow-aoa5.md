@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa5
-- trait/concentrate
-- trait/exploration
-- trait/move
-aliases: ["Scout Duneshadow"]
+aliases:
+  - Scout Duneshadow
+tags: []
 ---
 # Scout Duneshadow
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  

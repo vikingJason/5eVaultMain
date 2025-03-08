@@ -1,3 +1,6 @@
+---
+{}
+---
 ![[Chauntea.png|right|300]]
 [[Chauntea.png|Show To Players]]
 

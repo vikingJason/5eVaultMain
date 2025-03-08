@@ -1,16 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/11
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/incapacitation
-- trait/magical
-- trait/necromancy
-- trait/sleep
-aliases: ["Curse of Slumber"]
+aliases:
+  - Curse of Slumber
+tags: []
 ---
 # Curse of Slumber
 *Curse 11*  

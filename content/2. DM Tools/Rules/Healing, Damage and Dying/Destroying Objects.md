@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## Destroying Objects
 
 ### Object Armor Class 

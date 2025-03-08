@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw1
-- trait/environmental
-- trait/fire
-- trait/water
-aliases: ["Sacred Geyser"]
+tags: []
+aliases:
+  - Sacred Geyser
 ---
 # Sacred Geyser *Hazard 3*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [water](rules/traits/water.md "Water Energy & Element Trait")  

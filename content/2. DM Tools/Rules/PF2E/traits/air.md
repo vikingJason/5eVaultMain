@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/energy-element
-- trait/category/planar
-aliases: ["Air"]
+tags: []
+aliases:
+  - Air
 ---
 # Air  
 *Source: Core Rulebook p. 628*  

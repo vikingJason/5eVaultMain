@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/sli
-- trait/complex
-- trait/magical
-- trait/trap
-- trait/uncommon
-aliases: ["Stalker Summoning Rune"]
+tags: []
+aliases:
+  - Stalker Summoning Rune
 ---
 # Stalker Summoning Rune *Hazard 7*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

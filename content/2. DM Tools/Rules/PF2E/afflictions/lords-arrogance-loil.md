@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/7
-- compendium/src/pf2e/loil
-- trait/curse
-- trait/enchantment
-- trait/magical
-- trait/mental
-aliases: ["Lord's Arrogance"]
+aliases:
+  - Lord's Arrogance
+tags: []
 ---
 # Lord's Arrogance
 *Curse 7*  

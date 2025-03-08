@@ -1,3 +1,6 @@
+---
+tags: []
+---
 The "Nullstone Prison" is a high-security facility located on a remote island in the middle of a vast ocean. It was built by a powerful archmage as a place to incarcerate the most dangerous magical criminals and otherworldly beings. The prison is a massive stone fortress with walls that are over 50 feet high and protected by a powerful anti-magic field that covers the entire island.
 
 The anti-magic field is created by a network of enchanted crystals that are buried deep underground. The crystals emit a powerful energy field that nullifies all magic within a certain radius. This makes it impossible for prisoners to cast spells, use magical items, or summon creatures to aid them in their escape. The only exceptions are the warden and a select few guards who are allowed to carry specially enchanted weapons that can penetrate the anti-magic field.

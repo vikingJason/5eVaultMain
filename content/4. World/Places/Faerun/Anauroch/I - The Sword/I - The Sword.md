@@ -1,52 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Sword
-Tags: Category/Region--Geographical
 Geographical-Region: Mountains
 Climate: Arid
 Terrain: Deserts
-parent:
-  - Anauroch
-up:
-  - Anauroch
-prev:
-  - Anauroch Groups
-next:
-  - V - Netheril
-down:
-  - Addas Babar
-  - Alagh's Pass
-  - At'ars Looking Glass
-  - Azirrhat
-  - Bhaerlith
-  - Colored Waters
-  - El Ma'ra
-  - El Rahalat
-  - Elah'Zad
-  - Hlaunga
-  - The Hills of Scent
-  - Lion's Eye Oasis
-  - Lundeth
-  - Ma'atar
-  - The Oasis of Vipers
-  - Olomaa
-  - Orofin
-  - The Quarter of Emptiness
-  - Rasilith
-  - The Saiyaddar
-  - The Scimitar Spires
-  - The Shoal of Thirst
-  - The Sister of Rains
-  - Tel Badir
-  - Vuerthyl
-  - The Wall of Fallen Djinn
-  - The Well of the Chasm
-  - The Well of Cloven Rock
-  - Vliyl
-  - The Black Road
-  - Thulanthar
-RWtopicId: Topic_755
 Type: placeholder
 Region: placeholder
 ---

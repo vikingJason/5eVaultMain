@@ -1,13 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - Phandalin
-up:
-  - Phandalin
-next:
-  - Barthen's Provisions
-RWtopicId: Topic_51
 Type: placeholder
 Region: placeholder
 ---

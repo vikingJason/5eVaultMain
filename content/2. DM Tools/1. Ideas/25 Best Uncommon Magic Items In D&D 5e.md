@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # 25 Best Uncommon Magic Items In D&D 5e
 
 

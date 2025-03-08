@@ -1,12 +1,11 @@
 ---
 type: Tavern
-tavernType: Cozy, Rustic Inn
 kingdom: The Silver Marches
 region: Starcrest
 settlementName: Starcrest
 wardName: Riverside Ward
-title: The Troll's Tollbooth
 ownerName: Martha Underbough
+tags: []
 ---
 
 # **The Troll's Tollbooth**

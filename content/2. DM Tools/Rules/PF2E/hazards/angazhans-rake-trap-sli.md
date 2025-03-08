@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/sli
-- trait/mechanical
-- trait/trap
-- trait/uncommon
-aliases: ["Angazhan's Rake Trap"]
+tags: []
+aliases:
+  - Angazhan's Rake Trap
 ---
 # Angazhan's Rake Trap *Hazard 7*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

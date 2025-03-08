@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/aoa2
-aliases: ["Hired Help"]
+tags: []
+aliases:
+  - Hired Help
 ---
 # Hired Help  
 *Source: Age of Ashes #2: Cult of Cinders p. 75*  

@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Rhyvesh
 Race: Darkling Elder
-Gender: Male
 Occupation: Former Council Member of the Tower of Luminaria
 Alignment: Neutral Evil
 Religion: Follows the Old Ways of the Fae
 Condition: Resentful and Ambitious
 Location: Unknown
 Groups: Fae Separatists
-PartyStanding: Villain
+Type: NPC
 ---
 
 # **Rhyvesh**

@@ -1,13 +1,11 @@
 ---
-title: "Healer's Gel (Moderate)"
+title: Healer's Gel (Moderate)
 noteType: ":luggage:"
-aliases: "Healer's Gel (Moderate)"
+aliases: Healer's Gel (Moderate)
 foundryId: Item.h1jYP2AXRJfuGbRZ
-tags:
-  - Item
-  - pf2eheal
+tags: []
 effect: Add 10 temporary Hit Points from **Heal** spell
-cost: "100 gp"
+cost: 100 gp
 ---
 ![[gm_heal.png|150]]
 # Healer's Gel (Moderate)

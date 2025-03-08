@@ -4,11 +4,9 @@ noteType: ":luggage:"
 aliases:
   - Healer's Gel (Greater)
 foundryId: Item.XEmiwpWc21aA3GmM
-tags:
-  - Item
-  - pf2eheal
+tags: []
 effect: Add 15 temporary Hit Points from **Heal** spell
-cost: "150 gp"
+cost: 150 gp
 ---
 ![[gm_heal.png|150]]
 # Healer's Gel (Greater)

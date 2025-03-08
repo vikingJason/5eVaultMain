@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Hills
 Climate: Temperate
-parent:
-  - II - The Plain of Standing Stones
-up:
-  - II - The Plain of Standing Stones
-prev:
-  - Fallen Giant Rift
-next:
-  - The Hidden Valley of Srindin
-RWtopicId: Topic_712
 Type: placeholder
 Region: placeholder
 ---

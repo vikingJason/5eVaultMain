@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mtf
-  - deity/elven
-  - domain/life
-  - domain/grave
-aliases:
-  - Naralis Analor
+{}
 ---
 # Naralis Analor
 *Source: Mordenkainen's Tome of Foes p. 43* 

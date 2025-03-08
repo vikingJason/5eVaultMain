@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/auditory
-- trait/concentrate
-- trait/emotion
-- trait/fear
-- trait/mental
-aliases: ["Demoralize"]
+aliases:
+  - Demoralize
+tags: []
 ---
 # Demoralize (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

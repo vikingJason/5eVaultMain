@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/1
-- compendium/src/pf2e/b1
-- trait/disease
-aliases: ["Ghast Fever"]
+aliases:
+  - Ghast Fever
+tags: []
 ---
 # Ghast Fever
 *Disease 1*  

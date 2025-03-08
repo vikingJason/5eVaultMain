@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/frp2
-- trait/cold
-- trait/complex
-- trait/magical
-- trait/rare
-- trait/trap
-aliases: ["Freezing Floor Tiles"]
+tags: []
+aliases:
+  - Freezing Floor Tiles
 ---
 # Freezing Floor Tiles *Hazard 16*  
 [cold](rules/traits/cold.md "Cold Energy & Element Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 Instead for Vidar, he meets a missionary (or is asked by Lady Wachter) in Vallaki who offers information about his father in exchange for helping him spread the word of the Nightmother in Barovia. The priest shares the story of how his father was the head of an noble family that disappeared after the Patriarch was caught stealing from Castle Ravenloft and imprisoned by Strahd. Rumour has it that he sacrificed his wealth and safety so Tymora would bless his wife and son, and keep them safe. 
 The Durst family learned of this, and informed Strahd trying to gain his favour. Vidar is currently possessed by the ghost of Rose Durst. The spirit of Rose  will get angrier the more that Vidar learns.
 Spreading the word of the Nightmother strengthens Vidar's cleric connection with her, and weakens it with Tymora.

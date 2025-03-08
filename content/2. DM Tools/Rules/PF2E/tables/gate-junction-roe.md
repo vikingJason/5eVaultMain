@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/roe
-aliases: ["Gate Junction"]
+tags: []
+aliases:
+  - Gate Junction
 ---
 # Gate Junction  
 *Source: Rage of Elements p. 18*  

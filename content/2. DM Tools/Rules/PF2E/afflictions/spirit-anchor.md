@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/13
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/magical
-- trait/necromancy
-- trait/negative
-aliases: ["Spirit Anchor"]
+aliases:
+  - Spirit Anchor
+tags: []
 ---
 # Spirit Anchor
 *Curse 13*  

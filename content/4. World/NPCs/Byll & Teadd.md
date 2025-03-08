@@ -1,15 +1,12 @@
 ---
-Role: NPCs
-Name: Byll and Teadd
 Race: Eladrin (Elves of the Feywild)
-Gender: Male
 Occupation: Neighborhood Watch Members
 Alignment: Chaotic Good
 Religion: None
 Condition: Alive
 Location: Petalwood
 Groups: Neighborhood Watch
-PartyStanding: Neutral
+Type: NPC
 ---
 
 # **Byll and Teadd**

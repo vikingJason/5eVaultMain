@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/1
-- compendium/src/pf2e/b1
-- trait/curse
-- trait/necromancy
-- trait/primal
-aliases: ["Curse of the Werecreature"]
+aliases:
+  - Curse of the Werecreature
+tags: []
 ---
 # Curse of the Werecreature
 *Curse 1*  

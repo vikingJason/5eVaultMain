@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/magical
-aliases: ["Dueling Counter"]
+aliases:
+  - Dueling Counter
+tags: []
 ---
 # Dueling Counter [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [magical](rules/traits/magical.md "Magical Item Trait")  

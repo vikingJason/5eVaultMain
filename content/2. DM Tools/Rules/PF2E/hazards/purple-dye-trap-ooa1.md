@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ooa1
-- trait/mechanical
-- trait/trap
-aliases: ["Purple Dye Trap"]
+tags: []
+aliases:
+  - Purple Dye Trap
 ---
 # Purple Dye Trap *Hazard 3*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

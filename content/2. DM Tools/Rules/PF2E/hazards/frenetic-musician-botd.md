@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Frenetic Musician"]
+tags: []
+aliases:
+  - Frenetic Musician
 ---
 # Frenetic Musician *Hazard 8*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

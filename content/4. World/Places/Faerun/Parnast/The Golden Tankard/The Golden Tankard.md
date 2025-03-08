@@ -1,16 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - Parnast
-up:
-  - Parnast
-next:
-  - Parnast Stable
-down:
-  - Raggnar Redtooth
-  - Gundalin the Wheelwright
-RWtopicId: Topic_44
 Type: placeholder
 Region: placeholder
 ---

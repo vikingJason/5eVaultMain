@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec4
-- trait/mechanical
-- trait/trap
-aliases: ["Spiked Barricade Trap"]
+tags: []
+aliases:
+  - Spiked Barricade Trap
 ---
 # Spiked Barricade Trap *Hazard 13*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

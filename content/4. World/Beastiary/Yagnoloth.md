@@ -1,23 +1,11 @@
 ---
-ImportedOn: Tuesday, 21 December 2021 11:45:48 PM
-Aliases:
-  - Yagnoloths
-Tags: Category/Creature
-Source: MToF
-SourceType: Bestiary
-Publisher: WOTC
 Alignment: Lawful Evil
 Challenge: CR 11
 Size: Large
 Type: Fiend
-Creature-Tags: Yugoloth
 parent:
   - Yugoloths
-up:
-  - Yugoloths
-prev:
-  - Oinoloth
-RWtopicId: Topic_837
+tags: []
 ---
 # Yagnoloth
 ## Overview

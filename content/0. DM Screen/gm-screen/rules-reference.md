@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Turns
 Turns Core 468
 **Start your Turn** Your durations measured in rounds decrease by 1; use one triggered action with a trigger of “your turn begins”; attempt a recovery check if you’re dying; regain your 3 actions and 1 reaction.

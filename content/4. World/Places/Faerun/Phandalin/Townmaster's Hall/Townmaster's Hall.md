@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
-parent:
-  - Phandalin
-up:
-  - Phandalin
-prev:
-  - The Sleeping Giant
-next:
-  - Tresendsar Manor
-down:
-  - Harbin Wester
-RWtopicId: Topic_70
 Type: placeholder
 Region: placeholder
 ---

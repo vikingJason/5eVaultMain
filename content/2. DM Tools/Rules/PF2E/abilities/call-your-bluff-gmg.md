@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Call Your Bluff"]
+aliases:
+  - Call Your Bluff
+tags: []
 ---
 # Call Your Bluff
 

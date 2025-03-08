@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Aquatic Bones"]
+aliases:
+  - Aquatic Bones
+tags: []
 ---
 # Aquatic Bones
 

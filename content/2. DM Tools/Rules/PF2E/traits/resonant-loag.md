@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/loag
-- trait/category/weapon
-aliases: ["Resonant"]
+tags: []
+aliases:
+  - Resonant
 ---
 # Resonant  
 *Source: Lost Omens: Ancestry Guide p. 139*  

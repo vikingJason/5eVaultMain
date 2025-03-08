@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/inventor-g-g
-- compendium/src/pf2e/g&g
-- trait/fire
-- trait/inventor
-- trait/manipulate
-- trait/unstable
-aliases: ["Explode"]
+aliases:
+  - Explode
+tags: []
 ---
 # Explode [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [unstable](rules/traits/unstable-g-g.md "Unstable  Trait")  

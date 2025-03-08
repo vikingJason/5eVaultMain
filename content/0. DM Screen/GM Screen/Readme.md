@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Adding to your Vault
 There are two folders, one labeled `gm_5escreen.zip` and `5e GM Screen.zip`. The zip with `gm_` is intended to be drag and drop into your vault with no (knock-on-wood) compatibility issues with your current vault. This is due to all notes, attachments and files being named `gm_fileName`.
 

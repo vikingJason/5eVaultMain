@@ -1,15 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
 Type:
   - Building
   - placeholder
-parent:
-  - The Undercellar
-up:
-  - The Undercellar
-RWtopicId: Topic_701
 Region: placeholder
+tags: []
 ---
 # Wizard Cave
 ## Overview

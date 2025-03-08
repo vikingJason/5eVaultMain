@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/bb
-aliases: ["Slamming Door"]
+tags: []
+aliases:
+  - Slamming Door
 ---
 # Slamming Door *Hazard 1*  
 

@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/5
-- compendium/src/pf2e/gmg
-- trait/disease
-- trait/necromancy
-- trait/primal
-aliases: ["Bone Chill"]
+aliases:
+  - Bone Chill
+tags: []
 ---
 # Bone Chill
 *Disease 5*  

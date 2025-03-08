@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/ancestry-heritage
-aliases: ["Tiefling"]
+tags: []
+aliases:
+  - Tiefling
 ---
 # Tiefling  
 *Source: Bestiary p. 270*  

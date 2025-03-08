@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/concentrate
-- trait/exploration
-- trait/secret
-aliases: ["Identify Alchemy"]
+aliases:
+  - Identify Alchemy
+tags: []
 ---
 # Identify Alchemy (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 10 minute
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

@@ -1,26 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Political
-parent:
-  - Icewind Dale
-up:
-  - Icewind Dale
-next:
-  - Reghed Barbarians
-down:
-  - Bremen
-  - Targos
-  - Termalaine
-  - Lonelywood
-  - Dougan's Hole
-  - Good Mead
-  - Easthaven
-  - Caer-Dineval
-  - Caer-Konig
-  - Bryn Shander
-RWtopicId: Topic_27
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Ten Towns
 ## Overview

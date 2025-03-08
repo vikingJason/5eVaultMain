@@ -1,21 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Gray Harbour
-Tags: Category/Region--Urban
 Urban-Region: Borough
-Usage: Civic Services
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Elfsong Tavern (Tavern)
-next:
-  - The Seatower of Balduran
-RWtopicId: Topic_646
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Gray Harbor
 ## Overview

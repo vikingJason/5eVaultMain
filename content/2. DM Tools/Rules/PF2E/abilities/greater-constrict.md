@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Greater Constrict"]
+aliases:
+  - Greater Constrict
+tags: []
 ---
 # Greater Constrict [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 

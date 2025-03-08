@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/kitsune-loag
-- compendium/src/pf2e/loag
-aliases: ["Invigorating Fear"]
+aliases:
+  - Invigorating Fear
+tags: []
 ---
 # Invigorating Fear [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Lost Omens: Ancestry Guide p. 123*  

@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Jedren Hiller
-  - Bailliff of the Wide
-Tags: Category/Individual Suffix/Baillif-of-the-Wide
-parent:
-  - The Wide (Open Marketplace)
-up:
-  - The Wide (Open Marketplace)
-prev:
-  - The Undercellar
-RWtopicId: Topic_702
-Subordinate:
-  - - The Wide (Open Marketplace)
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Jedren Hiller (Baillif of the Wide)
 ## Professional Life

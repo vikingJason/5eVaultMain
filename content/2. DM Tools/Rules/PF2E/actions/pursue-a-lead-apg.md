@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/investigator-apg
-- compendium/src/pf2e/apg
-- trait/concentrate
-- trait/exploration
-- trait/investigator
-aliases: ["Pursue a Lead"]
+aliases:
+  - Pursue a Lead
+tags: []
 ---
 # Pursue a Lead
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  

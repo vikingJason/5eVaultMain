@@ -1,19 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Urban
 Urban-Region: Neigborhood
-Usage: Military
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Mandorcai's Mansion
-next:
-  - The Water Queen's House (Temple of Umberlee)
-RWtopicId: Topic_650
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Seatower District
 ## Overview

@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/concentrate
-- trait/secret
-aliases: ["Discover"]
+aliases:
+  - Discover
+tags: []
 ---
 # Discover
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

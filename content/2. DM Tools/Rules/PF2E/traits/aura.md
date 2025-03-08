@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/combat
-aliases: ["Aura"]
+tags: []
+aliases:
+  - Aura
 ---
 # Aura  
 *Source: Core Rulebook p. 629*  

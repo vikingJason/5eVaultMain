@@ -1,16 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/18
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/emotion
-- trait/enchantment
-- trait/magical
-- trait/mental
-aliases: ["Reviled of Nature"]
+aliases:
+  - Reviled of Nature
+tags: []
 ---
 # Reviled of Nature
 *Curse 18*  

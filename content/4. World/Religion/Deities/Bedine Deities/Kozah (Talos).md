@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Kozah
-Tags: Category/Deity Suffix/Talos
 parent:
   - Bedine Deities
-up:
-  - Bedine Deities
-prev:
-  - Elah (Selune)
-next:
-  - N'asr (Cyric_Kelemvor)
-RWtopicId: Topic_742
 Type: placeholder
 Region: placeholder
 ---

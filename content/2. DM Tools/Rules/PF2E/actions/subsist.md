@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/downtime
-aliases: ["Subsist"]
+aliases:
+  - Subsist
+tags: []
 ---
 # Subsist (basic)
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/1
-- compendium/src/pf2e/gmg
-- trait/disease
-aliases: ["Tetanus"]
+aliases:
+  - Tetanus
+tags: []
 ---
 # Tetanus
 *Disease 1*  

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Strength
 
 Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.

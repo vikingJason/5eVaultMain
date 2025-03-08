@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ooa2
-- trait/mechanical
-- trait/trap
-aliases: ["False Door Trap"]
+tags: []
+aliases:
+  - False Door Trap
 ---
 # False Door Trap *Hazard 6*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

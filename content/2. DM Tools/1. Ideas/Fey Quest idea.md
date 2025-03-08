@@ -1,3 +1,6 @@
+---
+tags: []
+---
 As the party explores the Feywild, they come across a clearing filled with vibrant, shimmering flowers of all colors. In the center of the clearing stands a small, old-looking cottage made of twisted vines and woven leaves.
 
 As they approach the cottage, they see a small creature darting about inside, giggling and muttering to itself. Suddenly, the creature jumps up and dashes out of the cottage, disappearing into the nearby woods.

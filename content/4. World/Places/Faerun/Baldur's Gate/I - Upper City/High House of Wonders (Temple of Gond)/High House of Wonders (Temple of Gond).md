@@ -1,23 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - High House of Wonders
-Tags: Category/Location Suffix/Temple-of-Gond
 Type:
   - Area
   - placeholder
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - The Wide (Open Marketplace)
-next:
-  - Watch Citadel
-down:
-  - Andar Beech
-RWtopicId: Topic_703
 Region: placeholder
+tags: []
 ---
 # High House of Wonders (Temple of Gond)
 ## Overview

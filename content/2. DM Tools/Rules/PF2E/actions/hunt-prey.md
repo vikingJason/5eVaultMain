@@ -1,12 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/ranger
-- compendium/src/pf2e/crb
-- trait/concentrate
-- trait/ranger
-aliases: ["Hunt Prey", "Mark Prey"]
+aliases:
+  - Hunt Prey
+  - Mark Prey
+tags: []
 ---
 # Hunt Prey [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [ranger](rules/traits/ranger.md "Ranger Class Trait")  

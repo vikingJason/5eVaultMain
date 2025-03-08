@@ -1,15 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Urban
-parent:
-  - III - Outer City
-up:
-  - III - Outer City
-prev:
-  - Little Calimshan
-RWtopicId: Topic_658
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Twin Songs
 ## Description

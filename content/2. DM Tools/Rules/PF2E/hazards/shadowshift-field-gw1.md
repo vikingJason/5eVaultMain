@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw1
-- trait/complex
-- trait/conjuration
-- trait/magical
-aliases: ["Shadowshift Field"]
+tags: []
+aliases:
+  - Shadowshift Field
 ---
 # Shadowshift Field *Hazard 1*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  

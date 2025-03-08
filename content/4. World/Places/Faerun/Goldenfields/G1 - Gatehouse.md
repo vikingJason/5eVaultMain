@@ -1,19 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Gatehouse
-  - G1
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-next:
-  - G2 - Watch Posts
-RWtopicId: Topic_323
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G1 - Gatehouse
 ## Overview

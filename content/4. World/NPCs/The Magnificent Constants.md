@@ -1,15 +1,12 @@
 ---
-role: NPC
-name: The Magnificent Constants
 race: Satyr
-gender: Male
 occupation: Puppeteer
 alignment: Chaotic Neutral
 religion: None (but he reveres artistic expression as a quasi-spiritual pursuit)
 condition: Healthy
 location: Traveling performer, often found at carnivals, markets, and festivals
 groups: None, but he is known to associate with traveling circuses
-partyStanding: Neutral (potential ally or antagonist depending on interaction)
+Type: NPC
 ---
 
 # **The Magnificent Constants**

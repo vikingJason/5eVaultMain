@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/creature
-aliases: ["Ethereal"]
+tags: []
+aliases:
+  - Ethereal
 ---
 # Ethereal  
 *Source: Core Rulebook p. 631*  

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b2
-- trait/category/ancestry-heritage
-- trait/category/creature
-aliases: ["Fetchling"]
+tags: []
+aliases:
+  - Fetchling
 ---
 # Fetchling  
 *Source: Bestiary 2 p. 308*  

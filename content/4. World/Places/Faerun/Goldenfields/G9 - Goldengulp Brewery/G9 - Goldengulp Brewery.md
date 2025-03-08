@@ -1,23 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Goldengulp Brewery
-  - G9
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G5 - Livestock Fields
-next:
-  - G10 - Freshwater Spring
-down:
-  - Goldengulp
-RWtopicId: Topic_22
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G9 - Goldengulp Brewery
 ## Overview

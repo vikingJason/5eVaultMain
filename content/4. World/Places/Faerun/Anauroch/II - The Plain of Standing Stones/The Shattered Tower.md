@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
 Type:
   - Other
   - placeholder
-parent:
-  - II - The Plain of Standing Stones
-up:
-  - II - The Plain of Standing Stones
-prev:
-  - The River of Gems
-next:
-  - The Swordpoint
-RWtopicId: Topic_716
 Region: placeholder
 ---
 # The Shattered Tower

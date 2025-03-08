@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - House of the Triad
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B3 - Council Hall
-next:
-  - B5 - Speaker's Palace
-RWtopicId: Topic_314
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B4 - House of the Triad
 ## Overview

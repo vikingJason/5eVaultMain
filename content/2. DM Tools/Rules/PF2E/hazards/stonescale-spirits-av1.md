@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/av1
-- trait/complex
-- trait/haunt
-aliases: ["Stonescale Spirits"]
+tags: []
+aliases:
+  - Stonescale Spirits
 ---
 # Stonescale Spirits *Hazard 2*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

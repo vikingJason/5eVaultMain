@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/concentrate
-aliases: ["Map the Area"]
+aliases:
+  - Map the Area
+tags: []
 ---
 # Map the Area
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  

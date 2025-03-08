@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/logm
-aliases: ["Domains"]
+tags: []
+aliases:
+  - Domains
 ---
 # Domains  
 *Source: Lost Omens: Gods & Magic p. 112*  

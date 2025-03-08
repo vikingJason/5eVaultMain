@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Locking Door"]
+tags: []
+aliases:
+  - Locking Door
 ---
 # Locking Door *Hazard -1*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

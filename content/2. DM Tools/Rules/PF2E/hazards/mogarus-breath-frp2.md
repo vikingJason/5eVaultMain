@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/frp2
-- trait/environmental
-- trait/evocation
-- trait/fire
-- trait/kaiju
-- trait/primal
-aliases: ["Mogaru's Breath"]
+tags: []
+aliases:
+  - Mogaru's Breath
 ---
 # Mogaru's Breath *Hazard 21*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  

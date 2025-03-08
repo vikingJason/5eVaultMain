@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-1-introduction"]
+tags: []
+aliases:
+  - chapter-1-introduction
 ---
 # Chapter 1: Introduction
 <sup>CRB p. 7</sup>

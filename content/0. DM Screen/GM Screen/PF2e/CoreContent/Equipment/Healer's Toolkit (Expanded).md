@@ -4,9 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Healer's Toolkit (Expanded)
 foundryId: Item.XHnykHjwMqfDakCD
-tags:
-  - Item
-  - pf2eheal
+tags: []
 effect: +1 item bonus to Medicine Checks.
 ---
 ![[gm_curewounds.png|150]]

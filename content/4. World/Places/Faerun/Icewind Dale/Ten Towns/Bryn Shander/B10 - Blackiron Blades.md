@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Blackiron Blades
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B9 - Armory
-next:
-  - B11 - The Hooked Knucklehead
-RWtopicId: Topic_318
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B10 - Blackiron Blades
 ## Overview

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/effect
-aliases: ["Polymorph"]
+tags: []
+aliases:
+  - Polymorph
 ---
 # Polymorph  
 *Source: Core Rulebook p. 635*  

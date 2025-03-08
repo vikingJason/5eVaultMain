@@ -1,3 +1,6 @@
+---
+tags: []
+---
 - The Demiplanes of Dread
     
     - Once upon a time, there was an entire dimension called the Core as big and wondrous as Faerun. But, over the course of time, this dimension was split into a multitude of small, isolated dimensions. Demiplanes, to be more precise. Barovia is one of these demiplanes.

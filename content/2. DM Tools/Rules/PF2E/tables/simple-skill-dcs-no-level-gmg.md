@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Simple Skill DCs (No Level)"]
+tags: []
+aliases:
+  - Simple Skill DCs (No Level)
 ---
 # Simple Skill DCs (No Level)  
 *Source: Gamemastery Guide p. 198*  

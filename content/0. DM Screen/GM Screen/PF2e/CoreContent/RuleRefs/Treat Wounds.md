@@ -4,9 +4,7 @@ noteType: ":sticky-note:"
 aliases:
   - Treat Wounds
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.kL8yx8vz9FMCIYC1
-tags:
-  - JournalEntryPage
-  - pf2er-ref
+tags: []
 ---
 
 # Treat Wounds

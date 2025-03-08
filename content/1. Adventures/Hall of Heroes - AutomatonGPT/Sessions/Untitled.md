@@ -4,6 +4,7 @@ map_width_x: 4096
 scale_pixels: 257
 scale_pixels_range: 20
 mapCalc1: 0.07782101167315175
+tags: []
 ---
 
 > [!NOTE]- Quick Calculator  

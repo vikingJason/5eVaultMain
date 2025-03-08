@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/da
-- trait/magical
-- trait/transmutation
-- trait/trap
-aliases: ["Distortion Mirror"]
+tags: []
+aliases:
+  - Distortion Mirror
 ---
 # Distortion Mirror *Hazard 14*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

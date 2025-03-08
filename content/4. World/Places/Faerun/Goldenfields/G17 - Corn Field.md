@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Corn Field
-  - G17
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G16 - Apple Orchard
-next:
-  - G18 - Barley Field
-RWtopicId: Topic_335
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G17 - Corn Field
 ## Overview

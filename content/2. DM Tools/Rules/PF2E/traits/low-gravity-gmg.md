@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/gmg
-- trait/category/gravity
-- trait/category/planar
-aliases: ["Low Gravity"]
+tags: []
+aliases:
+  - Low Gravity
 ---
 # Low Gravity  
 *Source: Gamemastery Guide p. 252*  

@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa3
-- trait/auditory
-- trait/complex
-- trait/haunt
-- trait/rare
-- trait/sonic
-aliases: ["Phantom Bells"]
+tags: []
+aliases:
+  - Phantom Bells
 ---
 # Phantom Bells *Hazard 6*  
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  

@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
-parent:
-  - Phandalin
-up:
-  - Phandalin
-prev:
-  - Lionshield Coster
-next:
-  - Alderleaf Farm
-RWtopicId: Topic_66
 Type: placeholder
 Region: placeholder
 ---

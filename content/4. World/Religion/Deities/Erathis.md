@@ -1,13 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/dmg
-  - deity/dawn-war
-  - domain/knowledge
-  - domain/order
-aliases:
-  - Erathis
+Alignment: Lawful Neutral
+Domains:
+  - Knowledge
+  - Order
+Pantheon: Dawn War
 ---
 # Erathis
 *Source: Dungeon Master's Guide p. 10* 

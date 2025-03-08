@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/mental
-aliases: ["Feint"]
+aliases:
+  - Feint
+tags: []
 ---
 # Feint (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [mental](rules/traits/mental.md "Mental Effect Trait")  

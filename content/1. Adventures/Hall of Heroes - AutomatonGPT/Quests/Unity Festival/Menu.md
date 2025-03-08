@@ -1,3 +1,6 @@
+---
+tags: []
+---
 
 The menu includes local ingredients and a specialty dish only served on important occasions, Blue Corn Polenta with Wild Mushroom Ragout.
 Cabbages, Tomatoes, local spice (create the spice name and flavour profile) and a fish that is only found in the river/seas near Petalwood.

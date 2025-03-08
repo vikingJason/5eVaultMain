@@ -1,3 +1,6 @@
+---
+tags: []
+---
 Certainly! Here's a symbolic act that you can incorporate into a coronation ceremony in your D&D campaign:
 
 Symbolic Act: The Binding of Unity

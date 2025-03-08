@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Grid Movement
 
 **Entering a Square**

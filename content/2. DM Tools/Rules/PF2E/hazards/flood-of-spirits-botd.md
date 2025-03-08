@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Flood Of Spirits"]
+tags: []
+aliases:
+  - Flood Of Spirits
 ---
 # Flood Of Spirits *Hazard 18*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

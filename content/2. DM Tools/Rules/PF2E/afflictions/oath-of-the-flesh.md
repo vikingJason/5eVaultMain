@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/7
-- compendium/src/pf2e/gmg
-- trait/abjuration
-- trait/curse
-- trait/magical
-aliases: ["Oath of the Flesh"]
+aliases:
+  - Oath of the Flesh
+tags: []
 ---
 # Oath of the Flesh
 *Curse 7*  

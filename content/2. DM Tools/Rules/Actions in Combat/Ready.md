@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Ready
 
 Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn so that you can act later in the round using your reaction.

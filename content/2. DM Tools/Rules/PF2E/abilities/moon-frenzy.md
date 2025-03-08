@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-tags:
-- trait/polymorph
-- trait/primal
-- trait/transmutation
-aliases: ["Moon Frenzy"]
+tags: []
+aliases:
+  - Moon Frenzy
 ---
 # Moon Frenzy
 [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  

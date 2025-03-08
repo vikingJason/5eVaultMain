@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Gone Fishing"]
+aliases:
+  - Gone Fishing
+tags: []
 ---
 # Gone Fishing
 

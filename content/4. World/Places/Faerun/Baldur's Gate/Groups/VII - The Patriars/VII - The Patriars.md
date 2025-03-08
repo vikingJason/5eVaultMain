@@ -1,26 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Patriars
-Tags: Category/Group-List
-parent:
-  - Baldurs Gate Groups
-up:
-  - Baldurs Gate Groups
-prev:
-  - VI - The Guild
-next:
-  - V - The Watch
-down:
-  - Dlusker Family
-  - Caldwell Family
-RWtopicId: Topic_686
-Chapter:
-  - - Baldur's Gate
 Organization:
   - - Dlusker Family
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # VII - The Patriars
 ## Overview

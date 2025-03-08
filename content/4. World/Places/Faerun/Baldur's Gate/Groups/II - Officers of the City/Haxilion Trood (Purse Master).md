@@ -1,19 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Haxilion Trood
-Tags: Category/Individual Suffix/Purse-Master
 Race: Human
-Gender: Male
 Age: Adult
 Class: Commoner
-parent:
-  - II - Officers of the City
-up:
-  - II - Officers of the City
-prev:
-  - Esgurl Nurthammas (Master of Cobbles)
-RWtopicId: Topic_668
 Member:
   - - III - Parliament of Peers
 Type: placeholder

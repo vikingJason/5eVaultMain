@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/rogue
-- compendium/src/pf2e/crb
-- trait/rogue
-aliases: ["Debilitating Strike"]
+aliases:
+  - Debilitating Strike
+tags: []
 ---
 # Debilitating Strike [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [rogue](rules/traits/rogue.md "Rogue Class Trait")  

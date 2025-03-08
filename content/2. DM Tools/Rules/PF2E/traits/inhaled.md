@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/item
-aliases: ["Inhaled"]
+tags: []
+aliases:
+  - Inhaled
 ---
 # Inhaled  
 *Source: Core Rulebook p. 550*  

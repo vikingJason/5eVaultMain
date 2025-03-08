@@ -1,3 +1,6 @@
+---
+Type: NPC
+---
 
 ---
 role: NPC

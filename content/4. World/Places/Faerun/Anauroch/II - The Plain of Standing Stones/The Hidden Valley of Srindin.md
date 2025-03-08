@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Valley
 Climate: Temperate
-parent:
-  - II - The Plain of Standing Stones
-up:
-  - II - The Plain of Standing Stones
-prev:
-  - Heroes' Helm
-next:
-  - The Pillar of Tauros
-RWtopicId: Topic_713
 Type: placeholder
 Region: placeholder
 ---

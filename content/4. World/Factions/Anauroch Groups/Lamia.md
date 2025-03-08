@@ -1,18 +1,10 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Other
 Alignment: Neutral Evil
 parent:
   - Anauroch Groups
-up:
-  - Anauroch Groups
-prev:
-  - Laerti
-next:
-  - The Zhentarim
-RWtopicId: Topic_753
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Lamia
 ## Overview

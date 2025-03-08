@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw1
-- trait/complex
-- trait/haunt
-aliases: ["Haunted Aiudara"]
+tags: []
+aliases:
+  - Haunted Aiudara
 ---
 # Haunted Aiudara *Hazard 6*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

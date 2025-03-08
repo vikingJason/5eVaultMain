@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/ancestry-heritage
-- trait/category/creature
-aliases: ["Dwarf"]
+tags: []
+aliases:
+  - Dwarf
 ---
 # Dwarf  
 *Source: Core Rulebook p. 631*  

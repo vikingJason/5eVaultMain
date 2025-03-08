@@ -5,15 +5,14 @@ kingdom: N/A
 region: Petalwood
 settlementName: Ruined Chapel of the Silver Moon
 wardName: N/A
-title: Brother Varras
-ownerName: N/A
 services: False Priest, Dream Manipulator
 allies:
-- Fawn
-- Achroteth
-- Cedrick
+  - Fawn
+  - Achroteth
+  - Cedrick
 enemies:
-- Dorgle
+  - Dorgle
+Type: NPC
 ---
 
 # **Brother Varras**

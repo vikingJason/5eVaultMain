@@ -1,40 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Lower City
-Tags: Category/Region--Urban
 Urban-Region: District
-Usage: Civic Services
-parent:
-  - Baldur's Gate
-up:
-  - Baldur's Gate
-next:
-  - III - Outer City
-down:
-  - Baldur's Mouth
-  - Candlekeep Chandlery (Chandlery)
-  - Counting House
-  - Felogyr's Fireworks (Fireworks Shop)
-  - The Blushing Mermaid (Inn & Tavern)
-  - Jopalin's (Tavern)
-  - The Splurging Sturgeon (Tavern)
-  - Three Old Kegs (Inn & Tavern)
-  - The Smilin' Boar (Cafe)
-  - The Blade and Stars (Inn)
-  - Elfsong Tavern (Tavern)
-  - Gray Harbor
-  - The Seatower of Balduran
-  - Bloomridge
-  - Mandorcai's Mansion
-  - Seatower District
-  - The Water Queen's House (Temple of Umberlee)
-  - Shrine of Suffering (Shrine of Ilmater)
-  - Hissing Stones Bathhouse
-  - The Low Lantern (Festhall)
-RWtopicId: Topic_633
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # II - Lower City
 ## Overview

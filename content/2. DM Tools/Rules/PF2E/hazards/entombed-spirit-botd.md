@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/complex
-- trait/haunt
-aliases: ["Entombed Spirit"]
+tags: []
+aliases:
+  - Entombed Spirit
 ---
 # Entombed Spirit *Hazard 2*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

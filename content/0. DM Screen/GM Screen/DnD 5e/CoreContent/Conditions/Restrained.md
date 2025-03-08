@@ -1,9 +1,8 @@
 ---
 title: Restrained
-aliases: 
+aliases:
   - Restrained
-tags:
-  - 5eCondition
+tags: []
 effect: Speed becomes 0, attack rolls against the creature have **advantage**, and creature has **disadvantage** on attack rolls and **Dexterity** saving throws.
 ---
 ![[Restrained.png|150]]

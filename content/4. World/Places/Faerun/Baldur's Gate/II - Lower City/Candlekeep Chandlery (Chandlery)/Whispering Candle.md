@@ -1,13 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Named-Object
-parent:
-  - Candlekeep Chandlery (Chandlery)
-up:
-  - Candlekeep Chandlery (Chandlery)
-RWtopicId: Topic_636
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Whispering Candle
 ## Overview

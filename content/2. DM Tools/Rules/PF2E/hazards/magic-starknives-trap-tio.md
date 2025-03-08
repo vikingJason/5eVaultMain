@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/tio
-- trait/complex
-- trait/magical
-- trait/trap
-aliases: ["Magic Starknives Trap"]
+tags: []
+aliases:
+  - Magic Starknives Trap
 ---
 # Magic Starknives Trap *Hazard 5*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

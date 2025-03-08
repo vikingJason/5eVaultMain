@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Character Wealth"]
+tags: []
+aliases:
+  - Character Wealth
 ---
 # Character Wealth  
 *Source: Core Rulebook p. 511*  

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Toppling Furniture"]
+tags: []
+aliases:
+  - Toppling Furniture
 ---
 # Toppling Furniture *Hazard 2*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

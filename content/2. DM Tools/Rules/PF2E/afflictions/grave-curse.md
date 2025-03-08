@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/level-varies
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/magical
-- trait/necromancy
-aliases: ["Grave Curse"]
+aliases:
+  - Grave Curse
+tags: []
 ---
 # Grave Curse
 *Curse Level Varies*  

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Campaign Concept & Theme
 
 - **Genre:** Fantasy

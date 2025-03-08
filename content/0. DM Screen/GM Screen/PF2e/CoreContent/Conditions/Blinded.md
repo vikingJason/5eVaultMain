@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Blinded
 foundryId: Item.kSXpwZ03cqJnLLJG
-tags:
-  - "#pf2econdition"
+tags: []
 effect: You can't see. -4 Status Preception
 ---
 ![[gm_blinded.png|150]]

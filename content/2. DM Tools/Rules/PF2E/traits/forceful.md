@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/weapon
-aliases: ["Forceful"]
+tags: []
+aliases:
+  - Forceful
 ---
 # Forceful  
 *Source: Core Rulebook p. 282*  

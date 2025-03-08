@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/general
-aliases: ["Metamagic"]
+tags: []
+aliases:
+  - Metamagic
 ---
 # Metamagic  
 *Source: Core Rulebook p. 634*  

@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-reward
-tags:
-  - compendium/src/5e/cos
-  - reward/charm
+tags: []
 aliases:
   - Dark Gift of Delban, the Star of Ice and Hate
 ---

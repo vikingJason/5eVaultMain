@@ -1,21 +1,12 @@
 ---
-tags:
-  - Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Mages Guild
-up:
-  - Mages Guild
-next:
-  - Mysterioso
-Type:
-  - placeholder
 Region: placeholder
+Type: NPC
 ---
 # Sagil
 ## Overview

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/bb
-aliases: ["Spear Launcher"]
+tags: []
+aliases:
+  - Spear Launcher
 ---
 # Spear Launcher *Hazard 2*  
 

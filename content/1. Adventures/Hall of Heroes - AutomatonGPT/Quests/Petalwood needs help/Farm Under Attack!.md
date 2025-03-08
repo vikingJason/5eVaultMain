@@ -1,3 +1,6 @@
+---
+tags: []
+---
 - a group of animals are attacking the farm and livestock.
 - pick which farm to head to first
 * the other will have lost a couple of livestock

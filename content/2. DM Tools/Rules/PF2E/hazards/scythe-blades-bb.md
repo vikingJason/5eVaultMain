@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/bb
-aliases: ["Scythe Blades"]
+tags: []
+aliases:
+  - Scythe Blades
 ---
 # Scythe Blades *Hazard 4*  
 

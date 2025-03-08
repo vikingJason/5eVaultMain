@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse/tempted
-- affliction/level/9
-- compendium/src/pf2e/da
-- trait/conjuration
-- trait/curse
-- trait/magical
-- trait/rare
-aliases: ["Swarming Words"]
+aliases:
+  - Swarming Words
+tags: []
 ---
 # Swarming Words
 *Curse 9*  

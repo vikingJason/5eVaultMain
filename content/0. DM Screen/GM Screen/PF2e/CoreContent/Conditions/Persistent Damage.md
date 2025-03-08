@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Persistent Damage
 foundryId: Item.j3TuGNhnzkHv25HP
-tags:
-  - pf2econdition
+tags: []
 effect: Re-roll damage at end of each turn, then **DC 15** flat check to recover.
 ---
 ![[gm_perdamage.png|150]]

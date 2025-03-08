@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/alchemist
-- compendium/src/pf2e/crb
-- trait/alchemist
-- trait/manipulate
-aliases: ["Quick Alchemy"]
+aliases:
+  - Quick Alchemy
+tags: []
 ---
 # Quick Alchemy [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

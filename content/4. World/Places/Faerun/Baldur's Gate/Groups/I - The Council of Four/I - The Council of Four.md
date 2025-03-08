@@ -1,27 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Council of Four
-Tags: Category/Group--Government
 Type:
   - Government
   - placeholder
-Government-Role: Diplomatic
-Government-Organization: Council
-parent:
-  - Baldurs Gate Groups
-up:
-  - Baldurs Gate Groups
-prev:
-  - IV - The Flaming Fist
-next:
-  - III - Parliament of Peers
-down:
-  - Torlin Silvershield (Duke)
-  - Belynne Stelmane (Duke)
-  - Dillard Portyr (Grand Duke)
-  - Abdel Adrian (Duke)
-RWtopicId: Topic_673
 Region: placeholder
 ---
 # I - The Council of Four

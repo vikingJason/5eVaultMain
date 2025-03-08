@@ -5,9 +5,8 @@ aliases:
   - Drained 3
   - Drained 4
   - Drained 5
-tags:
-- pf2econdition
-effect:  Lose a number of Hit Points and maximum Hit Points equal to your level (minimum 1) times the drained value.
+tags: []
+effect: Lose a number of Hit Points and maximum Hit Points equal to your level (minimum 1) times the drained value.
 ---
 ![[gm_drained.png|150]]
 # Drained

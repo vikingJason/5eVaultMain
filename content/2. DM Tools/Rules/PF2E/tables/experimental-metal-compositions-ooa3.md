@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/ooa3
-aliases: ["Experimental Metal Compositions"]
+tags: []
+aliases:
+  - Experimental Metal Compositions
 ---
 # Experimental Metal Compositions  
 *Source: Outlaws of Alkenstar #3: The Smoking Gun p. 17*  

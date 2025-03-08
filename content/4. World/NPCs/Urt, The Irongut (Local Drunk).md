@@ -1,21 +1,12 @@
 ---
-Aliases:
-  - Urt, The Irongut
-Tags: Category/Individual Suffix/Local-Drunk
 Alignment: Neutral
 Race: Half-orc
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Beverages and Food
-up:
-  - Beverages and Food
-next:
-  - Alyssa Herzog (Barmaid)
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Urt, The Irongut (Local Drunk)
 ## Overview

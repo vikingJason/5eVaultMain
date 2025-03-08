@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/erlw
-  - deity/eberron
-  - domain/death
-aliases:
-  - The Keeper
+{}
 ---
 # The Keeper
 *Source: Eberron: Rising from the Last War p. 141* 

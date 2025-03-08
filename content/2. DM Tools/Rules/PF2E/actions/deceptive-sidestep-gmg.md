@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/misfortune
-aliases: ["Deceptive Sidestep"]
+aliases:
+  - Deceptive Sidestep
+tags: []
 ---
 # Deceptive Sidestep [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  

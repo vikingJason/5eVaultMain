@@ -1,22 +1,12 @@
 ---
-aliases:
-  - Erik Lemore
-tags:
-  - Category/Individual
-  - Suffix/Slave-Master
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Slave Camp
-up:
-  - Slave Camp
-Type:
-  - placeholder
 Region: placeholder
+Type: NPC
 ---
 # Erik Lemore (Slave Master)
 ## Overview

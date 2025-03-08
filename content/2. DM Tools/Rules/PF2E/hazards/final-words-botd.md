@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Final Words"]
+tags: []
+aliases:
+  - Final Words
 ---
 # Final Words *Hazard 4*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

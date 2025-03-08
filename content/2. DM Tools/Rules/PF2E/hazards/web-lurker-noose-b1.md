@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/b1
-- trait/mechanical
-- trait/trap
-aliases: ["Web Lurker Noose"]
+tags: []
+aliases:
+  - Web Lurker Noose
 ---
 # Web Lurker Noose *Hazard 2*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## A Legacy of Secrets: Cedrick Deerfoot's Backstory
 
 Cedrick Deerfoot walks a path paved with hidden truths and the echoes of a shadowed legacy. Born from the unlikely union of Beldroth, a stoic elf ranger, and Lyra, a warm-hearted human cook who served Queen Reeva, Cedrick embodies a curious mix of heritage. However, a veil of secrecy shrouds his past, leaving him yearning to understand the mysteries that shaped him.

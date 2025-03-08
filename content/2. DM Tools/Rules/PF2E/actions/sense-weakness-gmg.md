@@ -1,9 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Sense Weakness"]
+aliases:
+  - Sense Weakness
+tags: []
 ---
 # Sense Weakness [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Gamemastery Guide p. 167*  

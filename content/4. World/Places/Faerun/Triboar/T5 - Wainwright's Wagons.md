@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Wainwright's Wagons
-  - T5
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T4 - Happy Horse Ranch
-next:
-  - T6 - The Lion's Share
-RWtopicId: Topic_363
 Type: placeholder
 Region: placeholder
 ---

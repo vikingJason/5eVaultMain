@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/loil
-- trait/environmental
-aliases: ["Spell Pitchers"]
+tags: []
+aliases:
+  - Spell Pitchers
 ---
 # Spell Pitchers *Hazard 1*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

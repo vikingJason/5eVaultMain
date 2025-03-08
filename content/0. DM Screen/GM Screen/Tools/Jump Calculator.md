@@ -5,6 +5,7 @@ PC_select: "[[Callie Alma Teres|Callie Alma Teres]]"
 RunningStart: 1
 LongJump: 20
 HighJump: 5
+tags: []
 ---
 > [!infobox | wmed left]
 > # Diagonal Jump Calculator

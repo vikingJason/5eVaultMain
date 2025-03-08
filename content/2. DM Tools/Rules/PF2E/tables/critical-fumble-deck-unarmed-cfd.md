@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/cfd
-aliases: ["Critical Fumble Deck: Unarmed"]
+tags: []
+aliases:
+  - "Critical Fumble Deck: Unarmed"
 ---
 # Critical Fumble Deck: Unarmed  
 *Source: Critical Fumble Deck p. 0*  

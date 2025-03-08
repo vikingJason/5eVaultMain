@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-feat
-tags:
-  - compendium/src/5e/phb
-  - optional-feature/mv-b
+tags: []
 aliases:
   - Pushing Attack
 ---

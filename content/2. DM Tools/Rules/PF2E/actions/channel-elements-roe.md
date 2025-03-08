@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/roe
-- trait/aura
-- trait/kineticist
-- trait/primal
-aliases: ["Channel Elements"]
+aliases:
+  - Channel Elements
+tags: []
 ---
 # Channel Elements [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [aura](rules/traits/aura.md "Aura Combat Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  

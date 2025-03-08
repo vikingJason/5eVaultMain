@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Quicksand
 
 An adventurer who is traveling at normal pace (not running) should be given a DC 15 Wisdom (Survival) check, which is enough to recognize the danger.

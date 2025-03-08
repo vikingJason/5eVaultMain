@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Hooked Knucklehead
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B10 - Blackiron Blades
-next:
-  - B12 - Rendaril's Emporium
-RWtopicId: Topic_319
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B11 - The Hooked Knucklehead
 ## Overview

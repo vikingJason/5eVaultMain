@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Earn Income Tasks"]
+tags: []
+aliases:
+  - Earn Income Tasks
 ---
 # Earn Income Tasks  
 *Source: Gamemastery Guide p. 25*  

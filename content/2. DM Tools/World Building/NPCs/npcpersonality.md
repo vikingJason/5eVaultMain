@@ -1,12 +1,12 @@
 ---
 date: 2022-04-24
-title: "the universal NPC emulator revised"
-aliases: the universal NPC emulator revised
+title: the universal NPC emulator revised
+aliases:
+  - the universal NPC emulator revised
 author: Zach Best
-tags:
-- worldbuilding
-- tool/tables
-- character/npc
+type:
+  - Table
+tags: []
 ---
 A `dice:[[npcpersonality#^26fb6c]]|Modifier`  `dice:[[npcpersonality#^26fb6c]]|Noun` with `dice:[[npcpersonality#^26fb6c]]|Motivation Verb` `dice:[[npcpersonality#^26fb6c]]|Motivation Noun` and `dice:[[npcpersonality#^26fb6c]]|Motivation Verb` `dice:[[npcpersonality#^26fb6c]]|Motivation Noun`  as their motivation.
 

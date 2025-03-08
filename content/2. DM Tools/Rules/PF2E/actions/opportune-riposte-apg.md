@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/swashbuckler-apg
-- compendium/src/pf2e/apg
-- trait/swashbuckler
-aliases: ["Opportune Riposte"]
+aliases:
+  - Opportune Riposte
+tags: []
 ---
 # Opportune Riposte [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-5-golden-road"]
+tags: []
+aliases:
+  - chapter-5-golden-road
 ---
 # Chapter 5: Golden Road
 <sup>LOWG p. 48</sup>

@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec6
-- trait/complex
-- trait/magical
-- trait/trap
-- trait/unique
-aliases: ["Convergence Lattice"]
+tags: []
+aliases:
+  - Convergence Lattice
 ---
 # Convergence Lattice *Hazard 20*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  

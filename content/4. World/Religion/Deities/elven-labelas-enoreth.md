@@ -1,14 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mtf
-  - deity/elven
-  - domain/arcana
-  - domain/knowledge
-  - domain/life
-aliases:
-  - Labelas Enoreth
+{}
 ---
 # Labelas Enoreth
 *Source: Mordenkainen's Tome of Foes p. 45* 

@@ -1,19 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Erl Namorran
-Tags: Category/Individual Suffix/Harbormaster
 Race: Human
-Gender: Male
 Age: Adult
 Class: Commoner
-parent:
-  - II - Officers of the City
-up:
-  - II - Officers of the City
-next:
-  - Osmurl Havanak (The High Constable and Master of Walls)
-RWtopicId: Topic_664
 Type: placeholder
 Region: placeholder
 ---

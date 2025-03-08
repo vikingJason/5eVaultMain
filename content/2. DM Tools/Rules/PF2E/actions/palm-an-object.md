@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/manipulate
-aliases: ["Palm an Object"]
+aliases:
+  - Palm an Object
+tags: []
 ---
 # Palm an Object (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

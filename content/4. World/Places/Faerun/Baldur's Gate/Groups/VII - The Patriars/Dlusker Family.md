@@ -1,20 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Family
 Type:
   - Family
   - placeholder
-Family-Notability: Politics
-parent:
-  - VII - The Patriars
-up:
-  - VII - The Patriars
-next:
-  - Caldwell Family
-RWtopicId: Topic_687
-Chapter:
-  - - VII - The Patriars
 Region: placeholder
+tags: []
 ---
 # Dlusker Family
 ## Overview

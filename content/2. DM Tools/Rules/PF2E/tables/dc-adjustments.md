@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["DC Adjustments"]
+tags: []
+aliases:
+  - DC Adjustments
 ---
 # DC Adjustments  
 *Source: Core Rulebook p. 504*  

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Creature XP (No Level)"]
+tags: []
+aliases:
+  - Creature XP (No Level)
 ---
 # Creature XP (No Level)  
 *Source: Gamemastery Guide p. 198*  

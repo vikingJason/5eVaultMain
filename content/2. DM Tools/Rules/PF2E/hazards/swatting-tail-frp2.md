@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/frp2
-- trait/environmental
-- trait/kaiju
-aliases: ["Swatting Tail"]
+tags: []
+aliases:
+  - Swatting Tail
 ---
 # Swatting Tail *Hazard 18*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  

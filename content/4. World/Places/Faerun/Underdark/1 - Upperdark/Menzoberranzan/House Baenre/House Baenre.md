@@ -1,17 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Family
 Type:
   - Family
   - placeholder
-parent:
-  - Menzoberranzan
-up:
-  - Menzoberranzan
-down:
-  - Tiago Baenre
-  - Dantrag Baenre
-RWtopicId: Topic_213
 Region: placeholder
 ---
 # House Baenre

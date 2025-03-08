@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Shield Block"]
+aliases:
+  - Shield Block
+tags: []
 ---
 # Shield Block [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 

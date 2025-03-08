@@ -1,3 +1,6 @@
+---
+tags: []
+---
 > ##### Barovian Names
 >
 >You can use the following lists to create Barovian NPC names on the fly.

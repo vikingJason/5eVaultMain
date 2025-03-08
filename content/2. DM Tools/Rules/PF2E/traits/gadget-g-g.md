@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/g&g
-aliases: ["Gadget"]
+tags: []
+aliases:
+  - Gadget
 ---
 # Gadget  
 *Source: Guns & Gears p. 233*  

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Difficult Terrain
 
 The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground — all considered difficult terrain.

@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/champion
-- compendium/src/pf2e/crb
-- trait/champion
-aliases: ["Liberating Step"]
+aliases:
+  - Liberating Step
+tags: []
 ---
 # Liberating Step [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [champion](rules/traits/champion.md "Champion Class Trait")  

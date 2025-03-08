@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # **Unity Festival Schedule**
 
 ### **Day 1: Opening Night (The Royal Feast)**

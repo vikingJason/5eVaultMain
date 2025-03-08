@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/da
-- trait/concentrate
-- trait/magical
-aliases: ["Psychic Defense"]
+aliases:
+  - Psychic Defense
+tags: []
 ---
 # Psychic Defense [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  

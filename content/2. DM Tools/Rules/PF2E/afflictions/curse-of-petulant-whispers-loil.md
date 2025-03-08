@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/2
-- compendium/src/pf2e/loil
-- trait/auditory
-- trait/curse
-- trait/illusion
-- trait/magical
-aliases: ["Curse of Petulant Whispers"]
+aliases:
+  - Curse of Petulant Whispers
+tags: []
 ---
 # Curse of Petulant Whispers
 *Curse 2*  

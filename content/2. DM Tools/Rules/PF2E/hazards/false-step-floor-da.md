@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/da
-- trait/conjuration
-- trait/magical
-- trait/teleportation
-- trait/trap
-aliases: ["False Step Floor"]
+tags: []
+aliases:
+  - False Step Floor
 ---
 # False Step Floor *Hazard 6*  
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

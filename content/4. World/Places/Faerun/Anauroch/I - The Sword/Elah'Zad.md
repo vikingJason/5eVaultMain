@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Oasis
 Terrain: Deserts
 Climate: Arid
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - El Rahalat
-next:
-  - Hlaunga
-RWtopicId: Topic_764
 Type: placeholder
 Region: placeholder
 ---

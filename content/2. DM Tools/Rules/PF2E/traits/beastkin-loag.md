@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/loag
-- trait/category/ancestry-heritage
-aliases: ["Beastkin"]
+tags: []
+aliases:
+  - Beastkin
 ---
 # Beastkin  
 *Source: Lost Omens: Ancestry Guide p. 140*  

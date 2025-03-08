@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/15
-- compendium/src/pf2e/sli
-- trait/curse
-- trait/unique
-- trait/virulent
-aliases: ["Slithering"]
+aliases:
+  - Slithering
+tags: []
 ---
 # Slithering
 *Curse 15*  

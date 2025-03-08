@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Child Care"]
+aliases:
+  - Child Care
+tags: []
 ---
 # Child Care
 

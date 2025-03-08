@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa3
-- trait/manipulate
-aliases: ["Topple Crates"]
+aliases:
+  - Topple Crates
+tags: []
 ---
 # Topple Crates
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

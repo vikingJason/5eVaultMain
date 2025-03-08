@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Oasis
 Climate: Arid
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - The Wall of Fallen Djinn
-next:
-  - The Well of Cloven Rock
-RWtopicId: Topic_782
 Type: placeholder
 Region: placeholder
 ---

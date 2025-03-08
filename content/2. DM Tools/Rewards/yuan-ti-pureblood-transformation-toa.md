@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-reward
-tags:
-  - compendium/src/5e/toa
-  - reward/other
+tags: []
 aliases:
   - Yuan-Ti Pureblood Transformation
 ---

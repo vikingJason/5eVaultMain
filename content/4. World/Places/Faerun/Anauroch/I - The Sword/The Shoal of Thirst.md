@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Plains
 Climate: Arid
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - The Scimitar Spires
-next:
-  - The Sister of Rains
-RWtopicId: Topic_777
 Type: placeholder
 Region: placeholder
 ---

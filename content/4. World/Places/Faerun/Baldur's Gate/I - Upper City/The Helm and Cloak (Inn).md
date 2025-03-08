@@ -1,22 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Helm and Cloak
-Tags: Category/Merchant Suffix/Inn
-Services-Sold: Food
-Prices: Comfortable
 Quality: Comfortable
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - Hall of Wonders
-next:
-  - The Lady's Hall (Temple of Tymora)
-RWtopicId: Topic_626
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # The Helm and Cloak (Inn)
 ## Overview

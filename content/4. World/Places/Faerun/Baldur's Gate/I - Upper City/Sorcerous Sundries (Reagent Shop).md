@@ -1,22 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Sorcerous Sundries
-Tags: Category/Merchant Suffix/Reagent-Shop
-Goods-Sold: Consumable Item
-Prices: Average
 Quality: Average
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - The Watchful Shield (Shrine of Helm)
-next:
-  - Seskergates
-RWtopicId: Topic_691
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Sorcerous Sundries (Reagent Shop)
 ## Overview

@@ -1,22 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Blushing Mermaid
-Tags: Category/Merchant Suffix/Inn---Tavern
-Services-Sold: Food
-Prices: Average
 Quality: Average
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Felogyr's Fireworks (Fireworks Shop)
-next:
-  - Jopalin's (Tavern)
-RWtopicId: Topic_639
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # The Blushing Mermaid (Inn & Tavern)
 ## Overview

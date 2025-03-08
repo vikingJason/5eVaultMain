@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa2
-- trait/mechanical
-- trait/trap
-- trait/uncommon
-aliases: ["Black Powder Bomb"]
+tags: []
+aliases:
+  - Black Powder Bomb
 ---
 # Black Powder Bomb *Hazard 6*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

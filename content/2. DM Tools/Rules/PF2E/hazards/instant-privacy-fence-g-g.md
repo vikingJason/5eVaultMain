@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/g&g
-- trait/electricity
-- trait/mechanical
-- trait/rare
-- trait/trap
-aliases: ["Instant Privacy Fence"]
+tags: []
+aliases:
+  - Instant Privacy Fence
 ---
 # Instant Privacy Fence *Hazard 8*  
 [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

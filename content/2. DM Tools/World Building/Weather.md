@@ -1,8 +1,7 @@
 ---
 date: 2022-04-16
-title: "Weather"
-tags:
-- worldbuilding
+title: Weather
+tags: []
 ---
 
 > [!info] Weather 

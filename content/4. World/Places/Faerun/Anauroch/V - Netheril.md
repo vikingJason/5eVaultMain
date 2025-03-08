@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Netheril
-Tags: Category/Region--Geographical
 Geographical-Region: Subcontinent
 Terrain: Treacherous
 Climate: Arid
-parent:
-  - Anauroch
-up:
-  - Anauroch
-prev:
-  - I - The Sword
-RWtopicId: Topic_788
 Type: placeholder
 Region: placeholder
 ---

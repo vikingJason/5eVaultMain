@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Cannibalistic Echoes"]
+tags: []
+aliases:
+  - Cannibalistic Echoes
 ---
 # Cannibalistic Echoes *Hazard 16*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

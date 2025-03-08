@@ -1,19 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Gnome
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Hirelings
-up:
-  - Hirelings
-RWtopicId: Topic_294
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Benn Soldshorte
 ## Overview

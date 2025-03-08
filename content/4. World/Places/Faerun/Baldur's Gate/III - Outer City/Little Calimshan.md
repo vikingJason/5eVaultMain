@@ -1,17 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Urban
 Urban-Region: Borough
-Usage: Recreation
-parent:
-  - III - Outer City
-up:
-  - III - Outer City
-next:
-  - Twin Songs
-RWtopicId: Topic_657
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Little Calimshan
 ## Overview

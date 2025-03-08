@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Redfang "Bloody" Rorick
 Race: Redcap
-Gender: Male
 Occupation: Underground Fight Club Owner
 Alignment: Chaotic Evil
 Religion: None
 Condition: Healthy
 Location: Petalwood
 Groups: None
-PartyStanding: Potential Antagonist
+Type: NPC
 ---
 
 

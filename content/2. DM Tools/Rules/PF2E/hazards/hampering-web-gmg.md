@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/environmental
-aliases: ["Hampering Web"]
+tags: []
+aliases:
+  - Hampering Web
 ---
 # Hampering Web *Hazard 1*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

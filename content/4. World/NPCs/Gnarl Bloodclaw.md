@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Gnarl Bloodclaw
 Race: Gnoll
-Gender: Male
 Occupation: Champion Fighter
 Alignment: Chaotic Neutral
 Religion: Yeenoghu
 Condition: Healthy
 Location: Petalwood
 Groups: Rorick's Fight Club
-PartyStanding: Potential Adversary
+Type: NPC
 ---
 
 

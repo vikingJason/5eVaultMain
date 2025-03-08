@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/som
-aliases: ["Flexible Spellcaster Spells per Day"]
+tags: []
+aliases:
+  - Flexible Spellcaster Spells per Day
 ---
 # Flexible Spellcaster Spells per Day  
 *Source: Secrets of Magic p. 208*  

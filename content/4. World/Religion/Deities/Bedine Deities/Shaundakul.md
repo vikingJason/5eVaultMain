@@ -1,22 +1,9 @@
 ---
-aliases:
-  - The Helping Hand
-  - Rider of the Winds
-tags:
-  - Category/Deity
 Centers-of-Worship: Gates of the Moon
-Power-Level: Lesser Deity
-Favored-Weapon-: Sword of Shadows (greatsword)
 Alignment: Chaotic Neutral
 Domains: Air
 parent:
   - Bedine Deities
-up:
-  - Bedine Deities
-prev:
-  - N'asr (Cyric_Kelemvor)
-next:
-  - A'tar (Lathander)
 Type:
   - placeholder
 Region: placeholder

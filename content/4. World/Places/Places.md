@@ -1,24 +1,6 @@
 ---
-Tags: Category/Region--Dimensional
 parent:
   - Region_ Dimensional
-up:
-  - Region_ Dimensional
-prev:
-  - Masked Lords of Waterdeep
-down:
-  - Prime Material Plane
-  - Plane of Fire
-  - Plane of Earth
-  - Plane of Water
-  - Plane of Air
-  - Plane of Ice
-  - Plane of Ooze
-  - Plane of Magma
-  - Plane of Ash
-  - Plane of Shadow
-  - Plane of Faerie
-RWtopicId: Topic_11
 Type: placeholder
 Region: placeholder
 ---
@@ -140,7 +122,6 @@ The planes of the default D&D cosmology are grouped in the following categories:
 # Prime Material Plane
 ## Overview
 **Dimensional Region**: Plane
-#Dimensional-Region/Plane
 
 The Prime Material Plane is the plane in which Toril and the surrounding cosmos exists. The phrase "Prime Material Plane," or simply the "Prime," is generally used by beings from other planes in the Forgotten Realms cosmology (notably Sigil), and "prime" is used by the same beings to refer to the inhabitants of Toril.
 

@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-feat
-tags:
-  - compendium/src/5e/tpk
-  - optional-feature/ae
+tags: []
 aliases:
   - Essence of Shark
 ---

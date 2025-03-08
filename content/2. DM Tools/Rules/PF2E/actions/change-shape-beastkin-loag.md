@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/loag
-- trait/concentrate
-- trait/polymorph
-- trait/primal
-- trait/transmutation
-aliases: ["Change Shape (Beastkin)"]
+aliases:
+  - Change Shape (Beastkin)
+tags: []
 ---
 # Change Shape (Beastkin) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  

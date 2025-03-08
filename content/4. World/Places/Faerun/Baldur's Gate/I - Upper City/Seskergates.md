@@ -1,19 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
 Type:
   - Building
   - placeholder
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - Sorcerous Sundries (Reagent Shop)
-next:
-  - Krammoch Arkhstaff
-RWtopicId: Topic_692
 Region: placeholder
+tags: []
 ---
 # Seskergates
 ## Overview

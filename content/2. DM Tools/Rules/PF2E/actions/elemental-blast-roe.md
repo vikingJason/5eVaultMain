@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/roe
-- trait/attack
-- trait/impulse
-- trait/kineticist
-- trait/primal
-aliases: ["Elemental Blast"]
+aliases:
+  - Elemental Blast
+tags: []
 ---
 # Elemental Blast [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") or [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action"))
 [attack](rules/traits/attack.md "Attack Combat Trait")  [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  

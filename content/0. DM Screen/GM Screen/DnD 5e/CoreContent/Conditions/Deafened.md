@@ -2,8 +2,7 @@
 title: Deafened
 aliases:
   - Deafened
-tags:
-  - 5eCondition
+tags: []
 effect: " Automatically fails any **ability check** that requires hearing."
 ---
 ![[Deaf.png|150]]

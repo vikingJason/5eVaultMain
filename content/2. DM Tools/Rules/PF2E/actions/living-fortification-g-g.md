@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/gunslinger-g-g
-- compendium/src/pf2e/g&g
-- trait/gunslinger
-aliases: ["Living Fortification"]
+aliases:
+  - Living Fortification
+tags: []
 ---
 # Living Fortification [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

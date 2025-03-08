@@ -5,8 +5,7 @@ aliases:
   - Doomed 1
   - Doomed 2
 foundryId: Item.eXsORiPkldtGRWp6
-tags:
-  - pf2econdition
+tags: []
 effect: All dying conditions increased by 1 per Doomed value.
 ---
 ![[gm_doomed.png]]

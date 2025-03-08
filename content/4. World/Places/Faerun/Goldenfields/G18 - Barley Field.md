@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Barley Field
-  - G18
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G17 - Corn Field
-next:
-  - G19 - Hops Field
-RWtopicId: Topic_336
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G18 - Barley Field
 ## Overview

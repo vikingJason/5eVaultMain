@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe2
-- trait/complex
-- trait/magical
-- trait/trap
-aliases: ["Life Magnet"]
+tags: []
+aliases:
+  - Life Magnet
 ---
 # Life Magnet *Hazard 7*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

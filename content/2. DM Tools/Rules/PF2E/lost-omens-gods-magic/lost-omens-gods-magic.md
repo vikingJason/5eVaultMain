@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-book
-tags:
-- book-lost-omens-lost-omens-gods-magic
-- compendium/src/pf2e/logm
-aliases: ["Lost Omens: Gods & Magic"]
+cssclasses:
+  - pf2e
+  - pf2e-book
+tags: []
+aliases:
+  - "Lost Omens: Gods & Magic"
 ---
 **[Overview](rules/lost-omens-gods-magic/overview.md)**
 

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Quirks"]
+tags: []
+aliases:
+  - Quirks
 ---
 # Quirks  
 *Source: Gamemastery Guide p. 86*  

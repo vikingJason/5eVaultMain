@@ -1,6 +1,5 @@
 ---
-tags:
-  - pf2eaction
+tags: []
 ---
 # Ready `pf2:2`
 

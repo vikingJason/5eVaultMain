@@ -1,25 +1,14 @@
 ---
-Aliases:
-  - Sophronia "Sophie" Cullen
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Female
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - The Rusty Pipe
-up:
-  - The Rusty Pipe
-prev:
-  - Amina Fawneye
-next:
-  - Yoruna Faede
 Parent:
   - Amina Fawneye
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Sophronia "Sophie" Cullen
 ## Overview

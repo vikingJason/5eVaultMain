@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b2
-- trait/category/creature
-aliases: ["Urdefhan"]
+tags: []
+aliases:
+  - Urdefhan
 ---
 # Urdefhan  
 *Source: Bestiary 2 p. 310*  

@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/da
-- trait/category/action-ability
-- trait/category/class
-- trait/category/feat
-aliases: ["Deviant"]
+tags: []
+aliases:
+  - Deviant
 ---
 # Deviant  
 *Source: Dark Archive p. 218*  

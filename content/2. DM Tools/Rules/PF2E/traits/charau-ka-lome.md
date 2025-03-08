@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/lome
-- trait/category/creature
-aliases: ["Charau-ka"]
+tags: []
+aliases:
+  - Charau-ka
 ---
 # Charau-ka  
 *Source: Lost Omens: The Mwangi Expanse p. 296*  

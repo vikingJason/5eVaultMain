@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Marshaling Field
-  - T25
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T24 - Gwaeron's Slumber
-RWtopicId: Topic_383
 Type: placeholder
 Region: placeholder
 ---

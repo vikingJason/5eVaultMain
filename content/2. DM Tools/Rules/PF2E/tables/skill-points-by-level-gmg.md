@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Skill Points by Level"]
+tags: []
+aliases:
+  - Skill Points by Level
 ---
 # Skill Points by Level  
 *Source: Gamemastery Guide p. 199*  

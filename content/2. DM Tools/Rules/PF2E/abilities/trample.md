@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Trample"]
+aliases:
+  - Trample
+tags: []
 ---
 # Trample [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 

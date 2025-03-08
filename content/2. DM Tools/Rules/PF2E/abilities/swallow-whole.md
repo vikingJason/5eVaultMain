@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-tags:
-- trait/attack
-aliases: ["Swallow Whole"]
+tags: []
+aliases:
+  - Swallow Whole
 ---
 # Swallow Whole [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [attack](rules/traits/attack.md "Attack Combat Trait")  

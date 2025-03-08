@@ -1,3 +1,6 @@
+---
+tags: []
+---
 https://www.reddit.com/r/CurseofStrahd/comments/9l5zfh/fleshing_out_curse_of_strahd_the_fanes_and_the/
 
 https://www.reddit.com/r/CurseofStrahd/comments/8ryr9b/revisions_for_running_curse_of_strahd_the_fanes/

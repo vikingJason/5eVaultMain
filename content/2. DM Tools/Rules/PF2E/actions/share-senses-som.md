@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/summoner-som
-- compendium/src/pf2e/som
-- trait/concentrate
-- trait/divination
-- trait/scrying
-- trait/summoner
-aliases: ["Share Senses"]
+aliases:
+  - Share Senses
+tags: []
 ---
 # Share Senses [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divination](rules/traits/divination.md "Divination School Trait")  [scrying](rules/traits/scrying.md "Scrying Effect Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  

@@ -1,18 +1,12 @@
 ---
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Female
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Moonstone Mask
-up:
-  - Moonstone Mask
-RWtopicId: Topic_618
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Ophala Cheldarstorn
 ## Overview

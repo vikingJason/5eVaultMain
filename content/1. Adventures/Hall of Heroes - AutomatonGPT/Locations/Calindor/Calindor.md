@@ -17,6 +17,7 @@ Race: "[[Elf]]"
 Religion: 
 Ruler: 
 Title: 
+tags: []
 ---
 
 

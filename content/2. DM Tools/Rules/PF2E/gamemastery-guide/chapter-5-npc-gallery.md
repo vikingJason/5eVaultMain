@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["chapter-5-npc-gallery"]
+tags: []
+aliases:
+  - chapter-5-npc-gallery
 ---
 # Chapter 5: Npc Gallery
 <sup>GMG p. 203</sup>

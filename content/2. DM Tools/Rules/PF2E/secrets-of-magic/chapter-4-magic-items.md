@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/som
-aliases: ["chapter-4-magic-items"]
+tags: []
+aliases:
+  - chapter-4-magic-items
 ---
 # Chapter 4: Magic Items
 <sup>SoM p. 155</sup>

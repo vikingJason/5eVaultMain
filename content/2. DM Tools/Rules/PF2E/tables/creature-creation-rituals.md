@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Creature Creation Rituals"]
+tags: []
+aliases:
+  - Creature Creation Rituals
 ---
 # Creature Creation Rituals  
 *Source: Core Rulebook p. 408*  

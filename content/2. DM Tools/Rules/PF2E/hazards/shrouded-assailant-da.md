@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/da
-- trait/complex
-- trait/haunt
-aliases: ["Shrouded Assailant"]
+tags: []
+aliases:
+  - Shrouded Assailant
 ---
 # Shrouded Assailant *Hazard 17*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/g&g
-- trait/category/weapon
-aliases: ["Concussive"]
+tags: []
+aliases:
+  - Concussive
 ---
 # Concussive  
 *Source: Guns & Gears p. 231*  

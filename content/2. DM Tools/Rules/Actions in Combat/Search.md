@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Search
 
 When you take the Search action, you devote your attention to finding something.

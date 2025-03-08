@@ -1,10 +1,9 @@
 ---
-title: "Indifferent"
+title: Indifferent
 noteType: ":luggage:"
-aliases: "Indifferent"
+aliases: Indifferent
 foundryId: Item.zSITwO2wYUR5o9WR
-tags:
-  - Item
+tags: []
 ---
 
 # Indifferent

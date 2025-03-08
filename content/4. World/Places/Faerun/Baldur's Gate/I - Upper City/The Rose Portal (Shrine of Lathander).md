@@ -1,21 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Rose Portal
-Tags: Category/Location Suffix/Shrine-of-Lathander
 Type:
   - Building
   - placeholder
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - The Lady's Hall (Temple of Tymora)
-next:
-  - The Unscrolling Scroll (Shrine of Oghma)
-RWtopicId: Topic_629
 Region: placeholder
+tags: []
 ---
 # The Rose Portal (Shrine of Lathander)
 ## Overview

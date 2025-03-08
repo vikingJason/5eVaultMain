@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Petrified
 foundryId: Item.29bVgZfr89zyQ4h7
-tags:
-  - pf2econdition
+tags: []
 effect: You cannot act, **AC 9**, **Hardness 8**.
 ---
 ![[gm_petrified.png|150]]

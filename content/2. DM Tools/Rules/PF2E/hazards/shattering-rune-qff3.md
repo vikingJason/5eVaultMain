@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff3
-- trait/evocation
-- trait/magical
-- trait/sonic
-- trait/trap
-aliases: ["Shattering Rune"]
+tags: []
+aliases:
+  - Shattering Rune
 ---
 # Shattering Rune *Hazard 9*  
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

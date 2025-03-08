@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-tags:
-- trait/emotion
-- trait/mental
-aliases: ["Butter Up"]
+tags: []
+aliases:
+  - Butter Up
 ---
 # Butter Up
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

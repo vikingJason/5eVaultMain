@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ooa2
-- trait/mechanical
-- trait/trap
-aliases: ["Falling Portcullis Trap"]
+tags: []
+aliases:
+  - Falling Portcullis Trap
 ---
 # Falling Portcullis Trap *Hazard 7*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

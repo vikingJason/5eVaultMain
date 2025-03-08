@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - North Caravan Campground
-  - T2
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T1 - Market Square and Tower
-next:
-  - T3 - West Caravan Campground
-RWtopicId: Topic_360
 Type: placeholder
 Region: placeholder
 ---

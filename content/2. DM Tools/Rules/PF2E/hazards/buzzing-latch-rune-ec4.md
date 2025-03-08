@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec4
-- trait/electricity
-- trait/magical
-- trait/sonic
-- trait/trap
-aliases: ["Buzzing Latch Rune"]
+tags: []
+aliases:
+  - Buzzing Latch Rune
 ---
 # Buzzing Latch Rune *Hazard 13*  
 [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [sonic](rules/traits/sonic.md "Sonic Energy & Element Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

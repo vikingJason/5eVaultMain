@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Merivold Pony Park
-  - T19
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T18 - Foehammer's Forge
-next:
-  - T20 - Everwyvern House
-RWtopicId: Topic_377
 Type: placeholder
 Region: placeholder
 ---

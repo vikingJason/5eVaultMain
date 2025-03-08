@@ -1,20 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Urban
 Urban-Region: District
-parent:
-  - The Wide (Open Marketplace)
-up:
-  - The Wide (Open Marketplace)
-prev:
-  - The Beloved Ranger
-next:
-  - Jedren Hiller (Baillif of the Wide)
-down:
-  - Wizard Cave
-RWtopicId: Topic_700
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # The Undercellar
 ## Overview

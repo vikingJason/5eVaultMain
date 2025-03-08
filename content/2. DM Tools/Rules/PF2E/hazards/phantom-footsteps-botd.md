@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Phantom Footsteps"]
+tags: []
+aliases:
+  - Phantom Footsteps
 ---
 # Phantom Footsteps *Hazard -1*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

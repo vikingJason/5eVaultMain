@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/da
-aliases: ["Ability Quirks"]
+tags: []
+aliases:
+  - Ability Quirks
 ---
 # Ability Quirks  
 *Source: Dark Archive p. 103*  

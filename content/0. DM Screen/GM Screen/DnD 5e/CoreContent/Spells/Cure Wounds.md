@@ -2,9 +2,7 @@
 title: Cure Wounds
 aliases:
   - Cure Wounds
-tags:
-  - 5eSpell
-  - 5eHealing
+tags: []
 effect: "Restores `dice: 1d8`+ spellcasting MOD hit points + `dice: 1d8` per slot level above 1st."
 cost: Action + 1st Level Spell Slot
 ---

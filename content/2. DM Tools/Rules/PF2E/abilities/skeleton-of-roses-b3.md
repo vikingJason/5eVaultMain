@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Skeleton of Roses"]
+aliases:
+  - Skeleton of Roses
+tags: []
 ---
 # Skeleton of Roses
 

@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Meiroth's Fine Silks
-Tags: Category/Merchant Suffix/Business
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - The Guild Paddock (Guild Hall)
-next:
-  - The Bowels of the Earth (Tavern)
-RWtopicId: Topic_118
 Type: placeholder
 Region: placeholder
 ---

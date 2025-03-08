@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Triboar Arms
-  - T16
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T15 - Boar's Rest
-next:
-  - T17 - Uldinath's Arms
-RWtopicId: Topic_374
 Type: placeholder
 Region: placeholder
 ---

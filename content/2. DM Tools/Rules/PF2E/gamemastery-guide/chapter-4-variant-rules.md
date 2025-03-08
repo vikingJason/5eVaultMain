@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["chapter-4-variant-rules"]
+tags: []
+aliases:
+  - chapter-4-variant-rules
 ---
 # Chapter 4: Variant Rules
 <sup>GMG p. 181</sup>

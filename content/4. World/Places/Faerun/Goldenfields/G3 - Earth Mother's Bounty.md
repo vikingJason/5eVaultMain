@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Earth Mother's Bounty
-  - G3
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G2 - Watch Posts
-next:
-  - G4 - Grain Towers
-RWtopicId: Topic_325
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G3 - Earth Mother's Bounty
 ## Overview

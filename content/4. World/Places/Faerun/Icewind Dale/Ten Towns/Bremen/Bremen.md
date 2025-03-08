@@ -1,24 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - Ten Towns
-up:
-  - Ten Towns
-next:
-  - Targos
-down:
-  - Earvin's Treasures
-  - Five Tavern Center
-  - Knuckleheader
-  - Shaengarne Street
-  - Statue of Rolph Bremen
-  - Spokesman's House
-  - Town Hall
-  - Fishhouses
-RWtopicId: Topic_26
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Bremen
 ## Overview

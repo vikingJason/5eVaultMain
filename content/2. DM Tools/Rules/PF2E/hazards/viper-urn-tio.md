@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/tio
-- trait/mechanical
-- trait/trap
-- trait/uncommon
-aliases: ["Viper Urn"]
+tags: []
+aliases:
+  - Viper Urn
 ---
 # Viper Urn *Hazard 1*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

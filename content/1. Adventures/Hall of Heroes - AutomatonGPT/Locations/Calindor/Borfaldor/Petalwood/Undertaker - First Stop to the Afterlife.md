@@ -18,6 +18,7 @@ services:
   - Elected Official( Good   quality, High  costs)
   - Town Justice( Average   quality, Above Average  costs)
 Region: '"[[Borfaldor]]"'
+tags: []
 ---
 
 

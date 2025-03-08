@@ -1,24 +1,9 @@
 ---
-Aliases:
-  - Oinoloths
-Tags: Category/Creature
-Source: MToF
-SourceType: Bestiary
-Publisher: WOTC
 Alignment: Lawful Evil
-Challenge: CR 12
 Size: Medium
 Type: Fiend
-Creature-Tags: Yugoloth
 parent:
   - Yugoloths
-up:
-  - Yugoloths
-prev:
-  - Merrenoloth
-next:
-  - Yagnoloth
-
 ---
 # Oinoloth
 ## Overview

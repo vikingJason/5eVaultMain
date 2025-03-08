@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/conrasu-lome
-- compendium/src/pf2e/lome
-- trait/fortune
-aliases: ["Call to Axis"]
+aliases:
+  - Call to Axis
+tags: []
 ---
 # Call to Axis [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [fortune](rules/traits/fortune.md "Fortune Effect Trait")  

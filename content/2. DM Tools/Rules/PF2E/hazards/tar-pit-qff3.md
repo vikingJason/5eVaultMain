@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff3
-- trait/complex
-- trait/environmental
-aliases: ["Tar Pit"]
+tags: []
+aliases:
+  - Tar Pit
 ---
 # Tar Pit *Hazard 9*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

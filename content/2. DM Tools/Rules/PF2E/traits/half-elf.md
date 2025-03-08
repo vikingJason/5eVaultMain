@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/ancestry-heritage
-- trait/category/creature
-aliases: ["Half-Elf"]
+tags: []
+aliases:
+  - Half-Elf
 ---
 # Half-Elf  
 *Source: Core Rulebook p. 632*  

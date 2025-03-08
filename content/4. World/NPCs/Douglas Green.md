@@ -1,19 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Elf
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Equipment Shop
-up:
-  - Equipment Shop
-RWtopicId: Topic_254
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Douglas Green
 ## Overview

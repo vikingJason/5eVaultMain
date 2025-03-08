@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/hazard
-aliases: ["Trap"]
+tags: []
+aliases:
+  - Trap
 ---
 # Trap  
 *Source: Core Rulebook p. 637*  

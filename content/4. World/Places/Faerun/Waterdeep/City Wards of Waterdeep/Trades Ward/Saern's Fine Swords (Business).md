@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Saern's Fine Swords
-Tags: Category/Merchant Suffix/Business
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - Mahir's Tower (Wizard Domicile)
-next:
-  - Gondalim's (Inn)
-RWtopicId: Topic_90
 Owner:
   - - Zygarth Slayer Saern
 Type: placeholder

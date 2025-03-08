@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Constant Spells"]
+aliases:
+  - Constant Spells
+tags: []
 ---
 # Constant Spells
 

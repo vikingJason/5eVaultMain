@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/lomm
-- trait/complex
-- trait/environmental
-- trait/kaiju
-- trait/rare
-aliases: ["Quaking Slither"]
+tags: []
+aliases:
+  - Quaking Slither
 ---
 # Quaking Slither *Hazard 14*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  

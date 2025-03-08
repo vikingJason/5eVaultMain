@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/vishkanya-loil
-- compendium/src/pf2e/loil
-- trait/manipulate
-aliases: ["Envenom"]
+aliases:
+  - Envenom
+tags: []
 ---
 # Envenom [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

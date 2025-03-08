@@ -1,19 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Dwarf
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Weapon Shop
-up:
-  - Weapon Shop
-RWtopicId: Topic_247
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Ulfgar Bartreson
 ## Overview

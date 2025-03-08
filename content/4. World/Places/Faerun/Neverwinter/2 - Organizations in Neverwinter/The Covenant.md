@@ -1,16 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Religious
 Type:
   - Religious
   - placeholder
-parent:
-  - 2 - Organizations in Neverwinter
-up:
-  - 2 - Organizations in Neverwinter
-prev:
-  - Sons of Alagondar
-RWtopicId: Topic_174
 Region: placeholder
 ---
 # The Covenant

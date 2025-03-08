@@ -1,3 +1,6 @@
+---
+tags: []
+---
 Certainly! Here are ten stages of a coronation ceremony for your D&D campaign:
 
 Stage 1: Arrival and Gathering

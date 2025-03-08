@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Blood Tears"]
+tags: []
+aliases:
+  - Blood Tears
 ---
 # Blood Tears *Hazard 10*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

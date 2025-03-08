@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/g&g
-aliases: ["Clockwork"]
+tags: []
+aliases:
+  - Clockwork
 ---
 # Clockwork  
 *Source: Guns & Gears p. 231*  

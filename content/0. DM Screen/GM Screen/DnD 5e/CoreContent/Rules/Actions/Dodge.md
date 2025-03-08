@@ -2,8 +2,9 @@
 title: Dodge
 aliases:
   - Dodge
-tags:
+type:
   - 5eAction
+tags: []
 ---
 ![[Dodge.png|150]]
 # Dodge

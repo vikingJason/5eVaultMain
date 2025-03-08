@@ -1,6 +1,5 @@
 ---
-tags:
-  - pf2er-ref
+tags: []
 ---
 # [Subsist](https://2e.aonprd.com/Actions.aspx?ID=2368)
 

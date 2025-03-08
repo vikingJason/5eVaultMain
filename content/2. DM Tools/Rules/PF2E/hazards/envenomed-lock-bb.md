@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/bb
-aliases: ["Envenomed Lock"]
+tags: []
+aliases:
+  - Envenomed Lock
 ---
 # Envenomed Lock *Hazard 1*  
 

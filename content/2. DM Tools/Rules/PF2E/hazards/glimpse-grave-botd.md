@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Glimpse Grave"]
+tags: []
+aliases:
+  - Glimpse Grave
 ---
 # Glimpse Grave *Hazard 20*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/move
-aliases: ["Drive"]
+aliases:
+  - Drive
+tags: []
 ---
 # Drive [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
 [move](rules/traits/move.md "Move Combat Trait")  

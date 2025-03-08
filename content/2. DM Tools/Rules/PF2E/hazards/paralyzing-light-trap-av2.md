@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/av2
-- trait/complex
-- trait/magical
-- trait/trap
-aliases: ["Paralyzing Light Trap"]
+tags: []
+aliases:
+  - Paralyzing Light Trap
 ---
 # Paralyzing Light Trap *Hazard 8*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

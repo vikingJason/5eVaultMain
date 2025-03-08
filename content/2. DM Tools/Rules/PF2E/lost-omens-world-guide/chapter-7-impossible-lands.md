@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-7-impossible-lands"]
+tags: []
+aliases:
+  - chapter-7-impossible-lands
 ---
 # Chapter 7: Impossible Lands
 <sup>LOWG p. 72</sup>

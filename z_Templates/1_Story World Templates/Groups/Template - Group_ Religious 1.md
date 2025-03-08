@@ -1,5 +1,6 @@
 ---
-tags: Religion, template, deity
+type:
+  - template
 ---
 # {{Religion Name}}
 

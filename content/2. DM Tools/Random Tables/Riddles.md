@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Riddles
 
 ## Rollable Table

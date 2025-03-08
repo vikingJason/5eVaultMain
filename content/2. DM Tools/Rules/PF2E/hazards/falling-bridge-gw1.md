@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw1
-- trait/mechanical
-- trait/trap
-aliases: ["Falling Bridge"]
+tags: []
+aliases:
+  - Falling Bridge
 ---
 # Falling Bridge *Hazard 3*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

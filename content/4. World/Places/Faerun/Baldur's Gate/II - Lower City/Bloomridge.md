@@ -1,19 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Urban
 Urban-Region: Neigborhood
-Usage: Commercial
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - The Seatower of Balduran
-next:
-  - Mandorcai's Mansion
-RWtopicId: Topic_648
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Bloomridge
 ## Overview

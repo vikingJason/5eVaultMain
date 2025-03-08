@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Canyon
 Climate: Temperate
-parent:
-  - II - The Plain of Standing Stones
-up:
-  - II - The Plain of Standing Stones
-prev:
-  - Aerithae's Rest
-next:
-  - Heroes' Helm
-RWtopicId: Topic_711
 Type: placeholder
 Region: placeholder
 ---

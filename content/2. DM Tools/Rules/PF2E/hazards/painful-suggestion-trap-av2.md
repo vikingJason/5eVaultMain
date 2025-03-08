@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/av2
-- trait/magical
-- trait/trap
-aliases: ["Painful Suggestion Trap"]
+tags: []
+aliases:
+  - Painful Suggestion Trap
 ---
 # Painful Suggestion Trap *Hazard 8*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

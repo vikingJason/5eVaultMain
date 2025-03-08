@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Pleasing Platter
-  - T21
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T20 - Everwyvern House
-next:
-  - T22 - Graveyard
-RWtopicId: Topic_379
 Type: placeholder
 Region: placeholder
 ---

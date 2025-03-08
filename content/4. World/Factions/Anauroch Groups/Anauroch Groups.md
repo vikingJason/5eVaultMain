@@ -1,26 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group-List
 parent:
   - Anauroch
-up:
-  - Anauroch
-prev:
-  - IV - The Lost Kingdoms
-next:
-  - I - The Sword
-down:
-  - Church of Shaundakul
-  - The Black Shadow Band
-  - The Bedine
-  - The Phaerimm
-  - D'Tarig
-  - Laerti
-  - Lamia
-  - The Zhentarim
-RWtopicId: Topic_736
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Anauroch Groups
 ## Overview

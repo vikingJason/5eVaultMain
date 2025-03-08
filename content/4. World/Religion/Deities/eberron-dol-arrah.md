@@ -1,14 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/erlw
-  - deity/eberron
-  - domain/light
-  - domain/war
-  - domain/twilight
-aliases:
-  - Dol Arrah
+{}
 ---
 # Dol Arrah
 *Source: Eberron: Rising from the Last War p. 141, Tasha's Cauldron of Everything p. 34* 

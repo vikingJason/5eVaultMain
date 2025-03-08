@@ -1,16 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse/tempted
-- affliction/level/10
-- compendium/src/pf2e/da
-- trait/curse
-- trait/enchantment
-- trait/magical
-- trait/mental
-- trait/rare
-aliases: ["Rage of The Excommunicant"]
+aliases:
+  - Rage of The Excommunicant
+tags: []
 ---
 # Rage of The Excommunicant
 *Curse 10*  

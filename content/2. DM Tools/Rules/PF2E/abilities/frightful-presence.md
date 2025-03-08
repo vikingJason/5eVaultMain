@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-tags:
-- trait/aura
-- trait/emotion
-- trait/fear
-- trait/mental
-aliases: ["Frightful Presence"]
+tags: []
+aliases:
+  - Frightful Presence
 ---
 # Frightful Presence
 [aura](rules/traits/aura.md "Aura Combat Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/afof
-- trait/complex
-- trait/environmental
-- trait/uncommon
-aliases: ["Grazing Deer"]
+tags: []
+aliases:
+  - Grazing Deer
 ---
 # Grazing Deer *Hazard 3*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

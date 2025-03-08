@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/alignment
-- trait/category/planar
-aliases: ["Good"]
+tags: []
+aliases:
+  - Good
 ---
 # Good  
 *Source: Core Rulebook p. 632*  

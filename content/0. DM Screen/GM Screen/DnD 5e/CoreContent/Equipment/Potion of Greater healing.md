@@ -2,11 +2,9 @@
 title: Potion of Greater healing
 aliases:
   - Potion of Greater healing
-tags:
-  - 5eSpell
-  - 5eHealing
+tags: []
 effect: "Restores `dice: 4d4+4` hit points"
-cost: "100 gp"
+cost: 100 gp
 ---
 
 ![[PoGH.png|150]]

@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Torlin Silvershield
-  - High Artificer
-Tags: Category/Individual Suffix/Duke
 Race: Human
-Gender: Male
 Age: Adult
 Class: Aristocrat
-parent:
-  - I - The Council of Four
-up:
-  - I - The Council of Four
-next:
-  - Belynne Stelmane (Duke)
-RWtopicId: Topic_674
 Type: placeholder
 Region: placeholder
 ---

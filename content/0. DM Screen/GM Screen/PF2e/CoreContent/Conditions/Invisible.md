@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Invisible
 foundryId: Item.2OP7m8vsI3lMi8Se
-tags:
-  - pf2econdition
+tags: []
 effect: " You're **Undetected** to everyone."
 ---
 

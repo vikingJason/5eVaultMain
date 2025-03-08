@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Valley
 Climate: Arid
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - The Well of the Chasm
-next:
-  - Vliyl
-RWtopicId: Topic_783
 Type: placeholder
 Region: placeholder
 ---

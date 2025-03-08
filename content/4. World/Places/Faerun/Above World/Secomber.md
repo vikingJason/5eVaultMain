@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Sea of Moving Ice
-next:
-  - Shadowtop Cathedral
-RWtopicId: Topic_522
 Type: placeholder
 Region: placeholder
 ---

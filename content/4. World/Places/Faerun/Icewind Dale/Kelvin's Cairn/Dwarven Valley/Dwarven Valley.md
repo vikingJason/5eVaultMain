@@ -1,15 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
-parent:
-  - Kelvin's Cairn
-up:
-  - Kelvin's Cairn
-down:
-  - Clan Battlehammer
-RWtopicId: Topic_210
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Dwarven Valley
 ## Overview

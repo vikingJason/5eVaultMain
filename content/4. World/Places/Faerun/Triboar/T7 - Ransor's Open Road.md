@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Ransor's Open Road
-  - T7
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T6 - The Lion's Share
-next:
-  - T8 - The Cart and Coin
-RWtopicId: Topic_365
 Type: placeholder
 Region: placeholder
 ---

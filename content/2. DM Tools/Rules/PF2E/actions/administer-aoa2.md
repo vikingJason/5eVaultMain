@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa2
-- trait/concentrate
-- trait/downtime
-- trait/linguistic
-- trait/mental
-aliases: ["Administer"]
+aliases:
+  - Administer
+tags: []
 ---
 # Administer
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

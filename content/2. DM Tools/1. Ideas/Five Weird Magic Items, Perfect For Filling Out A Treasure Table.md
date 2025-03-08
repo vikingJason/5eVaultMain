@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Five Weird Magic Items, Perfect For Filling Out A Treasure Table
 
 [J.R. Zambrano](https://www.belloflostsouls.net/author/jayarr "Posts by J.R. Zambrano")

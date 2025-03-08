@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/complex
-- trait/mechanical
-- trait/trap
-aliases: ["Spinning Blade Pillar"]
+tags: []
+aliases:
+  - Spinning Blade Pillar
 ---
 # Spinning Blade Pillar *Hazard 4*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

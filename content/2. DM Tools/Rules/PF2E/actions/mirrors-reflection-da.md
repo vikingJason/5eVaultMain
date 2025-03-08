@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/da
-- trait/illusion
-- trait/magical
-- trait/manipulate
-- trait/thaumaturge
-aliases: ["Mirror's Reflection"]
+aliases:
+  - Mirror's Reflection
+tags: []
 ---
 # Mirror's Reflection [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  

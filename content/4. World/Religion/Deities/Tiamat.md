@@ -1,13 +1,9 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/dmg
-  - deity/dawn-war
-  - domain/trickery
-  - domain/war
-aliases:
-  - Tiamat
+Alignment: Lawful Evil
+Domains:
+  - Trickery
+  - War
+Pantheon: Dawn War
 ---
 # Tiamat
 *Source: Dungeon Master's Guide p. 10* 

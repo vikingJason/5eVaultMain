@@ -1,17 +1,11 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Other
 Type:
   - Government
   - placeholder
 parent:
   - Dwarven Valley
-up:
-  - Dwarven Valley
-down:
-  - Stokely Silverstream
-RWtopicId: Topic_211
 Region: placeholder
+tags: []
 ---
 # Clan Battlehammer
 ## Overview

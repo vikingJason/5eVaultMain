@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Ectoplasmic Grasp"]
+tags: []
+aliases:
+  - Ectoplasmic Grasp
 ---
 # Ectoplasmic Grasp *Hazard 5*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

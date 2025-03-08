@@ -1,6 +1,5 @@
 ---
-tags:
-  - gmscreen
+tags: []
 ---
 
 ![[5eGMScreen.png]]

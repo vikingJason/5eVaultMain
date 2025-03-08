@@ -1,19 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-Community-Size: Large City
 Alignment: Chaotic Evil
-Government: Magocracy
 Population: 25,000 in 137235,000 in 1479
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - The Black Road
-down:
-  - Fane of Shar
-RWtopicId: Topic_786
 Type: placeholder
 Region: placeholder
 ---

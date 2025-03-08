@@ -1,15 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Other
 Terrain: Underground
-parent:
-  - IV - The Lost Kingdoms
-up:
-  - IV - The Lost Kingdoms
-next:
-  - Asram
-RWtopicId: Topic_731
 Type: placeholder
 Region: placeholder
 ---

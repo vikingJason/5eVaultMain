@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/logm
-aliases: ["philosophies-and-spirituality"]
+tags: []
+aliases:
+  - philosophies-and-spirituality
 ---
 # Philosophies and Spirituality
 <sup>LOGM p. 92</sup>

@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/investigator-apg
-- compendium/src/pf2e/apg
-- trait/auditory
-- trait/concentrate
-- trait/investigator
-- trait/linguistic
-- trait/mental
-aliases: ["Pointed Question"]
+aliases:
+  - Pointed Question
+tags: []
 ---
 # Pointed Question [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/evocation
-- trait/fire
-- trait/magical
-- trait/trap
-aliases: ["Fireball Rune"]
+tags: []
+aliases:
+  - Fireball Rune
 ---
 # Fireball Rune *Hazard 5*  
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

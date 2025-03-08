@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/da
-aliases: ["Uncommon Membership Services"]
+tags: []
+aliases:
+  - Uncommon Membership Services
 ---
 # Uncommon Membership Services  
 *Source: Dark Archive p. 84*  

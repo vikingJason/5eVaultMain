@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff2
-- trait/environmental
-aliases: ["Falling Stalactites"]
+tags: []
+aliases:
+  - Falling Stalactites
 ---
 # Falling Stalactites *Hazard 3*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

@@ -2,8 +2,7 @@
 title: Paralyzed
 aliases:
   - Paralyzed
-tags:
-  - 5eCondition
+tags: []
 effect: Incapacitated and can’t move or speak.
 ---
 ![[Paralyzed.png|150]]

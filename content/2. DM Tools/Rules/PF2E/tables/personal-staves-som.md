@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/som
-aliases: ["Personal Staves"]
+tags: []
+aliases:
+  - Personal Staves
 ---
 # Personal Staves  
 *Source: Secrets of Magic p. 166*  

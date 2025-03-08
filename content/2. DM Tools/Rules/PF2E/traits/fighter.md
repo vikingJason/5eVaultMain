@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/class
-aliases: ["Fighter"]
+tags: []
+aliases:
+  - Fighter
 ---
 # Fighter  
 *Source: Core Rulebook p. 632*  

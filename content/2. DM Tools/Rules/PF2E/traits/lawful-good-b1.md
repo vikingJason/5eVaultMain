@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/_alignabv
-- trait/category/alignment
-aliases: ["Lawful Good"]
+tags: []
+aliases:
+  - Lawful Good
 ---
 # Lawful Good  
 *Source: Bestiary p. 345*  

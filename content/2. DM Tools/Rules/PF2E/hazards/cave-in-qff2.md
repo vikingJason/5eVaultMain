@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff2
-- trait/environmental
-aliases: ["Cave-In"]
+tags: []
+aliases:
+  - Cave-In
 ---
 # Cave-In *Hazard 4*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

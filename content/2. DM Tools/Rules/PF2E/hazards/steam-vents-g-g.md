@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/g&g
-- trait/mechanical
-- trait/steam
-- trait/trap
-- trait/uncommon
-aliases: ["Steam Vents"]
+tags: []
+aliases:
+  - Steam Vents
 ---
 # Steam Vents *Hazard 4*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [steam](rules/traits/steam-g-g.md "Steam  Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

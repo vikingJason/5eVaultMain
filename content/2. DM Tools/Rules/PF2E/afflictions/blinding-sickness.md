@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/7
-- compendium/src/pf2e/gmg
-- trait/disease
-aliases: ["Blinding Sickness"]
+aliases:
+  - Blinding Sickness
+tags: []
 ---
 # Blinding Sickness
 *Disease 7*  

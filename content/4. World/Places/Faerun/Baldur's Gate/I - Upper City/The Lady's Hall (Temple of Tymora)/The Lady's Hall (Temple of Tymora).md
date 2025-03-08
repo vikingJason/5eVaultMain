@@ -1,23 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Lady's Hall
-Tags: Category/Location Suffix/Temple-of-Tymora
 Type:
   - Building
   - placeholder
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - The Helm and Cloak (Inn)
-next:
-  - The Rose Portal (Shrine of Lathander)
-down:
-  - Gunnar Thrune
-RWtopicId: Topic_627
 Region: placeholder
+tags: []
 ---
 # The Lady's Hall (Temple of Tymora)
 ## Overview

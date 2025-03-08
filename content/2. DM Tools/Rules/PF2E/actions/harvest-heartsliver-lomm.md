@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/lomm
-- trait/manipulate
-- trait/rare
-aliases: ["Harvest Heartsliver"]
+aliases:
+  - Harvest Heartsliver
+tags: []
 ---
 # Harvest Heartsliver [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  

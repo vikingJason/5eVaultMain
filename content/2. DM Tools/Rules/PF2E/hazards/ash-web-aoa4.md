@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa4
-- trait/environmental
-- trait/fungus
-aliases: ["Ash Web"]
+tags: []
+aliases:
+  - Ash Web
 ---
 # Ash Web *Hazard 10*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  

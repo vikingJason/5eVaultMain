@@ -1,12 +1,13 @@
 ---
-faction: "ACME"
+faction: ACME
 benefits:
   - standing: 1
-    reward: "Love"
+    reward: Love
   - standing: 2
-    reward: "Respect"
+    reward: Respect
   - standing: 3
-    reward: "What do they get at level 3?"
+    reward: What do they get at level 3?
+tags: []
 ---
 
 test

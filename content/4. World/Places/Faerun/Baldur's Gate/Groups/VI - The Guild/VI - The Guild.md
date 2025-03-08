@@ -1,26 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Guild
-Tags: Category/Group--Criminal
 Type:
   - Criminal
   - placeholder
-Criminal-Activities: Vice
-parent:
-  - Baldurs Gate Groups
-up:
-  - Baldurs Gate Groups
-prev:
-  - III - Parliament of Peers
-next:
-  - VII - The Patriars
-down:
-  - The Fetcher
-  - _Nine-Fingers_ Keene
-  - Rilsa Rael
-  - Fruwald the Nail
-RWtopicId: Topic_681
 Region: placeholder
 ---
 # VI - The Guild

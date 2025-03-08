@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse/tempted
-- affliction/level/1
-- compendium/src/pf2e/da
-- trait/curse
-- trait/magical
-- trait/rare
-- trait/transmutation
-aliases: ["Thief's Burden"]
+aliases:
+  - Thief's Burden
+tags: []
 ---
 # Thief's Burden
 *Curse 1*  

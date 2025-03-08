@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Sneak Attack"]
+aliases:
+  - Sneak Attack
+tags: []
 ---
 # Sneak Attack
 

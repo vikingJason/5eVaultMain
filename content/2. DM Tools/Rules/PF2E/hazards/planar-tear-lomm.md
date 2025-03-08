@@ -1,16 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/lomm
-- trait/complex
-- trait/conjuration
-- trait/divine
-- trait/environmental
-- trait/kaiju
-- trait/rare
-- trait/teleportation
-aliases: ["Planar Tear"]
+tags: []
+aliases:
+  - Planar Tear
 ---
 # Planar Tear *Hazard 22*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  

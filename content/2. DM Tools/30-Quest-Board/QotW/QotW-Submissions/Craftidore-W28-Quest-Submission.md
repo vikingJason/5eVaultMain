@@ -1,3 +1,6 @@
+---
+tags: []
+---
 
 > [!summary]
 > - Quest submission for [[QotW-2023W28]].

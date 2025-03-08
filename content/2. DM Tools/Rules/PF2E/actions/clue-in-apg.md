@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/investigator-apg
-- compendium/src/pf2e/apg
-- trait/concentrate
-- trait/investigator
-aliases: ["Clue In"]
+aliases:
+  - Clue In
+tags: []
 ---
 # Clue In [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  

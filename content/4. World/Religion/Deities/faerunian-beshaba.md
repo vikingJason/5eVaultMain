@@ -1,15 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/scag
-  - deity/faerunian
-  - domain/trickery
-aliases:
-  - Beshaba
-  - The Maid of Misfortune
-  - Lady Doom
-  - Black Bess
+{}
 ---
 # Beshaba
 *Source: Sword Coast Adventurer's Guide p. 21* 

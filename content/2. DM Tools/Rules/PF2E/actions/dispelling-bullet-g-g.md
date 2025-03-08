@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/archetype/spellshot-g-g
-- action/class/gunslinger-g-g
-- compendium/src/pf2e/g&g
-- trait/abjuration
-- trait/magical
-- trait/spellshot
-aliases: ["Dispelling Bullet"]
+aliases:
+  - Dispelling Bullet
+tags: []
 ---
 # Dispelling Bullet [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellshot](rules/traits/spellshot-g-g.md "Spellshot Class Trait")  

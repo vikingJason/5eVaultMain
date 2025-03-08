@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ![[Pasted image 20211219200056.png]]
 [[Pasted image 20211219200056.png|Display To Players]]
 

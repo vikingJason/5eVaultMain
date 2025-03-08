@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/feat
-aliases: ["General"]
+tags: []
+aliases:
+  - General
 ---
 # General  
 *Source: Core Rulebook p. 632*  

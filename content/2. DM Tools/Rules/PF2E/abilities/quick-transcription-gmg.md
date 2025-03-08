@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Quick Transcription"]
+aliases:
+  - Quick Transcription
+tags: []
 ---
 # Quick Transcription
 

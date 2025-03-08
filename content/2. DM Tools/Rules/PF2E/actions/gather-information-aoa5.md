@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa5
-- trait/downtime
-- trait/secret
-aliases: ["Gather Information"]
+aliases:
+  - Gather Information
+tags: []
 ---
 # Gather Information
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec5
-- trait/complex
-- trait/haunt
-aliases: ["Host Of Spirits"]
+tags: []
+aliases:
+  - Host Of Spirits
 ---
 # Host Of Spirits *Hazard 18*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

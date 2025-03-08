@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## Obscuration
 
 ### Lightly Obscured

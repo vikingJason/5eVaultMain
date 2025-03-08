@@ -1,25 +1,12 @@
 ---
 Role:
   - Player
-Player: Michael
-Name: Nox
-Pronounced: NOX
-Art: 
 Race: Gnome
-Gender: Male
-Pronouns: He/Him
 Sexuality: Bisexual
 Age: Young Adult
 Class: Warlock
-Background: Acrobat
 Alignment: Chaotic Neutral
 Religion: 
-Level: 8
-HP: 71
-AC: 22
-PasPerc: 13
-Party: Party 1
-NoteIcon: Player
 ---
 
 > [!infobox]

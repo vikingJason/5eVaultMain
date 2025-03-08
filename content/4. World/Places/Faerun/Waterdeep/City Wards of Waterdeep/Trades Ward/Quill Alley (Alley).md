@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Quill Alley
-Tags: Category/Adventure-Area Suffix/Alley
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - Quaff Alley (Alley)
-next:
-  - Spoils Alley (Alley)
-RWtopicId: Topic_194
 Type: placeholder
 Region: placeholder
 ---

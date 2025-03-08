@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/som
-- trait/category/equipment
-aliases: ["Spellheart"]
+tags: []
+aliases:
+  - Spellheart
 ---
 # Spellheart  
 *Source: Secrets of Magic p. 170*  

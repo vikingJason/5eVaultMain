@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Confused
 foundryId: Item.bnCtXfPD3Ku6Nlk6
-tags:
-  - pf2econdition
+tags: []
 effect: "**Off-Guard** and can't use **Delay**, **Ready**, or **Reaction**"
 ---
 ![[gm_grappled.png|150]]

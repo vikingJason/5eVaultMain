@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-book
-tags:
-- book-core-core-rulebook
-- compendium/src/pf2e/crb
-aliases: ["Core Rulebook"]
+cssclasses:
+  - pf2e
+  - pf2e-book
+tags: []
+aliases:
+  - Core Rulebook
 ---
 **[Chapter 1: Introduction](rules/core-rulebook/chapter-1-introduction.md)**
 

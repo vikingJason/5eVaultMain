@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe3
-- trait/mechanical
-- trait/trap
-aliases: ["Boiling Tub Trap"]
+tags: []
+aliases:
+  - Boiling Tub Trap
 ---
 # Boiling Tub Trap *Hazard 13*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

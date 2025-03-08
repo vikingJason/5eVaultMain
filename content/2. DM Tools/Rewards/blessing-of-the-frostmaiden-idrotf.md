@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-reward
-tags:
-  - compendium/src/5e/idrotf
-  - reward/blessing
+tags: []
 aliases:
   - Blessing of the Frostmaiden
 ---

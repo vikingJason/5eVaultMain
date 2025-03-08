@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/av1
-- trait/complex
-- trait/haunt
-aliases: ["Blood Of Belcorra"]
+tags: []
+aliases:
+  - Blood Of Belcorra
 ---
 # Blood Of Belcorra *Hazard 3*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

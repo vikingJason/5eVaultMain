@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Relic Gifts"]
+tags: []
+aliases:
+  - Relic Gifts
 ---
 # Relic Gifts  
 *Source: Gamemastery Guide p. 95*  

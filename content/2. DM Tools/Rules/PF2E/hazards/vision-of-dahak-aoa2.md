@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa2
-- trait/complex
-- trait/fire
-- trait/magical
-- trait/rare
-- trait/trap
-aliases: ["Vision Of Dahak"]
+tags: []
+aliases:
+  - Vision Of Dahak
 ---
 # Vision Of Dahak *Hazard 8*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

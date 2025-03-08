@@ -2,8 +2,7 @@
 title: Grappled
 aliases:
   - Grappled
-tags:
-  - 5eCondition
+tags: []
 effect: A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
 ---
 

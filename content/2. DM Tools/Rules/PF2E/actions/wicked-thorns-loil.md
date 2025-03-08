@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/ghoran-loil
-- compendium/src/pf2e/loil
-aliases: ["Wicked Thorns"]
+aliases:
+  - Wicked Thorns
+tags: []
 ---
 # Wicked Thorns [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Lost Omens: Impossible Lands p. 37*  

@@ -1,8 +1,6 @@
 ---
-Tags: Category/Settlement
 Community-Size: Outpost
 Alignment: Chaotic Evil
-Government: Autocracy
 Type: placeholder
 Region: placeholder
 ---

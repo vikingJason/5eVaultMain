@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw1
-- trait/environmental
-aliases: ["Blooming Jijioa"]
+tags: []
+aliases:
+  - Blooming Jijioa
 ---
 # Blooming Jijioa *Hazard 5*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

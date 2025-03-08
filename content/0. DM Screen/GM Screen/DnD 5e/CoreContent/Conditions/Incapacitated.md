@@ -2,8 +2,7 @@
 title: Incapacitated
 aliases:
   - Incapacitated
-tags:
-  - 5eCondition
+tags: []
 effect: An incapacitated creature can’t take actions or reactions.
 ---
 ![[Incapacitated.png|150]]

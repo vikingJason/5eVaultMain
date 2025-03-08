@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/vishkanya-loil
-- compendium/src/pf2e/loil
-aliases: ["Venom Draw"]
+aliases:
+  - Venom Draw
+tags: []
 ---
 # Venom Draw [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Lost Omens: Impossible Lands p. 60*  

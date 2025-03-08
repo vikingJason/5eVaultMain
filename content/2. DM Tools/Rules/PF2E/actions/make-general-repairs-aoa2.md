@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa2
-- trait/downtime
-- trait/manipulate
-aliases: ["Make General Repairs"]
+aliases:
+  - Make General Repairs
+tags: []
 ---
 # Make General Repairs
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

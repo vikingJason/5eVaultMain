@@ -1,10 +1,9 @@
 ---
-title: "Dazzled"
+title: Dazzled
 noteType: ":luggage:"
-aliases: "Dazzled"
+aliases: Dazzled
 foundryId: Item.h6ohwa66Y1cVZf1t
-tags:
-  - pf2econdition
+tags: []
 effect: Your eyes are overstimulated. Everthing is Concealed from you.
 ---
 ![[gm_dazzled.png|150]]

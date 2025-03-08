@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/creature
-aliases: ["Caligni"]
+tags: []
+aliases:
+  - Caligni
 ---
 # Caligni  
 *Source: Bestiary p. 345*  

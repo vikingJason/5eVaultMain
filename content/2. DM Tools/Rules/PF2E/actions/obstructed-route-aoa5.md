@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa5
-- trait/exploration
-aliases: ["Obstructed Route"]
+aliases:
+  - Obstructed Route
+tags: []
 ---
 # Obstructed Route
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

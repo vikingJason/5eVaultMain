@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/concentrate
-aliases: ["Reconnoiter"]
+aliases:
+  - Reconnoiter
+tags: []
 ---
 # Reconnoiter
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  

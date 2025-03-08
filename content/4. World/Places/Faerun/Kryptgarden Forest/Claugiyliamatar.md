@@ -1,16 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Unique-Monster-Enemy
 Type:
   - Dragon
   - placeholder
-"": Possible Rival
-parent:
-  - Kryptgarden Forest
-up:
-  - Kryptgarden Forest
-RWtopicId: Topic_41
 Region: placeholder
+tags: []
 ---
 # Claugiyliamatar
 ## Overview

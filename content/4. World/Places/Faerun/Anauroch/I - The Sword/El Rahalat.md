@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Mountains
 Climate: Arid
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - El Ma'ra
-next:
-  - Elah'Zad
-RWtopicId: Topic_763
 Type: placeholder
 Region: placeholder
 ---

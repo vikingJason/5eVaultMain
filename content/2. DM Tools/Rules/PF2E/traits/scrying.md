@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/effect
-aliases: ["Scrying"]
+tags: []
+aliases:
+  - Scrying
 ---
 # Scrying  
 *Source: Core Rulebook p. 636*  

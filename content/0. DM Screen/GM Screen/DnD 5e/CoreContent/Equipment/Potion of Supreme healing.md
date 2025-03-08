@@ -2,11 +2,9 @@
 title: Potion of Supreme healing
 aliases:
   - Potion of Supreme healing
-tags:
-  - 5eSpell
-  - 5eHealing
+tags: []
 effect: "Restores `dice: 10d4+20` hit points"
-cost: "1000 gp"
+cost: 1000 gp
 ---
 
 ![[PoSuH.png|150]]

@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw1
-- trait/complex
-- trait/environmental
-- trait/magical
-- trait/mental
-- trait/poison
-aliases: ["Poisonous Atmosphere"]
+tags: []
+aliases:
+  - Poisonous Atmosphere
 ---
 # Poisonous Atmosphere *Hazard 1*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  

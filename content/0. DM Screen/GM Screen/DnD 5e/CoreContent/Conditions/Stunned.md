@@ -1,9 +1,8 @@
 ---
 title: Stunned
-aliases: 
+aliases:
   - Stunned
-tags:
-  - 5eCondition
+tags: []
 effect: Fails **Strength** and **Dexterity** saving throws,can't move, and attack rolls against the creature have advantage.
 ---
 

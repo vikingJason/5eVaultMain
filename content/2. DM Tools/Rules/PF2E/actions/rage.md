@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/barbarian
-- compendium/src/pf2e/crb
-- trait/barbarian
-- trait/concentrate
-- trait/emotion
-- trait/mental
-aliases: ["Rage"]
+aliases:
+  - Rage
+tags: []
 ---
 # Rage [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/ooa2
-aliases: ["Mana Storm Effects"]
+tags: []
+aliases:
+  - Mana Storm Effects
 ---
 # Mana Storm Effects  
 *Source: Outlaws of Alkenstar #2: Cradle of Quartz p. 70*  

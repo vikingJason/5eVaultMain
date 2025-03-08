@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Blood-Soaked Soil"]
+tags: []
+aliases:
+  - Blood-Soaked Soil
 ---
 # Blood-Soaked Soil *Hazard 0*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

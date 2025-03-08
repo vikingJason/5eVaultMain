@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["chapter-2-tools"]
+tags: []
+aliases:
+  - chapter-2-tools
 ---
 # Chapter 2: Tools
 <sup>GMG p. 55</sup>

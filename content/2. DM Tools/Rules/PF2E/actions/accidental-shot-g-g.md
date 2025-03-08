@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/archetype/unexpected-sharpshooter-g-g
-- compendium/src/pf2e/g&g
-- trait/fortune
-aliases: ["Accidental Shot"]
+aliases:
+  - Accidental Shot
+tags: []
 ---
 # Accidental Shot [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [fortune](rules/traits/fortune.md "Fortune Effect Trait")  

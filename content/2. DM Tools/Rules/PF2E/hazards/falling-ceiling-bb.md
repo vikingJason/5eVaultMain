@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/bb
-aliases: ["Falling Ceiling"]
+tags: []
+aliases:
+  - Falling Ceiling
 ---
 # Falling Ceiling *Hazard 1*  
 

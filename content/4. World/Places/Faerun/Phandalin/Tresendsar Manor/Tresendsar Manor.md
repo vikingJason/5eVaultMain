@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
-parent:
-  - Phandalin
-up:
-  - Phandalin
-prev:
-  - Townmaster's Hall
-down:
-  - Redbrand Hideout
-RWtopicId: Topic_59
 Type: placeholder
 Region: placeholder
 ---

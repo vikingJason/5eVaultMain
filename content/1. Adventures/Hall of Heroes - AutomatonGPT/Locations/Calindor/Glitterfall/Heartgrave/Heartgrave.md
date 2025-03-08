@@ -16,6 +16,7 @@ Region: Glitterfall
 Type: placeholder
 Ruler: placeholder
 Factions: placeholder
+tags: []
 ---
 # Scrantonia
 ## Overview

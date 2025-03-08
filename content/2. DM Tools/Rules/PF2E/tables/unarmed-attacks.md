@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Unarmed Attacks"]
+tags: []
+aliases:
+  - Unarmed Attacks
 ---
 # Unarmed Attacks  
 *Source: Core Rulebook p. 280*  

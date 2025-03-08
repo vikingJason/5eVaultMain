@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ooa1
-- trait/alchemical
-- trait/complex
-- trait/environmental
-aliases: ["Volatile Reagents"]
+tags: []
+aliases:
+  - Volatile Reagents
 ---
 # Volatile Reagents *Hazard 2*  
 [alchemical](rules/traits/alchemical.md "Alchemical Item Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

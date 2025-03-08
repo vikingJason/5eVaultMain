@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/magical
-- trait/trap
-aliases: ["Frozen Moment"]
+tags: []
+aliases:
+  - Frozen Moment
 ---
 # Frozen Moment *Hazard 17*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

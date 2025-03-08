@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Cost of Living"]
+tags: []
+aliases:
+  - Cost of Living
 ---
 # Cost of Living  
 *Source: Core Rulebook p. 294*  

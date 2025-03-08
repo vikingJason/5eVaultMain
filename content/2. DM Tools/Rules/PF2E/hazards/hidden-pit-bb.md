@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/bb
-aliases: ["Hidden Pit"]
+tags: []
+aliases:
+  - Hidden Pit
 ---
 # Hidden Pit *Hazard 0*  
 

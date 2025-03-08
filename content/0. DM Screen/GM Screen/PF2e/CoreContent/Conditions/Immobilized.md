@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Immobilized
 foundryId: Item.cQOu8j36aAVm6KjL
-tags:
-  - pf2econdition
+tags: []
 effect: You can't use any action with the move trait.
 ---
 ![[gm_immobile.png|150]]

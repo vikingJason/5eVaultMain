@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Citadel Adbar
-next:
-  - Coldwood
-RWtopicId: Topic_415
 Type: placeholder
 Region: placeholder
 ---

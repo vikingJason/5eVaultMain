@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa5
-- trait/downtime
-aliases: ["Secure Disguises"]
+aliases:
+  - Secure Disguises
+tags: []
 ---
 # Secure Disguises
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

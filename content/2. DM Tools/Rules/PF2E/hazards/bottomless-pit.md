@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/magical
-- trait/mechanical
-- trait/trap
-aliases: ["Bottomless Pit"]
+tags: []
+aliases:
+  - Bottomless Pit
 ---
 # Bottomless Pit *Hazard 9*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

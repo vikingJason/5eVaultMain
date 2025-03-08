@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/apg
-- trait/category/ancestry-heritage
-- trait/category/creature
-aliases: ["Duskwalker"]
+tags: []
+aliases:
+  - Duskwalker
 ---
 # Duskwalker  
 *Source: Advanced Player's Guide p. 267*  

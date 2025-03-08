@@ -1,16 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
 Type:
   - Other
   - placeholder
-parent:
-  - IV - The Lost Kingdoms
-up:
-  - IV - The Lost Kingdoms
-prev:
-  - Port Miir
-RWtopicId: Topic_735
 Region: placeholder
 ---
 # The Burn

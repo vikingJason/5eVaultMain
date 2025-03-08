@@ -1,17 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Race: Elf
-Gender: Male
 Age: Adult
 Class: Commoner
-parent:
-  - III - Parliament of Peers
-up:
-  - III - Parliament of Peers
-next:
-  - Imbralym Skoond
-RWtopicId: Topic_679
 Member:
   - - III - Parliament of Peers
 Type: placeholder

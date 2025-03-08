@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/4
-- compendium/src/pf2e/gmg
-- trait/disease
-- trait/virulent
-aliases: ["Scarlet Leprosy"]
+aliases:
+  - Scarlet Leprosy
+tags: []
 ---
 # Scarlet Leprosy
 *Disease 4*  

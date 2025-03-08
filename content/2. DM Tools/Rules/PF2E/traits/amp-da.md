@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/da
-- trait/category/feat
-- trait/category/spell
-aliases: ["Amp"]
+tags: []
+aliases:
+  - Amp
 ---
 # Amp  
 *Source: Dark Archive p. 218*  

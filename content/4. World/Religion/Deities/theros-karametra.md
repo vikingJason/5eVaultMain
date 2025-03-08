@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mot
-  - deity/theros
-  - domain/life
-  - domain/nature
-aliases:
-  - Karametra
+{}
 ---
 # Karametra
 *Source: Mythic Odysseys of Theros p. 52* 

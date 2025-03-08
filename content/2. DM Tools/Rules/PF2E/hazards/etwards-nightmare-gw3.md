@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw3
-- trait/complex
-- trait/haunt
-- trait/unique
-aliases: ["Etward's Nightmare"]
+tags: []
+aliases:
+  - Etward's Nightmare
 ---
 # Etward's Nightmare *Hazard 9*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  

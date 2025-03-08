@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-aliases: ["Invest an Item"]
+aliases:
+  - Invest an Item
+tags: []
 ---
 # Invest an Item (basic) [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
 *Source: Core Rulebook p. 531*  

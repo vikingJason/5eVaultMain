@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Gondalim's
-Tags: Category/Merchant Suffix/Inn
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - Saern's Fine Swords (Business)
-next:
-  - Dunblast Roofing Company (Business)
-RWtopicId: Topic_91
 Owner:
   - - Shulmeira Gondalim
 Type: placeholder

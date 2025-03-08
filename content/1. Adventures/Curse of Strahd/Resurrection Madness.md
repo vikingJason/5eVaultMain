@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Resurrection Madness
 
 In Barovia, the souls of the dead are as trapped as the souls of the living. They become caught in the mists and can't travel to the afterlife.

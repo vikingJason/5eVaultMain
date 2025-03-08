@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/egw
-  - deity/exandria
-  - domain/arcana
-  - domain/light
-aliases:
-  - The Luxon
+{}
 ---
 # The Luxon
 *Source: Explorer's Guide to Wildemount p. 32* 

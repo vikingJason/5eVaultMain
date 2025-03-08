@@ -1,15 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
 Type:
   - Area
   - placeholder
-parent:
-  - Manorborn
-up:
-  - Manorborn
-RWtopicId: Topic_707
 Region: placeholder
+tags: []
 ---
 # The Silvershield Estate
 ## Overview

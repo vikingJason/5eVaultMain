@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mtf
-  - deity/gnome
-  - domain/light
-aliases:
-  - Sheyanna Flaxenstrand
+{}
 ---
 # Sheyanna Flaxenstrand
 *Source: Mordenkainen's Tome of Foes p. 110* 

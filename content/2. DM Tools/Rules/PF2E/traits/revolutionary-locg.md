@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/locg
-- trait/category/general
-aliases: ["Revolutionary"]
+tags: []
+aliases:
+  - Revolutionary
 ---
 # Revolutionary  
 *Source: Lost Omens: Character Guide p. 134*  

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/da
-- trait/category/ancestry-heritage
-- trait/category/creature
-aliases: ["Reflection"]
+tags: []
+aliases:
+  - Reflection
 ---
 # Reflection  
 *Source: Dark Archive p. 221*  

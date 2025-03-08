@@ -1,16 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse/tempted
-- affliction/level/7
-- compendium/src/pf2e/da
-- trait/curse
-- trait/magical
-- trait/polymorph
-- trait/rare
-- trait/transmutation
-aliases: ["Boastful Prince's Scourge"]
+aliases:
+  - Boastful Prince's Scourge
+tags: []
 ---
 # Boastful Prince's Scourge
 *Curse 7*  

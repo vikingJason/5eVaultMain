@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Engulf"]
+aliases:
+  - Engulf
+tags: []
 ---
 # Engulf [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 

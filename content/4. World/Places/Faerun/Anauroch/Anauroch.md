@@ -1,25 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Great Land Sea
-Tags: Category/Region--Geographical
 Geographical-Region: Mountains
 Terrain: Rocky
 Climate: Arid
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Zymorven Hall
-down:
-  - II - The Plain of Standing Stones
-  - III - The High Ice
-  - IV - The Lost Kingdoms
-  - Anauroch Groups
-  - I - The Sword
-  - V - Netheril
-RWtopicId: Topic_708
 Type: placeholder
 Region: placeholder
 ---

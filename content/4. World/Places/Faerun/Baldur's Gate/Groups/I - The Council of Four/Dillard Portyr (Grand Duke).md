@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Dillard Portyr
-Tags: Category/Individual Suffix/Grand-Duke
 Race: Human
-Gender: Male
 Age: Adult
 Class: Aristocrat
-parent:
-  - I - The Council of Four
-up:
-  - I - The Council of Four
-prev:
-  - Belynne Stelmane (Duke)
-next:
-  - Abdel Adrian (Duke)
-RWtopicId: Topic_676
 Type: placeholder
 Region: placeholder
 ---

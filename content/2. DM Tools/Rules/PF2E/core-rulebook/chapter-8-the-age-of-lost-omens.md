@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-8-the-age-of-lost-omens"]
+tags: []
+aliases:
+  - chapter-8-the-age-of-lost-omens
 ---
 # Chapter 8: The Age of Lost Omens
 <sup>CRB p. 417</sup>

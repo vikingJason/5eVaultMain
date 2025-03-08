@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Outer Gates
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B7 - Marketplace
-next:
-  - B2 - Stables
-RWtopicId: Topic_311
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B1 - Outer Gates
 ## Overview

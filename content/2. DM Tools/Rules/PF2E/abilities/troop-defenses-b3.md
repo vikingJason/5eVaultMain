@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Troop Defenses"]
+aliases:
+  - Troop Defenses
+tags: []
 ---
 # Troop Defenses
 

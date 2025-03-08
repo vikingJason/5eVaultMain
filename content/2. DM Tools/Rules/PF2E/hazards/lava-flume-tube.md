@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/complex
-- trait/mechanical
-- trait/trap
-aliases: ["Lava Flume Tube"]
+tags: []
+aliases:
+  - Lava Flume Tube
 ---
 # Lava Flume Tube *Hazard 10*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-10-game-mastering"]
+tags: []
+aliases:
+  - chapter-10-game-mastering
 ---
 # Chapter 10: Game Mastering
 <sup>CRB p. 483</sup>

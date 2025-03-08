@@ -1,20 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Esgurl Nurthammas
-Tags: Category/Individual Suffix/Master-of-Cobbles
 Race: Human
-Gender: Male
 Age: Adult
-parent:
-  - II - Officers of the City
-up:
-  - II - Officers of the City
-prev:
-  - Thalamra Vanthampur (Master of Drains)
-next:
-  - Haxilion Trood (Purse Master)
-RWtopicId: Topic_667
 Member:
   - - III - Parliament of Peers
 Type: placeholder

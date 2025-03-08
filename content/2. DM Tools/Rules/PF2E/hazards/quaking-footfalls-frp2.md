@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/frp2
-- trait/environmental
-aliases: ["Quaking Footfalls"]
+tags: []
+aliases:
+  - Quaking Footfalls
 ---
 # Quaking Footfalls *Hazard 14*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

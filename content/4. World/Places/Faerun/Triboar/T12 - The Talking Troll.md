@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Talking Troll
-  - T12
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T11 - Othovir's Harness Shop
-next:
-  - T13 - The Frost-Touched Frog
-RWtopicId: Topic_370
 Type: placeholder
 Region: placeholder
 ---

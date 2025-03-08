@@ -1,23 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Blade and Stars
-Tags: Category/Merchant Suffix/Inn
-Goods-Sold: Food and Drink
-Services-Sold: Food
-Prices: Comfortable
 Quality: Comfortable
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - The Smilin' Boar (Cafe)
-next:
-  - Elfsong Tavern (Tavern)
-RWtopicId: Topic_644
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # The Blade and Stars (Inn)
 ## Overview

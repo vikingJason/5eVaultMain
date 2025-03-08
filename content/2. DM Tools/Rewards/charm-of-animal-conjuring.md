@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-reward
-tags:
-  - compendium/src/5e/dmg
-  - reward/charm
+tags: []
 aliases:
   - Charm of Animal Conjuring
 ---

@@ -1,15 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/scag
-  - deity/faerunian
-  - domain/war
-  - domain/order
-aliases:
-  - Bane
-  - The Black Hand
-  - The Lord of Darkness
+{}
 ---
 # Bane
 *Source: Sword Coast Adventurer's Guide p. 21* 

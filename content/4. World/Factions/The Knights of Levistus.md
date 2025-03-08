@@ -1,19 +1,9 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-Tags: Category/Group--Government
 Type: Government
 Alignment: Chaotic Evil
-Government-Role: Exploration
-Government-Organization: Administration
 parent:
   - Group_ Government
-up:
-  - Group_ Government
-prev:
-  - Template - Group_ Family
-next:
-  - Template - Group_ Military
-RWtopicId: Topic_16
+tags: []
 ---
 # Template - Group: Government
 ## Overview

@@ -1,21 +1,12 @@
 ---
-aliases:
-  - Salvador "Salty" Gordon
-tags:
-  - Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Spices and Seasoning
-up:
-  - Spices and Seasoning
-Type:
-  - placeholder
 Region: placeholder
+Type: NPC
 ---
 # Salvador "Salty" Gordon
 ## Overview

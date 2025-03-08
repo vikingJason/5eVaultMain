@@ -1,19 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Specialty Shop
-up:
-  - Specialty Shop
-RWtopicId: Topic_243
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Izzy Moran
 ## Overview

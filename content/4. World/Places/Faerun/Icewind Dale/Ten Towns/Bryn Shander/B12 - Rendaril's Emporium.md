@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Rendaril's Emporium
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B11 - The Hooked Knucklehead
-next:
-  - B13 - The Northlook
-RWtopicId: Topic_320
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B12 - Rendaril's Emporium
 ## Overview

@@ -4,10 +4,8 @@ noteType: ":luggage:"
 aliases:
   - Familiar
 foundryId: Item.8QY5fLFp2W2J1o3W
-tags:
-  - Item
-  - r-ref
-dmtype:
+tags: []
+dmtype: 
 ---
 
 # Familiar

@@ -1,24 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Outer City
-Tags: Category/Region--Urban
 Urban-Region: District
-Usage: Commercial
-parent:
-  - Baldur's Gate
-up:
-  - Baldur's Gate
-prev:
-  - II - Lower City
-next:
-  - IV - Wyrm's Crossing
-down:
-  - Little Calimshan
-  - Twin Songs
-RWtopicId: Topic_656
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # III - Outer City
 ## Overview

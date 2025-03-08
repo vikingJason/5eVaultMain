@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa2
-- trait/exploration
-aliases: ["Seek the Animals"]
+aliases:
+  - Seek the Animals
+tags: []
 ---
 # Seek the Animals
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

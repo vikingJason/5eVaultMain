@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/7
-- compendium/src/pf2e/aoa2
-- trait/disease
-aliases: ["Malaria"]
+aliases:
+  - Malaria
+tags: []
 ---
 # Malaria
 *Disease 7*  

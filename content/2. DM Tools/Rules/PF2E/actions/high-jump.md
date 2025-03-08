@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-aliases: ["High Jump"]
+aliases:
+  - High Jump
+tags: []
 ---
 # High Jump (basic) [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 *Source: Core Rulebook p. 242*  

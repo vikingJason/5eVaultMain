@@ -1,26 +1,5 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-Commerce: Exports dyes, fish, lamp oil, trade-coinage.
 Alignment: Lawful Neutral
-Government: Monarchy
-Defense: The Guard, The Flaming Fist
-Community-Size: Metropolis
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Ruins of Thundertree
-next:
-  - Gauntlgrym
-down:
-  - II - Lower City
-  - III - Outer City
-  - IV - Wyrm's Crossing
-  - Baldurs Gate Groups
-  - I - Upper City
-RWtopicId: Topic_623
 Organization:
   - - V - The Watch
 Type: placeholder

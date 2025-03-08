@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/phb
-  - deity/norse
-  - domain/light
-  - domain/war
-aliases:
-  - Heimdall
+{}
 ---
 # Heimdall
 *Source: Player's Handbook p. 299* 

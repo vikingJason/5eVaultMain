@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-tags:
-- trait/divine
-- trait/necromancy
-aliases: ["Rejuvenation (Ghost)"]
+tags: []
+aliases:
+  - Rejuvenation (Ghost)
 ---
 # Rejuvenation (Ghost)
 [divine](rules/traits/divine.md "Divine Tradition Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  

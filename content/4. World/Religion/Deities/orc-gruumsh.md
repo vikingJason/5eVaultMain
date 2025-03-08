@@ -1,11 +1,6 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/vgm
-  - deity/orc
-aliases:
-  - Gruumsh
+Alignment: Neutral
+Pantheon: Orc
 ---
 # Gruumsh
 *Source: Volo's Guide to Monsters p. 82, Derived from Gruumsh (SCAG)* 

@@ -1,26 +1,10 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Low Lantern
-  - De Lage Lantaarn
-Tags: Category/Merchant Suffix/Festhall
-Goods-Sold: Food and Drink
-Services-Sold: Information
-Prices: Average
 Quality: Poor
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Hissing Stones Bathhouse
-down:
-  - Laraelra Thundreth (Low Lantern)
-RWtopicId: Topic_654
 Owner:
   - - Laraelra Thundreth (Low Lantern)
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # The Low Lantern (Festhall)
 ## Overview

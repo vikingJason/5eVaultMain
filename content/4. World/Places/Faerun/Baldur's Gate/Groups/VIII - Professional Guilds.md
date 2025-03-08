@@ -1,23 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Professional Guilds
-Tags: Category/Group--Commerce
 Type:
   - Commerce
   - placeholder
-Commerce-Activities: Exploration
-Commerce-Organization: Guild
-parent:
-  - Baldurs Gate Groups
-up:
-  - Baldurs Gate Groups
-prev:
-  - II - Officers of the City
-next:
-  - IV - The Flaming Fist
-RWtopicId: Topic_669
 Region: placeholder
+tags: []
 ---
 # VIII - Professional Guilds
 ## Overview

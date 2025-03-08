@@ -1,12 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-feat
-tags:
-  - compendium/src/5e/phb
-  - optional-feature/fs-b
-  - optional-feature/fs-f
-  - optional-feature/fs-p
-  - optional-feature/fs-r
+tags: []
 aliases:
   - Dueling
 ---

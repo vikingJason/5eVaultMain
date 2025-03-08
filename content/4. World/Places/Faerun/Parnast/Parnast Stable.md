@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
-parent:
-  - Parnast
-up:
-  - Parnast
-prev:
-  - The Golden Tankard
-next:
-  - Shrine of Axes
-RWtopicId: Topic_46
 Type: placeholder
 Region: placeholder
 ---

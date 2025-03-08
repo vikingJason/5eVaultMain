@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ![[tailor 1.jpeg]]
 
 ![[tailor 2.jpeg]]

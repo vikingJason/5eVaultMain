@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Unseen Attackers and Targets
 
 **When you attack a target that you can’t see, you have disadvantage on the attack roll.**

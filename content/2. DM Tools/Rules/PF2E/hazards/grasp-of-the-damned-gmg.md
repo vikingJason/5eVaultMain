@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/haunt
-aliases: ["Grasp of the Damned"]
+tags: []
+aliases:
+  - Grasp of the Damned
 ---
 # Grasp of the Damned *Hazard 17*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

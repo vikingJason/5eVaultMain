@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/combat
-aliases: ["Flourish"]
+tags: []
+aliases:
+  - Flourish
 ---
 # Flourish  
 *Source: Core Rulebook p. 632*  

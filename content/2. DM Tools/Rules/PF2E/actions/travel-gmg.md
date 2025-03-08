@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/move
-aliases: ["Travel"]
+aliases:
+  - Travel
+tags: []
 ---
 # Travel
 [move](rules/traits/move.md "Move Combat Trait")  

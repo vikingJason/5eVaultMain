@@ -1,3 +1,6 @@
+---
+tags: []
+---
 - Underground Fighting Ring/ Investigation: Rumors circulate about an illegal underground fighting ring run by a group of Red Cap.  
   
 Head to the village person who raised the report.  

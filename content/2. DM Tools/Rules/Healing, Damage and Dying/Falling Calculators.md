@@ -17,6 +17,7 @@ acr: 5
 fall_dmg: 15
 dex_save: 11
 obsidianUIMode: preview
+tags: []
 ---
 # Falling Calculators
 

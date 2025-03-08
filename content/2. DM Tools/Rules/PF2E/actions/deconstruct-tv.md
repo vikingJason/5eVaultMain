@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/tv
-- trait/downtime
-- trait/rare
-aliases: ["Deconstruct"]
+aliases:
+  - Deconstruct
+tags: []
 ---
 # Deconstruct
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  

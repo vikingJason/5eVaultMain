@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Geldenstag's Rest
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B13 - The Northlook
-RWtopicId: Topic_322
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B14 - Geldenstag's Rest
 ## Overview

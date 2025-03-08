@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa5
-- trait/downtime
-aliases: ["Contact Steel Falcons"]
+aliases:
+  - Contact Steel Falcons
+tags: []
 ---
 # Contact Steel Falcons
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

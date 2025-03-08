@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/effect
-- trait/category/item
-aliases: ["Extradimensional"]
+tags: []
+aliases:
+  - Extradimensional
 ---
 # Extradimensional  
 *Source: Core Rulebook p. 631*  

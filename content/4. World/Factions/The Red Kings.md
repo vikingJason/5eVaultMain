@@ -1,1 +1,4 @@
+---
+tags: []
+---
 An alliance of monsters and villains bent on ruling the world. Currently led by Kaanchiweartoliock, The Red Emperor, an ancient red dracolich.

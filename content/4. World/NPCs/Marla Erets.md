@@ -1,21 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - The Rusty Pipe
-up:
-  - The Rusty Pipe
-prev:
-  - Yoruna Faede
-RWtopicId: Topic_253
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Marla Erets
 ## Overview

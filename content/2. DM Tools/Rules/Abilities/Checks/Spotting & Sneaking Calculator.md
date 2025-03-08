@@ -25,6 +25,7 @@ invisibility: false
 penalties: 1
 penaltyFactor: 3.3333333333333335
 obsidianUIMode: preview
+tags: []
 ---
 
 #  Spotting & Sneaking Calculator

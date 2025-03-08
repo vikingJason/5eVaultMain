@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Breeds of Horses
 
 ## Rollable Table

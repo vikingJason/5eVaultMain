@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/locg
-- trait/category/ancestry-heritage
-- trait/category/creature
-aliases: ["Hobgoblin"]
+tags: []
+aliases:
+  - Hobgoblin
 ---
 # Hobgoblin  
 *Source: Lost Omens: Character Guide p. 133*  

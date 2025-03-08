@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Diseases
 
 ## Arcane Blight

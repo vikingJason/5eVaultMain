@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/shisk-lome
-- compendium/src/pf2e/lome
-aliases: ["Barbed Quills"]
+aliases:
+  - Barbed Quills
+tags: []
 ---
 # Barbed Quills [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Lost Omens: The Mwangi Expanse p. 123*  

@@ -1,23 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Barley Herzog
-Tags: Category/Individual Suffix/Bar-Tender
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Beverages and Food
-up:
-  - Beverages and Food
-prev:
-  - Alyssa Herzog (Barmaid)
-RWtopicId: Topic_293
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Barley Herzog (Bar Tender)
 ## Overview

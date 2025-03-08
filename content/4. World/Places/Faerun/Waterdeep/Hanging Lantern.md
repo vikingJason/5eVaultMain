@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - Waterdeep
-up:
-  - Waterdeep
-prev:
-  - Dancing Wave
-next:
-  - Red Sashes
-RWtopicId: Topic_192
 Type: placeholder
 Region: placeholder
 ---

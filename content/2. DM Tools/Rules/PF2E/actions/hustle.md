@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/exploration
-- trait/move
-aliases: ["Hustle"]
+aliases:
+  - Hustle
+tags: []
 ---
 # Hustle (basic)
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  

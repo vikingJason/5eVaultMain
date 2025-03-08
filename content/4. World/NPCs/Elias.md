@@ -1,21 +1,12 @@
 ---
-Role:
-  - NPC
-Name: 
-Pronounced: 
-Art: 
 Race: "[[Human]]"
-Gender: Male
-Pronouns: He/Him
-Sexuality: Straight
-Age: Mature Adult
 Occupation: "[[6. Database/World-Building-main/Occupations/Services/miller.md|miller]]"
 Alignment: "[[Neutral Good]]"
 Religion: 
 Condition: Healthy
 Location: "[[Petalwood]]"
 Groups: 
-PartyStanding: Friendly
+Type: NPC
 ---
 
 

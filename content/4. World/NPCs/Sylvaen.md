@@ -1,15 +1,12 @@
 ---
-role: NPC
-name: Sylvaen Thistlebloom
 race: Wood Elf
-gender: Female
 occupation: Healer and Herbalist
 alignment: Neutral Good
 religion: Mielikki, Goddess of Forests
 condition: Healthy but aging gracefully
 location: Quietbrook Village
 groups: None
-partyStanding: Potential Ally
+Type: NPC
 ---
 
 # **Sylvaen Thistlebloom**

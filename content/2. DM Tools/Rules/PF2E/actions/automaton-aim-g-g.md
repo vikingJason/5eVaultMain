@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/automaton-g-g
-- compendium/src/pf2e/g&g
-aliases: ["Automaton Aim"]
+aliases:
+  - Automaton Aim
+tags: []
 ---
 # Automaton Aim [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Guns & Gears p. 39*  

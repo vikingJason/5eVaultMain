@@ -1,22 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Other
 parent:
   - Waterdeep
-up:
-  - Waterdeep
-prev:
-  - Hanging Lantern
-next:
-  - Durnan
-down:
-  - Baklin
-  - Surrolph Hlakken
-  - Naneatha Lharilstar
-  - Jurisk Ulhammond
-RWtopicId: Topic_221
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Red Sashes
 ## Overview

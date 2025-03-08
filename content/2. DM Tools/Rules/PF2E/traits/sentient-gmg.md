@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/gmg
-- trait/category/morphic
-- trait/category/planar
-aliases: ["Sentient"]
+tags: []
+aliases:
+  - Sentient
 ---
 # Sentient  
 *Source: Gamemastery Guide p. 254*  

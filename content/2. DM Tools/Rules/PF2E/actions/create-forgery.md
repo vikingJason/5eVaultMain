@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/downtime
-- trait/secret
-aliases: ["Create Forgery"]
+aliases:
+  - Create Forgery
+tags: []
 ---
 # Create Forgery (basic)
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

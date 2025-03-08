@@ -18,6 +18,7 @@ services:
   - Merchant( Poor   quality, Low  costs)
   - Oil Trader( Average   quality, Low  costs)
 Region: '"[[Borfaldor]]"'
+tags: []
 ---
 
 

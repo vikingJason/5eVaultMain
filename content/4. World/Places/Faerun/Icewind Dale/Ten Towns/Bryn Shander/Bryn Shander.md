@@ -1,32 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - Ten Towns
-up:
-  - Ten Towns
-prev:
-  - Caer-Konig
-down:
-  - 1 - Elected Speaker
-  - 2 - Sheriff
-  - B7 - Marketplace
-  - B1 - Outer Gates
-  - B2 - Stables
-  - B3 - Council Hall
-  - B4 - House of the Triad
-  - B5 - Speaker's Palace
-  - B6 - Town Hall
-  - B8 - Kelvin's Comfort
-  - B9 - Armory
-  - B10 - Blackiron Blades
-  - B11 - The Hooked Knucklehead
-  - B12 - Rendaril's Emporium
-  - B13 - The Northlook
-  - B14 - Geldenstag's Rest
-RWtopicId: Topic_184
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Bryn Shander
 ## Overview

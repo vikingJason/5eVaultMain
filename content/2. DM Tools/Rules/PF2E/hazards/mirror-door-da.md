@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/da
-- trait/magical
-- trait/trap
-- trait/visual
-aliases: ["Mirror Door"]
+tags: []
+aliases:
+  - Mirror Door
 ---
 # Mirror Door *Hazard -1*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  

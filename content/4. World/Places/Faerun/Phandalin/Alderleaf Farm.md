@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - Phandalin
-up:
-  - Phandalin
-prev:
-  - Phandalin Miner's Exchange
-next:
-  - Shrine of Luck
-RWtopicId: Topic_67
 Type: placeholder
 Region: placeholder
 ---

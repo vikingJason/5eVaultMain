@@ -1,19 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - 1 - Elected Speaker
-up:
-  - 1 - Elected Speaker
-RWtopicId: Topic_306
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Duvessa Shane
 ## Overview

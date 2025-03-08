@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/lotg
-aliases: ["Animal Caretaking Gear Prices"]
+tags: []
+aliases:
+  - Animal Caretaking Gear Prices
 ---
 # Animal Caretaking Gear Prices  
 *Source: Lost Omens: Travel Guide p. 103*  

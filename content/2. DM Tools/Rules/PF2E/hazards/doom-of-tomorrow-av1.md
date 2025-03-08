@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/av1
-- trait/magical
-- trait/trap
-aliases: ["Doom Of Tomorrow"]
+tags: []
+aliases:
+  - Doom Of Tomorrow
 ---
 # Doom Of Tomorrow *Hazard 3*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

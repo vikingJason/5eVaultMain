@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/size
-aliases: ["Small"]
+tags: []
+aliases:
+  - Small
 ---
 # Small  
 *Source: Bestiary p. 345*  

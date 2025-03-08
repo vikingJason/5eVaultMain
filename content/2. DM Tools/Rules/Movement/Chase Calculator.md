@@ -25,6 +25,7 @@ PVm: 1
 ChaseUnit: 6
 ChaseTime: 2
 obsidianUIMode: preview
+tags: []
 ---
 #  Chase Calculator
 

@@ -1,16 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse/tempted
-- affliction/level/13
-- compendium/src/pf2e/da
-- trait/curse
-- trait/enchantment
-- trait/magical
-- trait/mental
-- trait/rare
-aliases: ["Enforced Hospitality"]
+aliases:
+  - Enforced Hospitality
+tags: []
 ---
 # Enforced Hospitality
 *Curse 13*  

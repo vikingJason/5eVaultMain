@@ -1,19 +1,12 @@
 ---
-tags:
-  - Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - B8 - Kelvin's Comfort
-up:
-  - B8 - Kelvin's Comfort
-Type:
-  - placeholder
 Region: placeholder
+Type: NPC
 ---
 # Sir Baric Nylef
 ## Overview

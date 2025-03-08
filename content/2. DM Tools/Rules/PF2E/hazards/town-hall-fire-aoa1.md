@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa1
-- trait/complex
-- trait/environmental
-- trait/fire
-aliases: ["Town Hall Fire"]
+tags: []
+aliases:
+  - Town Hall Fire
 ---
 # Town Hall Fire *Hazard 1*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  

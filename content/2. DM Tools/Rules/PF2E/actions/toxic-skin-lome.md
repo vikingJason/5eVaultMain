@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/grippli-lome
-- compendium/src/pf2e/lome
-- trait/grippli
-- trait/poison
-aliases: ["Toxic Skin"]
+aliases:
+  - Toxic Skin
+tags: []
 ---
 # Toxic Skin [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  

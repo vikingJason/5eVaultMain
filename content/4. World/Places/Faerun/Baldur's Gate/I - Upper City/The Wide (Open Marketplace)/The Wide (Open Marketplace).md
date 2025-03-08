@@ -1,29 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Wide
-Tags: Category/Merchant Suffix/Open-Marketplace
-Goods-Sold: Consumable Item
-Services-Sold: Information
-Prices: Cheap
 Quality: Average
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - High Hall (The Ducal Palace)
-next:
-  - High House of Wonders (Temple of Gond)
-down:
-  - The Beloved Ranger
-  - The Undercellar
-  - Jedren Hiller (Baillif of the Wide)
-RWtopicId: Topic_698
-Supervisor:
-  - - Jedren Hiller (Baillif of the Wide)
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # The Wide (Open Marketplace)
 ## Overview

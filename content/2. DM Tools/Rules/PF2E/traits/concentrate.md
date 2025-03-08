@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/action-ability
-- trait/category/combat
-aliases: ["Concentrate"]
+tags: []
+aliases:
+  - Concentrate
 ---
 # Concentrate  
 *Source: Core Rulebook p. 630*  

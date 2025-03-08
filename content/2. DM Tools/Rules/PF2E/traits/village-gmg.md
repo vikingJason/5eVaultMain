@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/gmg
-- trait/category/settlement
-aliases: ["Village"]
+tags: []
+aliases:
+  - Village
 ---
 # Village  
 *Source: Gamemastery Guide p. 255*  

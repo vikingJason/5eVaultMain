@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/gmg
-- trait/category/planar
-- trait/category/scope
-aliases: ["Immeasurable"]
+tags: []
+aliases:
+  - Immeasurable
 ---
 # Immeasurable  
 *Source: Gamemastery Guide p. 252*  

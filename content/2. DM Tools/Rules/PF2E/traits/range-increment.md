@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/weapon
-aliases: ["Range Increment"]
+tags: []
+aliases:
+  - Range Increment
 ---
 # Range Increment  
 *Source: Core Rulebook p. 279*  

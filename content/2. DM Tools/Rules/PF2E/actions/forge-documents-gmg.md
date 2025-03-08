@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/downtime
-- trait/secret
-aliases: ["Forge Documents"]
+aliases:
+  - Forge Documents
+tags: []
 ---
 # Forge Documents
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

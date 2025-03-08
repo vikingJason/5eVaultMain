@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/environmental
-aliases: ["Titanic Flytrap"]
+tags: []
+aliases:
+  - Titanic Flytrap
 ---
 # Titanic Flytrap *Hazard 4*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

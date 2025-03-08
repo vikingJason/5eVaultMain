@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Cover
 
 Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target: 

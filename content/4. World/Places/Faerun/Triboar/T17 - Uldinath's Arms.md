@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Uldinath's Arms
-  - T17
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T16 - The Triboar Arms
-next:
-  - T18 - Foehammer's Forge
-RWtopicId: Topic_375
 Type: placeholder
 Region: placeholder
 ---

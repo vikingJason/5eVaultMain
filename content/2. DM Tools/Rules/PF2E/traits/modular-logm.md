@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/logm
-- trait/category/item
-- trait/category/weapon
-aliases: ["Modular"]
+tags: []
+aliases:
+  - Modular
 ---
 # Modular  
 *Source: Lost Omens: Gods & Magic p. 120*  

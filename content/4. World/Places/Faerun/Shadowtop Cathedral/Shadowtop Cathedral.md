@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Secomber
-next:
-  - Shining Falls
-down:
-  - Turlang
-RWtopicId: Topic_73
 Type: placeholder
 Region: placeholder
 ---

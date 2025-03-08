@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/combat
-aliases: ["Move"]
+tags: []
+aliases:
+  - Move
 ---
 # Move  
 *Source: Core Rulebook p. 634*  

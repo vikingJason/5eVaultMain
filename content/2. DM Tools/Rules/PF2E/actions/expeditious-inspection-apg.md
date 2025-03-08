@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/investigator-apg
-- compendium/src/pf2e/apg
-- trait/investigator
-aliases: ["Expeditious Inspection"]
+aliases:
+  - Expeditious Inspection
+tags: []
 ---
 # Expeditious Inspection [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  

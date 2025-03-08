@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/complex
-- trait/environmental
-aliases: ["Perilous Flash Flood"]
+tags: []
+aliases:
+  - Perilous Flash Flood
 ---
 # Perilous Flash Flood *Hazard 10*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

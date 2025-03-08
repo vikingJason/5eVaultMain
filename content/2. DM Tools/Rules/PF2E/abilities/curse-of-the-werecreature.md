@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-tags:
-- trait/curse
-- trait/necromancy
-- trait/primal
-aliases: ["Curse of the Werecreature"]
+tags: []
+aliases:
+  - Curse of the Werecreature
 ---
 # Curse of the Werecreature
 [curse](rules/traits/curse.md "Curse Effect Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  

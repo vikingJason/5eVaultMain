@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/rarity
-aliases: ["Uncommon"]
+tags: []
+aliases:
+  - Uncommon
 ---
 # Uncommon  
 *Source: Core Rulebook p. 637*  

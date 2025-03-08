@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/haunt
-aliases: ["Spectral Reflection"]
+tags: []
+aliases:
+  - Spectral Reflection
 ---
 # Spectral Reflection *Hazard 5*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

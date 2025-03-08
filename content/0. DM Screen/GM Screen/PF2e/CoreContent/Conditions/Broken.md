@@ -1,10 +1,9 @@
 ---
-title: "Broken"
+title: Broken
 noteType: ":luggage:"
-aliases: "Broken"
+aliases: Broken
 foundryId: Item.bYDJ4sA9fTuH6iHp
-tags:
-  - item
+tags: []
 ---
 ![[gm_broken.png|150]]
 # Broken

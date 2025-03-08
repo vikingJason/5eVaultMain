@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/gmg
-- trait/category/settlement
-aliases: ["Metropolis"]
+tags: []
+aliases:
+  - Metropolis
 ---
 # Metropolis  
 *Source: Gamemastery Guide p. 253*  

@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Luruar
-Tags: Category/Adventure-Area
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Shining White
-next:
-  - Silverwood
-RWtopicId: Topic_525
 Type: placeholder
 Region: placeholder
 ---

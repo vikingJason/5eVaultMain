@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/1
-- compendium/src/pf2e/b1
-- trait/arcane
-- trait/curse
-- trait/necromancy
-aliases: ["Graveknight's Curse"]
+aliases:
+  - Graveknight's Curse
+tags: []
 ---
 # Graveknight's Curse
 *Curse 1*  

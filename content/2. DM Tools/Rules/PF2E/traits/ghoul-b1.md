@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/creature
-aliases: ["Ghoul"]
+tags: []
+aliases:
+  - Ghoul
 ---
 # Ghoul  
 *Source: Bestiary p. 346*  

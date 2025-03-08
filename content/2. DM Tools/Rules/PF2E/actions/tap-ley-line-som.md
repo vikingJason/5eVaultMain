@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/som
-- trait/concentrate
-aliases: ["Tap Ley Line"]
+aliases:
+  - Tap Ley Line
+tags: []
 ---
 # Tap Ley Line (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  

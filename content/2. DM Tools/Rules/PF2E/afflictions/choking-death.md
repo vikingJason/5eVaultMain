@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/6
-- compendium/src/pf2e/gmg
-- trait/disease
-aliases: ["Choking Death"]
+aliases:
+  - Choking Death
+tags: []
 ---
 # Choking Death
 *Disease 6*  

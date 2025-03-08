@@ -1,20 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Other
 Type:
   - Ethnic
   - placeholder
 Alignment: Neutral Evil
 parent:
   - Anauroch Groups
-up:
-  - Anauroch Groups
-prev:
-  - The Phaerimm
-next:
-  - Laerti
-RWtopicId: Topic_751
 Region: placeholder
+tags: []
 ---
 # D'Tarig
 

@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/downtime
-- trait/secret
-aliases: ["Gossip"]
+aliases:
+  - Gossip
+tags: []
 ---
 # Gossip
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

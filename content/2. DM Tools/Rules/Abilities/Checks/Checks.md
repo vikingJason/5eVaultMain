@@ -1,3 +1,6 @@
+---
+tags: []
+---
 
 ### Typical Difficulty Classes
 

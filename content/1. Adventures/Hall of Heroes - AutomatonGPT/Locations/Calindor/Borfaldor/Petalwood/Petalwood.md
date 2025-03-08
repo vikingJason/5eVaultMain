@@ -23,6 +23,7 @@ Religion: "[[elven-darahl-tilvenar]]"
 Ruler: "[[Finroth Tilvenar]]"
 Title: Mayor
 Region: "[[Borfaldor]]"
+tags: []
 ---
 
 

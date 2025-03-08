@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Unconscious
 
 An unconscious creature is [[Incapacitated]] (see the condition), can’t move or speak, and is unaware of its surroundings

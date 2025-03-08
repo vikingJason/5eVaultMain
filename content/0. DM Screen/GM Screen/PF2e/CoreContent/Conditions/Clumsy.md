@@ -3,9 +3,7 @@ aliases:
   - Clumsy 1
   - Clumsy 2
   - Clumsy 3
-tags:
-- condition
-- pf2econdition
+tags: []
 effect: Penalty to **DEX** equal to total
 ---
 ![[gm_clumsy.png|150]]

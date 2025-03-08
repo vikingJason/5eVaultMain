@@ -1,14 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/scag
-  - deity/faerunian
-  - domain/trickery
-aliases:
-  - Mask
-  - The Lord of Shadows
-  - The Master of All Thieves
+{}
 ---
 # Mask
 *Source: Sword Coast Adventurer's Guide p. 21* 

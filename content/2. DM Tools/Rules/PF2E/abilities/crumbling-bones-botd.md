@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Crumbling Bones"]
+aliases:
+  - Crumbling Bones
+tags: []
 ---
 # Crumbling Bones
 

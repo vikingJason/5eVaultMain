@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Squeezing Into Smaller Spaces
 
 A creature can squeeze through a space that is large enough for a creature one size smaller than it.

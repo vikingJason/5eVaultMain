@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa5
-- trait/magical
-- trait/trap
-aliases: ["Mental Scream Trap"]
+tags: []
+aliases:
+  - Mental Scream Trap
 ---
 # Mental Scream Trap *Hazard 19*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

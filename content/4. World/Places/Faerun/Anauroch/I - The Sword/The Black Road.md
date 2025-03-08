@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Pass
 Climate: Arid
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - Vliyl
-next:
-  - Thulanthar
-RWtopicId: Topic_785
 Type: placeholder
 Region: placeholder
 ---

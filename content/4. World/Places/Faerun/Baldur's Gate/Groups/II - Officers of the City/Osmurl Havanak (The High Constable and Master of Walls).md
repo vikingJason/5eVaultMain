@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Osmurl Havanak
-Tags: Category/Individual Suffix/The-High-Constable-and-Master-of-Walls
-parent:
-  - II - Officers of the City
-up:
-  - II - Officers of the City
-prev:
-  - Erl Namorran (Harbormaster)
-next:
-  - Thalamra Vanthampur (Master of Drains)
-RWtopicId: Topic_665
 Type: placeholder
 Region: placeholder
 ---

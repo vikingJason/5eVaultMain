@@ -1,17 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/1
-- compendium/src/pf2e/gw3
-- trait/cold
-- trait/curse
-- trait/disease
-- trait/necromancy
-- trait/occult
-- trait/uncommon
-aliases: ["Blackfrost"]
+aliases:
+  - Blackfrost
+tags: []
 ---
 # Blackfrost
 *Curse 1*  

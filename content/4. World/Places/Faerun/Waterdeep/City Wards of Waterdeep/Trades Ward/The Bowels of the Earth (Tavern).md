@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Bowels of the Earth
-Tags: Category/Merchant Suffix/Tavern
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - Meiroth's Fine Silks (Business)
-next:
-  - Cobbler's and Corviser's House (Guild Hall)
-RWtopicId: Topic_119
 Owner:
   - - Blazidon One-Eye (BLAZZ-ih-don)
 Type: placeholder

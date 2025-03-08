@@ -1,25 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Parliament of Peers
-Tags: Category/Group--Government
 Type:
   - Government
   - placeholder
-Government-Role: Leadership
-Government-Organization: Parliament
-parent:
-  - Baldurs Gate Groups
-up:
-  - Baldurs Gate Groups
-prev:
-  - I - The Council of Four
-next:
-  - VI - The Guild
-down:
-  - Coran
-  - Imbralym Skoond
-RWtopicId: Topic_678
 Affiliation:
   - - Thalamra Vanthampur (Master of Drains)
 Region: placeholder

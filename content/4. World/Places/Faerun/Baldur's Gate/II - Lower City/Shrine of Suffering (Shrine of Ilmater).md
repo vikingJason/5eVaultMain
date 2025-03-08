@@ -1,21 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Shrine of Suffering
-Tags: Category/Location Suffix/Shrine-of-Ilmater
 Type:
   - Building
   - placeholder
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - The Water Queen's House (Temple of Umberlee)
-next:
-  - Hissing Stones Bathhouse
-RWtopicId: Topic_652
 Region: placeholder
+tags: []
 ---
 # Shrine of Suffering (Shrine of Ilmater)
 ## Overview

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/effect
-aliases: ["Visual"]
+tags: []
+aliases:
+  - Visual
 ---
 # Visual  
 *Source: Core Rulebook p. 638*  

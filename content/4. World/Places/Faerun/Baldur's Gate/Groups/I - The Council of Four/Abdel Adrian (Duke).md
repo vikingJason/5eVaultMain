@@ -1,19 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Abdel Adrian
-Tags: Category/Individual Suffix/Duke
 Race: Human
-Gender: Male
 Age: Adult
 Class: Fighter
-parent:
-  - I - The Council of Four
-up:
-  - I - The Council of Four
-prev:
-  - Dillard Portyr (Grand Duke)
-RWtopicId: Topic_677
 Type: placeholder
 Region: placeholder
 ---

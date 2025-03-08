@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/8
-- compendium/src/pf2e/gmg
-- trait/disease
-- trait/necromancy
-- trait/occult
-aliases: ["Nightmare Fever"]
+aliases:
+  - Nightmare Fever
+tags: []
 ---
 # Nightmare Fever
 *Disease 8*  

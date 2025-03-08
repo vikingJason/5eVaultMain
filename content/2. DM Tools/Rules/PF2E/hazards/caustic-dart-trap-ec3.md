@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec3
-- trait/complex
-- trait/mechanical
-- trait/trap
-aliases: ["Caustic Dart Trap"]
+tags: []
+aliases:
+  - Caustic Dart Trap
 ---
 # Caustic Dart Trap *Hazard 11*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

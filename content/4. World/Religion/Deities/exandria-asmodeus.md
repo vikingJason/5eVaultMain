@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/egw
-  - deity/exandria
-  - domain/trickery
-  - domain/war
-aliases:
-  - Asmodeus
+{}
 ---
 # Asmodeus
 *Source: Explorer's Guide to Wildemount p. 26* 

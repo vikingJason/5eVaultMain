@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Perception
 
 Your Perception lets you spot, hear, or otherwise detect the presence of something. It measures your general awareness of your surroundings and the keenness of your senses.

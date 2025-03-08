@@ -4,9 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Healer's Toolkit
 foundryId: Item.T8Z1Q4QGnrnTtzCU
-tags:
-  - Item
-  - pf2eheal
+tags: []
 effect: Necessary for Medicine checks
 ---
 ![[gm_heal.png|150]]

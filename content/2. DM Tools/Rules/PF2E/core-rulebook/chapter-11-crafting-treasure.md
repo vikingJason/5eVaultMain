@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-11-crafting-treasure"]
+tags: []
+aliases:
+  - chapter-11-crafting-treasure
 ---
 # Chapter 11: Crafting & Treasure
 <sup>CRB p. 531</sup>

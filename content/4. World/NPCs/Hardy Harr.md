@@ -1,19 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Jewelery and Accessories
-up:
-  - Jewelery and Accessories
-RWtopicId: Topic_255
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Hardy Harr
 ## Overview

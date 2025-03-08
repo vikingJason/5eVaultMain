@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/spell
-aliases: ["Cantrip"]
+tags: []
+aliases:
+  - Cantrip
 ---
 # Cantrip  
 *Source: Core Rulebook p. 629*  

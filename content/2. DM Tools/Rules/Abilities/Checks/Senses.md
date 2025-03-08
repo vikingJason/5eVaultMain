@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## Vision
 
 ### Blindsight

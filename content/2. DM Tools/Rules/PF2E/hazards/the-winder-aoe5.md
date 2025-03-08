@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe5
-- trait/complex
-- trait/environmental
-- trait/mechanical
-aliases: ["The Winder"]
+tags: []
+aliases:
+  - The Winder
 ---
 # The Winder *Hazard 19*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  

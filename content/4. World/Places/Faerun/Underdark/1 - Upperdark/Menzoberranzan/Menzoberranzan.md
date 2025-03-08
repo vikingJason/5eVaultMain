@@ -1,16 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-Community-Size: Large City
-parent:
-  - 1 - Upperdark
-up:
-  - 1 - Upperdark
-next:
-  - Tomb of Horrors
-down:
-  - House Baenre
-RWtopicId: Topic_214
 Type: placeholder
 Region: placeholder
 ---

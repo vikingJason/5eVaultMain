@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/exploration
-aliases: ["Defend"]
+aliases:
+  - Defend
+tags: []
 ---
 # Defend (basic)
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

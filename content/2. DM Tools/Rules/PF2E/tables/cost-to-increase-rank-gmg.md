@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Cost to Increase Rank"]
+tags: []
+aliases:
+  - Cost to Increase Rank
 ---
 # Cost to Increase Rank  
 *Source: Gamemastery Guide p. 199*  

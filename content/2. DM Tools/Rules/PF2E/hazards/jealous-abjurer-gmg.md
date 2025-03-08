@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/haunt
-aliases: ["Jealous Abjurer"]
+tags: []
+aliases:
+  - Jealous Abjurer
 ---
 # Jealous Abjurer *Hazard 11*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

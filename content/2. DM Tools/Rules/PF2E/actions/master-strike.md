@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/rogue
-- compendium/src/pf2e/crb
-- trait/incapacitation
-- trait/rogue
-aliases: ["Master Strike"]
+aliases:
+  - Master Strike
+tags: []
 ---
 # Master Strike [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  

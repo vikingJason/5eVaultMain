@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/champion
-- compendium/src/pf2e/apg
-- trait/champion
-- trait/uncommon
-aliases: ["Selfish Shield"]
+aliases:
+  - Selfish Shield
+tags: []
 ---
 # Selfish Shield [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [champion](rules/traits/champion.md "Champion Class Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

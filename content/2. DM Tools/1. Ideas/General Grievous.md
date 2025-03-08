@@ -1,3 +1,6 @@
+---
+tags: []
+---
 General Grievous is a fearsome cyborg warrior from the Star Wars universe. Here is a D&D 5e stat block for General Grievous:
 
 **General Grievous, the Cyborg Warrior**

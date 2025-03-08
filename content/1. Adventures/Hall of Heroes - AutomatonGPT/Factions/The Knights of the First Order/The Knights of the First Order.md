@@ -12,14 +12,15 @@ leader:
 size: unknown
 structure: 
 hierarchy: 
-faction: "The Knights of the First Order"
+faction: The Knights of the First Order
 benefits:
   - standing: 1
-    reward: "Love"
+    reward: Love
   - standing: 2
-    reward: "Respect"
+    reward: Respect
   - standing: 3
-    reward: "What do they get at level 3?"
+    reward: What do they get at level 3?
+tags: []
 ---
 
 <br>

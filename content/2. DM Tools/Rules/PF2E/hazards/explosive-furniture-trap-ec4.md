@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec4
-- trait/mechanical
-- trait/trap
-aliases: ["Explosive Furniture Trap"]
+tags: []
+aliases:
+  - Explosive Furniture Trap
 ---
 # Explosive Furniture Trap *Hazard 12*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

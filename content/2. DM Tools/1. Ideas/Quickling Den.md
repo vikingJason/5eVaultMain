@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### **Quickling Den:**
 
 The Quickling den is located deep in a forest where the boundaries between the Feywild and Material Plane blur. The air hums with a strange, vibrant energy, and colors seem slightly too vivid. The quicklings have made their home in the **"Whispering Grove,"** a maze-like area filled with towering trees, thick bushes, and dense fog that swirls unnaturally. Their den is concealed within a massive, hollowed-out tree and hidden from plain sight by a **Fey glamour**.

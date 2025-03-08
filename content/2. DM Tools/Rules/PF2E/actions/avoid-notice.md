@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/exploration
-aliases: ["Avoid Notice"]
+aliases:
+  - Avoid Notice
+tags: []
 ---
 # Avoid Notice (basic)
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

@@ -1,17 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
 Type:
   - Area
   - placeholder
-parent:
-  - IV - Wyrm's Crossing
-up:
-  - IV - Wyrm's Crossing
-prev:
-  - Danthelon's Dancing Axe (Secondhand Goods Shop)
-RWtopicId: Topic_661
 Region: placeholder
+tags: []
 ---
 # Wyrm's Rock
 ## Overview

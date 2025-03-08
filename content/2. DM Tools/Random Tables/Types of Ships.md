@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Types of Ships
 
 ## Rollable Table

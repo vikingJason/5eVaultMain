@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Draining Touch"]
+aliases:
+  - Draining Touch
+tags: []
 ---
 # Draining Touch [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 

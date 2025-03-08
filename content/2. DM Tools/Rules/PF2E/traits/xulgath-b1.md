@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/creature
-aliases: ["Xulgath"]
+tags: []
+aliases:
+  - Xulgath
 ---
 # Xulgath  
 *Source: Bestiary p. 347*  

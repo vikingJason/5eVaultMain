@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/class
-aliases: ["Champion"]
+tags: []
+aliases:
+  - Champion
 ---
 # Champion  
 *Source: Core Rulebook p. 629*  

@@ -4,9 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Healing Potion (Major)
 foundryId: Item.a9gZhlsAmbD0lGjX
-tags:
-  - Item
-  - pf2eheal
+tags: []
 effect: "`dice: 8d8+30` Hit Points"
 cost: 5000 gp
 ---

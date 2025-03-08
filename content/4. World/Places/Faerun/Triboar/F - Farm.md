@@ -1,18 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Farm
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - C - Cottage
-next:
-  - T1 - Market Square and Tower
-RWtopicId: Topic_358
 Type: placeholder
 Region: placeholder
 ---

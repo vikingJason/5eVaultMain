@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe4
-- trait/complex
-- trait/magical
-- trait/mechanical
-- trait/trap
-aliases: ["Burning Chandelier Trap"]
+tags: []
+aliases:
+  - Burning Chandelier Trap
 ---
 # Burning Chandelier Trap *Hazard 15*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

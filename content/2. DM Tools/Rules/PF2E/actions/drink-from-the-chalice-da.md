@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/da
-- trait/magical
-- trait/manipulate
-- trait/necromancy
-- trait/thaumaturge
-aliases: ["Drink from the Chalice"]
+aliases:
+  - Drink from the Chalice
+tags: []
 ---
 # Drink from the Chalice [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [magical](rules/traits/magical.md "Magical Item Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  

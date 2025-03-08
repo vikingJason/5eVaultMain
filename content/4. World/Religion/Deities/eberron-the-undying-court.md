@@ -1,14 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/erlw
-  - deity/eberron
-  - domain/grave
-  - domain/knowledge
-  - domain/life
-aliases:
-  - The Undying Court
+{}
 ---
 # The Undying Court
 *Source: Eberron: Rising from the Last War p. 141* 

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/environmental
-- trait/fungus
-aliases: ["Brown Mold"]
+tags: []
+aliases:
+  - Brown Mold
 ---
 # Brown Mold *Hazard 2*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Medicines and Tonics
 
 | Name                      | Price  | Weight | Description                                                                                                                                                                                          |

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/som
-- trait/category/class
-aliases: ["Any Class"]
+tags: []
+aliases:
+  - Any Class
 ---
 # Any Class  
 *Source: Secrets of Magic p. 219*  

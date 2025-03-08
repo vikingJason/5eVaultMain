@@ -1,5 +1,4 @@
 ---
-cssclass: oRPGPage
 Role:
   - organization
 organizationType: Arcane Society
@@ -10,7 +9,7 @@ urbanArea:
 leader: 
 size: unknown
 structure: 
-hierarchy: 
+tags: []
 ---
 
 #   `=this.file.name`

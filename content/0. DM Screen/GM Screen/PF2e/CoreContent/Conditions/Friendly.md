@@ -1,10 +1,9 @@
 ---
-title: "Friendly"
+title: Friendly
 noteType: ":luggage:"
-aliases: "Friendly"
+aliases: Friendly
 foundryId: Item.KgHRfbpH0Naou46i
-tags:
-  - Item
+tags: []
 ---
 ![[gm_carousing.png|150]]
 # Friendly

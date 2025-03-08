@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-6-high-seas"]
+tags: []
+aliases:
+  - chapter-6-high-seas
 ---
 # Chapter 6: High Seas
 <sup>LOWG p. 60</sup>

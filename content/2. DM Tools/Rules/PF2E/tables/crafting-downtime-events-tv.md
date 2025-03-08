@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/tv
-aliases: ["Crafting Downtime Events"]
+tags: []
+aliases:
+  - Crafting Downtime Events
 ---
 # Crafting Downtime Events  
 *Source: Treasure Vault p. 159*  

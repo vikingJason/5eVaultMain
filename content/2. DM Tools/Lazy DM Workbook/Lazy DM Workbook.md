@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # THE LAZY DM’S WORKBOOK
 
 > [!danger]+ Where To Buy

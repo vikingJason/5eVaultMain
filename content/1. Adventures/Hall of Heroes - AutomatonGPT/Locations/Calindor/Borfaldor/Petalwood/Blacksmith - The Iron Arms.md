@@ -8,6 +8,7 @@ wardName:
 title: The Iron Arms
 ownerName: Lerendrie Silkban
 services: Weapon Crafting, Armor Repair, Custom Metalwork, Toolsmithing
+tags: []
 ---
 
 # **The Iron Arms**

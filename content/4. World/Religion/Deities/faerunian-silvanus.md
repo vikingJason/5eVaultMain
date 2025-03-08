@@ -1,15 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/scag
-  - deity/faerunian
-  - domain/nature
-aliases:
-  - Silvanus
-  - Oak Father
-  - The Old Oak
-  - Old Father Tree
+{}
 ---
 # Silvanus
 *Source: Sword Coast Adventurer's Guide p. 21* 

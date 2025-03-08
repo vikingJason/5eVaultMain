@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/haunt
-aliases: ["Bloodthirsty Urge"]
+tags: []
+aliases:
+  - Bloodthirsty Urge
 ---
 # Bloodthirsty Urge *Hazard 10*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa6
-- trait/exploration
-- trait/manipulate
-- trait/move
-aliases: ["Distract Guards"]
+aliases:
+  - Distract Guards
+tags: []
 ---
 # Distract Guards
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [move](rules/traits/move.md "Move Combat Trait")  

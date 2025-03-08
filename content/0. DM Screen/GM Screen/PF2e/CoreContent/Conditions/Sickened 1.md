@@ -1,10 +1,9 @@
 ---
-title: "Sickened 1"
+title: Sickened 1
 noteType: ":luggage:"
-aliases: "Sickened 1"
+aliases: Sickened 1
 foundryId: Item.O0TeI3YqmW0FiJIF
-tags:
-  - Item
+tags: []
 ---
 ![[gm_poisoned.png|150]]
 # Sickened 1

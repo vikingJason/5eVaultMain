@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/magus-som
-- compendium/src/pf2e/som
-- trait/magus
-aliases: ["Spellstrike"]
+aliases:
+  - Spellstrike
+tags: []
 ---
 # Spellstrike [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [magus](rules/traits/magus-som.md "Magus Class Trait")  

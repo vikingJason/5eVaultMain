@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec2
-- trait/mechanical
-- trait/trap
-- trait/uncommon
-aliases: ["Thunderstone Cascade Trap"]
+tags: []
+aliases:
+  - Thunderstone Cascade Trap
 ---
 # Thunderstone Cascade Trap *Hazard 7*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

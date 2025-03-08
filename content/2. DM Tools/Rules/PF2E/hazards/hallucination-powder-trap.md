@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/mechanical
-- trait/trap
-aliases: ["Hallucination Powder Trap"]
+tags: []
+aliases:
+  - Hallucination Powder Trap
 ---
 # Hallucination Powder Trap *Hazard 6*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Violent Shove"]
+tags: []
+aliases:
+  - Violent Shove
 ---
 # Violent Shove *Hazard 3*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

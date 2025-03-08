@@ -1,23 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Unscrolling Scroll
-Tags: Category/Location Suffix/Shrine-of-Oghma
 Type:
   - Shrine
   - placeholder
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - The Rose Portal (Shrine of Lathander)
-next:
-  - The Watchful Shield (Shrine of Helm)
-down:
-  - Brevek Faenor
-RWtopicId: Topic_630
 Region: placeholder
+tags: []
 ---
 # The Unscrolling Scroll (Shrine of Oghma)
 ## Overview

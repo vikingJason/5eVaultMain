@@ -2,9 +2,7 @@
 title: Goodberry
 aliases:
   - Goodberry
-tags:
-  - 5eSpell
-  - 5eHealing
+tags: []
 effect: "Restores `dice: 1d4` per Goodberry"
 cost: Action + 1st Level Spell Slot
 ---

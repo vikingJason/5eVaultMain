@@ -1,8 +1,7 @@
 ---
 cssclasses:
   - wide-page
-tags:
-  - pf2er-ref
+tags: []
 ---
 
 # Cost of Living  

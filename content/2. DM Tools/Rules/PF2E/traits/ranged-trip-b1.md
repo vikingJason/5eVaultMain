@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/weapon
-aliases: ["Ranged Trip"]
+tags: []
+aliases:
+  - Ranged Trip
 ---
 # Ranged Trip  
 *Source: Bestiary p. 85*  

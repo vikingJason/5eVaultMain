@@ -1,15 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/lomm
-- trait/divine
-- trait/electricity
-- trait/environmental
-- trait/evocation
-- trait/kaiju
-- trait/rare
-aliases: ["Storm Discharge"]
+tags: []
+aliases:
+  - Storm Discharge
 ---
 # Storm Discharge *Hazard 18*  
 [divine](rules/traits/divine.md "Divine Tradition Trait")  [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  

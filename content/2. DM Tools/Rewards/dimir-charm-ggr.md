@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-reward
-tags:
-  - compendium/src/5e/ggr
-  - reward/charm
+tags: []
 aliases:
   - Dimir Charm
 ---

@@ -1,11 +1,6 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/vgm
-  - deity/orc
-aliases:
-  - Bahgtru
+Pantheon: Orc
+Alignment: Neutral
 ---
 # Bahgtru
 *Source: Volo's Guide to Monsters p. 83, Derived from Bahgtru (SCAG)* 

@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Gentle Rest
-Tags: Category/Merchant Suffix/Inn
-Goods-Sold: Food and Drink
-Services-Sold: Lodging
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - Stationer's Guild (Guild Hall)
-next:
-  - The Gentle Rest Stables (Business)
-RWtopicId: Topic_115
 Owner:
   - - Torst Urlivan
 Type: placeholder

@@ -1,20 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Family
 Type:
   - Family
   - placeholder
-Family-Notability: Commerce
-parent:
-  - VII - The Patriars
-up:
-  - VII - The Patriars
-prev:
-  - Dlusker Family
-RWtopicId: Topic_688
-Chapter:
-  - - VII - The Patriars
 Region: placeholder
+tags: []
 ---
 # Caldwell Family
 ## Overview

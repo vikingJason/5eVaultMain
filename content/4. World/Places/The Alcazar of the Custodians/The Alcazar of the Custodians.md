@@ -1,16 +1,8 @@
 ---
-tags:
-  - Category/Region--Political
 Political-Region: Nation
 Alignment: Chaotic Evil
 parent:
   - Region_ Political
-up:
-  - Region_ Political
-prev:
-  - Template - Region_ Geographical
-next:
-  - Template - Region_ Area
 Type:
   - placeholder
 Region: placeholder

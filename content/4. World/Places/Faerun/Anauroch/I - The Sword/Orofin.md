@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
 Type:
   - Ruin
   - placeholder
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - Olomaa
-next:
-  - The Quarter of Emptiness
-RWtopicId: Topic_772
 Region: placeholder
 ---
 # Orofin

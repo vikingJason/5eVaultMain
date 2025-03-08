@@ -1,16 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/9
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/emotion
-- trait/enchantment
-- trait/magical
-- trait/mental
-aliases: ["Sellsword's Folly"]
+aliases:
+  - Sellsword's Folly
+tags: []
 ---
 # Sellsword's Folly
 *Curse 9*  

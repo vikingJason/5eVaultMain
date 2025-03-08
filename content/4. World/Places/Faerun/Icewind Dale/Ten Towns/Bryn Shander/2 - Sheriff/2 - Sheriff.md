@@ -1,23 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Sheriff
-Tags: Category/Group--Military
 Type:
   - Military
   - placeholder
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - 1 - Elected Speaker
-next:
-  - B7 - Marketplace
-down:
-  - Markham Southwell
-RWtopicId: Topic_185
 Region: placeholder
+tags: []
 ---
 # 2 - Sheriff
 ## Overview

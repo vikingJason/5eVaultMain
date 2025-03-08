@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff3
-- trait/environmental
-aliases: ["Methane Flue"]
+tags: []
+aliases:
+  - Methane Flue
 ---
 # Methane Flue *Hazard 8*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

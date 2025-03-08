@@ -1,7 +1,6 @@
 ---
-tags:
-  - pf2eaction
-effect:
+tags: []
+effect: 
 ---
 
 # Aid `pf2:r`

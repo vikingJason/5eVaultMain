@@ -1,20 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Orlbar
-next:
-  - Port Llast
-down:
-  - The Golden Tankard
-  - Parnast Stable
-  - Shrine of Axes
-  - Village Well and Square
-RWtopicId: Topic_45
 Type: placeholder
 Region: placeholder
 ---

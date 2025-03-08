@@ -1,20 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Underdark
-Tags: Category/Region--Dimensional
-"": Temperate
-parent:
-  - Faerun
-up:
-  - Faerun
-prev:
-  - 1 - World Above
-down:
-  - 1 - Upperdark
-  - 2 - Middledark
-  - 3 - Lowerdark
-RWtopicId: Topic_216
 Type: placeholder
 Region: placeholder
 ---

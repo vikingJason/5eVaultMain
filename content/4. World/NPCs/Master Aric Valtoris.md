@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Master Aric Valtoris
 Race: Human
-Gender: Male
 Occupation: Master Weaponsmith and Enchanter
 Alignment: Neutral Good
 Religion: Moradin, the Dwarven god of creation
 Condition: Healthy, but with signs of aging
 Location: The Gilded Edge, Starcrest, The Silver Marches
 Groups: Starcrest Merchant's Guild
-PartyStanding: Neutral
+Type: NPC
 ---
 
 # **Master Aric Valtoris**

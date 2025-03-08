@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Gwaeron's Slumber
-  - T24
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T23 - Apothecary
-next:
-  - T25 - Marshaling Field
-RWtopicId: Topic_382
 Type: placeholder
 Region: placeholder
 ---

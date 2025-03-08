@@ -1,10 +1,9 @@
 ---
-title: "Hostile"
+title: Hostile
 noteType: ":luggage:"
-aliases: "Hostile"
+aliases: Hostile
 foundryId: Item.zp4OnHyC4wj3aRld
-tags:
-  - Item
+tags: []
 ---
 
 # Hostile

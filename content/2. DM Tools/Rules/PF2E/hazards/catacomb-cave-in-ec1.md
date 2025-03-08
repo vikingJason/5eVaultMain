@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec1
-- trait/environmental
-- trait/trap
-aliases: ["Catacomb Cave-in"]
+tags: []
+aliases:
+  - Catacomb Cave-in
 ---
 # Catacomb Cave-in *Hazard 4*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

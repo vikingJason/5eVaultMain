@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/school
-- trait/category/spell/evocation
-aliases: ["Evocation"]
+tags: []
+aliases:
+  - Evocation
 ---
 # Evocation  
 *Source: Core Rulebook p. 634*  

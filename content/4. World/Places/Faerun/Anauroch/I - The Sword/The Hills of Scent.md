@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Hills
 Terrain: Hills
 Climate: Arid
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - Hlaunga
-next:
-  - Lion's Eye Oasis
-RWtopicId: Topic_766
 Type: placeholder
 Region: placeholder
 ---

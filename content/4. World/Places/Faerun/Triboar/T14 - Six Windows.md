@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Six Windows
-  - T14
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T13 - The Frost-Touched Frog
-next:
-  - T15 - Boar's Rest
-RWtopicId: Topic_372
 Type: placeholder
 Region: placeholder
 ---

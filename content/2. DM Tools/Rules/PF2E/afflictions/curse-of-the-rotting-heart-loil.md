@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/9
-- compendium/src/pf2e/loil
-- trait/curse
-- trait/magical
-- trait/transmutation
-aliases: ["Curse of The Rotting Heart"]
+aliases:
+  - Curse of The Rotting Heart
+tags: []
 ---
 # Curse of The Rotting Heart
 *Curse 9*  

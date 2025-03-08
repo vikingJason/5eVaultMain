@@ -2,8 +2,7 @@
 obsidianUIMode: preview
 cssclasses:
   - wide-page
-tags:
-  - pf2er-ref
+tags: []
 aliases:
   - CHD
   - Critical Deck

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["General Skill Feats"]
+tags: []
+aliases:
+  - General Skill Feats
 ---
 # General Skill Feats  
 *Source: Core Rulebook p. 255*  

@@ -1,17 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
 Age: Adult
 Class: Commoner
-Character-Role: Neutral
-parent:
-  - Poison Shop
-up:
-  - Poison Shop
-RWtopicId: Topic_288
 Type: placeholder
 Region: placeholder
 ---

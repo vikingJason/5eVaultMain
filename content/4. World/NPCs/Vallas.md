@@ -1,15 +1,12 @@
 ---
-role: NPC
-name: Vallas
 race: Human
-gender: Male
 occupation: Priest (False)/Thief (True)
 alignment: Neutral Evil
 religion: Sehanine (False)
 condition: Deceptive, Calm Demeanor
 location: Varies (Often found in a city’s temple district)
 groups: Thieves’ Guild (Secret)
-partyStanding: Hostile, but friendly in demeanor
+Type: NPC
 ---
 
 # **Vallas**

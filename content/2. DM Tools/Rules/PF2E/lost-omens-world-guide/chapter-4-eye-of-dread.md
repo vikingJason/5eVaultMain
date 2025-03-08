@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-4-eye-of-dread"]
+tags: []
+aliases:
+  - chapter-4-eye-of-dread
 ---
 # Chapter 4: Eye of Dread
 <sup>LOWG p. 36</sup>

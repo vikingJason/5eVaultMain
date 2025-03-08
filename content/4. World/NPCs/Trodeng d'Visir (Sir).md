@@ -1,20 +1,12 @@
 ---
-Aliases:
-  - Trodeng d'Visir
-  - Sir Trodeng
-Tags: Category/Individual Suffix/Sir
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Waterdeep Zoo
-up:
-  - Waterdeep Zoo
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Trodeng d'Visir (Sir)
 ## Overview

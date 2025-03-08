@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff2
-- trait/environmental
-- trait/fire
-aliases: ["Oil Explosion"]
+tags: []
+aliases:
+  - Oil Explosion
 ---
 # Oil Explosion *Hazard 4*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  

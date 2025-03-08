@@ -2,8 +2,9 @@
 title: Stabilize
 aliases:
   - Stabilize
-tags:
+type:
   - 5eAction
+tags: []
 ---
 
 ![[Help.png|150]]

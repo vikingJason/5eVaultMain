@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/av1
-- trait/mechanical
-- trait/trap
-aliases: ["Spike Launcher"]
+tags: []
+aliases:
+  - Spike Launcher
 ---
 # Spike Launcher *Hazard 0*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

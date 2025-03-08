@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/manipulate
-aliases: ["Disable a Device"]
+aliases:
+  - Disable a Device
+tags: []
 ---
 # Disable a Device (basic) [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

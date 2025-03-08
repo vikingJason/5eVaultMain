@@ -1,15 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Hills
 Climate: Temperate
-parent:
-  - III - The High Ice
-up:
-  - III - The High Ice
-next:
-  - Ascore
-RWtopicId: Topic_722
 Type: placeholder
 Region: placeholder
 ---

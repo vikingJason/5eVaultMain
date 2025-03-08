@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["High-Quality Armor"]
+tags: []
+aliases:
+  - High-Quality Armor
 ---
 # High-Quality Armor  
 *Source: Gamemastery Guide p. 197*  

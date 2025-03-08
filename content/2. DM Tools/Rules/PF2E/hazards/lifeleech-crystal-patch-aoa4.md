@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa4
-- trait/environmental
-- trait/magical
-aliases: ["Lifeleech Crystal Patch"]
+tags: []
+aliases:
+  - Lifeleech Crystal Patch
 ---
 # Lifeleech Crystal Patch *Hazard 11*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ltiba
-- trait/environmental
-aliases: ["Precarious Pile"]
+tags: []
+aliases:
+  - Precarious Pile
 ---
 # Precarious Pile *Hazard 2*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

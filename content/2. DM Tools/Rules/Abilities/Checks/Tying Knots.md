@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## Tying Knots
 
 - The creature tying the knot makes an [[Sleight of Hand - Dexterity]] check

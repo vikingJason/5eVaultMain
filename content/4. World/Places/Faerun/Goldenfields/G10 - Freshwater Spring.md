@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Freshwater Spring
-  - G10
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G9 - Goldengulp Brewery
-next:
-  - G11 - Rice Paddies
-RWtopicId: Topic_328
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G10 - Freshwater Spring
 ## Overview

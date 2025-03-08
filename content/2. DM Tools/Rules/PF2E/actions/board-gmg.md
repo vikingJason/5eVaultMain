@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/move
-aliases: ["Board"]
+aliases:
+  - Board
+tags: []
 ---
 # Board [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [move](rules/traits/move.md "Move Combat Trait")  

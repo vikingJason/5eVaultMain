@@ -1,22 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Chaotic Neutral
-Gender: Female
 Race: Half-elf
 Class: Rogue
-Age: Adult
-Challenge: CR 6
-Character-Role: Adversary
-parent:
-  - Bedine NPC's
-up:
-  - Bedine NPC's
-prev:
-  - Tracker
-RWtopicId: Topic_749
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Mavreen Mawkistyr
 ## Overview

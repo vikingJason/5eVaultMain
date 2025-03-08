@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/phb
-  - deity/greek
-  - domain/nature
-aliases:
-  - Pan
+{}
 ---
 # Pan
 *Source: Player's Handbook p. 298* 

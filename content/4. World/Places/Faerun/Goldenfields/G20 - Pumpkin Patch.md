@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Pumpkin Patch
-  - G20
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G19 - Hops Field
-next:
-  - G6 - Town
-RWtopicId: Topic_353
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G20 - Pumpkin Patch
 ## Overview

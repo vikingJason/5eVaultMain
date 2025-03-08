@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/tv
-- trait/category/item
-aliases: ["Spellgun"]
+tags: []
+aliases:
+  - Spellgun
 ---
 # Spellgun  
 *Source: Treasure Vault p. 221*  

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Formulas"]
+tags: []
+aliases:
+  - Formulas
 ---
 # Formulas  
 *Source: Core Rulebook p. 293*  

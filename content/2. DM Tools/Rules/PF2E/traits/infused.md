@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/item
-aliases: ["Infused"]
+tags: []
+aliases:
+  - Infused
 ---
 # Infused  
 *Source: Core Rulebook p. 75*  

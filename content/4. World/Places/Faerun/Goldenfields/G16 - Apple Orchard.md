@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Apple Orchard
-  - G16
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G15 - Orange Orchard
-next:
-  - G17 - Corn Field
-RWtopicId: Topic_334
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G16 - Apple Orchard
 ## Overview

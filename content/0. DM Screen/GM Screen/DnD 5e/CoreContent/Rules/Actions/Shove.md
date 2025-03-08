@@ -1,8 +1,10 @@
 ---
-title: "Shove"
-aliases: "Shove"
-tags:
-- 5eAction
+title: Shove
+aliases:
+  - Shove
+type:
+  - 5eAction
+tags: []
 ---
 ![[Shove.png|150]]
 # Shove

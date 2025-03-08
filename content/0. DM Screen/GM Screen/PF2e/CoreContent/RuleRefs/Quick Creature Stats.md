@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ```dataviewjs
 // Define the data as an array of objects
 const data = [

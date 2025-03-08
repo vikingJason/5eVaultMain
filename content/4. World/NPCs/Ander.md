@@ -1,23 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Barthen's Provisions
-up:
-  - Barthen's Provisions
-prev:
-  - Elmar Barthen
-next:
-  - Thistle
-RWtopicId: Topic_63
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Ander
 ## Overview

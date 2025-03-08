@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec4
-- trait/magical
-- trait/mechanical
-- trait/trap
-aliases: ["Poisoned Secret Door Trap"]
+tags: []
+aliases:
+  - Poisoned Secret Door Trap
 ---
 # Poisoned Secret Door Trap *Hazard 14*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

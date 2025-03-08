@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Suffocating
 
 A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).

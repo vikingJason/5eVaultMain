@@ -1,9 +1,8 @@
 ---
-title: "Wounded"
+title: Wounded
 noteType: ":luggage:"
-aliases: "Wounded"
-tags:
-  - pf2econdition
+aliases: Wounded
+tags: []
 effect: While wounded, increase your dying condition value by your wounded value.
 ---
 ![[gm_wounded.png|150]]

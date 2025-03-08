@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw1
-- trait/mechanical
-- trait/trap
-aliases: ["Formian Sting Trench"]
+tags: []
+aliases:
+  - Formian Sting Trench
 ---
 # Formian Sting Trench *Hazard 4*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

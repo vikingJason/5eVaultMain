@@ -1,14 +1,5 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
 Population: 2600 D'Tarig
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-next:
-  - Alagh's Pass
-RWtopicId: Topic_756
 Type: placeholder
 Region: placeholder
 ---

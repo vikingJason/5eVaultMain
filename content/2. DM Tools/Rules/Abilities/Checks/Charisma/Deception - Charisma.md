@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Deception
 
 Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions.

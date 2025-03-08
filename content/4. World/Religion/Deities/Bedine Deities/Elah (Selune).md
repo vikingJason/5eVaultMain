@@ -1,15 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Elah
-Tags: Category/Deity Suffix/Selune
 parent:
   - Bedine Deities
-up:
-  - Bedine Deities
-next:
-  - Kozah (Talos)
-RWtopicId: Topic_741
 Type: placeholder
 Region: placeholder
 ---

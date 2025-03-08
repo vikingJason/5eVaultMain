@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/gmg
-- trait/category/planar
-aliases: ["Static"]
+tags: []
+aliases:
+  - Static
 ---
 # Static  
 *Source: Gamemastery Guide p. 254*  

@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - Phandalin
-up:
-  - Phandalin
-prev:
-  - Shrine of Luck
-next:
-  - Townmaster's Hall
-RWtopicId: Topic_69
 Type: placeholder
 Region: placeholder
 ---

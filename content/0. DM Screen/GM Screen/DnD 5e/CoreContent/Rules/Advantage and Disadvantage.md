@@ -1,10 +1,9 @@
 ---
-title: "Advantage and Disadvantage"
-aliases: 
-- Advantage 
-- Disadvantage
-tags:
-  - 5er-ref
+title: Advantage and Disadvantage
+aliases:
+  - Advantage
+  - Disadvantage
+tags: []
 ---
 
 ![[Lucky.png|150]]

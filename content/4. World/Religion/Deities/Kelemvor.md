@@ -1,3 +1,6 @@
+---
+{}
+---
 # Kelemvor (Greater deity)
 ## Basic information
 

@@ -1,6 +1,6 @@
 ---
-tags: pf2eaction
-effect:
+tags: []
+effect: 
 ---
 
 # Leap `pf2:1`

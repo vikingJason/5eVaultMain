@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa2
-- trait/complex
-- trait/fire
-- trait/magical
-- trait/trap
-- trait/unique
-aliases: ["Dahak's Skull"]
+tags: []
+aliases:
+  - Dahak's Skull
 ---
 # Dahak's Skull *Hazard 6*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  

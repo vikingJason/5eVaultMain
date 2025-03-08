@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec6
-- trait/complex
-- trait/environmental
-aliases: ["Guthallath Rockslide"]
+tags: []
+aliases:
+  - Guthallath Rockslide
 ---
 # Guthallath Rockslide *Hazard 19*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

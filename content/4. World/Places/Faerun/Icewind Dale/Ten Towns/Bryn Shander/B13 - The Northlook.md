@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Northlook
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B12 - Rendaril's Emporium
-next:
-  - B14 - Geldenstag's Rest
-RWtopicId: Topic_321
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B13 - The Northlook
 ## Overview

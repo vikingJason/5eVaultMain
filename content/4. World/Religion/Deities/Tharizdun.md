@@ -1,12 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/dmg
-  - deity/dawn-war
-  - domain/trickery
-aliases:
-  - Tharizdun
+Alignment: Chaotic Evil
+Domains:
+  - Trickery
+Pantheon: Dawn War
 ---
 # Tharizdun
 *Source: Dungeon Master's Guide p. 10* 

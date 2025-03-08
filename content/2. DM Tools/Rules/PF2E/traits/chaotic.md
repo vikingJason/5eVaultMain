@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/alignment
-- trait/category/planar
-aliases: ["Chaotic"]
+tags: []
+aliases:
+  - Chaotic
 ---
 # Chaotic  
 *Source: Core Rulebook p. 629*  

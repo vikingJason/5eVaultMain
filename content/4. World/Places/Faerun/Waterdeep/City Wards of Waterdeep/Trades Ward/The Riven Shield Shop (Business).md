@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Riven Shield Shop
-Tags: Category/Merchant Suffix/Business
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - Inn of the Dripping Dagger (Inn)
-next:
-  - Myrmith Splendon (House)
-RWtopicId: Topic_87
 Owner:
   - - Delborggan
 Type: placeholder

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/fop
-- trait/mechanical
-- trait/trap
-aliases: ["Ice Fall Trap"]
+tags: []
+aliases:
+  - Ice Fall Trap
 ---
 # Ice Fall Trap *Hazard 4*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

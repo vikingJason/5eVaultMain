@@ -1,3 +1,6 @@
+---
+tags: []
+---
 After touching what was initially believed to be a mundane painting of a game board, the party soon found themselves pulled into a nightmare-scene. An abandoned camp set up inside some dungeon, a tragic story with no one to tell it, a defaced statue and messy graffiti, the party must figure out what occurred in this place
 
 Regardless of whatever happened to the previous occupants, the rules of the game remain the same and are as follows:

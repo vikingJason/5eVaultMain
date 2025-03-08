@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/tio
-- trait/mechanical
-- trait/trap
-aliases: ["Collapsing Porch"]
+tags: []
+aliases:
+  - Collapsing Porch
 ---
 # Collapsing Porch *Hazard 1*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

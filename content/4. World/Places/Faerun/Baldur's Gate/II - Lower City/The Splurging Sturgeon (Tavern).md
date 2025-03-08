@@ -1,22 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Splurging Sturgeon
-Tags: Category/Merchant Suffix/Tavern
-Services-Sold: Food
-Prices: Average
 Quality: Average
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Jopalin's (Tavern)
-next:
-  - Three Old Kegs (Inn & Tavern)
-RWtopicId: Topic_641
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # The Splurging Sturgeon (Tavern)
 ## Overview

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/effect
-aliases: ["Misfortune"]
+tags: []
+aliases:
+  - Misfortune
 ---
 # Misfortune  
 *Source: Core Rulebook p. 634*  

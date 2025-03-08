@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/feat
-aliases: ["Dedication"]
+tags: []
+aliases:
+  - Dedication
 ---
 # Dedication  
 *Source: Core Rulebook p. 630*  

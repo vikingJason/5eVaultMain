@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw1
-- trait/complex
-- trait/illusion
-- trait/magical
-- trait/trap
-aliases: ["Scholar's Bane"]
+tags: []
+aliases:
+  - Scholar's Bane
 ---
 # Scholar's Bane *Hazard 4*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

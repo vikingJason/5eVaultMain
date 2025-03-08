@@ -1,18 +1,5 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-Tags: Category/Settlement
-Community-Size: Outpost
 Alignment: Chaotic Evil
-Government: Autocracy
-parent:
-  - Settlement
-up:
-  - Settlement
-prev:
-  - Template - Region_ Area
-next:
-  - Template - Inhabitant
-RWtopicId: Topic_28
 Type: placeholder
 Region: placeholder
 ---

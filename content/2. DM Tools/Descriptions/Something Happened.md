@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## Something Happened
 
 |d20|Event|

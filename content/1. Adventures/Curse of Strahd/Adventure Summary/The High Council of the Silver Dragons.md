@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### **The High Council of the Silver Dragons**
 
 1. **Grandmaster of the Argent Scale**

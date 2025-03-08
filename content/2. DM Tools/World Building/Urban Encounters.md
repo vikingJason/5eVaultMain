@@ -1,8 +1,7 @@
 ---
 date: 2022-04-16
-title: "Urban Encounters"
-tags:
-- worldbuilding
+title: Urban Encounters
+tags: []
 ---
 
  `dice: [[Urban Encounters]]` 

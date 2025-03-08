@@ -4,9 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Healing Potion (Lesser)
 foundryId: Item.bO8OnHNao8hz2jQm
-tags:
-  - Item
-  - pf2eheal
+tags: []
 effect: "`dice: 2d8+5` Hit Points"
 cost: 25 gp
 ---

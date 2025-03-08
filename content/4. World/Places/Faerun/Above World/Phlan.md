@@ -1,5 +1,4 @@
 ---
-Alias: Jewel of the Moonsea
 Type: placeholder
 Region: placeholder
 ---

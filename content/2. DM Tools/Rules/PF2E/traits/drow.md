@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/creature
-aliases: ["Drow"]
+tags: []
+aliases:
+  - Drow
 ---
 # Drow  
 *Source: Core Rulebook p. 631*  

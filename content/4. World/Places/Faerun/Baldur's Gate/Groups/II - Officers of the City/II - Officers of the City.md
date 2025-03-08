@@ -1,26 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Officers of the City
-Tags: Category/Group--Government
 Type:
   - Government
   - placeholder
-Government-Role: Leadership
-Government-Organization: Administration
-parent:
-  - Baldurs Gate Groups
-up:
-  - Baldurs Gate Groups
-next:
-  - VIII - Professional Guilds
-down:
-  - Erl Namorran (Harbormaster)
-  - Osmurl Havanak (The High Constable and Master of Walls)
-  - Thalamra Vanthampur (Master of Drains)
-  - Esgurl Nurthammas (Master of Cobbles)
-  - Haxilion Trood (Purse Master)
-RWtopicId: Topic_663
 Region: placeholder
 ---
 # II - Officers of the City

@@ -1,16 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/scag
-  - deity/faerunian
-  - domain/life
-  - domain/light
-aliases:
-  - Sune
-  - Lady Firehair
-  - The Lady of Love
-  - The Princess of Passion
+{}
 ---
 # Sune
 *Source: Sword Coast Adventurer's Guide p. 21* 

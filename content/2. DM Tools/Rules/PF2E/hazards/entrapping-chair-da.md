@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/da
-- trait/mechanical
-- trait/trap
-aliases: ["Entrapping Chair"]
+tags: []
+aliases:
+  - Entrapping Chair
 ---
 # Entrapping Chair *Hazard 5*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/feat
-aliases: ["Oath"]
+tags: []
+aliases:
+  - Oath
 ---
 # Oath  
 *Source: Core Rulebook p. 109*  

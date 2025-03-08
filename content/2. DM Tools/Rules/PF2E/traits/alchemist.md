@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/class
-aliases: ["Alchemist"]
+tags: []
+aliases:
+  - Alchemist
 ---
 # Alchemist  
 *Source: Core Rulebook p. 628*  

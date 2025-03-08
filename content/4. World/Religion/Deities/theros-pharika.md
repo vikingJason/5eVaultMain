@@ -1,14 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mot
-  - deity/theros
-  - domain/death
-  - domain/knowledge
-  - domain/life
-aliases:
-  - Pharika
+{}
 ---
 # Pharika
 *Source: Mythic Odysseys of Theros p. 70* 

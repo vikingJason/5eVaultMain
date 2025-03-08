@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/hazard
-aliases: ["Environmental"]
+tags: []
+aliases:
+  - Environmental
 ---
 # Environmental  
 *Source: Core Rulebook p. 631*  

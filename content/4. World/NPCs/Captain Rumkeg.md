@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Captain Rumkeg
 Race: Rum Lord
-Gender: Male
 Occupation: Leader of Rum Gremlins
 Alignment: Neutral Evil
 Religion: No formal religion, revels in hedonistic excess
 Condition: Healthy
 Location: Petalwood
 Groups: Rum Gremlins
-PartyStanding: Potential Antagonist
+Type: NPC
 ---
 
 

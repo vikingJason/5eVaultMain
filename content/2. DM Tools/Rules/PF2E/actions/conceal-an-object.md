@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/manipulate
-- trait/secret
-aliases: ["Conceal an Object"]
+aliases:
+  - Conceal an Object
+tags: []
 ---
 # Conceal an Object (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

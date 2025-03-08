@@ -4,7 +4,7 @@ noteType: ":sticky-note:"
 aliases:
   - Exploration Activities
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.zB1mqE9IeyfyQDnn
-tags: Exploration
+tags: []
 ---
 
 # Exploration Activities

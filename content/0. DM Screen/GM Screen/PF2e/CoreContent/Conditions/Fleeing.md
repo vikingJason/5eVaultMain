@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Fleeing
 foundryId: Item.ZKmTtm4PCeySPcgb
-tags:
-  - pf2econdition
+tags: []
 effect: Must use actions to escape. Cannot use **Delay** or **Ready** actions.
 ---
 ![[gm_flee.png|150]]

@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Laundithas
 Race: Eladrin
-Gender: Male
 Occupation: Senior Vice President of Sales for The Syndicate
 Alignment: Neutral Evil
 Religion: None
 Condition: Healthy
 Location: Petalwood
 Groups: The Syndicate
-PartyStanding: Potential Antagonist
+Type: NPC
 ---
 
 

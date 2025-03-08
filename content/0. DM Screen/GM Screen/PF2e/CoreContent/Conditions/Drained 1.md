@@ -1,10 +1,9 @@
 ---
-title: "Drained 1"
+title: Drained 1
 noteType: ":luggage:"
-aliases: "Drained 1"
+aliases: Drained 1
 foundryId: Item.VWln4Fw0HUpjQOrT
-tags:
-  - Item
+tags: []
 ---
 ![[gm_wounded.png|150]]
 # Drained 1

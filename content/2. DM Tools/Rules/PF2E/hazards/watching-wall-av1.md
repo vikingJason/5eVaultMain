@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/av1
-- trait/complex
-- trait/haunt
-aliases: ["Watching Wall"]
+tags: []
+aliases:
+  - Watching Wall
 ---
 # Watching Wall *Hazard 4*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

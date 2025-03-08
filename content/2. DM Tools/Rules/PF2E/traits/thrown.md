@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/weapon
-aliases: ["Thrown"]
+tags: []
+aliases:
+  - Thrown
 ---
 # Thrown  
 *Source: Core Rulebook p. 283*  

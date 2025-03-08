@@ -1,29 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Female
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - The Rusty Pipe
-up:
-  - The Rusty Pipe
-prev:
-  - River Starchild
-next:
-  - Sophronia _Sophie_ Cullen
-RWtopicId: Topic_250
-Child:
-  - Sophronia Sophie Cullen
-PubliclyFriendlyTowards:
-  - Sophronia Sophie Cullen
-PrivatelyHostileTowards:
-  - Sophronia Sophie Cullen
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Amina Fawneye
 ## Overview

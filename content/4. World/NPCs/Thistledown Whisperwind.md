@@ -1,56 +1,12 @@
 ---
-Role:
-  - NPC
-Name: 
-Pronounced: 
-Art: 
 Race: "[[pixie|Pixie]]"
-Gender: Female
-Pronouns: She/Her
-Sexuality: Bisexual
-Age: Adult
 Occupation: "[[baker]]"
 Alignment: "[[Chaotic Good]]"
 Religion: 
 Condition: Healthy
 Location: "[[Petalwood]]"
 Groups: "[[The Whispering Court]]"
-PartyStanding: Friendly
-PhysicalFeatures:
-  - Flamboyant or outlandish clothes
-SocialTrait:
-  - Friendly
-Talents:
-  - Speaks several languages fluently
-Mannerisms:
-  - Prone to singing, whistling, or humming quietly
-PersonalityTrait: 
-Bonds:
-  - Dedicated to fulfilling a personal life goal
-  - Protective of close family members
-  - Protective of colleagues or compatriots
-  - Loyal to a benefactor, patron, or employer
-  - Captivated by a romantic interest
-  - Drawn to a special place
-  - Protective of a sentimental keepsake
-  - Protective of a valuable possession
-  - Out for revenge
-FlawSecret:
-  - Forbidden love or susceptibility to romance
-  - Enjoys decadent pleasures
-  - Arrogance
-  - Envies another creature’s possessions or station
-  - Overpowering greed
-  - Prone to rage
-  - Has a powerful enemy
-  - Prone to sudden suspicion
-  - Shameful or scandalous history
-  - Secret crime or misdeed
-  - Possession of forbidden lore
-  - Foolhardy bravery
-Ideals: Lawful Ideal - Fairness
-HighAbility: Charisma — persuasive; forceful; born leader
-LowAbility: Strength — feeble; scrawny
+Type: NPC
 ---
 
 

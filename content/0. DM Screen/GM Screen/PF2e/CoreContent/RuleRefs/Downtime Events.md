@@ -1,10 +1,9 @@
 ---
-title: "Downtime Events"
+title: Downtime Events
 noteType: ":sticky-note:"
-aliases: "Downtime Events"
+aliases: Downtime Events
 foundryId: Compendium.pf2e.journals.JournalEntry.S55aqwWIzpQRFhcq.JournalEntryPage.INYPqM7rs9SNFRba
-tags:
-  - Downtime
+tags: []
 ---
 
 # Downtime Events

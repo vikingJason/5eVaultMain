@@ -1,23 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Red Sashes
-up:
-  - Red Sashes
-prev:
-  - Baklin
-next:
-  - Naneatha Lharilstar
-RWtopicId: Topic_223
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Surrolph Hlakken
 ## Overview

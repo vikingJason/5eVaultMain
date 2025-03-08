@@ -1,8 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-tags:
-  - compendium/src/5e/rsp
+tags: []
 aliases:
   - 10 Things to Say When a PC Spectacularly Fails to Pick a Lock
 ---
@@ -15,7 +14,7 @@ Sometimes—of course—the PC manages to open the lock; other times he fails an
 
 **Use the table below to determine what happens when the PC spectacularly fails to pick a lock. (Obviously, modify the entries on this table to take into account where the lock the PC is trying to pick is placed.)**
 
-`dice: [](10-things-to-say-when-a-pc-spectacularly-fails-to-pick-a-lock-rsp.md#^use-the-table-below-to-determine-what-happens-when-the-pc-spectacularly-fails-to-pick-a-lock-obviously-modify-the-entries-on-this-table-to-take-into-account-where-the-lock-the-pc-is-trying-to-pick-is-placed)`
+`dice: [d10](10-things-to-say-when-a-pc-spectacularly-fails-to-pick-a-lock-rsp.md#^use-the-table-below-to-determine-what-happens-when-the-pc-spectacularly-fails-to-pick-a-lock-obviously-modify-the-entries-on-this-table-to-take-into-account-where-the-lock-the-pc-is-trying-to-pick-is-placed)`
 
 | dice: d10 | Effect |
 |-----------|--------|

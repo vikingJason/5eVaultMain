@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Off-Guard
 foundryId: Item.rXAiqCeDRV3S27b3
-tags:
-  - pf2econdition
+tags: []
 effect: You take a -2 circumstance penalty to **AC**.
 ---
 ![[gm_offguard.png|150]]

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Herbs and Plants
 
 Herbs and useful plants and fungi abound in most wilderness regions, and while these valuable plants can be obtained in special markets or shops, the skilled herbalist knows where to go to gather these resources by hand in the wild.

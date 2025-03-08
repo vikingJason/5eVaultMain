@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw3
-- trait/magical
-- trait/trap
-aliases: ["Dream-Poisoned Door"]
+tags: []
+aliases:
+  - Dream-Poisoned Door
 ---
 # Dream-Poisoned Door *Hazard 12*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

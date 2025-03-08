@@ -1,10 +1,9 @@
 ---
-title: "Helpful"
+title: Helpful
 noteType: ":luggage:"
-aliases: "Helpful"
+aliases: Helpful
 foundryId: Item.S5AC40pVkWuHwANj
-tags:
-  - Item
+tags: []
 ---
 
 # Helpful

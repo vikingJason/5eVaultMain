@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe4
-- trait/arcane
-- trait/magical
-- trait/trap
-aliases: ["Arcane Feedback Trap"]
+tags: []
+aliases:
+  - Arcane Feedback Trap
 ---
 # Arcane Feedback Trap *Hazard 13*  
 [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

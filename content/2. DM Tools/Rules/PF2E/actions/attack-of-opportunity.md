@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/fighter
-- compendium/src/pf2e/crb
-aliases: ["Attack of Opportunity"]
+aliases:
+  - Attack of Opportunity
+tags: []
 ---
 # Attack of Opportunity [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Core Rulebook p. 474*  

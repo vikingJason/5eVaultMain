@@ -1,8 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-deck
-tags:
-  - compendium/src/5e/llk
+tags: []
 aliases:
   - Deck of Several Things
 ---

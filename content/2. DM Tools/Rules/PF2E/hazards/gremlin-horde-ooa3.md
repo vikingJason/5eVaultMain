@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ooa3
-- trait/complex
-- trait/magical
-aliases: ["Gremlin Horde"]
+tags: []
+aliases:
+  - Gremlin Horde
 ---
 # Gremlin Horde *Hazard 6*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  

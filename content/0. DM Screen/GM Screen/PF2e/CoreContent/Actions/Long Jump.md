@@ -1,6 +1,5 @@
 ---
-tags:
-  - pf2eaction
+tags: []
 ---
 # Long Jump `pf2:2`
 

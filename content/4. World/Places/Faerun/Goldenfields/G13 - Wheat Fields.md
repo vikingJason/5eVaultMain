@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Wheat Fields
-  - G13
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G12 - Vegetable Gardens
-next:
-  - G14 - Herb Gardens
-RWtopicId: Topic_331
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G13 - Wheat Fields
 ## Overview

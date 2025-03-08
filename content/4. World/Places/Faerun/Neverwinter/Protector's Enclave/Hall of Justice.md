@@ -1,13 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
-parent:
-  - Protector's Enclave
-up:
-  - Protector's Enclave
-prev:
-  - House of Knowledge
-RWtopicId: Topic_617
 Type: placeholder
 Region: placeholder
 ---

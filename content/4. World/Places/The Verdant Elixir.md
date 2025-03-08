@@ -5,9 +5,9 @@ kingdom: Eldoria
 region: Verdant Vale
 settlementName: Petalwood
 wardName: Herbalist's Grove
-title: The Verdant Elixir
 ownerName: Meliora Thistledown
 services: Potion Brewing, Herbal Remedies, Alchemical Supplies, Poison Antidotes, Consultation
+tags: []
 ---
 
 # The Verdant Elixir

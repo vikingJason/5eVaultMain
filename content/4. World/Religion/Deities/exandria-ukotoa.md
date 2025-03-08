@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/egw
-  - deity/exandria
-  - domain/knowledge
-  - domain/tempest
-aliases:
-  - Uk'otoa
+{}
 ---
 # Uk'otoa
 *Source: Explorer's Guide to Wildemount p. 33* 

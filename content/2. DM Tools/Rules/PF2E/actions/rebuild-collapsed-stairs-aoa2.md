@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa2
-- trait/downtime
-- trait/manipulate
-aliases: ["Rebuild Collapsed Stairs"]
+aliases:
+  - Rebuild Collapsed Stairs
+tags: []
 ---
 # Rebuild Collapsed Stairs
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

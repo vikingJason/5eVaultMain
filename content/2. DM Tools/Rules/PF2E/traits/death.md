@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/effect
-aliases: ["Death"]
+tags: []
+aliases:
+  - Death
 ---
 # Death  
 *Source: Core Rulebook p. 630*  

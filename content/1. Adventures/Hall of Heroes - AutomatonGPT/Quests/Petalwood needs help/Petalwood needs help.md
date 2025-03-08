@@ -1,3 +1,6 @@
+---
+tags: []
+---
 When they enter the town they first notice farms.  
   
 Well maintained and lush with crops perfectly symmetrical, spaced equal distance apart. The smell of fertiliser wafts through the air, but almost with an enticing sweetness.  

@@ -1,23 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Watch
-Tags: Category/Group--Military
 Type:
   - Military
   - placeholder
 Military-Role: Logistics
-parent:
-  - Baldurs Gate Groups
-up:
-  - Baldurs Gate Groups
-prev:
-  - VII - The Patriars
-down:
-  - Lenta Moore (Vigilar)
-RWtopicId: Topic_689
-Chapter:
-  - - Baldur's Gate
 Region: placeholder
 ---
 # V - The Watch

@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/kobold-apg
-- compendium/src/pf2e/apg
-- trait/kobold
-- trait/poison
-aliases: ["Tail Toxin"]
+aliases:
+  - Tail Toxin
+tags: []
 ---
 # Tail Toxin [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [kobold](rules/traits/kobold-b1.md "Kobold Ancestry & Heritage Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  

@@ -1,16 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/scag
-  - deity/faerunian
-  - domain/arcana
-  - domain/knowledge
-aliases:
-  - Savras
-  - The All-Seeing
-  - The Third Eye
-  - Divination's Lord
+{}
 ---
 # Savras
 *Source: Sword Coast Adventurer's Guide p. 21* 

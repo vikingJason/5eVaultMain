@@ -1,19 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
 Type:
   - Point of Interest
   - placeholder
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - High House of Wonders (Temple of Gond)
-next:
-  - Manorborn
-RWtopicId: Topic_705
 Region: placeholder
+tags: []
 ---
 # Watch Citadel
 ## Overview

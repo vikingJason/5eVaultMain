@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mtf
-  - deity/gnome
-  - domain/knowledge
-aliases:
-  - Rill Cleverthrush
+{}
 ---
 # Rill Cleverthrush
 *Source: Mordenkainen's Tome of Foes p. 110* 

@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Frost-Touched Frog
-  - T13
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T12 - The Talking Troll
-next:
-  - T14 - Six Windows
-RWtopicId: Topic_371
 Type: placeholder
 Region: placeholder
 ---

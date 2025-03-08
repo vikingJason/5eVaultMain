@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/armor
-aliases: ["Noisy"]
+tags: []
+aliases:
+  - Noisy
 ---
 # Noisy  
 *Source: Core Rulebook p. 275*  

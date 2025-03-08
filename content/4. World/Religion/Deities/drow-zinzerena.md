@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mtf
-  - deity/drow
-  - domain/trickery
-aliases:
-  - Zinzerena
+{}
 ---
 # Zinzerena
 *Source: Mordenkainen's Tome of Foes p. 56* 

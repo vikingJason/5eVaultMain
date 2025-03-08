@@ -1,19 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Danthelon's Dancing Axe
-Tags: Category/Merchant Suffix/Secondhand-Goods-Shop
-Prices: Cheap
 Quality: Average
-parent:
-  - IV - Wyrm's Crossing
-up:
-  - IV - Wyrm's Crossing
-next:
-  - Wyrm's Rock
-RWtopicId: Topic_660
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Danthelon's Dancing Axe (Secondhand Goods Shop)
 ## Overview

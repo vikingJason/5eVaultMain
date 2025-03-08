@@ -4,8 +4,7 @@ aliases:
   - Enfeebled 2
   - Enfeebled 3
   - Enfeebled 4
-tags:
-  - pf2econdition
+tags: []
 effect: Strength penalty equal to Enfeebled value.
 ---
 ![[gm_weak.png|150]]

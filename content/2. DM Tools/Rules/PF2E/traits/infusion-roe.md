@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/roe
-- trait/category/action-ability
-aliases: ["Infusion"]
+tags: []
+aliases:
+  - Infusion
 ---
 # Infusion  
 *Source: Rage of Elements p. 15*  

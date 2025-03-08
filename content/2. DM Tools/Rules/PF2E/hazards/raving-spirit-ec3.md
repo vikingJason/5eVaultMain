@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec3
-- trait/complex
-- trait/haunt
-aliases: ["Raving Spirit"]
+tags: []
+aliases:
+  - Raving Spirit
 ---
 # Raving Spirit *Hazard 11*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa5
-- trait/exploration
-- trait/secret
-aliases: ["Dispel a Disguise"]
+aliases:
+  - Dispel a Disguise
+tags: []
 ---
 # Dispel a Disguise
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

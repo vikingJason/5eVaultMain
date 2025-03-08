@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Hunting Aids
 
 | Name                  | Price  | Weight | Description                                                                                                                                                                                                 |

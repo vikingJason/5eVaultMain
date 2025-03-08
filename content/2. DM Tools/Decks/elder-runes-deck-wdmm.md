@@ -1,8 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-deck
-tags:
-  - compendium/src/5e/wdmm
+tags: []
 aliases:
   - Elder Runes Deck
 ---

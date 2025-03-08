@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/3
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/enchantment
-- trait/magical
-- trait/mental
-aliases: ["Theft of Thought"]
+aliases:
+  - Theft of Thought
+tags: []
 ---
 # Theft of Thought
 *Curse 3*  

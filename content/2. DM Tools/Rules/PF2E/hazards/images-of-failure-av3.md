@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/av3
-- trait/magical
-- trait/trap
-aliases: ["Images Of Failure"]
+tags: []
+aliases:
+  - Images Of Failure
 ---
 # Images Of Failure *Hazard 12*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

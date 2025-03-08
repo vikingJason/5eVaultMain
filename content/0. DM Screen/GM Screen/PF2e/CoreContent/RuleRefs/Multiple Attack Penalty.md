@@ -1,6 +1,5 @@
 ---
-tags:
-  - pf2er-ref
+tags: []
 ---
 # Multiple Attack Penalty
 

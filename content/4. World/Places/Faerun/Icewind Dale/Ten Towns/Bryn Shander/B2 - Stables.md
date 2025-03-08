@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Stables
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B1 - Outer Gates
-next:
-  - B3 - Council Hall
-RWtopicId: Topic_312
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B2 - Stables
 ## Overview

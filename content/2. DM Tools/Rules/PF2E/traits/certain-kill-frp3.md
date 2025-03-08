@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/frp3
-- trait/category/combat
-aliases: ["Certain Kill"]
+tags: []
+aliases:
+  - Certain Kill
 ---
 # Certain Kill  
 *Source: Fists of the Ruby Phoenix #3: King of the Mountain p. 51*  

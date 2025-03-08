@@ -1,11 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/manipulate
-aliases: ["Interact", "Use an Object"]
+aliases:
+  - Interact
+  - Use an Object
+tags: []
 ---
 # Interact (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

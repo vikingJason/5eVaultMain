@@ -1,3 +1,6 @@
+---
+tags: []
+---
 **[Agile](../../../TTRPGShare-Pathfinder-2E-Vault/rules/traits/agile.md):** The multiple attack penalty you take on the second attack each round with this weapon is reduced to –4 instead of –5, and – 8 instead of –10 on the third and any further attacks in the round.
 
 **[Backstabber](../../../TTRPGShare-Pathfinder-2E-Vault/rules/traits/backstabber.md):** When you hit a [Flat-Footed](../../../TTRPGShare-Pathfinder-2E-Vault/rules/conditions.md#Flat-Footed) creature, this weapon deals 1 precision damage in addition to its normal damage. 

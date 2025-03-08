@@ -1,3 +1,6 @@
+---
+tags: []
+---
 That’s a fantastic idea—infusing a Steel Defender with a crystal tied to time and reality could unlock intriguing effects for a Battlesmith Artificer! Here's a breakdown of potential abilities and evolutions for a Steel Defender empowered by this crystal. I’ll keep the effects balanced and progressive, creating a blend of temporal abilities, defensive quirks, and drawbacks to reflect the crystal’s nature.
 
 ---

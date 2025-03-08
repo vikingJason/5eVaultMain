@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Frightened
 
 A frightened creature has disadvantage on Abilities checks and attack rolls while the source of its fear is within line of sight.

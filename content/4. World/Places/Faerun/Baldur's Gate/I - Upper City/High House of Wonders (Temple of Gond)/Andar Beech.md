@@ -1,14 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
-Gender: Male
-parent:
-  - High House of Wonders (Temple of Gond)
-up:
-  - High House of Wonders (Temple of Gond)
-RWtopicId: Topic_704
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Andar Beech
 ## Overview

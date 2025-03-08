@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa6
-- trait/exploration
-- trait/manipulate
-aliases: ["Fight the Fire"]
+aliases:
+  - Fight the Fire
+tags: []
 ---
 # Fight the Fire
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

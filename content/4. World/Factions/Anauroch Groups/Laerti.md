@@ -1,23 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Laertis
-  - Laerti's
-Tags: Category/Group--Other
 Alignment: Chaotic Evil
 Type:
   - Ethnic
   - placeholder
 parent:
   - Anauroch Groups
-up:
-  - Anauroch Groups
-prev:
-  - D'Tarig
-next:
-  - Lamia
-RWtopicId: Topic_752
 Region: placeholder
+tags: []
 ---
 # Laerti
 ## Overview

@@ -1,16 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/scag
-  - deity/faerunian
-  - domain/war
-  - domain/order
-aliases:
-  - Tyr
-  - Grimjaws
-  - The Maimed God
-  - The Evenhanded
+{}
 ---
 # Tyr
 *Source: Sword Coast Adventurer's Guide p. 21* 

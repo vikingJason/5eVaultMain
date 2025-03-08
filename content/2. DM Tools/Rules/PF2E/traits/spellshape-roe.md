@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/roe
-- trait/category/general
-aliases: ["Spellshape"]
+tags: []
+aliases:
+  - Spellshape
 ---
 # Spellshape  
 *Source: Rage of Elements p. 238*  

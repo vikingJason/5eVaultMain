@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/electricity
-- trait/evocation
-- trait/magical
-- trait/trap
-aliases: ["Electric Latch Rune"]
+tags: []
+aliases:
+  - Electric Latch Rune
 ---
 # Electric Latch Rune *Hazard 3*  
 [electricity](rules/traits/electricity.md "Electricity Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

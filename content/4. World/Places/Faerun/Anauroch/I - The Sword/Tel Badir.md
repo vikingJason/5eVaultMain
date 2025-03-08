@@ -1,16 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-Community-Size: Village
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - The Sister of Rains
-next:
-  - Vuerthyl
-RWtopicId: Topic_779
 Type: placeholder
 Region: placeholder
 ---

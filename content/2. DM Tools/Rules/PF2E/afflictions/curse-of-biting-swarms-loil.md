@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/5
-- compendium/src/pf2e/loil
-- trait/curse
-- trait/magical
-- trait/transmutation
-aliases: ["Curse of Biting Swarms"]
+aliases:
+  - Curse of Biting Swarms
+tags: []
 ---
 # Curse of Biting Swarms
 *Curse 5*  

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/ancestry-heritage
-- trait/category/creature
-aliases: ["Catfolk"]
+tags: []
+aliases:
+  - Catfolk
 ---
 # Catfolk  
 *Source: Bestiary p. 345*  

@@ -5,8 +5,7 @@ aliases:
   - Quickened
   - Quickened 1
 foundryId: Item.xXQb2Rm9R1IHqwtr
-tags:
-  - pf2econdition
+tags: []
 effect: You gain 1 additional action based on source of Quickened.
 ---
 ![[gm_haste.png|150]]

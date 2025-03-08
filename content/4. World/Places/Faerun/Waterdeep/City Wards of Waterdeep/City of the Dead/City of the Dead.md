@@ -1,25 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Political
-parent:
-  - City Wards of Waterdeep
-up:
-  - City Wards of Waterdeep
-prev:
-  - Trades Ward
-next:
-  - South Ward
-down:
-  - Road's End
-  - The House of the Homeless
-  - Ahghalron's Statue
-  - Merchant's Rest
-  - Warrior's Monument
-  - Lords' Respote
-  - The Hall of the Sages
-  - The Hall of Heroes
-  - Mariners' Rest
-RWtopicId: Topic_80
 Type: placeholder
 Region: placeholder
 ---

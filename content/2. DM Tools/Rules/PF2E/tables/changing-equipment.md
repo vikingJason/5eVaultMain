@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Changing Equipment"]
+tags: []
+aliases:
+  - Changing Equipment
 ---
 # Changing Equipment  
 *Source: Core Rulebook p. 274*  

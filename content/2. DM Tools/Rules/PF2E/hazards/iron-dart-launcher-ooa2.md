@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ooa2
-- trait/mechanical
-- trait/trap
-- trait/uncommon
-aliases: ["Iron Dart Launcher"]
+tags: []
+aliases:
+  - Iron Dart Launcher
 ---
 # Iron Dart Launcher *Hazard 4*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/dwarf
-- compendium/src/pf2e/crb
-aliases: ["Call on Ancient Blood"]
+aliases:
+  - Call on Ancient Blood
+tags: []
 ---
 # Call on Ancient Blood [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Core Rulebook p. 35*  

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa1
-- trait/environmental
-- trait/fungus
-aliases: ["Gloomglow Mushrooms"]
+tags: []
+aliases:
+  - Gloomglow Mushrooms
 ---
 # Gloomglow Mushrooms *Hazard 5*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  

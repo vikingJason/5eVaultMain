@@ -1,20 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - LLashloch
-  - The Lake of Ice
-Tags: Category/Region--Geographical Suffix/The-Lake-of-Ice
 Geographical-Region: Glacier
 Climate: Arctic
-parent:
-  - III - The High Ice
-up:
-  - III - The High Ice
-prev:
-  - The Rift of Stars
-next:
-  - The Taglorlar
-RWtopicId: Topic_727
 Type: placeholder
 Region: placeholder
 ---

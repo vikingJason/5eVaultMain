@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe1
-- trait/complex
-- trait/mechanical
-- trait/trap
-aliases: ["Dart Barrage"]
+tags: []
+aliases:
+  - Dart Barrage
 ---
 # Dart Barrage *Hazard 3*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

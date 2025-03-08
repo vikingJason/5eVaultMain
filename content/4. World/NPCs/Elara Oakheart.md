@@ -1,28 +1,12 @@
 ---
-Role: NPC
-Name: 
-Pronounced: 
-Art: 
 Race: "[[Half-Elf]]"
-Gender: Female
-Pronouns: She/Her
-Sexuality: Bisexual
-Age: Mature Adult
 Occupation: 
 Alignment: "[[Chaotic Good]]"
 Religion: 
 Condition: Healthy
 Location: 
 Groups: 
-PartyStanding: 
-PersonalityTrait:
-  - Warm
-  - Hospitable
-  - Genuine
-  - Kind
-Motivations:
-  - cares about the well-being of her community
-  - strives to provide a safe haven for travelers and locals alike
+Type: NPC
 ---
 
 > [!infobox]+

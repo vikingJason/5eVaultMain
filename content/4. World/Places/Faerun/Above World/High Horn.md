@@ -1,9 +1,5 @@
 ---
-alias: Castle High Horn, High Horn Hold
-Tags: Category/Settlement
-Community-Size: Outpost
 Alignment: Chaotic Evil
-Government: Autocracy
 Type: placeholder
 Region: placeholder
 ---

@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - N'asr
-Tags: Category/Deity Suffix/Cyric-Kelemvor
 parent:
   - Bedine Deities
-up:
-  - Bedine Deities
-prev:
-  - Kozah (Talos)
-next:
-  - Shaundakul
-RWtopicId: Topic_743
 Type: placeholder
 Region: placeholder
 ---

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Temporary Hit Points
 Some spells and other effects confer Temporary Hit Points, which are a buffer against losing actual Hit Points, as explained below.
 

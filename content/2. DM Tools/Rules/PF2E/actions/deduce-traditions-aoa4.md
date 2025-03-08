@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa4
-- trait/concentrate
-- trait/linguistic
-- trait/secret
-aliases: ["Deduce Traditions"]
+aliases:
+  - Deduce Traditions
+tags: []
 ---
 # Deduce Traditions
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

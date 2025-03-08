@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/sli
-- trait/mechanical
-- trait/trap
-- trait/uncommon
-aliases: ["Fiendripping Blast Trap"]
+tags: []
+aliases:
+  - Fiendripping Blast Trap
 ---
 # Fiendripping Blast Trap *Hazard 7*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

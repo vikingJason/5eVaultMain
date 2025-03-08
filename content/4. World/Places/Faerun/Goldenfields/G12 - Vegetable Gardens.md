@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Vegetable Gardens
-  - G12
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G11 - Rice Paddies
-next:
-  - G13 - Wheat Fields
-RWtopicId: Topic_330
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G12 - Vegetable Gardens
 ## Overview

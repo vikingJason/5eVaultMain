@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe2
-- trait/haunt
-aliases: ["Hands Of The Forgotten"]
+tags: []
+aliases:
+  - Hands Of The Forgotten
 ---
 # Hands Of The Forgotten *Hazard 8*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

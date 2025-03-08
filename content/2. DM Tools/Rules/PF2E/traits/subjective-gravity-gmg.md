@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/gmg
-- trait/category/gravity
-- trait/category/planar
-aliases: ["Subjective Gravity"]
+tags: []
+aliases:
+  - Subjective Gravity
 ---
 # Subjective Gravity  
 *Source: Gamemastery Guide p. 254*  

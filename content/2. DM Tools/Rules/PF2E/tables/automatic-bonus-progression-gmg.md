@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Automatic Bonus Progression"]
+tags: []
+aliases:
+  - Automatic Bonus Progression
 ---
 # Automatic Bonus Progression  
 *Source: Gamemastery Guide p. 196*  

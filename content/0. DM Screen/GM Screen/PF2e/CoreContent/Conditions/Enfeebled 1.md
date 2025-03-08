@@ -1,10 +1,9 @@
 ---
-title: "Enfeebled 1"
+title: Enfeebled 1
 noteType: ":luggage:"
-aliases: "Enfeebled 1"
+aliases: Enfeebled 1
 foundryId: Item.YnxkoZNkQkIBR6wG
-tags:
-  - Item
+tags: []
 ---
 ![[gm_weak.png|150]]
 # Enfeebled 1

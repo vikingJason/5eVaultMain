@@ -1,6 +1,5 @@
 ---
-tags:
-  - dmtool
+tags: []
 ---
 
 # Active Rumors

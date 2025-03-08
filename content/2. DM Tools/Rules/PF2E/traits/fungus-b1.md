@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b1
-- trait/category/creature-type
-aliases: ["Fungus"]
+tags: []
+aliases:
+  - Fungus
 ---
 # Fungus  
 *Source: Bestiary p. 345*  

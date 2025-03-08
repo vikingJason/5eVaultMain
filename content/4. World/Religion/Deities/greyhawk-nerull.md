@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/phb
-  - deity/greyhawk
-  - domain/death
-aliases:
-  - Nerull
+{}
 ---
 # Nerull
 *Source: Player's Handbook p. 295* 

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/tv
-aliases: ["Days of Setup Time"]
+tags: []
+aliases:
+  - Days of Setup Time
 ---
 # Days of Setup Time  
 *Source: Treasure Vault p. 158*  

@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/hpd
-aliases: ["Hero Point Deck"]
+tags: []
+aliases:
+  - Hero Point Deck
 ---
 # Hero Point Deck  
 *Source: Hero Point Deck p. 0*  

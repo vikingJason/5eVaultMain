@@ -1,16 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Cottage
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-next:
-  - F - Farm
-RWtopicId: Topic_357
 Type: placeholder
 Region: placeholder
 ---

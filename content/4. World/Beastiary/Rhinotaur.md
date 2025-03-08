@@ -1,9 +1,9 @@
 ---
 role: Creature
-name: Rhinotaur
 size: Large
 type: Monstrosity
 alignment: Chaotic Neutral
+tags: []
 ---
 
 # **Rhinotaur**

@@ -1,37 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Upper City
-  - Heapside
-Tags: Category/Region--Urban
 Urban-Region: District
-Usage: Civic Services
-parent:
-  - Baldur's Gate
-up:
-  - Baldur's Gate
-prev:
-  - Baldurs Gate Groups
-down:
-  - Ramazith's Tower
-  - Hall of Wonders
-  - The Helm and Cloak (Inn)
-  - The Lady's Hall (Temple of Tymora)
-  - The Rose Portal (Shrine of Lathander)
-  - The Unscrolling Scroll (Shrine of Oghma)
-  - The Watchful Shield (Shrine of Helm)
-  - Sorcerous Sundries (Reagent Shop)
-  - Seskergates
-  - Krammoch Arkhstaff
-  - Ragefast
-  - High Hall (The Ducal Palace)
-  - The Wide (Open Marketplace)
-  - High House of Wonders (Temple of Gond)
-  - Watch Citadel
-  - Manorborn
-RWtopicId: Topic_622
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # I - Upper City
 ## Overview

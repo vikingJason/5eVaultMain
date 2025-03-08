@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Othovir's Harness Shop
-  - T11
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T10 - Northshield House
-next:
-  - T12 - The Talking Troll
-RWtopicId: Topic_369
 Type: placeholder
 Region: placeholder
 ---

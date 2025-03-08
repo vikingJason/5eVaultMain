@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Ability Modifiers"]
+tags: []
+aliases:
+  - Ability Modifiers
 ---
 # Ability Modifiers  
 *Source: Core Rulebook p. 20*  

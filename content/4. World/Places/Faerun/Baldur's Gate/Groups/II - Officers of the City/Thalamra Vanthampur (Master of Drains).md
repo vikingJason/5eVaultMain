@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Thalamra Vanthampur
-Tags: Category/Individual Suffix/Master-of-Drains
 Race: Human
-Gender: Male
 Age: Adult
 Class: Commoner
-parent:
-  - II - Officers of the City
-up:
-  - II - Officers of the City
-prev:
-  - Osmurl Havanak (The High Constable and Master of Walls)
-next:
-  - Esgurl Nurthammas (Master of Cobbles)
-RWtopicId: Topic_666
 Member:
   - - III - Parliament of Peers
 Type: placeholder

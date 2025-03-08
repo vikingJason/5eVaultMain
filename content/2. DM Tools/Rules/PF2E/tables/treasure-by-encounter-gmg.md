@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["TREASURE BY ENCOUNTER"]
+tags: []
+aliases:
+  - TREASURE BY ENCOUNTER
 ---
 # TREASURE BY ENCOUNTER  
 *Source: Gamemastery Guide p. 51*  

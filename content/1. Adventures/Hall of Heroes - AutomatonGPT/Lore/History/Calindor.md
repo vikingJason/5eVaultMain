@@ -1,3 +1,6 @@
+---
+tags: []
+---
 To tell the history of Calindor, one must first look at the history of the Nebula Oasis. This, but one of many islands in the Dreaming Isles was once a vast and peaceful land, ruled by the wise and benevolent Eladrin, a powerful and magical race. But all that changed ten thousand years ago when the forces of the Abyssal Lords invaded. In the resulting Conflict of the Primordials, the Eladrin were brought to the brink of devastation and the Eladrin were forced to flee their homeland.
 
 They sailed to Calindor, where they built a new city, Glitterfall and they ruled Calindor for many centuries. But even in Calindor, the Eladrin were not safe and this new found peace did not last and they were besieged by the ferocious orc chieftain Grommok Bloodrager and his Warband, the Onyx Mauraders. The war with the orcs last years and devasted the Eladrin, and as a result their realm was divided into a four petty duchies, Borfaldor, Kiduzia, Eradirn and Iseyesari, with Glitterfall as their capital city in ceremony only.

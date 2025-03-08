@@ -1,3 +1,6 @@
+---
+tags: []
+---
 Ron Burgundy is a fictional character from the comedy movie Anchorman. Here is a D&D 5e stat block for Ron Burgundy:
 
 **Ron Burgundy, the Anchorman**

@@ -1,14 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mtf
-  - deity/drow
-  - domain/life
-  - domain/light
-  - domain/nature
-aliases:
-  - Eilistraee
+{}
 ---
 # Eilistraee
 *Source: Mordenkainen's Tome of Foes p. 56* 

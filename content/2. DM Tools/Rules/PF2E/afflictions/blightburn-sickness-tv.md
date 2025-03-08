@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/disease
-- affliction/level/level-varies
-- compendium/src/pf2e/tv
-aliases: ["Blightburn Sickness"]
+aliases:
+  - Blightburn Sickness
+tags: []
 ---
 # Blightburn Sickness
 *Disease Level Varies*  

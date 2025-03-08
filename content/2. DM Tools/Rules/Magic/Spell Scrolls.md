@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Spell Scrolls
 A character can attempt to use a spell scroll to cast a spell that is not on their class spell list or to cast the spell at a higher level, up to a level that meets what the character can normally cast, by making an [[Arcana - Intelligence]] Check against a DC of 10 + the level at which they cast the spell. On a failure, the creature rolls on the Scroll Mishap table.
 

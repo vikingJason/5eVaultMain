@@ -1,15 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/egw
-  - deity/exandria
-  - domain/arcana
-  - domain/death
-  - domain/grave
-  - domain/knowledge
-aliases:
-  - Vecna
+{}
 ---
 # Vecna
 *Source: Explorer's Guide to Wildemount p. 29, Sword Coast Adventurer's Guide p. 125* 

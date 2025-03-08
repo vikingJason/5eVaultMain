@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/bb
-aliases: ["Mermaid Fountain"]
+tags: []
+aliases:
+  - Mermaid Fountain
 ---
 # Mermaid Fountain *Hazard 3*  
 

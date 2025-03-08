@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-8-mwangi-expanse"]
+tags: []
+aliases:
+  - chapter-8-mwangi-expanse
 ---
 # Chapter 8: Mwangi Expanse
 <sup>LOWG p. 84</sup>

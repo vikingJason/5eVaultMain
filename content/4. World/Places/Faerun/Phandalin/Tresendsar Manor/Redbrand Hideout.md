@@ -1,11 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
-parent:
-  - Tresendsar Manor
-up:
-  - Tresendsar Manor
-RWtopicId: Topic_58
 Type: placeholder
 Region: placeholder
 ---

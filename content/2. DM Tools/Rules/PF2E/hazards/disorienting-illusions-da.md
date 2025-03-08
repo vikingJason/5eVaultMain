@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/da
-- trait/illusion
-- trait/magical
-- trait/trap
-- trait/visual
-aliases: ["Disorienting Illusions"]
+tags: []
+aliases:
+  - Disorienting Illusions
 ---
 # Disorienting Illusions *Hazard 1*  
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  

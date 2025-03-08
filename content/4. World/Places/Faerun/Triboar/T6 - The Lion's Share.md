@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Lion's Share
-  - T6
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T5 - Wainwright's Wagons
-next:
-  - T7 - Ransor's Open Road
-RWtopicId: Topic_364
 Type: placeholder
 Region: placeholder
 ---

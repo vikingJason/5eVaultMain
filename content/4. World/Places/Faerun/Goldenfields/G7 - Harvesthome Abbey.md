@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Harvesthome Abbey
-  - G7
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G6 - Town
-next:
-  - G8 - Northfurrow's End
-RWtopicId: Topic_355
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G7 - Harvesthome Abbey
 ## Overview

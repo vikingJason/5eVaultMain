@@ -1,6 +1,7 @@
 ---
 Alignment: Neutral Good
 Type: Alignment
+tags: []
 ---
 
 - Will keep his word to any other good alignments.

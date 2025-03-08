@@ -4,9 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Healing Vapor (Major)
 foundryId: Item.LhV5cUwzXtHvSIl9
-tags:
-  - Item
-  - pf2eheal
+tags: []
 effect: "**Duration** - 10 Minutes, 3 Hit Points every minute, **5 Foot** burst. Up to 4 targets."
 cost: 1000 gp
 ---

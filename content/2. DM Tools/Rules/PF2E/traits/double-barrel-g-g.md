@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/g&g
-- trait/category/weapon
-aliases: ["Double Barrel"]
+tags: []
+aliases:
+  - Double Barrel
 ---
 # Double Barrel  
 *Source: Guns & Gears p. 232*  

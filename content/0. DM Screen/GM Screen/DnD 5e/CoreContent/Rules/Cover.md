@@ -1,8 +1,7 @@
 ---
-title: "Cover"
-aliases: "Cover"
-tags:
-- 5er-ref
+title: Cover
+aliases: Cover
+tags: []
 ---
 
 ![[Cover.png|150]]

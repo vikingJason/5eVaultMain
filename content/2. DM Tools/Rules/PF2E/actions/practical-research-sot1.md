@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/sot1
-- trait/downtime
-aliases: ["Practical Research"]
+aliases:
+  - Practical Research
+tags: []
 ---
 # Practical Research
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

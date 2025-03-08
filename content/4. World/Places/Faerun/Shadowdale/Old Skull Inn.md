@@ -1,7 +1,4 @@
 ---
-Tags: Category/Settlement
-Community-Size: Outpost
-Government: Autocracy
 Type: placeholder
 Region: placeholder
 ---

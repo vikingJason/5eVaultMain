@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/crb
-- trait/mechanical
-- trait/trap
-aliases: ["Spear Launcher"]
+tags: []
+aliases:
+  - Spear Launcher
 ---
 # Spear Launcher *Hazard 2*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

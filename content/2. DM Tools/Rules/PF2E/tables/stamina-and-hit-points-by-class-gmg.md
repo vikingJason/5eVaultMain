@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Stamina and Hit Points by Class"]
+tags: []
+aliases:
+  - Stamina and Hit Points by Class
 ---
 # Stamina and Hit Points by Class  
 *Source: Gamemastery Guide p. 200*  

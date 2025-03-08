@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/da
-- trait/illusion
-- trait/magical
-- trait/mental
-- trait/trap
-aliases: ["Confounding Portal"]
+tags: []
+aliases:
+  - Confounding Portal
 ---
 # Confounding Portal *Hazard 0*  
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

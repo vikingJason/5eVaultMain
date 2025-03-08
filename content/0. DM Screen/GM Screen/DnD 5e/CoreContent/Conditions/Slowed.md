@@ -3,10 +3,8 @@ title: Slowed
 aliases:
   - Slowed
   - Slow
-tags:
-  - 5eCondition
-  - 5espelleffect
 effect: Speed is halved, -2 penalty to **AC** and **Dexterity** saving throws, can't use reactions, and can't make more than one melee, spell, or ranged attack per turn.
+tags: []
 ---
 
 ![[Slowed.png|150]]

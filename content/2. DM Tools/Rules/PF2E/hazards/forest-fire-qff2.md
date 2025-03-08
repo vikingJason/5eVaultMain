@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff2
-- trait/complex
-- trait/environmental
-- trait/fire
-aliases: ["Forest Fire"]
+tags: []
+aliases:
+  - Forest Fire
 ---
 # Forest Fire *Hazard 4*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  

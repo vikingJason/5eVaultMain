@@ -1,3 +1,6 @@
+---
+tags: []
+---
 *The Tome of Strahd is an ancient work penned by Strahd, a tragic tale of how he came to his fallen state. The book is bound in a thick leather cover with steel hinges and fastenings. The pages are of parchment and very brittle. Stains and age have taken their toll, but several paragraphs at the beginning are plainly readable. The rest of the book is filled with a mixture of ciphers, fictional stories, and notes written in a curious shorthand that only Strahd employs.*
 
 ## *Tome of Strahd*

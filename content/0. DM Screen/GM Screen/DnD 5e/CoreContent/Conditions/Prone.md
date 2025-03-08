@@ -2,8 +2,7 @@
 title: Prone
 aliases:
   - Prone
-tags:
-  - 5eCondition
+tags: []
 effect: "**Disadvantage** on attack rolls, and attack roll against the creature has advantage within 5 feet, else **Disadvantage**"
 ---
 

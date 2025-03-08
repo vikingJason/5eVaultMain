@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/summoner-som
-- compendium/src/pf2e/som
-- trait/concentrate
-- trait/conjuration
-- trait/manipulate
-- trait/summoner
-- trait/teleportation
-aliases: ["Manifest Eidolon"]
+aliases:
+  - Manifest Eidolon
+tags: []
 ---
 # Manifest Eidolon [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  

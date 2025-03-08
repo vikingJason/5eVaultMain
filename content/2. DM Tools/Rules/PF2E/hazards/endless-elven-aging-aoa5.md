@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa5
-- trait/complex
-- trait/haunt
-- trait/magical
-aliases: ["Endless Elven Aging"]
+tags: []
+aliases:
+  - Endless Elven Aging
 ---
 # Endless Elven Aging *Hazard 17*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  

@@ -1,20 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Locations in Neverwinter
-Tags: Category/Region--Urban
-parent:
-  - Neverwinter
-up:
-  - Neverwinter
-prev:
-  - 2 - Organizations in Neverwinter
-down:
-  - Bluelake District
-  - Tower District
-  - Protector's Enclave
-  - Neverwinter Harbor
-RWtopicId: Topic_4
 Type: placeholder
 Region: placeholder
 ---

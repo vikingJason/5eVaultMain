@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-11-shining-kingdoms"]
+tags: []
+aliases:
+  - chapter-11-shining-kingdoms
 ---
 # Chapter 11: Shining Kingdoms
 <sup>LOWG p. 120</sup>

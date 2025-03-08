@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/gunslinger-g-g
-- compendium/src/pf2e/g&g
-- trait/gunslinger
-aliases: ["Raconteur's Reload"]
+aliases:
+  - Raconteur's Reload
+tags: []
 ---
 # Raconteur's Reload [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

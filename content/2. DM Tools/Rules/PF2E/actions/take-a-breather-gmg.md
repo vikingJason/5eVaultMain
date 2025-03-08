@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/exploration
-aliases: ["Take a Breather"]
+aliases:
+  - Take a Breather
+tags: []
 ---
 # Take a Breather
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

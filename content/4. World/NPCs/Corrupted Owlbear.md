@@ -1,3 +1,6 @@
+---
+Type: NPC
+---
 
 > [!statblocks|sban]
 > 

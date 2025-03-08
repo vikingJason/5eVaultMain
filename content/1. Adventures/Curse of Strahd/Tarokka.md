@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### 1 - Tome of Strahd
 
 **Master of Stars—Wizard**

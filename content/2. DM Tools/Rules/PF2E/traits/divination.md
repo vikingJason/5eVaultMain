@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/school
-- trait/category/spell/divination
-aliases: ["Divination"]
+tags: []
+aliases:
+  - Divination
 ---
 # Divination  
 *Source: Core Rulebook p. 631*  

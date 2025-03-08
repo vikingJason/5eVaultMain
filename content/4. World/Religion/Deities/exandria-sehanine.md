@@ -1,3 +1,6 @@
+---
+{}
+---
 # Sehanine
 *Source: Explorer's Guide to Wildemount p. 25* 
 ![](/compendium/deities/img/symbol-of-sehanine.png#symbol)

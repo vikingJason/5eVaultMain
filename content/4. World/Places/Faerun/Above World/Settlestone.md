@@ -1,18 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Dwarvendarrow
-  - The Ruin
-Tags: Category/Adventure-Area
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Mount Hotenow
-next:
-  - Karse
-RWtopicId: Topic_301
 Type: placeholder
 Region: placeholder
 ---

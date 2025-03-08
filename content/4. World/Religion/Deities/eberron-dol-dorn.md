@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/erlw
-  - deity/eberron
-  - domain/war
-aliases:
-  - Dol Dorn
+{}
 ---
 # Dol Dorn
 *Source: Eberron: Rising from the Last War p. 141* 

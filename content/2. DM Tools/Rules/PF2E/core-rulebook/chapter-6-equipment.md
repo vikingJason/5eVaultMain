@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-6-equipment"]
+tags: []
+aliases:
+  - chapter-6-equipment
 ---
 # Chapter 6: Equipment
 <sup>CRB p. 271</sup>

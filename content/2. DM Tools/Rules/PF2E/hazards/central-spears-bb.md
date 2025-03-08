@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/bb
-aliases: ["Central Spears"]
+tags: []
+aliases:
+  - Central Spears
 ---
 # Central Spears *Hazard 1*  
 

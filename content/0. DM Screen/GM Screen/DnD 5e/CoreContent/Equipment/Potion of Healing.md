@@ -2,11 +2,9 @@
 title: Potion of Healing
 aliases:
   - Potion of Healing
-tags:
-  - 5eSpell
-  - 5eHealing
+tags: []
 effect: "Restores `dice: 2d4` hit points"
-cost: "25 gp"
+cost: 25 gp
 ---
 
 ![[HealingPotion.png|150]]

@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Unconscious
 foundryId: Item.YS9XPgZJxKhh0zE8
-tags:
-  - pf2econdition
+tags: []
 effect: You take a **-4 status penalty** to **AC**, **Perception**, and **Reflex** saves, and you have the **Blinded** and **Off-Guard** conditions.
 ---
 ![[gm_unconscious.png|150]]

@@ -1,13 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
-parent:
-  - Krammoch Arkhstaff
-up:
-  - Krammoch Arkhstaff
-RWtopicId: Topic_694
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Krammoch Arkhstaff
 ## Profile

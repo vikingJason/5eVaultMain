@@ -3,8 +3,7 @@ title: Crafting Items
 aliases:
   - Crafting
   - Crafting Magical
-tags:
-  - 5edowntime
+tags: []
 ---
 
 ![[Crafting.png|150]]

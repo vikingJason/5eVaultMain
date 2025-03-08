@@ -1,8 +1,7 @@
 ---
 date: 2022-02-21
-title: "Settlement Generator"
-tags:
-- worldbuilding
+title: Settlement Generator
+tags: []
 ---
 
 # Settlements [^1]

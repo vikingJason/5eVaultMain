@@ -1,13 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Named-Object
-parent:
-  - G9 - Goldengulp Brewery
-up:
-  - G9 - Goldengulp Brewery
-RWtopicId: Topic_21
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Goldengulp
 ## Overview

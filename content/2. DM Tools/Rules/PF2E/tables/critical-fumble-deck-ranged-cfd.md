@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/cfd
-aliases: ["Critical Fumble Deck: Ranged"]
+tags: []
+aliases:
+  - "Critical Fumble Deck: Ranged"
 ---
 # Critical Fumble Deck: Ranged  
 *Source: Critical Fumble Deck p. 0*  

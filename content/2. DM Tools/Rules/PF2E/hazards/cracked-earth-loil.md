@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/loil
-- trait/environmental
-aliases: ["Cracked Earth"]
+tags: []
+aliases:
+  - Cracked Earth
 ---
 # Cracked Earth *Hazard 3*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

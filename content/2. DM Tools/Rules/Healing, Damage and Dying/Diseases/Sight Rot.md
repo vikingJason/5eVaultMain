@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Sight Rot
 
 This painful infection causes bleeding from the eyes and eventually blinds the victim.

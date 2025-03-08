@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/lomm
-- trait/abjuration
-- trait/divine
-- trait/environmental
-- trait/kaiju
-- trait/rare
-aliases: ["Crystal Pin"]
+tags: []
+aliases:
+  - Crystal Pin
 ---
 # Crystal Pin *Hazard 20*  
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [kaiju](rules/traits/kaiju-frp2.md "Kaiju  Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/item
-- trait/category/weapon
-aliases: ["Versatile"]
+tags: []
+aliases:
+  - Versatile
 ---
 # Versatile  
 *Source: Core Rulebook p. 283*  

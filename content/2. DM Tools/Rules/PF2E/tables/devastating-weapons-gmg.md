@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Devastating Weapons"]
+tags: []
+aliases:
+  - Devastating Weapons
 ---
 # Devastating Weapons  
 *Source: Gamemastery Guide p. 197*  

@@ -1,18 +1,11 @@
 ---
-tags:
-  - Category/Group--Other
 Type:
   - Adventuring Party
   - placeholder
 parent:
   - Anauroch Groups
-up:
-  - Anauroch Groups
-prev:
-  - Church of Shaundakul
-next:
-  - The Bedine
 Region: placeholder
+tags: []
 ---
 # The Black Shadow Band
 ## Overview

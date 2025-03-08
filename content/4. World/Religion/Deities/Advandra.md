@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/dmg
-  - deity/dawn-war
-  - domain/trickery
-aliases:
-  - Avandra
+Alignment: Chaotic Good
+Domains: Trickery
+Pantheon: Dawn War
 ---
 # Avandra
 *Source: Dungeon Master's Guide p. 10* 

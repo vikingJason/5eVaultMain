@@ -1,16 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
 Type:
   - Ruin
   - placeholder
-parent:
-  - II - The Plain of Standing Stones
-up:
-  - II - The Plain of Standing Stones
-prev:
-  - Spellgard
-RWtopicId: Topic_720
 Region: placeholder
 ---
 # Oreme

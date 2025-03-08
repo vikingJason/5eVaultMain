@@ -1,26 +1,17 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Other
 Type:
   - Faction
   - placeholder
 Alignment: Lawful Evil
 parent:
   - Anauroch Groups
-up:
-  - Anauroch Groups
-prev:
-  - Lamia
-RWtopicId: Topic_754
 Region: placeholder
+tags: []
 ---
 # The Zhentarim
 ## Overview
 **Type**: Faction, Magic, Military, Religious, Commerce, Criminal
-#Organization/Faction #Organization/Magic #Organization/Military #Organization/Religious #Organization/Commerce #Organization/Criminal
-
 **Alignment**: Lawful Evil
-#Alignment/Lawful-Evil
 
 ### Iconography
 ![[eqg3jcrt.0wy.png|Iconography]]

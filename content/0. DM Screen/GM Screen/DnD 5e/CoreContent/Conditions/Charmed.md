@@ -2,8 +2,7 @@
 title: Charmed
 aliases:
   - Charmed
-tags:
-  - 5eCondition
+tags: []
 effect: Cannot target the charmer with harmful actions. Advantage on social ability checks.
 ---
 ![[Charmed.png|150]]

@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/roe
-- trait/impulse
-- trait/kineticist
-- trait/primal
-aliases: ["Extract Element"]
+aliases:
+  - Extract Element
+tags: []
 ---
 # Extract Element [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [impulse](rules/traits/impulse-roe.md "Impulse Action & Ability Trait")  [kineticist](rules/traits/kineticist-roe.md "Kineticist Class Trait")  [primal](rules/traits/primal.md "Primal Tradition Trait")  

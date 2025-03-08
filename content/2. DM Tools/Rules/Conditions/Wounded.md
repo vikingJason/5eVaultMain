@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Wounded
 
 There are six levels of wounds, and they work in a similar way to [[Exhaustion]]. Each time you are reduced to 0 hit points, you gain one level of wounds. These wound levels represent significant injuries, like an arrow in your arm, a serious cut, or a club cracking your skull. The more wound levels you have, the more penalties you suffer. Consult the chart below for the effects of wound levels.

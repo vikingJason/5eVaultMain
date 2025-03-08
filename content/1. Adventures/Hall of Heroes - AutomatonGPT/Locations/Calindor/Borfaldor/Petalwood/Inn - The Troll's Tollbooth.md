@@ -14,6 +14,7 @@ ownerName: Martha Evergreen
 apprentices:
   - No apprentices
 Region: Borfaldor
+tags: []
 ---
 
 # `=this.file.name`

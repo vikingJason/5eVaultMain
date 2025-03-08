@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/gmg
-- trait/category/planar
-- trait/category/time
-aliases: ["Flowing"]
+tags: []
+aliases:
+  - Flowing
 ---
 # Flowing  
 *Source: Gamemastery Guide p. 251*  

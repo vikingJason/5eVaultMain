@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/g&g
-- trait/category/weapon
-aliases: ["Kickback"]
+tags: []
+aliases:
+  - Kickback
 ---
 # Kickback  
 *Source: Guns & Gears p. 234*  

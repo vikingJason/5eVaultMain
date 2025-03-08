@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-4-skills"]
+tags: []
+aliases:
+  - chapter-4-skills
 ---
 # Chapter 4: Skills
 <sup>CRB p. 233</sup>

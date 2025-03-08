@@ -2,8 +2,7 @@
 title: Poisoned
 aliases:
   - Poisoned
-tags:
-  - 5eCondition
+tags: []
 effect: A poisoned creature has **disadvantage** on attack rolls and ability checks.
 ---
 ![[Poisoned.png|150]]

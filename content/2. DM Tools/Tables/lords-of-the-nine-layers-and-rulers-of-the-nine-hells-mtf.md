@@ -1,8 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-tags:
-  - compendium/src/5e/mtf
+tags: []
 aliases:
   - Lords of the Nine; Layers and Rulers of the Nine Hells
 ---

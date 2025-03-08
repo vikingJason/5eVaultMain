@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Mists of Ravenloft
 
 A deadly fog surrounds the land of Barovia and engulfs any creature that tries to leave. Even flying creatures are subject to the fog's effects, which are as follows:

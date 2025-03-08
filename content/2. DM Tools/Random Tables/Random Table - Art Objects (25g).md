@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Art Objects 25gp
 
 `dice: [[Random Table - Art Objects (25g)]]^ArtObjects25gp]]`

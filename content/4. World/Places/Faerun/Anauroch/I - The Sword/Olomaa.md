@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: Oasis
 Climate: Arid
-parent:
-  - I - The Sword
-up:
-  - I - The Sword
-prev:
-  - The Oasis of Vipers
-next:
-  - Orofin
-RWtopicId: Topic_771
 Type: placeholder
 Region: placeholder
 ---

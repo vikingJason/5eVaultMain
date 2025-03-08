@@ -1,26 +1,13 @@
 ---
-aliases:
-  - Alisheen Starshield
-tags:
-  - Category/Individual
 Alignment: Chaotic Neutral
-Gender: Female
 Race: Human
 Class: Ranger
-Age: Adult
 Challenge: CR 9
 Character-Role: Friend
 parent:
   - Bedine NPC's
-up:
-  - Bedine NPC's
-prev:
-  - Belarchass the Slaver
-next:
-  - Mavreen Mawkistyr
-Type:
-  - placeholder
 Region: placeholder
+Type: NPC
 ---
 # Tracker
 ## Overview

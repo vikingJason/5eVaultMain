@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe1
-- trait/environmental
-- trait/fire
-aliases: ["Explosive Barrels"]
+tags: []
+aliases:
+  - Explosive Barrels
 ---
 # Explosive Barrels *Hazard 2*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  

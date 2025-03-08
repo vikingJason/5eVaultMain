@@ -1,3 +1,6 @@
+---
+tags: []
+---
 Welcome back to Calindor!
 
 Many of the inhabitants of this realm quite clearly remember what life was like thirty-two years ago, when Calindor was a fractured land, still reeling from the iron fist of the tyrant Thunderhead. It was a time of strife, whispers of rebellion echoing through the ravaged city-states. Then, a phoenix rose from the ashes – Queen Reeva, a fiery revolutionary who rallied the fractured Houses and drove back the darkness.

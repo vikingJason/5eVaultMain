@@ -1,3 +1,6 @@
+---
+tags: []
+---
 
 ### Bludgeoning:
 1. Your weapon swings through the air, landing with a deafening crack as it shatters

@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa4
-- trait/complex
-- trait/haunt
-- trait/ne
-- trait/unique
-aliases: ["Echoes Of Betrayal"]
+tags: []
+aliases:
+  - Echoes Of Betrayal
 ---
 # Echoes Of Betrayal *Hazard 16*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [ne](rules/traits/ne-b1.md "Neutral Evil Alignment Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  

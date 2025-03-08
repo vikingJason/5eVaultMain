@@ -1,22 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Three Old Kegs
-Tags: Category/Merchant Suffix/Inn---Tavern
-Services-Sold: Entertainment
-Prices: Expensive
 Quality: Superior
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - The Splurging Sturgeon (Tavern)
-next:
-  - The Smilin' Boar (Cafe)
-RWtopicId: Topic_642
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Three Old Kegs (Inn & Tavern)
 ## Overview

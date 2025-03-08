@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Mahir's Tower
-Tags: Category/Merchant Suffix/Wizard-Domicile
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - Myrmith Splendon (House)
-next:
-  - Saern's Fine Swords (Business)
-RWtopicId: Topic_89
 Type: placeholder
 Region: placeholder
 ---

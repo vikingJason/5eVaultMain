@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/kitsune-loag
-- compendium/src/pf2e/crb
-aliases: ["Invoke Celestial Privilege"]
+aliases:
+  - Invoke Celestial Privilege
+tags: []
 ---
 # Invoke Celestial Privilege [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Core Rulebook p. 123*  

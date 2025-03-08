@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Bloodthirsty Toy"]
+tags: []
+aliases:
+  - Bloodthirsty Toy
 ---
 # Bloodthirsty Toy *Hazard 2*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

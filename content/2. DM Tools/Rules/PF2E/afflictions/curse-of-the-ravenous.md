@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/5
-- compendium/src/pf2e/gmg
-- trait/curse
-- trait/magical
-- trait/transmutation
-aliases: ["Curse of the Ravenous"]
+aliases:
+  - Curse of the Ravenous
+tags: []
 ---
 # Curse of the Ravenous
 *Curse 5*  

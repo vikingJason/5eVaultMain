@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["chapter-1-gamemastery-basics"]
+tags: []
+aliases:
+  - chapter-1-gamemastery-basics
 ---
 # Chapter 1: Gamemastery Basics
 <sup>GMG p. 7</sup>

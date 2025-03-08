@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Herb Gardens
-  - G14
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G13 - Wheat Fields
-next:
-  - G15 - Orange Orchard
-RWtopicId: Topic_332
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G14 - Herb Gardens
 ## Overview

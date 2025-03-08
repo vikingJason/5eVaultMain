@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-1-overview"]
+tags: []
+aliases:
+  - chapter-1-overview
 ---
 # Chapter 1: Overview
 <sup>LOWG p. 6</sup>

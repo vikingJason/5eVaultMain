@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/frp2
-- trait/complex
-- trait/environmental
-aliases: ["Collapsing Structure"]
+tags: []
+aliases:
+  - Collapsing Structure
 ---
 # Collapsing Structure *Hazard 15*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

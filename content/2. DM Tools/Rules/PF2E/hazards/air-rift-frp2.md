@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/frp2
-- trait/air
-- trait/complex
-- trait/environmental
-- trait/magical
-- trait/unique
-aliases: ["Air Rift"]
+tags: []
+aliases:
+  - Air Rift
 ---
 # Air Rift *Hazard 14*  
 [air](rules/traits/air.md "Air Energy & Element Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  

@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/kitsune-loag
-- compendium/src/pf2e/loag
-- trait/concentrate
-- trait/divine
-- trait/kitsune
-- trait/polymorph
-- trait/transmutation
-aliases: ["Change Shape (Kitsune)"]
+aliases:
+  - Change Shape (Kitsune)
+tags: []
 ---
 # Change Shape (Kitsune) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [divine](rules/traits/divine.md "Divine Tradition Trait")  [kitsune](rules/traits/kitsune-loag.md "Kitsune Ancestry & Heritage Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  

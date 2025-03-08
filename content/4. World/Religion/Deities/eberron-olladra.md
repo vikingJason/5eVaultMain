@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/erlw
-  - deity/eberron
-  - domain/life
-  - domain/trickery
-aliases:
-  - Olladra
+{}
 ---
 # Olladra
 *Source: Eberron: Rising from the Last War p. 141* 

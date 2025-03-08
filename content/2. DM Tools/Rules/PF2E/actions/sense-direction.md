@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/exploration
-- trait/secret
-aliases: ["Sense Direction"]
+aliases:
+  - Sense Direction
+tags: []
 ---
 # Sense Direction (basic)
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

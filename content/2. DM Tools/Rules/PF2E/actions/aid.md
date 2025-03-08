@@ -1,10 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-aliases: ["Aid", "Help"]
+aliases:
+  - Aid
+  - Help
+tags: []
 ---
 # Aid (basic) [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Core Rulebook p. 470*  

@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/archetype/spellshot-g-g
-- action/class/gunslinger-g-g
-- compendium/src/pf2e/g&g
-- trait/conjuration
-- trait/magical
-- trait/spellshot
-- trait/teleportation
-aliases: ["Recall Ammunition"]
+aliases:
+  - Recall Ammunition
+tags: []
 ---
 # Recall Ammunition [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellshot](rules/traits/spellshot-g-g.md "Spellshot Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  

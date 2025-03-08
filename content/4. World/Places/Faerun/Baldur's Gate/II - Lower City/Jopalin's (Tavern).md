@@ -1,22 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Jopalin's
-Tags: Category/Merchant Suffix/Tavern
-Services-Sold: Food
-Prices: Cheap
 Quality: Poor
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - The Blushing Mermaid (Inn & Tavern)
-next:
-  - The Splurging Sturgeon (Tavern)
-RWtopicId: Topic_640
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Jopalin's (Tavern)
 ## Overview

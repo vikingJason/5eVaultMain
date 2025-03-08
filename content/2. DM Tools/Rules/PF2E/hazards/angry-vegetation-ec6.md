@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec6
-- trait/complex
-- trait/environmental
-- trait/unique
-aliases: ["Angry Vegetation"]
+tags: []
+aliases:
+  - Angry Vegetation
 ---
 # Angry Vegetation *Hazard 20*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  

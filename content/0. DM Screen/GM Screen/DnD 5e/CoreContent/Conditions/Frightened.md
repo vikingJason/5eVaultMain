@@ -2,8 +2,7 @@
 title: Frightened
 aliases:
   - Frightened
-tags:
-  - 5eCondition
+tags: []
 effect: Disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
 ---
 ![[Fear.png|150]]

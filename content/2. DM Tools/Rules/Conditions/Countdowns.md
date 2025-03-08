@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Countdowns
 
 Can a climber scale a crumbling cliff before it collapses? Can a thief pick a lock before the magical alarms go off? Can a halfling rogue recover the magic goblet and escape the dragon's lair before it wakes up?

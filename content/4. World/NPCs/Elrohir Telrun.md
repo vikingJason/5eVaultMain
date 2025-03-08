@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Elrohir Telrun
 Race: Leonin
-Gender: Male
 Occupation: Sheriff of Petalwood
 Alignment: Lawful Neutral
 Religion: Worships Solonor Thelandira
 Condition: Healthy
 Location: Petalwood
 Groups: The Dawn's Shadow, King's Guard
-PartyStanding: Potential Ally
+Type: NPC
 ---
 
 # **Elrohir Telrun**

@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Keen Eyes"]
+aliases:
+  - Keen Eyes
+tags: []
 ---
 # Keen Eyes
 

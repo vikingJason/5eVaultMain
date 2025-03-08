@@ -1,5 +1,4 @@
 ---
-alias: Tilverton
 Type: placeholder
 Region: placeholder
 ---

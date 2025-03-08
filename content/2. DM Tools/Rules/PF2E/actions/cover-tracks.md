@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/concentrate
-- trait/exploration
-- trait/move
-aliases: ["Cover Tracks"]
+aliases:
+  - Cover Tracks
+tags: []
 ---
 # Cover Tracks (basic)
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  

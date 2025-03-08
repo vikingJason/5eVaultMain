@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-5-feats"]
+tags: []
+aliases:
+  - chapter-5-feats
 ---
 # Chapter 5: Feats
 <sup>CRB p. 255</sup>

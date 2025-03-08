@@ -7,8 +7,7 @@ aliases:
   - Frightened 3
   - Frightened 4
 foundryId: Item.sFDafu44xyDgf0rg
-tags:
-  - pf2econdition
+tags: []
 effect: Staus penalty equal to Frightened value to all stats.
 ---
 ![[gm_fear.png|150]]

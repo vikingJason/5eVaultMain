@@ -1,19 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Kheldell Path
-next:
-  - Korinn Archipelago
-down:
-  - Klauth
-RWtopicId: Topic_40
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Klauthen Vale
 ## Overview

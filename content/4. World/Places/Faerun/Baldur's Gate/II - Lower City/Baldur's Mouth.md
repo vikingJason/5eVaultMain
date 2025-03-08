@@ -1,17 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
 Type:
   - Facility
   - placeholder
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-next:
-  - Candlekeep Chandlery (Chandlery)
-RWtopicId: Topic_634
 Region: placeholder
+tags: []
 ---
 # Baldur's Mouth
 ## Overview

@@ -1,6 +1,5 @@
 ---
-tags:
-  - compendium/src/5e/dod
+tags: []
 aliases:
   - Price of a Contract; Fey Desires for Lesser Contracts
 ---

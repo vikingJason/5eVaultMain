@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/loil
-- trait/category/ancestry-heritage
-aliases: ["Kashrishi"]
+tags: []
+aliases:
+  - Kashrishi
 ---
 # Kashrishi  
 *Source: Lost Omens: Impossible Lands p. 341*  

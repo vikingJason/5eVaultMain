@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Bone Powder"]
+aliases:
+  - Bone Powder
+tags: []
 ---
 # Bone Powder
 

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/complex
-- trait/haunt
-aliases: ["Ghost Stampede"]
+tags: []
+aliases:
+  - Ghost Stampede
 ---
 # Ghost Stampede *Hazard 15*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

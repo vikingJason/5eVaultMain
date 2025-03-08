@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/som
-aliases: ["chapter-3-spells"]
+tags: []
+aliases:
+  - chapter-3-spells
 ---
 # Chapter 3: Spells
 <sup>SoM p. 79</sup>

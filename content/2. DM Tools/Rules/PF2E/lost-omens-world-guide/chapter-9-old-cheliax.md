@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-9-old-cheliax"]
+tags: []
+aliases:
+  - chapter-9-old-cheliax
 ---
 # Chapter 9: Old Cheliax
 <sup>LOWG p. 96</sup>

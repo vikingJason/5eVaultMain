@@ -1,20 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Council Hall
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B2 - Stables
-next:
-  - B4 - House of the Triad
-RWtopicId: Topic_313
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B3 - Council Hall
 ## Overview

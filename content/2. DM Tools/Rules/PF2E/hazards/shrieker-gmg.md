@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/environmental
-- trait/fungus
-aliases: ["Shrieker"]
+tags: []
+aliases:
+  - Shrieker
 ---
 # Shrieker *Hazard -1*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [fungus](rules/traits/fungus-b1.md "Fungus Creature Type Trait")  

@@ -9,6 +9,7 @@ factions: The Mariner’s Guild, The Weaver’s Circle, The Glassblowers’ Unio
 ruler: Miri Greywind
 title: Head of the Council
 region: Moonsea
+tags: []
 ---
 
 # **Fairweather Haven**

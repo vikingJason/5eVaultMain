@@ -1,23 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-aliases:
-  - Nine-Fingers Keene
-  - Keene
-  - Nine-Fingers
-tags:
-  - Category/Individual
 Race: Human
-Gender: Female
 Age: Adult
-parent:
-  - VI - The Guild
-up:
-  - VI - The Guild
-prev:
-  - The Fetcher
-next:
-  - Rilsa Rael
-RWtopicId: Topic_683
+tags: []
 ---
 # "Nine-Fingers" Keene
 ## Overview

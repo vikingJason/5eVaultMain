@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Malevolent Possession"]
+aliases:
+  - Malevolent Possession
+tags: []
 ---
 # Malevolent Possession [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 

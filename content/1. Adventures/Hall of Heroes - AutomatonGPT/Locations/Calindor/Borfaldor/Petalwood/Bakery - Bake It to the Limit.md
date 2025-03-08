@@ -14,6 +14,7 @@ ownerName: Thistledown Whisperwind
 apprentices:
   - No apprentices
 Region: Borfaldor
+tags: []
 ---
 
 

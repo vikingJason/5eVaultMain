@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/creature-type
-aliases: ["Aberration"]
+tags: []
+aliases:
+  - Aberration
 ---
 # Aberration  
 *Source: Core Rulebook p. 266*  

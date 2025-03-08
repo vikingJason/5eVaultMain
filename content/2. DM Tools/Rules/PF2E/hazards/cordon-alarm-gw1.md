@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gw1
-- trait/abjuration
-- trait/magical
-- trait/trap
-aliases: ["Cordon Alarm"]
+tags: []
+aliases:
+  - Cordon Alarm
 ---
 # Cordon Alarm *Hazard 2*  
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

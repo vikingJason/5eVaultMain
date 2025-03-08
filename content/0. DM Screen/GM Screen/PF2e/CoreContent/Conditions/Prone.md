@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Prone
 foundryId: Item.TWuMfWnAf9R9dUoQ
-tags:
-  - pf2econdition
+tags: []
 effect: "**Off-Guard** and take a -2 circumstance penalty to attack rolls."
 ---
 ![[gm_prone.png|150]]

@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/1
-- compendium/src/pf2e/som
-- trait/curse
-- trait/divine
-- trait/enchantment
-aliases: ["Soulforged Corruption"]
+aliases:
+  - Soulforged Corruption
+tags: []
 ---
 # Soulforged Corruption
 *Curse 1*  

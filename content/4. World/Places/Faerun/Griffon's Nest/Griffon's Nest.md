@@ -1,19 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Great Worm Cavern
-next:
-  - Grudd Haug
-down:
-  - Great Chief Halric Bonesnapper
-RWtopicId: Topic_304
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Griffon's Nest
 

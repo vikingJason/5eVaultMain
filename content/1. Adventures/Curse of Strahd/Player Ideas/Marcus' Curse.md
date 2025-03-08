@@ -1,3 +1,6 @@
+---
+tags: []
+---
 A dark figure presents himself, asks [[Marcus]],  to kill someone who is after his disciple - in exchange for full health, no exhaustion and a boost to his power - tell no one of this
 
 

@@ -1,9 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Fortify Camp"]
+aliases:
+  - Fortify Camp
+tags: []
 ---
 # Fortify Camp
 *Source: Gamemastery Guide p. 173*  

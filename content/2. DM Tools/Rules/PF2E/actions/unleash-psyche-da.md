@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/psychic-da
-- compendium/src/pf2e/da
-- trait/psychic
-aliases: ["Unleash Psyche"]
+aliases:
+  - Unleash Psyche
+tags: []
 ---
 # Unleash Psyche [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  

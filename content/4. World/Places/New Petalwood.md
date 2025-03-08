@@ -1,14 +1,13 @@
 ---
 type: Settlement
 settlementType: Village
-govtType: Elders' Council
 defences: Natural barriers, enchanted wards
 law: Customary, with Fey influence
 military: Local militia, assisted by nature spirits
 factions: Fey Court, Druids of the Elder Grove
 ruler: Elders' Council
-title: Elder of Petalwood
 region: Borfaldor, Kingdom of Calindor
+tags: []
 ---
 
 # **New Petalwood**

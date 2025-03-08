@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec2
-- trait/haunt
-aliases: ["Echoes Of Faith"]
+tags: []
+aliases:
+  - Echoes Of Faith
 ---
 # Echoes Of Faith *Hazard 6*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

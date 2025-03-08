@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
-parent:
-  - Waterdeep
-up:
-  - Waterdeep
-prev:
-  - Durnan
-down:
-  - Trodeng d'Visir (Sir)
-RWtopicId: Topic_298
 Type: placeholder
 Region: placeholder
 ---

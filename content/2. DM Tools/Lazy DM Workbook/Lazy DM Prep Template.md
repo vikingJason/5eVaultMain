@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Characters
 
 _Fill in the table below with information about the characters. Think about how you can tailor the adventure around their backgrounds and drives._

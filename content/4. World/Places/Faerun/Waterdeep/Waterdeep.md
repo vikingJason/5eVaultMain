@@ -1,24 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Waterdeeps
-Tags: Category/Settlement
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Vordrorn Forest
-next:
-  - Way Inn
-down:
-  - City Wards of Waterdeep
-  - Dancing Wave
-  - Hanging Lantern
-  - Red Sashes
-  - Durnan
-  - Waterdeep Zoo
-RWtopicId: Topic_76
 Type: placeholder
 Region: placeholder
 ---

@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/14
-- compendium/src/pf2e/loil
-- trait/curse
-- trait/enchantment
-- trait/magical
-- trait/mental
-aliases: ["Consummate Liar"]
+aliases:
+  - Consummate Liar
+tags: []
 ---
 # Consummate Liar
 *Curse 14*  

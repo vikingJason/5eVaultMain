@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Fatigued
 foundryId: Item.ZvlXeeno0lyaNUg9
-tags:
-  - condition
+tags: []
 effect: -1 status penalty to **AC** and **saving throws**.
 ---
 ![[gm_fatigued.png|150]]

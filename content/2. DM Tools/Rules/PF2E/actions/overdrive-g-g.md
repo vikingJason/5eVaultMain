@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/inventor-g-g
-- compendium/src/pf2e/g&g
-- trait/inventor
-- trait/manipulate
-aliases: ["Overdrive"]
+aliases:
+  - Overdrive
+tags: []
 ---
 # Overdrive [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

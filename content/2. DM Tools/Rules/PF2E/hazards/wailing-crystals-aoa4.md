@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa4
-- trait/complex
-- trait/environmental
-- trait/magical
-aliases: ["Wailing Crystals"]
+tags: []
+aliases:
+  - Wailing Crystals
 ---
 # Wailing Crystals *Hazard 13*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## Dungeon Obstacles
 
 | d20   | Obstacle                                                                                                                                   |

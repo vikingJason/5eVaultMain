@@ -1,21 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Water Queen's House
-Tags: Category/Location Suffix/Temple-of-Umberlee
 Type:
   - Facility
   - placeholder
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Seatower District
-next:
-  - Shrine of Suffering (Shrine of Ilmater)
-RWtopicId: Topic_651
 Region: placeholder
+tags: []
 ---
 # The Water Queen's House (Temple of Umberlee)
 ## Overview

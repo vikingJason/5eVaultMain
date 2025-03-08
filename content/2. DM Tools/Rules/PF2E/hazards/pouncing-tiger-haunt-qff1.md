@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff1
-- trait/haunt
-aliases: ["Pouncing Tiger Haunt"]
+tags: []
+aliases:
+  - Pouncing Tiger Haunt
 ---
 # Pouncing Tiger Haunt *Hazard 2*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

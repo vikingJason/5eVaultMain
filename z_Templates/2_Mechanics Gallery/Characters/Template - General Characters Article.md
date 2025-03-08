@@ -10,6 +10,7 @@ prev:
 next:
   - Template - Race
 RWtopicId: Topic_50
+tags: []
 ---
 # Template - General Characters Article
 ## Overview

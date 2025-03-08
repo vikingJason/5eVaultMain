@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Local Lore"]
+aliases:
+  - Local Lore
+tags: []
 ---
 # Local Lore
 

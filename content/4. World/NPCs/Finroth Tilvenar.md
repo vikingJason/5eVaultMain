@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Finroth
 Race: Eladrin (Autumn)
-Gender: Male
 Occupation: Mayor of Petalwood
 Alignment: Lawful Evil
 Religion: None
 Condition: Secret Villain
 Location: Petalwood
 Groups: Local Government
-PartyStanding: Public Ally, Secret Antagonist
+Type: NPC
 ---
 
 # **Finroth**

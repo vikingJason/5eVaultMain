@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/b2
-- trait/category/creature
-aliases: ["Velstrac"]
+tags: []
+aliases:
+  - Velstrac
 ---
 # Velstrac  
 *Source: Bestiary 2 p. 310*  

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/tradition
-aliases: ["Arcane"]
+tags: []
+aliases:
+  - Arcane
 ---
 # Arcane  
 *Source: Core Rulebook p. 628*  

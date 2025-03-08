@@ -1,3 +1,6 @@
+---
+tags: []
+---
 Certainly! Drawing inspiration from the diverse mythologies and folklore of Sub-Saharan Africa—including traditions from West Africa, the Congo, the Sahel, and Southern Africa—here are Feywild-themed creatures, myths, and stories inspired by this region. These ideas aim to reflect the depth, spirituality, and creativity of these cultures while fitting seamlessly into a Feywild setting.
 
 ---

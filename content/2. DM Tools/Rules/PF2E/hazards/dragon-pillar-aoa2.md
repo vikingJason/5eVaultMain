@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa2
-- trait/complex
-- trait/magical
-- trait/rare
-- trait/trap
-aliases: ["Dragon Pillar"]
+tags: []
+aliases:
+  - Dragon Pillar
 ---
 # Dragon Pillar *Hazard 6*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

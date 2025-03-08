@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/lotg
-aliases: ["Housing Costs"]
+tags: []
+aliases:
+  - Housing Costs
 ---
 # Housing Costs  
 *Source: Lost Omens: Travel Guide p. 17*  

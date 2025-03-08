@@ -1,19 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Barbarian
 Character-Role: Possible Rival
 parent:
   - Griffon's Nest
-up:
-  - Griffon's Nest
-RWtopicId: Topic_303
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Great Chief Halric Bonesnapper
 

@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa5
-- trait/complex
-- trait/mechanical
-- trait/trap
-aliases: ["Acidic Needle Launcher"]
+tags: []
+aliases:
+  - Acidic Needle Launcher
 ---
 # Acidic Needle Launcher *Hazard 16*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

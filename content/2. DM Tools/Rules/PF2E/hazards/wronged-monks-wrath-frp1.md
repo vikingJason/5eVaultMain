@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/frp1
-- trait/haunt
-aliases: ["Wronged Monk's Wrath"]
+tags: []
+aliases:
+  - Wronged Monk's Wrath
 ---
 # Wronged Monk's Wrath *Hazard 13*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

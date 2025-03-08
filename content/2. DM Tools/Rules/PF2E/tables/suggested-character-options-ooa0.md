@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/ooa0
-aliases: ["Suggested Character Options"]
+tags: []
+aliases:
+  - Suggested Character Options
 ---
 # Suggested Character Options  
 *Source: Outlaws of Alkenstar Player's Guide p. 9*  

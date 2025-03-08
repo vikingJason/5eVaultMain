@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec2
-- trait/complex
-- trait/magical
-- trait/rare
-- trait/trap
-aliases: ["Masks Of Aroden's Guises"]
+tags: []
+aliases:
+  - Masks Of Aroden's Guises
 ---
 # Masks Of Aroden's Guises *Hazard 10*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

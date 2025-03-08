@@ -1,24 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Candlekeep Chandlery
-Tags: Category/Merchant Suffix/Chandlery
-"": Facility
-Prices: Expensive
 Quality: Comfortable
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Baldur's Mouth
-next:
-  - Counting House
-down:
-  - Whispering Candle
-RWtopicId: Topic_635
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Candlekeep Chandlery (Chandlery)
 ## Overview

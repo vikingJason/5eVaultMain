@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-feat
-tags:
-  - compendium/src/5e/hhhviii
-  - optional-feature/hhh-ms
+tags: []
 aliases:
   - Giant
 ---

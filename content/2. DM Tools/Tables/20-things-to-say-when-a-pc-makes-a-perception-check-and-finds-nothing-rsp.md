@@ -1,8 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-tags:
-  - compendium/src/5e/rsp
+tags: []
 aliases:
   - 20 Things to Say When A PC makes a Perception Check And Finds Nothing
 ---

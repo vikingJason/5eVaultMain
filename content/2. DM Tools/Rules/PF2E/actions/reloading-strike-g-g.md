@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/gunslinger-g-g
-- compendium/src/pf2e/g&g
-- trait/gunslinger
-aliases: ["Reloading Strike"]
+aliases:
+  - Reloading Strike
+tags: []
 ---
 # Reloading Strike [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

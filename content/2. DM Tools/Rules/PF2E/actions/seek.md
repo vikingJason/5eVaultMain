@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/concentrate
-- trait/secret
-aliases: ["Seek"]
+aliases:
+  - Seek
+tags: []
 ---
 # Seek (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

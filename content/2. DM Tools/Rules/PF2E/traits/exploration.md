@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/action-ability
-aliases: ["Exploration"]
+tags: []
+aliases:
+  - Exploration
 ---
 # Exploration  
 *Source: Core Rulebook p. 631*  

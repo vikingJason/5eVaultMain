@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/flourish
-aliases: ["Bullying Press"]
+aliases:
+  - Bullying Press
+tags: []
 ---
 # Bullying Press [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [flourish](rules/traits/flourish.md "Flourish Combat Trait")  

@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/da
-- trait/enchantment
-- trait/magical
-- trait/mental
-- trait/trap
-- trait/visual
-aliases: ["Reflected Desires"]
+tags: []
+aliases:
+  - Reflected Desires
 ---
 # Reflected Desires *Hazard 1*  
 [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  

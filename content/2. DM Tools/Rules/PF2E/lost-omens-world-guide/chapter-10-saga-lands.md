@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-10-saga-lands"]
+tags: []
+aliases:
+  - chapter-10-saga-lands
 ---
 # Chapter 10: Saga Lands
 <sup>LOWG p. 108</sup>

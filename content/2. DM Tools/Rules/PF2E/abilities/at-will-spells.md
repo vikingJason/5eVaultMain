@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["At-Will Spells"]
+aliases:
+  - At-Will Spells
+tags: []
 ---
 # At-Will Spells
 

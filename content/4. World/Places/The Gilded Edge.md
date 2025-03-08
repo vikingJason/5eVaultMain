@@ -5,9 +5,9 @@ kingdom: Solarith
 region: The Silver Marches
 settlementName: Starcrest
 wardName: Merchant's Ward
-title: The Gilded Edge
 ownerName: Master Aric Valtoris
 services: Custom Weapon Crafting, Weapon Enchantment, Appraisals
+tags: []
 ---
 
 # **The Gilded Edge**

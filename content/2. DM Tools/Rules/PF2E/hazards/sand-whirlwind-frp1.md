@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/frp1
-- trait/complex
-- trait/haunt
-aliases: ["Sand Whirlwind"]
+tags: []
+aliases:
+  - Sand Whirlwind
 ---
 # Sand Whirlwind *Hazard 14*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

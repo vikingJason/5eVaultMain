@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Moving Around Other Creatures
 
 During your move, you can pass through the space of an ally, a creature that has the [[Incapacitated]] condition , a Tiny creature, or a creature that is two sizes larger or smaller than you.

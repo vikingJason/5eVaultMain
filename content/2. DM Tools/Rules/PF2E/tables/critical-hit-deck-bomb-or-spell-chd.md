@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/chd
-aliases: ["Critical Hit Deck: Bomb or Spell"]
+tags: []
+aliases:
+  - "Critical Hit Deck: Bomb or Spell"
 ---
 # Critical Hit Deck: Bomb or Spell  
 *Source: Critical Hit Deck p. 0*  

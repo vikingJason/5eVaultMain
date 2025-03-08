@@ -1,7 +1,6 @@
 ---
 obsidianUIMode: preview
-tags:
-  - "#dmtool"
+tags: []
 obsidianEditingMode: source
 BaseSpeed: 30.001
 SpeedMultiplier: 1

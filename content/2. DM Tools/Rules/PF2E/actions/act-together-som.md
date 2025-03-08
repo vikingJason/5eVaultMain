@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/summoner-som
-- compendium/src/pf2e/som
-- trait/summoner
-- trait/tandem
-aliases: ["Act Together"]
+aliases:
+  - Act Together
+tags: []
 ---
 # Act Together [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies") Varies ([>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action") to [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action"))
 [summoner](rules/traits/summoner-som.md "Summoner Class Trait")  [tandem](rules/traits/tandem-som.md "Tandem Action & Ability Trait")  

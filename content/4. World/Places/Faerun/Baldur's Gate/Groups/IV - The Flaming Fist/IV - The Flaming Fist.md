@@ -1,24 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Flaming Fist
-Tags: Category/Group--Military
 Type:
   - Military
   - placeholder
 Military-Role: Infantry
-parent:
-  - Baldurs Gate Groups
-up:
-  - Baldurs Gate Groups
-prev:
-  - VIII - Professional Guilds
-next:
-  - I - The Council of Four
-down:
-  - Blaze Ulder Ravengard
-  - Favil Blanthe
-RWtopicId: Topic_670
 Affiliation:
   - - Blaze Ulder Ravengard
 Region: placeholder

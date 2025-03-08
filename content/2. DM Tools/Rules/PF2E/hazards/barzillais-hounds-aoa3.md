@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa3
-- trait/complex
-- trait/haunt
-- trait/rare
-aliases: ["Barzillai's Hounds"]
+tags: []
+aliases:
+  - Barzillai's Hounds
 ---
 # Barzillai's Hounds *Hazard 6*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  

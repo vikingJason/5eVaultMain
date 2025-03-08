@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/frp1
-- trait/complex
-- trait/haunt
-- trait/magical
-- trait/unique
-aliases: ["Broken Rebus Attack"]
+tags: []
+aliases:
+  - Broken Rebus Attack
 ---
 # Broken Rebus Attack *Hazard 12*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  

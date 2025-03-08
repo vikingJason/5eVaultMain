@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-tags:
-- trait/divine
-- trait/evocation
-aliases: ["Telekinetic Assault"]
+tags: []
+aliases:
+  - Telekinetic Assault
 ---
 # Telekinetic Assault [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [divine](rules/traits/divine.md "Divine Tradition Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  

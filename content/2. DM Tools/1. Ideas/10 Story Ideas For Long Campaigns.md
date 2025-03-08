@@ -1,3 +1,6 @@
+---
+tags: []
+---
 https://www.thegamer.com/dungeons-dragons-long-campaign-story-ideas/
 
 1. War

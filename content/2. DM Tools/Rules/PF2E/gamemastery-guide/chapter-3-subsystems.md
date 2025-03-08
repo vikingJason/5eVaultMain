@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["chapter-3-subsystems"]
+tags: []
+aliases:
+  - chapter-3-subsystems
 ---
 # Chapter 3: Subsystems
 <sup>GMG p. 147</sup>

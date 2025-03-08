@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
 Type:
   - Cavern
   - placeholder
-parent:
-  - III - The High Ice
-up:
-  - III - The High Ice
-prev:
-  - Hlaungadath
-next:
-  - The Rift of Stars
-RWtopicId: Topic_725
 Region: placeholder
 ---
 # The Smokeholes

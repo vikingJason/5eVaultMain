@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/locg
-aliases: ["Hellknight"]
+tags: []
+aliases:
+  - Hellknight
 ---
 # Hellknight  
 *Source: Lost Omens: Character Guide p. 133*  

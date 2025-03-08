@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/gmg
-- trait/category/gravity
-- trait/category/morphic
-aliases: ["Metamorphic"]
+tags: []
+aliases:
+  - Metamorphic
 ---
 # Metamorphic  
 *Source: Gamemastery Guide p. 253*  

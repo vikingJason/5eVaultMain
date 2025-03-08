@@ -7,8 +7,7 @@ aliases:
   - Dying 3
 foundryId: Item.3lBKNpkRqYPosHrC
 effect: "**DC 10** + Dying Value for Recovery check. Death on Dying 4."
-tags:
-  - pf2econdition
+tags: []
 ---
 
 ![[gm_death.png|150]]

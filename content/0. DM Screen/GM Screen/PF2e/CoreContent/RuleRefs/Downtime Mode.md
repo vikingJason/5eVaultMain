@@ -1,5 +1,5 @@
 ---
-tags: Downtime
+tags: []
 ---
 
 # Downtime Mode

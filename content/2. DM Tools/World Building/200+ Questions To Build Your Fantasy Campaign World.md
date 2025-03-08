@@ -1,3 +1,6 @@
+---
+tags: []
+---
 https://blog.boroughbound.com/200fantasyquestions/
 
 # 200+ Questions To Build Your Fantasy Campaign World

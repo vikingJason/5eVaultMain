@@ -1,19 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Merchant
-Goods-Sold: Other
-Services-Sold: Entertainment
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - Shrine of Suffering (Shrine of Ilmater)
-next:
-  - The Low Lantern (Festhall)
-RWtopicId: Topic_653
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Hissing Stones Bathhouse
 ## Overview

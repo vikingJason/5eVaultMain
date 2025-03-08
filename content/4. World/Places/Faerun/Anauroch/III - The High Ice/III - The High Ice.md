@@ -1,29 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The High Ice
-Tags: Category/Region--Geographical
 Geographical-Region: Mountains
 Terrain: Rocky
 Climate: Arctic
-parent:
-  - Anauroch
-up:
-  - Anauroch
-prev:
-  - II - The Plain of Standing Stones
-next:
-  - IV - The Lost Kingdoms
-down:
-  - The Frozen Sea
-  - Ascore
-  - Hlaungadath
-  - The Smokeholes
-  - The Rift of Stars
-  - LLashloch (The Lake of Ice)
-  - The Taglorlar
-  - Untrivvin
-RWtopicId: Topic_721
 Type: placeholder
 Region: placeholder
 ---

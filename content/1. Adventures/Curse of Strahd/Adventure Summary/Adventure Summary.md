@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ``` mermaid
 timeline
         title Curse of Strahd Summary

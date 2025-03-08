@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Desperate Hunger"]
+tags: []
+aliases:
+  - Desperate Hunger
 ---
 # Desperate Hunger *Hazard 12*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

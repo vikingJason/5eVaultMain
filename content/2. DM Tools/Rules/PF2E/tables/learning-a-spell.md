@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Learning a Spell"]
+tags: []
+aliases:
+  - Learning a Spell
 ---
 # Learning a Spell  
 *Source: Core Rulebook p. 238*  

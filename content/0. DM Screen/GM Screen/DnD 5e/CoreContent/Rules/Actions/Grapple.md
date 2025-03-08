@@ -1,10 +1,11 @@
 ---
-title: "Grapple"
-aliases: 
-- Grapple
-- Grab
-tags:
-- 5eAction
+title: Grapple
+aliases:
+  - Grapple
+  - Grab
+type:
+  - 5eAction
+tags: []
 ---
 
 ![[Grapple.png|150]]

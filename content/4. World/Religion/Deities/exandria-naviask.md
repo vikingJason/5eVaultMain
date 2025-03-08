@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/egw
-  - deity/exandria
-  - domain/life
-  - domain/nature
-aliases:
-  - Naviask
+{}
 ---
 # Naviask
 *Source: Explorer's Guide to Wildemount p. 32* 

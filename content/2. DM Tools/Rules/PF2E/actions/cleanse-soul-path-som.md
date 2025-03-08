@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/som
-- trait/exploration
-aliases: ["Cleanse Soul Path"]
+aliases:
+  - Cleanse Soul Path
+tags: []
 ---
 # Cleanse Soul Path
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

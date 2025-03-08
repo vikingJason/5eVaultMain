@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Martha Underbough
 Race: Halfling
-Gender: Female
 Occupation: Tavern Owner
 Alignment: Neutral Good
 Religion: Yondalla, Goddess of Halflings
 Condition: Healthy
 Location: The Troll's Tollbooth, Starcrest
 Groups: Local Merchants Guild, Halfling Community of Starcrest
-PartyStanding: Friendly
+Type: NPC
 ---
 
 # **Martha Underbough**

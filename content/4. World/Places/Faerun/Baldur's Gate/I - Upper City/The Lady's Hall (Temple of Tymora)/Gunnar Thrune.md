@@ -1,14 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
-Gender: Male
-parent:
-  - The Lady's Hall (Temple of Tymora)
-up:
-  - The Lady's Hall (Temple of Tymora)
-RWtopicId: Topic_628
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Gunnar Thrune
 ## Overview

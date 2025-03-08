@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/exploration
-- trait/healing
-- trait/manipulate
-aliases: ["Treat Wounds"]
+aliases:
+  - Treat Wounds
+tags: []
 ---
 # Treat Wounds (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 10 minute
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

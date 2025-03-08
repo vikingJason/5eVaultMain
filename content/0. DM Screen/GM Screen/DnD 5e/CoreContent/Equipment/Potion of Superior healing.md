@@ -2,11 +2,9 @@
 title: Potion of Superior healing
 aliases:
   - Potion of Superior healing
-tags:
-  - 5eSpell
-  - 5eHealing
+tags: []
 effect: "Restores `dice: 8d4+8` hit points"
-cost: "300 gp"
+cost: 300 gp
 ---
 
 ![[PoSH.png|150]]

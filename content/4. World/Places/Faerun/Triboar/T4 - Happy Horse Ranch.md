@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Happy Horse Ranch
-  - T4
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T3 - West Caravan Campground
-next:
-  - T5 - Wainwright's Wagons
-RWtopicId: Topic_362
 Type: placeholder
 Region: placeholder
 ---

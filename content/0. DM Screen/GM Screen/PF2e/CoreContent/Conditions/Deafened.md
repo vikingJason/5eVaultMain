@@ -1,10 +1,9 @@
 ---
-title: "Deafened"
+title: Deafened
 noteType: ":luggage:"
-aliases: "Deafened"
+aliases: Deafened
 foundryId: Item.DXX3nDDwrQFcmuPM
-tags:
-  - pf2econdition
+tags: []
 effect: -2 status auditory Perception. **DC 5** flat check for auditory actions.
 ---
 ![[gm_deaf.png|150]]

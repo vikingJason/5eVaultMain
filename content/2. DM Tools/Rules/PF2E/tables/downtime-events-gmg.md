@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/gmg
-aliases: ["Downtime Events"]
+tags: []
+aliases:
+  - Downtime Events
 ---
 # Downtime Events  
 *Source: Gamemastery Guide p. 25*  

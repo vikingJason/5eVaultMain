@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/g&g
-- trait/clockwork
-- trait/complex
-- trait/haunt
-- trait/mechanical
-- trait/uncommon
-aliases: ["Malevolant Mannequins"]
+tags: []
+aliases:
+  - Malevolant Mannequins
 ---
 # Malevolant Mannequins *Hazard 14*  
 [clockwork](rules/traits/clockwork-g-g.md "Clockwork  Trait")  [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

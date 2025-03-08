@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/phb
-  - deity/celtic
-  - domain/nature
-aliases:
-  - Dunatis
+{}
 ---
 # Dunatis
 *Source: Player's Handbook p. 298* 

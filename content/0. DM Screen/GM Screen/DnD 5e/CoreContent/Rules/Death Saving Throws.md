@@ -1,8 +1,7 @@
 ---
-title: "Death Saving Throws"
-aliases: "Death Saving Throws"
-tags:
-- 5er-ref
+title: Death Saving Throws
+aliases: Death Saving Throws
+tags: []
 ---
 ![[Death.png|150]]
 # Death Saving Throws

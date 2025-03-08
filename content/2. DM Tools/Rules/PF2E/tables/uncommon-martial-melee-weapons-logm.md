@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/logm
-aliases: ["Uncommon Martial Melee Weapons"]
+tags: []
+aliases:
+  - Uncommon Martial Melee Weapons
 ---
 # Uncommon Martial Melee Weapons  
 *Source: Lost Omens: Gods & Magic p. 120*  

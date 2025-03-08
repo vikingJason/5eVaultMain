@@ -1,16 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Unique-Monster-Enemy
 Type:
   - Dragon
   - placeholder
-"": Possible Rival
-parent:
-  - Klauthen Vale
-up:
-  - Klauthen Vale
-RWtopicId: Topic_39
 Region: placeholder
+tags: []
 ---
 # Klauth
 ## Overview

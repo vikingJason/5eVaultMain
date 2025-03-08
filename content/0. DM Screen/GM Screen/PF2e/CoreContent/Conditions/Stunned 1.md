@@ -1,10 +1,9 @@
 ---
-title: "Stunned 1"
+title: Stunned 1
 noteType: ":luggage:"
-aliases: "Stunned 1"
+aliases: Stunned 1
 foundryId: Item.0D3JQSAgk3dj908r
-tags:
-  - Item
+tags: []
 ---
 ![[gm_stun.png|150]]
 # Stunned 1

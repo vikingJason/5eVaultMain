@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec6
-- trait/complex
-- trait/haunt
-- trait/unique
-aliases: ["Suffering Xulgaths"]
+tags: []
+aliases:
+  - Suffering Xulgaths
 ---
 # Suffering Xulgaths *Hazard 16*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  [unique](rules/traits/unique.md "Unique Rarity Trait")  

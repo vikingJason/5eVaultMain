@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/tv
-- trait/category/item
-aliases: ["Harnessed"]
+tags: []
+aliases:
+  - Harnessed
 ---
 # Harnessed  
 *Source: Treasure Vault p. 219*  

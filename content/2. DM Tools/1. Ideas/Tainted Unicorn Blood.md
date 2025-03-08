@@ -1,3 +1,6 @@
+---
+tags: []
+---
 In Dungeons & Dragons, tainted unicorn blood can have various effects on characters, often depending on the context of the campaign and the Dungeon Master's narrative. Here are some possible effects of coming into contact with tainted unicorn blood:
 
 1. **Corruption of Purity**: Tainted unicorn blood might corrupt a character's inherent purity and virtues. It could lead to feelings of greed, jealousy, or malevolence, making them more susceptible to darker impulses and evil influences.

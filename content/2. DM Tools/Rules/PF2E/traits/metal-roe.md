@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/roe
-- trait/category/energy-element
-- trait/category/planar
-aliases: ["Metal"]
+tags: []
+aliases:
+  - Metal
 ---
 # Metal  
 *Source: Rage of Elements p. 237*  

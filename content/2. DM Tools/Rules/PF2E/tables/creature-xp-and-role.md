@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Creature XP and Role"]
+tags: []
+aliases:
+  - Creature XP and Role
 ---
 # Creature XP and Role  
 *Source: Core Rulebook p. 489*  

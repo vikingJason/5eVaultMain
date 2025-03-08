@@ -8,8 +8,7 @@ aliases:
   - Stunned 6
   - Stunned 7
   - Stunned 8
-tags:
-  - pf2econdition
+tags: []
 effect: Penalty to total actions based on **Stunned** value. Reduce by **3** at the start of every round.
 ---
 ![[gm_stun.png|150]]

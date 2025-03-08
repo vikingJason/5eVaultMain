@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-feat
-tags:
-  - compendium/src/5e/toh
-  - optional-feature/mm
+tags: []
 aliases:
   - Hungry Spell
 ---

@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec4
-- trait/complex
-- trait/magical
-- trait/trap
-- trait/uncommon
-aliases: ["Mukradi Summoning Runes"]
+tags: []
+aliases:
+  - Mukradi Summoning Runes
 ---
 # Mukradi Summoning Runes *Hazard 15*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [uncommon](rules/traits/uncommon.md "Uncommon Rarity Trait")  

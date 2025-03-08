@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Low-Light Vision"]
+aliases:
+  - Low-Light Vision
+tags: []
 ---
 # Low-Light Vision
 

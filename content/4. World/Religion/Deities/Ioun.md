@@ -1,12 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/dmg
-  - deity/dawn-war
-  - domain/knowledge
-aliases:
-  - Ioun
+Alignment: Neutral
+Domains:
+  - Knowledge
+Pantheon: Dawn War
 ---
 # Ioun
 *Source: Dungeon Master's Guide p. 10* 

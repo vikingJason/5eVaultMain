@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## Welcomers
 The Welcomers, also called the Welcoming Committee, was the lone thieves' guild in Phlan as of 1367 DR.
 

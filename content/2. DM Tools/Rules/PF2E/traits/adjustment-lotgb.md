@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/lotgb
-aliases: ["Adjustment"]
+tags: []
+aliases:
+  - Adjustment
 ---
 # Adjustment  
 *Source: Lost Omens: The Grand Bazaar p. 133*  

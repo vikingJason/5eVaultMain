@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/apg
-- trait/category/combat
-aliases: ["Hex"]
+tags: []
+aliases:
+  - Hex
 ---
 # Hex  
 *Source: Advanced Player's Guide p. 101*  

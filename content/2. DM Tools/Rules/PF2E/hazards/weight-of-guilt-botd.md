@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/botd
-- trait/haunt
-aliases: ["Weight of Guilt"]
+tags: []
+aliases:
+  - Weight of Guilt
 ---
 # Weight of Guilt *Hazard 7*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

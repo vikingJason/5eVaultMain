@@ -1,10 +1,9 @@
 ---
-title: "Clumsy 1"
+title: Clumsy 1
 noteType: ":luggage:"
-aliases: "Clumsy 1"
+aliases: Clumsy 1
 foundryId: Item.YgdTY2YnIg6ab9N4
-tags:
-  - Item
+tags: []
 ---
 ![[gm_clumsy.png|150]]
 # Clumsy 1

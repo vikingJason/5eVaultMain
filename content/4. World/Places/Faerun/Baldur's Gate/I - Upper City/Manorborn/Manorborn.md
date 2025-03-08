@@ -1,19 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Urban
 Urban-Region: Neigborhood
-Usage: Residential
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - Watch Citadel
-down:
-  - The Silvershield Estate
-RWtopicId: Topic_706
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Manorborn
 ## Overview

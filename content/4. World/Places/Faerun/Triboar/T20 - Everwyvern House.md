@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Everwyvern House
-  - T20
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T19 - Merivold Pony Park
-next:
-  - T21 - The Pleasing Platter
-RWtopicId: Topic_378
 Type: placeholder
 Region: placeholder
 ---

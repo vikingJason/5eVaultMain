@@ -1,3 +1,6 @@
+---
+Type: NPC
+---
 # Seralith Veylindar _(Fallen Cleric of Kalistyr)_
 <br>
 

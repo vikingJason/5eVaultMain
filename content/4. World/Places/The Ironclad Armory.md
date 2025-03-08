@@ -5,9 +5,9 @@ kingdom: Eldoria
 region: Verdant Vale
 settlementName: Ironhold
 wardName: Forgemaster's Quarter
-title: The Ironclad Armory
 ownerName: Hrothgar Stonefist
 services: Weapon Crafting, Weapon Repair, Custom Engravings, Metalwork, Weapon Appraisal
+tags: []
 ---
 
 # **The Ironclad Armory**

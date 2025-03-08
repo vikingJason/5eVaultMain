@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - Phandalin
-up:
-  - Phandalin
-prev:
-  - Barthen's Provisions
-next:
-  - Lionshield Coster
-down:
-  - Daran Edermath
-RWtopicId: Topic_60
 Type: placeholder
 Region: placeholder
 ---

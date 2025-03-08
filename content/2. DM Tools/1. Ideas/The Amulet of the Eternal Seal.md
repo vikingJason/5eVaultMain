@@ -1,3 +1,6 @@
+---
+tags: []
+---
 The Amulet of the Eternal Seal is a magical trinket that can be used to trap the souls of the dead.
 
 This amulet is made of a shimmering silver metal and is adorned with a glowing crystal at its center. When the crystal is activated, the amulet creates a powerful field of energy that can trap the soul of any deceased creature within a 20-foot radius.

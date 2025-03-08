@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa5
-- trait/downtime
-aliases: ["Secure Invitation"]
+aliases:
+  - Secure Invitation
+tags: []
 ---
 # Secure Invitation
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
-parent:
-  - Parnast
-up:
-  - Parnast
-prev:
-  - Parnast Stable
-next:
-  - Village Well and Square
-RWtopicId: Topic_47
 Type: placeholder
 Region: placeholder
 ---

@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Apothecary
-  - T23
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T22 - Graveyard
-next:
-  - T24 - Gwaeron's Slumber
-RWtopicId: Topic_381
 Type: placeholder
 Region: placeholder
 ---

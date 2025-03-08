@@ -2,8 +2,7 @@
 title: Petrified
 aliases:
   - Petrified
-tags:
-  - 5eCondition
+tags: []
 effect: Transformed to stone, gains **Unconscious** and **Incapacitated** condition and resistance to all damage.
 ---
 

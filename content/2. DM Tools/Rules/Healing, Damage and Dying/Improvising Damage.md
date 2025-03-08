@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## Improvizing Damage
 
 |Damage|Example|

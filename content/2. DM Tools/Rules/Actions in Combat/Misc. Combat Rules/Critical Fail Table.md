@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Critical Fail Table
 
 

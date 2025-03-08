@@ -1,16 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/gunslinger-g-g
-- compendium/src/pf2e/g&g
-- trait/auditory
-- trait/emotion
-- trait/fear
-- trait/gunslinger
-- trait/linguistic
-- trait/mental
-aliases: ["Grim Swagger"]
+aliases:
+  - Grim Swagger
+tags: []
 ---
 # Grim Swagger [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

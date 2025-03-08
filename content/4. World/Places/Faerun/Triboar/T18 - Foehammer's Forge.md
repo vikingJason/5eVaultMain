@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Foehammer's Forge
-  - T18
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T17 - Uldinath's Arms
-next:
-  - T19 - Merivold Pony Park
-RWtopicId: Topic_376
 Type: placeholder
 Region: placeholder
 ---

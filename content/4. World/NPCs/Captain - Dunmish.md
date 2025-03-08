@@ -1,21 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Dunmish
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Fighter
 Character-Role: Neutral
 parent:
   - Neverwinter Military Force
-up:
-  - Neverwinter Military Force
-RWtopicId: Topic_15
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Captain - Dunmish
 ## Overview

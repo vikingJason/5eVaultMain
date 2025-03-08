@@ -1,17 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
 Type:
   - Point of Interest
   - placeholder
-parent:
-  - The Wide (Open Marketplace)
-up:
-  - The Wide (Open Marketplace)
-next:
-  - The Undercellar
-RWtopicId: Topic_699
 Region: placeholder
+tags: []
 ---
 # The Beloved Ranger
 ## Overview

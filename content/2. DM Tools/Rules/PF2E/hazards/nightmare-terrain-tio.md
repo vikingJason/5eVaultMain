@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/tio
-- trait/complex
-- trait/magical
-- trait/trap
-aliases: ["Nightmare Terrain"]
+tags: []
+aliases:
+  - Nightmare Terrain
 ---
 # Nightmare Terrain *Hazard 6*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

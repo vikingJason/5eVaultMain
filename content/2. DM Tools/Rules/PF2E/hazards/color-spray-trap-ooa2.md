@@ -1,15 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ooa2
-- trait/auditory
-- trait/illusion
-- trait/incapacitation
-- trait/magical
-- trait/trap
-- trait/visual
-aliases: ["Color Spray Trap"]
+tags: []
+aliases:
+  - Color Spray Trap
 ---
 # Color Spray Trap *Hazard 4*  
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  

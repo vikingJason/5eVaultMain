@@ -1,13 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
-parent:
-  - Parnast
-up:
-  - Parnast
-prev:
-  - Shrine of Axes
-RWtopicId: Topic_48
 Type: placeholder
 Region: placeholder
 ---

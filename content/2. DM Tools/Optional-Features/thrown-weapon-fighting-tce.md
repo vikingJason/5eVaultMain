@@ -1,10 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-feat
-tags:
-  - compendium/src/5e/tce
-  - optional-feature/fs-f
-  - optional-feature/fs-r
+tags: []
 aliases:
   - Thrown Weapon Fighting
 ---

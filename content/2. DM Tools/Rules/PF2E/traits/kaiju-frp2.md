@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/frp2
-aliases: ["Kaiju"]
+tags: []
+aliases:
+  - Kaiju
 ---
 # Kaiju  
 *Source: Fists of the Ruby Phoenix #2: Ready? Fight! p. 89*  

@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Triboar Travelers
-  - T9
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T8 - The Cart and Coin
-next:
-  - T10 - Northshield House
-RWtopicId: Topic_367
 Type: placeholder
 Region: placeholder
 ---

@@ -4,8 +4,7 @@ aliases:
   - Sickened 2
   - Sickened 3
   - Sickened 4
-tags:
-  - pf2econdition
+tags: []
 effect: Staus penalty equal to **Sickened **value to all stats.
 ---
 ![[gm_poisoned.png|150]]

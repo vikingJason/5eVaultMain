@@ -1,11 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-tags:
-  - compendium/src/5e/dmg
-  - compendium/src/5e/phb
-  - compendium/src/5e/toh
-  - compendium/src/5e/xge
+tags: []
 aliases:
   - Actions
 ---

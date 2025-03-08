@@ -1,21 +1,12 @@
 ---
-tags:
-  - Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Female
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - The Rusty Pipe
-up:
-  - The Rusty Pipe
-next:
-  - Amina Fawneye
-Type:
-  - placeholder
 Region: placeholder
+Type: NPC
 ---
 # River Starchild
 ## Overview

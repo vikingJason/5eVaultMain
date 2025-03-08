@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe6
-- trait/complex
-- trait/illusion
-- trait/magical
-- trait/trap
-aliases: ["Field Of Opposition"]
+tags: []
+aliases:
+  - Field Of Opposition
 ---
 # Field Of Opposition *Hazard 20*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [illusion](rules/traits/illusion.md "Illusion School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

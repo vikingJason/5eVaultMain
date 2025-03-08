@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff1
-- trait/acid
-- trait/evocation
-- trait/magical
-- trait/trap
-aliases: ["Acid Strongbox Trap"]
+tags: []
+aliases:
+  - Acid Strongbox Trap
 ---
 # Acid Strongbox Trap *Hazard 4*  
 [acid](rules/traits/acid.md "Acid Energy & Element Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

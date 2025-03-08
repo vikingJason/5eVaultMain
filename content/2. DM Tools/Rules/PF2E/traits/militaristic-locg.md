@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/locg
-- trait/category/general
-aliases: ["Militaristic"]
+tags: []
+aliases:
+  - Militaristic
 ---
 # Militaristic  
 *Source: Lost Omens: Character Guide p. 133*  

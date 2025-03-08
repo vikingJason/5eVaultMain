@@ -1,23 +1,11 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Ethnic
 Type:
   - Ethnic
   - placeholder
-Ethnic-Identity: Homeland
 parent:
   - Anauroch Groups
-up:
-  - Anauroch Groups
-prev:
-  - The Black Shadow Band
-next:
-  - The Phaerimm
-down:
-  - Bedine Deities
-  - Bedine NPC's
-RWtopicId: Topic_739
 Region: placeholder
+tags: []
 ---
 # The Bedine
 ## Overview

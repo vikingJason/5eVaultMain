@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/ooa1
-aliases: ["Mixed Drink Effects"]
+tags: []
+aliases:
+  - Mixed Drink Effects
 ---
 # Mixed Drink Effects  
 *Source: Outlaws of Alkenstar #1: Punks in a Powder Keg p. 70*  

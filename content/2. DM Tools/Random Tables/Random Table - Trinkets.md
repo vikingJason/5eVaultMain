@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Trinkets
 
 `dice: [[Random Table - Trinkets]]^Trinkets]]`

@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Town
-  - G6
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G20 - Pumpkin Patch
-next:
-  - G7 - Harvesthome Abbey
-RWtopicId: Topic_354
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G6 - Town
 ## Overview

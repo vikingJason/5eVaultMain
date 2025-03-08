@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Hidden Backgrounds
 
 It's also worth incorporating some surprise revelations into the campaign if you can. These are plot points that the players wouldn't be necessarily looking for, but love to discover nonetheless.

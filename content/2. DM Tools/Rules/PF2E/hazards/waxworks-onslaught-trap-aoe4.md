@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe4
-- trait/complex
-- trait/magical
-- trait/trap
-aliases: ["Waxworks Onslaught Trap"]
+tags: []
+aliases:
+  - Waxworks Onslaught Trap
 ---
 # Waxworks Onslaught Trap *Hazard 16*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

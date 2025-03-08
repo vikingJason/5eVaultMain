@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/logm
-aliases: ["character-options"]
+tags: []
+aliases:
+  - character-options
 ---
 # Character Options
 <sup>LOGM p. 102</sup>

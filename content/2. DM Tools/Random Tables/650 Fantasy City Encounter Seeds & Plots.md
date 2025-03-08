@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # 650 Fantasy City Encounter Seeds & Plots
 
 > [!note] Source

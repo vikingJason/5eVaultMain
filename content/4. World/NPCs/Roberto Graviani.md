@@ -1,19 +1,12 @@
 ---
-tags:
-  - Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Alchemist
-up:
-  - Alchemist
-Type:
-  - placeholder
 Region: placeholder
+Type: NPC
 ---
 # Roberto Graviani
 ## Overview

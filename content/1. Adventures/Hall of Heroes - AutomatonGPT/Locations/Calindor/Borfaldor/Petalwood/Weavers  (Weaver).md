@@ -11,6 +11,7 @@ title: Weavers
 services: services
 owner: Empell (Halfling)
 Region: '"[[Borfaldor]]"'
+tags: []
 ---
 > [!oRPG-Layout] 
 > #  Weavers  (Weaver/Tailor)

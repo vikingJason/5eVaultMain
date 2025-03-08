@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - III - The High Ice
-up:
-  - III - The High Ice
-prev:
-  - Ascore
-next:
-  - The Smokeholes
-RWtopicId: Topic_724
 Type: placeholder
 Region: placeholder
 ---

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/environmental
-aliases: ["Green Slime"]
+tags: []
+aliases:
+  - Green Slime
 ---
 # Green Slime *Hazard 9*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  

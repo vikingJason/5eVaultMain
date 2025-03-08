@@ -1,15 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - One Stone
-next:
-  - Parnast
-RWtopicId: Topic_509
 Type: placeholder
 Region: placeholder
 ---

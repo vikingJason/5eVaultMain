@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Criminal
 Type:
   - Criminal
   - placeholder
-parent:
-  - 2 - Organizations in Neverwinter
-up:
-  - 2 - Organizations in Neverwinter
-prev:
-  - Order of the Many-Starred Cloak
-next:
-  - The Covenant
-RWtopicId: Topic_172
 Region: placeholder
 ---
 # Sons of Alagondar

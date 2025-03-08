@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Falling
 
 A creature that falls takes 1d6 Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of 20d6. When the creature lands, it has the [[Prone]] condition unless it avoids taking any damage from the fall.

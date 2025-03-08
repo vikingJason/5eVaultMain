@@ -1,11 +1,9 @@
 ---
-title: "Healer's Gloves"
+title: Healer's Gloves
 noteType: ":luggage:"
-aliases: "Healer's Gloves"
+aliases: Healer's Gloves
 foundryId: Item.ZusKcgB25HlPBJ6c
-tags:
-  - Item
-  - pf2eheal
+tags: []
 effect: "`dice: 2d6+7` Hit Points once per day"
 ---
 ![[gm_heal.png|150]]

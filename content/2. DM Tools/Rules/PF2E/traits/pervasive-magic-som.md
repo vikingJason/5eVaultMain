@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/som
-- trait/category/general
-aliases: ["Pervasive Magic"]
+tags: []
+aliases:
+  - Pervasive Magic
 ---
 # Pervasive Magic  
 *Source: Secrets of Magic p. 218*  

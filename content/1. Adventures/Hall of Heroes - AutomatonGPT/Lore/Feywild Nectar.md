@@ -1,3 +1,6 @@
+---
+tags: []
+---
 Feywild Nectar is often described as a magical, otherworldly substance that originates in the Feywild, a plane of existence full of enchantment, whimsy, and danger. It is typically produced by rare Fey plants, mystical creatures, or as a byproduct of the Feywild’s innate magic. Below are some ideas for what Feywild Nectar might be in a fantasy setting:
 
 ---

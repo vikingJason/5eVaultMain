@@ -1,7 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-aliases: ["Bone Missile"]
+aliases:
+  - Bone Missile
+tags: []
 ---
 # Bone Missile [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 

@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: River
 Terrain: Deserts
 Climate: Arid
-parent:
-  - II - The Plain of Standing Stones
-up:
-  - II - The Plain of Standing Stones
-prev:
-  - The Swordpoint
-next:
-  - Spellgard
-RWtopicId: Topic_718
 Type: placeholder
 Region: placeholder
 ---

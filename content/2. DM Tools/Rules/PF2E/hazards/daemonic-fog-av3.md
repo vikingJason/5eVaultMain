@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/av3
-- trait/environmental
-- trait/magical
-aliases: ["Daemonic Fog"]
+tags: []
+aliases:
+  - Daemonic Fog
 ---
 # Daemonic Fog *Hazard 10*  
 [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  

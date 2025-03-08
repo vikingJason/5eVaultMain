@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ec1
-- trait/complex
-- trait/environmental
-- trait/trap
-aliases: ["Dream Pollen Pods"]
+tags: []
+aliases:
+  - Dream Pollen Pods
 ---
 # Dream Pollen Pods *Hazard 3*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

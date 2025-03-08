@@ -1,15 +1,12 @@
 ---
-Role: NPCs
-Name: Butch and Cassidee
 Race: Human (Butch), Half-Elf (Cassidee)
-Gender: Male (Butch), Female (Cassidee)
 Occupation: Carriage Drivers
 Alignment: Neutral
 Religion: None
 Condition: Alive
 Location: Tavern (when not driving the royal carriage)
 Groups: Royal Carriage Drivers
-PartyStanding: Neutral
+Type: NPC
 ---
 
 # **Butch and Cassidee**

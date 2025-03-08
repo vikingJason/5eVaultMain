@@ -2,9 +2,7 @@
 title: Healing Word
 aliases:
   - Healing Wounds
-tags:
-  - 5eSpell
-  - 5eHealing
+tags: []
 effect: "Restores `dice: 1d4`+ spellcasting MOD hit points + `dice: 1d4` per slot level above 1st."
 cost: Bonus Action + 1st Level Spell Slot
 ---

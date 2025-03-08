@@ -1,17 +1,6 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Region--Geographical
 Geographical-Region: River
 Climate: Temperate
-parent:
-  - II - The Plain of Standing Stones
-up:
-  - II - The Plain of Standing Stones
-prev:
-  - The Pillar of Tauros
-next:
-  - The Shattered Tower
-RWtopicId: Topic_715
 Type: placeholder
 Region: placeholder
 ---

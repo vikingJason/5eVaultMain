@@ -1,3 +1,6 @@
+---
+tags: []
+---
 Absolutely! The Middle East is rich with mythology and folklore that can inspire unique Feywild creatures, myths, and lore. Drawing on tales from Mesopotamian, Persian, Arabian, and other regional traditions, here are Feywild-themed ideas adapted with care and respect for these cultures.
 
 ---

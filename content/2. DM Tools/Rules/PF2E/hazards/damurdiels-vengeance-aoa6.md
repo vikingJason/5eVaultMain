@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa6
-- trait/complex
-- trait/haunt
-aliases: ["Damurdiel's Vengeance"]
+tags: []
+aliases:
+  - Damurdiel's Vengeance
 ---
 # Damurdiel's Vengeance *Hazard 19*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/creature-type
-aliases: ["Giant"]
+tags: []
+aliases:
+  - Giant
 ---
 # Giant  
 *Source: Core Rulebook p. 632*  

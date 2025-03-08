@@ -1,12 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mot
-  - deity/theros
-  - domain/war
-aliases:
-  - Iroas
+{}
 ---
 # Iroas
 *Source: Mythic Odysseys of Theros p. 49* 

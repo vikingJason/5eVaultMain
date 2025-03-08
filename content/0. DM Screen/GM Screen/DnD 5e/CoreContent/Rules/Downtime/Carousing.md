@@ -1,8 +1,7 @@
 ---
 title: 
 aliases: 
-tags:
-  - 5edowntime
+tags: []
 ---
 
 ![[Carousing.png|150]]

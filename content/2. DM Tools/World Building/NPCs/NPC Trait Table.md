@@ -1,8 +1,7 @@
 ---
 date: 2022-04-15
-title: "NPC Trait Table"
-tags:
-- worldbuilding
+title: NPC Trait Table
+tags: []
 ---
 
 Sources: 

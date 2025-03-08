@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa6
-- trait/complex
-- trait/environmental
-- trait/magical
-- trait/rare
-aliases: ["Lesser Dragonstorm"]
+tags: []
+aliases:
+  - Lesser Dragonstorm
 ---
 # Lesser Dragonstorm *Hazard 20*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  

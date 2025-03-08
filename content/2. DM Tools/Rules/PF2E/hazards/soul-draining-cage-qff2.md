@@ -1,13 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/qff2
-- trait/magical
-- trait/necromancy
-- trait/negative
-- trait/trap
-aliases: ["Soul Draining Cage"]
+tags: []
+aliases:
+  - Soul Draining Cage
 ---
 # Soul Draining Cage *Hazard 6*  
 [magical](rules/traits/magical.md "Magical Item Trait")  [necromancy](rules/traits/necromancy.md "Necromancy School Trait")  [negative](rules/traits/negative.md "Negative Energy & Element Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

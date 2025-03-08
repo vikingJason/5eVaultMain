@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Northshield House
-  - T10
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T9 - The Triboar Travelers
-next:
-  - T11 - Othovir's Harness Shop
-RWtopicId: Topic_368
 Type: placeholder
 Region: placeholder
 ---

@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/phb
-  - deity/norse
-  - domain/tempest
-  - domain/war
-aliases:
-  - Thor
+{}
 ---
 # Thor
 *Source: Player's Handbook p. 299* 

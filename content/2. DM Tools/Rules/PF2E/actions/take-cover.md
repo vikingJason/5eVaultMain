@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-aliases: ["Take Cover"]
+aliases:
+  - Take Cover
+tags: []
 ---
 # Take Cover (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Core Rulebook p. 471*  

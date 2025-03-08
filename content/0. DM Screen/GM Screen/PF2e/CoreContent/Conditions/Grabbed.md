@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Grabbed
 foundryId: Item.RwKPTvkw7BAvFb0x
-tags:
-  - pf2econdition
+tags: []
 effect: "**Off-Guard** and **Immobilize**. **DC 5 flat** check for actions other than **Escape**."
 ---
 ![[gm_grappled.png|150]]

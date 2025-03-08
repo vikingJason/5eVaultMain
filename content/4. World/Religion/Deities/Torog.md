@@ -1,12 +1,8 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/dmg
-  - deity/dawn-war
-  - domain/death
-aliases:
-  - Torog
+Alignment: Neutral Evil
+Domains:
+  - Death
+Pantheon: Dawn War
 ---
 # Torog
 *Source: Dungeon Master's Guide p. 10* 

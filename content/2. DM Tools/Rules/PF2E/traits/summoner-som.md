@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/som
-- trait/category/class
-aliases: ["Summoner"]
+tags: []
+aliases:
+  - Summoner
 ---
 # Summoner  
 *Source: Secrets of Magic p. 254*  

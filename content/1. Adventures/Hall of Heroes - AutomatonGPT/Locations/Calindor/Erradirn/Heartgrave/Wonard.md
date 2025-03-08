@@ -7,6 +7,7 @@ Region: Erradirn
 Type: placeholder
 Ruler: placeholder
 Factions: placeholder
+tags: []
 ---
 
 > [!infobox]+

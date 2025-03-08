@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-reward
-tags:
-  - compendium/src/5e/ftd
-  - reward/draconic-gift
+tags: []
 aliases:
   - Draconic Senses
 ---

@@ -1,17 +1,12 @@
 ---
-Tags: Category/Individual
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - Moon Maiden
-up:
-  - Moon Maiden
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Osk Thunderhale
 ## Overview

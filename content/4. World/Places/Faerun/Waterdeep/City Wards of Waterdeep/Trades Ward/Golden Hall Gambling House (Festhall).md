@@ -1,17 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Golden Hall Gambling House
-Tags: Category/Merchant Suffix/Festhall
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - The House of Textiles (Guild Hall)
-next:
-  - The House of Light (Guild Hall)
-RWtopicId: Topic_111
 Owner:
   - - Hahstoz Baerhuld
 Type: placeholder

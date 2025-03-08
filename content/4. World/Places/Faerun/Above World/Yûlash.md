@@ -1,5 +1,4 @@
 ---
-alias: Yulash
 Type: placeholder
 Region: placeholder
 ---

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Stunned
 
 A stunned creature is [[Incapacitated]] (see the condition), can’t move, and can speak only falteringly.

@@ -1,7 +1,5 @@
 ---
-tags:
-  - compendium/src/5e/toa
-  - reward/inhabitation
+tags: []
 aliases:
   - Papazotl
 ---

@@ -1,22 +1,13 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Alignment: Chaotic Evil
-Gender: Male
 Race: Half-elf
 Class: Fighter
-Age: Adult
 Challenge: CR 4
 Character-Role: Adversary
 parent:
   - Bedine NPC's
-up:
-  - Bedine NPC's
-next:
-  - Tracker
-RWtopicId: Topic_747
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Belarchass the Slaver
 ## Overview

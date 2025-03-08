@@ -1,19 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Religious
 Type:
   - Religious
   - placeholder
 Religious-Organization: Cult
-parent:
-  - 2 - Organizations in Neverwinter
-up:
-  - 2 - Organizations in Neverwinter
-prev:
-  - Order of the Blue Flame
-next:
-  - Order of the Many-Starred Cloak
-RWtopicId: Topic_170
 Region: placeholder
 ---
 # Ashmadai

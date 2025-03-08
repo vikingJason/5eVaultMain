@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mot
-  - deity/theros
-  - domain/knowledge
-  - domain/war
-aliases:
-  - Klothys
+{}
 ---
 # Klothys
 *Source: Mythic Odysseys of Theros p. 58* 

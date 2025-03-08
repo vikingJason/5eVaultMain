@@ -1,15 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
-parent:
-  - VI - The Guild
-up:
-  - VI - The Guild
-next:
-  - _Nine-Fingers_ Keene
-RWtopicId: Topic_682
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # The Fetcher
 ## Profile

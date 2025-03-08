@@ -1,10 +1,9 @@
 ---
-title: "Hidden"
+title: Hidden
 noteType: ":luggage:"
-aliases: "Hidden"
+aliases: Hidden
 foundryId: Item.BXKvXdmZaWfH8eQV
-tags:
-  - Item
+tags: []
 ---
 
 # Hidden

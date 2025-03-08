@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Hazard XP"]
+tags: []
+aliases:
+  - Hazard XP
 ---
 # Hazard XP  
 *Source: Core Rulebook p. 521*  

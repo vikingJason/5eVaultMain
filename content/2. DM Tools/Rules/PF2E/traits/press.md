@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/combat
-aliases: ["Press"]
+tags: []
+aliases:
+  - Press
 ---
 # Press  
 *Source: Core Rulebook p. 635*  

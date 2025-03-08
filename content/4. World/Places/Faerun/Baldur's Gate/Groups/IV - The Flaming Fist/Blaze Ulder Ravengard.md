@@ -1,23 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Individual
 Race: Human
-Gender: Male
 Age: Adult
 Class: Fighter
-Appearance-Traits: Unadorned
-Social-Traits: Demanding
-parent:
-  - IV - The Flaming Fist
-up:
-  - IV - The Flaming Fist
-next:
-  - Favil Blanthe
-RWtopicId: Topic_671
 Member:
   - - IV - The Flaming Fist
-PubliclyPleasedTowards:
-  - - Abdel Adrian (Duke)
 Type: placeholder
 Region: placeholder
 ---

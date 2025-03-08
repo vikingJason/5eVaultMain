@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/champion
-- compendium/src/pf2e/crb
-- trait/champion
-aliases: ["Glimpse of Redemption"]
+aliases:
+  - Glimpse of Redemption
+tags: []
 ---
 # Glimpse of Redemption [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [champion](rules/traits/champion.md "Champion Class Trait")  

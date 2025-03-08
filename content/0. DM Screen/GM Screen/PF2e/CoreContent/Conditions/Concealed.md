@@ -1,10 +1,9 @@
 ---
-title: "Concealed"
+title: Concealed
 noteType: ":luggage:"
-aliases: "Concealed"
+aliases: Concealed
 foundryId: Item.zdZCPCiJji3L0j0m
-tags:
-  - Item
+tags: []
 ---
 ![[gm_concealed.png|150]]
 # Concealed

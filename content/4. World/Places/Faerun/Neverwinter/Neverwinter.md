@@ -1,22 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - City of Skilled Hands
-  - Jewel of the North
-Tags: Category/Settlement
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Karse
-next:
-  - Deadly Depth Inn
-down:
-  - 1 - Ruler
-  - 2 - Organizations in Neverwinter
-  - 3 - Locations in Neverwinter
-RWtopicId: Topic_5
 Type: placeholder
 Region: placeholder
 ---

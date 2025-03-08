@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/som
-aliases: ["Wellspring Surges"]
+tags: []
+aliases:
+  - Wellspring Surges
 ---
 # Wellspring Surges  
 *Source: Secrets of Magic p. 250*  

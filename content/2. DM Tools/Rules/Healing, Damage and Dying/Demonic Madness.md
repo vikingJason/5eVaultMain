@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### Demonic Madness
 
 A Calm Emotions spell can supress the effects of madness. A Greater Restoration spell or more powerful magic is required to rid a character of indefinite madness.  

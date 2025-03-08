@@ -1,6 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Group--Religious
 Type:
   - Religious
   - placeholder
@@ -8,12 +6,8 @@ Alignment: Chaotic Neutral
 Religious-Organization: Religion
 parent:
   - Anauroch Groups
-up:
-  - Anauroch Groups
-next:
-  - The Black Shadow Band
-RWtopicId: Topic_737
 Region: placeholder
+tags: []
 ---
 # Church of Shaundakul
 ## Overview

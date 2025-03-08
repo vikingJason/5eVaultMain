@@ -1,21 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Watch Posts
-  - G2
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Goldenfields
-up:
-  - Goldenfields
-prev:
-  - G1 - Gatehouse
-next:
-  - G3 - Earth Mother's Bounty
-RWtopicId: Topic_324
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # G2 - Watch Posts
 ## Overview

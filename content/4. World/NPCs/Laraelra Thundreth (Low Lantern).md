@@ -1,26 +1,13 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Laraelra Thundreth
-Tags: Category/Individual Suffix/Low-Lantern
 Alignment: Neutral
 Challenge: CR 1
 Race: Human
-Gender: Female
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
-Appearance-Traits: Beautiful
-Social-Traits: Impartial
 parent:
   - The Low Lantern (Festhall)
-up:
-  - The Low Lantern (Festhall)
-RWtopicId: Topic_655
-Subsidiary:
-  - - The Low Lantern (Festhall)
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Laraelra Thundreth (Low Lantern)
 ## Overview

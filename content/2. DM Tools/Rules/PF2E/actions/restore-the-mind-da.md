@@ -1,16 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/da
-- trait/emotion
-- trait/enchantment
-- trait/healing
-- trait/mental
-- trait/psyche
-- trait/psychic
-aliases: ["Restore The Mind"]
+aliases:
+  - Restore The Mind
+tags: []
 ---
 # Restore The Mind [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [enchantment](rules/traits/enchantment.md "Enchantment School Trait")  [healing](rules/traits/healing.md "Healing Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  

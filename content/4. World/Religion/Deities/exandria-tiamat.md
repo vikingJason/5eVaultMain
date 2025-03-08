@@ -1,14 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/egw
-  - deity/exandria
-  - domain/order
-  - domain/trickery
-  - domain/war
-aliases:
-  - Tiamat
+{}
 ---
 # Tiamat
 *Source: Explorer's Guide to Wildemount p. 28* 

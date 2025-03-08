@@ -1,26 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Settlement
-parent:
-  - 1 - World Above
-up:
-  - 1 - World Above
-prev:
-  - Thornhold
-next:
-  - Triboar
-down:
-  - Stonehill Inn
-  - Barthen's Provisions
-  - Edermath Orchard
-  - Lionshield Coster
-  - Phandalin Miner's Exchange
-  - Alderleaf Farm
-  - Shrine of Luck
-  - The Sleeping Giant
-  - Townmaster's Hall
-  - Tresendsar Manor
-RWtopicId: Topic_52
 Type: placeholder
 Region: placeholder
 ---

@@ -1,3 +1,6 @@
+---
+tags: []
+---
 Here are some unique Feywild-themed loot ideas your players could find after the encounter, blending the mystical nature of the Feywild with practical utility:
 
 ### **1. Quickling's Step (Boots)**

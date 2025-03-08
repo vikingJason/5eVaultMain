@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/som
-aliases: ["chapter-5-book-of-unlimited-magic"]
+tags: []
+aliases:
+  - chapter-5-book-of-unlimited-magic
 ---
 # Chapter 5: Book of Unlimited Magic
 <sup>SoM p. 193</sup>

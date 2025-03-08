@@ -1,22 +1,9 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - High Hall
-  - The Duchal Palace
-Tags: Category/Location Suffix/The-Ducal-Palace
 Type:
   - Building
   - placeholder
-parent:
-  - I - Upper City
-up:
-  - I - Upper City
-prev:
-  - Ragefast
-next:
-  - The Wide (Open Marketplace)
-RWtopicId: Topic_697
 Region: placeholder
+tags: []
 ---
 # High Hall (The Ducal Palace)
 ## Overview

@@ -1,18 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
 Type:
   - Area
   - placeholder
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - Dark Alley
-next:
-  - Hunters Alley
-RWtopicId: Topic_162
 Region: placeholder
 ---
 # Deloun Alley

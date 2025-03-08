@@ -3,6 +3,7 @@ obsidianUIMode: preview
 cssclass: json5e-note
 aliases:
   - Gems
+tags: []
 ---
 # Gems
 

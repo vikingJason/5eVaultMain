@@ -1,12 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/aoa4
-- trait/downtime
-- trait/secret
-aliases: ["Seek the Hidden Forge"]
+aliases:
+  - Seek the Hidden Forge
+tags: []
 ---
 # Seek the Hidden Forge
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

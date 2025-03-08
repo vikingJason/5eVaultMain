@@ -1,14 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/frp2
-- trait/complex
-- trait/fire
-- trait/magical
-- trait/rare
-- trait/trap
-aliases: ["Floating Flamethrower"]
+tags: []
+aliases:
+  - Floating Flamethrower
 ---
 # Floating Flamethrower *Hazard 16*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

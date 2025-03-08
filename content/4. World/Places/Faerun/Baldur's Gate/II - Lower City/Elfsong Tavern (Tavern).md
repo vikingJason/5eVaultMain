@@ -1,22 +1,8 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Elfsong Tavern
-Tags: Category/Merchant Suffix/Tavern
-Goods-Sold: Food and Drink
-Prices: Average
 Quality: Poor
-parent:
-  - II - Lower City
-up:
-  - II - Lower City
-prev:
-  - The Blade and Stars (Inn)
-next:
-  - Gray Harbor
-RWtopicId: Topic_645
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Elfsong Tavern (Tavern)
 ## Overview

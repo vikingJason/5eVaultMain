@@ -1,10 +1,11 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-book
-tags:
-- book-core-gamemastery-guide
-- compendium/src/pf2e/gmg
-aliases: ["Gamemastery Guide"]
+cssclasses:
+  - pf2e
+  - pf2e-book
+tags: []
+aliases:
+  - Gamemastery Guide
 ---
 **[Introduction](rules/gamemastery-guide/introduction.md)**
 

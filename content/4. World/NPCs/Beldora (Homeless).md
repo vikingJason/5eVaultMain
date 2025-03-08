@@ -1,21 +1,12 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Beldora
-Tags: Category/Individual Suffix/Homeless
 Alignment: Neutral
 Race: Human
-Gender: Male
-Age: Adult
 Class: Commoner
 Character-Role: Neutral
 parent:
   - B7 - Marketplace
-up:
-  - B7 - Marketplace
-RWtopicId: Topic_308
-Type: placeholder
 Region: placeholder
+Type: NPC
 ---
 # Beldora (Homeless)
 ## Overview

@@ -1,22 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Kelvin's Comfort
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - B6 - Town Hall
-next:
-  - B9 - Armory
-down:
-  - Sir Baric Nylef
-RWtopicId: Topic_310
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B8 - Kelvin's Comfort
 ## Overview

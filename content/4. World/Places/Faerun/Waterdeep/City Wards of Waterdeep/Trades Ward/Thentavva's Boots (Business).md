@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Thentavva's Boots
-Tags: Category/Merchant Suffix/Business
-Goods-Sold: Clothing
-Services-Sold: Crafting
-parent:
-  - Trades Ward
-up:
-  - Trades Ward
-prev:
-  - Costumer's Hall (Guild Hall)
-next:
-  - Maelstrom's Notch (Inn)
-RWtopicId: Topic_95
 Owner:
   - - Thurve Thentavva
 Type: placeholder

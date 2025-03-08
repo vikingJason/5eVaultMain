@@ -1,14 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Location
 Type:
   - Point of Interest
   - placeholder
-parent:
-  - Thulanthar
-up:
-  - Thulanthar
-RWtopicId: Topic_787
 Region: placeholder
 ---
 # Fane of Shar

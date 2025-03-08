@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/som
-- trait/category/creature-type
-aliases: ["Eidolon"]
+tags: []
+aliases:
+  - Eidolon
 ---
 # Eidolon  
 *Source: Secrets of Magic p. 57*  

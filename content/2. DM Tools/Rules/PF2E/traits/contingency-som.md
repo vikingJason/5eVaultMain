@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/som
-- trait/category/spell
-aliases: ["Contingency"]
+tags: []
+aliases:
+  - Contingency
 ---
 # Contingency  
 *Source: Secrets of Magic p. 252*  

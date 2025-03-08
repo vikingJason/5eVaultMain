@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/aoa4
-aliases: ["Saggorak"]
+tags: []
+aliases:
+  - Saggorak
 ---
 # Saggorak  
 *Source: Age of Ashes #4: Fires of the Haunted City p. 73*  

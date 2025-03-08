@@ -1,13 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/mtf
-  - deity/elven
-  - domain/arcana
-  - domain/knowledge
-aliases:
-  - Alathrien Druanna
+{}
 ---
 # Alathrien Druanna
 *Source: Mordenkainen's Tome of Foes p. 43* 

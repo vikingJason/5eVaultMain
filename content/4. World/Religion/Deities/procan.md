@@ -1,12 +1,6 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/gos
-  - deity/unknown
-  - domain/tempest
-aliases:
-  - Procan
+Domains: Tempest
+Alignment: Chaotic Neutral
 ---
 # Procan
 *Source: Ghosts of Saltmarsh p. 18* 

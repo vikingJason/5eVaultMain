@@ -7,8 +7,7 @@ aliases:
   - Stupified 3
   - Stupified 4
 foundryId: Item.qWxlWsdrAnUANFLI
-tags:
-  - pf2econdition
+tags: []
 effect: Status penalty equal tp **Stupefied** value on INT, WIS, and CHA. **DC 5 + Stupefied** to **Cast A Spell**.
 ---
 ![[gm_stupefied.png|150]]

@@ -1,15 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-affliction
-tags:
-- affliction/curse
-- affliction/level/20
-- compendium/src/pf2e/loil
-- trait/curse
-- trait/death
-- trait/magical
-- trait/necromancy
-aliases: ["Boatman's Toll Curse"]
+aliases:
+  - Boatman's Toll Curse
+tags: []
 ---
 # Boatman's Toll Curse
 *Curse 20*  

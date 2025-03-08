@@ -1,17 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Merchant
-parent:
-  - Bremen
-up:
-  - Bremen
-prev:
-  - Earvin's Treasures
-next:
-  - Knuckleheader
-RWtopicId: Topic_29
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # Five Tavern Center
 ## Overview

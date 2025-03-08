@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe1
-- trait/mechanical
-- trait/trap
-aliases: ["Hidden Chute"]
+tags: []
+aliases:
+  - Hidden Chute
 ---
 # Hidden Chute *Hazard 3*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

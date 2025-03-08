@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Elysia Windwhisper
 Race: Half-Elf
-Gender: Female
 Occupation: Bard and Storyteller
 Alignment: Chaotic Good
 Religion: Sehanine Moonbow
 Condition: Healthy
 Location: The Singing Woods Tavern
 Groups: The Whispering Lyre Performers
-PartyStanding: Friendly
+Type: NPC
 ---
 
 # **Elysia Windwhisper**

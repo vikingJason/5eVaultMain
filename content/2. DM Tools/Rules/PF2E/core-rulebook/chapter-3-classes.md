@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-3-classes"]
+tags: []
+aliases:
+  - chapter-3-classes
 ---
 # Chapter 3: Classes
 <sup>CRB p. 67</sup>

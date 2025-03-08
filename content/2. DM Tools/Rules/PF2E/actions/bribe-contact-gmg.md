@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- compendium/src/pf2e/gmg
-- trait/downtime
-- trait/secret
-aliases: ["Bribe Contact"]
+aliases:
+  - Bribe Contact
+tags: []
 ---
 # Bribe Contact
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

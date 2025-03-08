@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/crb
-- trait/category/item
-aliases: ["Contact"]
+tags: []
+aliases:
+  - Contact
 ---
 # Contact  
 *Source: Core Rulebook p. 550*  

@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/lomm
-- trait/downtime
-- trait/manipulate
-- trait/rare
-aliases: ["Craft Disharmonic Instrument"]
+aliases:
+  - Craft Disharmonic Instrument
+tags: []
 ---
 # Craft Disharmonic Instrument
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  

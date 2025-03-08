@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # **Hiding**
 
 The GM decides when circumstances are appropriate for hiding. Also, the question isn't whether a creature can see you when you are hiding. The question is whether it can see you clearly.

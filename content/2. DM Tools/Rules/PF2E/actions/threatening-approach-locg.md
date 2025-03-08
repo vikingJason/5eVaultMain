@@ -1,10 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/ancestry/lizardfolk-locg
-- compendium/src/pf2e/locg
-aliases: ["Threatening Approach"]
+aliases:
+  - Threatening Approach
+tags: []
 ---
 # Threatening Approach [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 *Source: Lost Omens: Character Guide p. 57*  

@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/som
-- trait/category/item
-aliases: ["Fulu"]
+tags: []
+aliases:
+  - Fulu
 ---
 # Fulu  
 *Source: Secrets of Magic p. 253*  

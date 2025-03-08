@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-2-absalom-and-starstone-isle"]
+tags: []
+aliases:
+  - chapter-2-absalom-and-starstone-isle
 ---
 # Chapter 2: Absalom and Starstone Isle
 <sup>LOWG p. 12</sup>

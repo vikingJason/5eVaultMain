@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoe6
-- trait/complex
-- trait/environmental
-- trait/magical
-aliases: ["Inky Tendrils"]
+tags: []
+aliases:
+  - Inky Tendrils
 ---
 # Inky Tendrils *Hazard 20*  
 [complex](rules/traits/complex.md "Complex Hazard Trait")  [environmental](rules/traits/environmental.md "Environmental Hazard Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  

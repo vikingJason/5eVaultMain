@@ -4,8 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Restrained
 foundryId: Item.U5nzqRmvmKqw2mt2
-tags:
-  - pf2econdition
+tags: []
 effect: You have the **Off-Guard and Immobilized** conditions. Can only use **Escape** action.
 ---
 ![[gm_restrained.png|150]]

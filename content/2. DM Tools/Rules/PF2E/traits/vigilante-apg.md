@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/apg
-- trait/category/feat
-aliases: ["Vigilante"]
+tags: []
+aliases:
+  - Vigilante
 ---
 # Vigilante  
 *Source: Advanced Player's Guide p. 271*  

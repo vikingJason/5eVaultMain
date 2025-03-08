@@ -1,23 +1,7 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - Marketplace
-Tags: Category/Scene
-Scene-Type: Encounter
-"": Military
-parent:
-  - Bryn Shander
-up:
-  - Bryn Shander
-prev:
-  - 2 - Sheriff
-next:
-  - B1 - Outer Gates
-down:
-  - Beldora (Homeless)
-RWtopicId: Topic_186
 Type: placeholder
 Region: placeholder
+tags: []
 ---
 # B7 - Marketplace
 ## Overview

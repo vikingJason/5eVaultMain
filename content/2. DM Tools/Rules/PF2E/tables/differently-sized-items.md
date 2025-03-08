@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/crb
-aliases: ["Differently Sized Items"]
+tags: []
+aliases:
+  - Differently Sized Items
 ---
 # Differently Sized Items  
 *Source: Core Rulebook p. 295*  

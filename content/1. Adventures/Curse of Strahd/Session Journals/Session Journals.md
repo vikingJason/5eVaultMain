@@ -1,3 +1,6 @@
+---
+tags: []
+---
 # Sessions Journals
 
 <br>

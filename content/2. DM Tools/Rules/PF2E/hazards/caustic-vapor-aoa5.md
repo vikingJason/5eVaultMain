@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/aoa5
-- trait/mechanical
-- trait/trap
-aliases: ["Caustic Vapor"]
+tags: []
+aliases:
+  - Caustic Vapor
 ---
 # Caustic Vapor *Hazard 17*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

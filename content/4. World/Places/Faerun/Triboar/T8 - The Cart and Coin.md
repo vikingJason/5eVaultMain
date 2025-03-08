@@ -1,19 +1,4 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Aliases:
-  - The Cart and Coin
-  - T8
-Tags: Category/Scene
-Scene-Type: Encounter
-parent:
-  - Triboar
-up:
-  - Triboar
-prev:
-  - T7 - Ransor's Open Road
-next:
-  - T9 - The Triboar Travelers
-RWtopicId: Topic_366
 Type: placeholder
 Region: placeholder
 ---

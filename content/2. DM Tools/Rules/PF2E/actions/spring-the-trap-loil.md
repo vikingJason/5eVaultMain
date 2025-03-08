@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/class/gunslinger-g-g
-- compendium/src/pf2e/loil
-- trait/gunslinger
-aliases: ["Spring the Trap"]
+aliases:
+  - Spring the Trap
+tags: []
 ---
 # Spring the Trap [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

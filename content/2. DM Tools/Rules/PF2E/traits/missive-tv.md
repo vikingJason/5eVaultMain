@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/tv
-- trait/category/item
-aliases: ["Missive"]
+tags: []
+aliases:
+  - Missive
 ---
 # Missive  
 *Source: Treasure Vault p. 220*  

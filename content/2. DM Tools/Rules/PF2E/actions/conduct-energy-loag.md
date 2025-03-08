@@ -1,11 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/item
-- compendium/src/pf2e/loag
-- trait/energy
-aliases: ["Conduct Energy"]
+aliases:
+  - Conduct Energy
+tags: []
 ---
 # Conduct Energy [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [energy](rules/traits/energy-loag.md "Energy Energy & Element Trait")  

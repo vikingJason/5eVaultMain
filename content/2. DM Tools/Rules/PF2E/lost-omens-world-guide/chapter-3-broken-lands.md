@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/lowg
-aliases: ["chapter-3-broken-lands"]
+tags: []
+aliases:
+  - chapter-3-broken-lands
 ---
 # Chapter 3: Broken Lands
 <sup>LOWG p. 24</sup>

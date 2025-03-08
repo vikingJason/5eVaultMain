@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/gmg
-- trait/haunt
-aliases: ["Ghostly Choir"]
+tags: []
+aliases:
+  - Ghostly Choir
 ---
 # Ghostly Choir *Hazard 6*  
 [haunt](rules/traits/haunt.md "Haunt Hazard Trait")  

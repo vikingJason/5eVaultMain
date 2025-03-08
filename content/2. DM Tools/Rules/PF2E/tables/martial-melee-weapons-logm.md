@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-note
-tags:
-- compendium/src/pf2e/logm
-aliases: ["Martial Melee Weapons"]
+tags: []
+aliases:
+  - Martial Melee Weapons
 ---
 # Martial Melee Weapons  
 *Source: Lost Omens: Gods & Magic p. 120*  

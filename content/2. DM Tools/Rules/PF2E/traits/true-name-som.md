@@ -1,10 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-trait
-tags:
-- compendium/src/pf2e/som
-- trait/category/general
-aliases: ["True Name"]
+tags: []
+aliases:
+  - True Name
 ---
 # True Name  
 *Source: Secrets of Magic p. 244*  

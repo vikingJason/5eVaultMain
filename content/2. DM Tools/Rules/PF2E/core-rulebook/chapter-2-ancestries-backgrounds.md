@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/crb
-aliases: ["chapter-2-ancestries-backgrounds"]
+tags: []
+aliases:
+  - chapter-2-ancestries-backgrounds
 ---
 # Chapter 2: Ancestries & Backgrounds
 <sup>CRB p. 32</sup>

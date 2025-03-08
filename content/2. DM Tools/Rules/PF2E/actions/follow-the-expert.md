@@ -1,14 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action/basic
-- compendium/src/pf2e/crb
-- trait/auditory
-- trait/concentrate
-- trait/exploration
-- trait/visual
-aliases: ["Follow the Expert"]
+aliases:
+  - Follow the Expert
+tags: []
 ---
 # Follow the Expert (basic)
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  

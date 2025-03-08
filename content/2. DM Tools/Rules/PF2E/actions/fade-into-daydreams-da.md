@@ -1,13 +1,7 @@
 ---
-obsidianUIMode: preview
-cssclasses: pf2e,pf2e-action
-tags:
-- action
-- compendium/src/pf2e/da
-- trait/illusion
-- trait/psyche
-- trait/psychic
-aliases: ["Fade Into Daydreams"]
+aliases:
+  - Fade Into Daydreams
+tags: []
 ---
 # Fade Into Daydreams [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [illusion](rules/traits/illusion.md "Illusion School Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  

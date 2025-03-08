@@ -1,12 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-ability
-tags:
-- trait/concentrate
-- trait/magical-tradition
-- trait/polymorph
-- trait/transmutation
-aliases: ["Change Shape"]
+tags: []
+aliases:
+  - Change Shape
 ---
 # Change Shape [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [[magical tradition]](rules/traits/magical-tradition-b1.md "Any Magical Tradition Tradition Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [polymorph](rules/traits/polymorph.md "Polymorph Effect Trait")  [transmutation](rules/traits/transmutation.md "Transmutation School Trait")  

@@ -1,16 +1,5 @@
 ---
-obsidianUIMode: preview
-cssclass: json5e-deity
-tags:
-  - compendium/src/scag
-  - deity/faerunian
-  - domain/knowledge
-  - domain/death
-aliases:
-  - Jergal
-  - The Final Scribe
-  - The Pitiless One
-  - The Bleak Seneschal
+{}
 ---
 # Jergal
 *Source: Sword Coast Adventurer's Guide p. 21* 

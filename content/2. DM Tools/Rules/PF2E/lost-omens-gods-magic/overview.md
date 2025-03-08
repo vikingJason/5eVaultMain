@@ -1,9 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-book
-tags:
-- compendium/src/pf2e/logm
-aliases: ["overview"]
+tags: []
+aliases:
+  - overview
 ---
 # Overview
 <sup>LOGM p. 6</sup>

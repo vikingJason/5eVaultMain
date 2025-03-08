@@ -1,15 +1,12 @@
 ---
-Role: NPC
-Name: Calarel Qizumin
 Race: Elf
-Gender: Female
 Occupation: Royal Archivist
 Alignment: Lawful Neutral
 Religion: Corellon Larethian (Elven deity)
 Condition: Alive
 Location: Glitterfall
 Groups: The Royal Court of Glitterfall
-PartyStanding: Neutral
+Type: NPC
 ---
 
 # **Calarel Qizumin**

@@ -1,11 +1,9 @@
 ---
 obsidianUIMode: preview
 cssclasses: pf2e,pf2e-hazard
-tags:
-- compendium/src/pf2e/ooa1
-- trait/mechanical
-- trait/trap
-aliases: ["Precarious Thunderstone Trap"]
+tags: []
+aliases:
+  - Precarious Thunderstone Trap
 ---
 # Precarious Thunderstone Trap *Hazard 1*  
 [mechanical](rules/traits/mechanical.md "Mechanical Hazard Trait")  [trap](rules/traits/trap.md "Trap Hazard Trait")  

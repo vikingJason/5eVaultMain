@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ## Full Card and Effects List
 
 **The Abjurer**: _"A magical sheild of protection surrounds those proficient in spellcasting."_ All spellcasters gain +2 to AC.

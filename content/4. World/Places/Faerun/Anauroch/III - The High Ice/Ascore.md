@@ -1,24 +1,13 @@
 ---
-ImportedOn: Sunday, 2 January 2022 11:52:34 AM
-Tags: Category/Adventure-Area
 Type:
   - Dungeon
   - placeholder
-parent:
-  - III - The High Ice
-up:
-  - III - The High Ice
-prev:
-  - The Frozen Sea
-next:
-  - Hlaungadath
-RWtopicId: Topic_723
 Region: placeholder
 ---
 # Ascore
 ## Overview
 **Type**: Dungeon, Installation, Ruin
-#Adventure-Area/Dungeon #Adventure-Area/Installation #Adventure-Area/Ruin
+
 
 In FR5/The Savage Frontier; mention is made of evil-haunted Ascore, once a port (of the dwarven nation of Delzoun, itself little more than a memory) on this now-vanished sea. The half-buried hulks of colossal dwarven stone ships rise out of the sands east of Ascores abandoned docks.
 
@@ -27,5 +16,5 @@ Even orcs avoid the ruined city. Intrepid adventurers report that hags command l
 
 ---
 ## Tags
-#Import/Forgotten-Realms-Atlas
+
 

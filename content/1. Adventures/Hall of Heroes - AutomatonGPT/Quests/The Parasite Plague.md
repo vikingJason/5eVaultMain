@@ -1,3 +1,6 @@
+---
+tags: []
+---
 ### **Side Quest: The Parasite Plague**
 
 **Level**: 5  
