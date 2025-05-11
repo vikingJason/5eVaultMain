@@ -1,7 +1,6 @@
 ---
 aliases:
   - Long Jump
-tags: []
 ---
 # Long Jump (basic) [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 *Source: Core Rulebook p. 242*  

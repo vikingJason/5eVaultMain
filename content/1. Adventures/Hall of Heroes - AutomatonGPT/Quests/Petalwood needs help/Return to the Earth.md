@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 
 - Report from the blacksmith of ore used to make tools and spare parts etc that are being stolen when delivered to farms and logging camps etc are being intercepted along their way. Help escort the delivery of some tools/spare parts to fix the constructs just outside town.

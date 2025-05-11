@@ -6,7 +6,6 @@ aliases:
 author: Zach Best
 type:
   - Table
-tags: []
 ---
 A `dice:[[npcpersonality#^26fb6c]]|Modifier`  `dice:[[npcpersonality#^26fb6c]]|Noun` with `dice:[[npcpersonality#^26fb6c]]|Motivation Verb` `dice:[[npcpersonality#^26fb6c]]|Motivation Noun` and `dice:[[npcpersonality#^26fb6c]]|Motivation Verb` `dice:[[npcpersonality#^26fb6c]]|Motivation Noun`  as their motivation.
 

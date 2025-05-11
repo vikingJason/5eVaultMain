@@ -1,7 +1,6 @@
 ---
 aliases:
   - Malaria
-tags: []
 ---
 # Malaria
 *Disease 2*  

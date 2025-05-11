@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 # Grappled
 
@@ -7,4 +7,4 @@ The condition also ends if an effect removes the grappled creature from the reac
 
 A grappled creature’s speed becomes 0, and it can't benefit from any bonus to its speed.
 
-The condition ends if the grappler is [[Incapacitated]].
+The condition ends if the grappler is [[content/2. DM Tools/Rules/Conditions/Incapacitated]].

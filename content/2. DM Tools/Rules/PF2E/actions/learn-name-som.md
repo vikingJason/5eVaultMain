@@ -1,7 +1,6 @@
 ---
 aliases:
   - Learn Name
-tags: []
 ---
 # Learn Name
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

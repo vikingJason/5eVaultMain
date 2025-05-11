@@ -1,7 +1,6 @@
 ---
 aliases:
   - Disable a Device
-tags: []
 ---
 # Disable a Device (basic) [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

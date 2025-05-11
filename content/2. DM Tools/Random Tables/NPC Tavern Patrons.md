@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ##### Tavern Patrons
 | d100 | Results                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

@@ -1,7 +1,6 @@
 ---
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # B10 - Blackiron Blades
 ## Overview

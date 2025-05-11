@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Assassin's Blood (Ingested)
 

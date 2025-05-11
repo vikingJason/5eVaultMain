@@ -1,3 +1,6 @@
+---
+{}
+---
 Drinking
 ### Intoxication Threshold
 You have an intoxication threshold that is equal to your 1 + your Constitution modifier (Minimum of 1). Once a player reaches this threshold they are granted "Liquid Courage".

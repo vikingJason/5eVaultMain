@@ -1,7 +1,6 @@
 ---
 aliases:
   - Curse of the Werecreature
-tags: []
 ---
 # Curse of the Werecreature
 *Curse 1*  

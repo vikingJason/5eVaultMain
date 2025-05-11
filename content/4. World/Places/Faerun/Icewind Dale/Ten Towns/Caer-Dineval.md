@@ -1,7 +1,6 @@
 ---
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Caer-Dineval
 ## Overview

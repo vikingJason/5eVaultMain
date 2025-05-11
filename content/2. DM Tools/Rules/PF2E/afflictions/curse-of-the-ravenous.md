@@ -1,7 +1,6 @@
 ---
 aliases:
   - Curse of the Ravenous
-tags: []
 ---
 # Curse of the Ravenous
 *Curse 5*  

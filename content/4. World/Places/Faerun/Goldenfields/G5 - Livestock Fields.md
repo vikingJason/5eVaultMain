@@ -1,7 +1,6 @@
 ---
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # G5 - Livestock Fields
 ## Overview

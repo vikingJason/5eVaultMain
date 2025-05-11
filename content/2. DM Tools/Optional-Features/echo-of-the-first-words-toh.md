@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
-tags: []
 aliases:
   - Echo of the First Words
 ---

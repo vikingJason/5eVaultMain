@@ -1,7 +1,6 @@
 ---
 aliases:
   - Take Control
-tags: []
 ---
 # Take Control [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

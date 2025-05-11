@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
-tags: []
 aliases:
   - 1372 Roadside Encounter Ideas
 ---

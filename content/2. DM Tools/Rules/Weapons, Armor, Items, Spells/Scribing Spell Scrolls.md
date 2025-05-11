@@ -1,7 +1,4 @@
 ---
-created: 2025-02-24T07:32:45 (UTC +11:00)
-tags: []
-source: https://www.dndbeyond.com/sources/dnd/phb-2024/equipment#ScribingSpellScrolls
 author: 
 ---
 

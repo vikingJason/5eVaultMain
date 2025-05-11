@@ -1,7 +1,6 @@
 ---
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # B13 - The Northlook
 ## Overview

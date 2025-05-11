@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rage of The Excommunicant
-tags: []
 ---
 # Rage of The Excommunicant
 *Curse 10*  

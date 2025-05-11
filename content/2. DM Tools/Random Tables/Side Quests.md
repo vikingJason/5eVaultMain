@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ##### Quests
 | Value | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

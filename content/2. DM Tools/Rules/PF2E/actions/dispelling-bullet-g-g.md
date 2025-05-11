@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dispelling Bullet
-tags: []
 ---
 # Dispelling Bullet [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellshot](rules/traits/spellshot-g-g.md "Spellshot Class Trait")  

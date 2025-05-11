@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bone Chill
-tags: []
 ---
 # Bone Chill
 *Disease 5*  

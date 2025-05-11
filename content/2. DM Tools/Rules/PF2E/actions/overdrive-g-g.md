@@ -1,7 +1,6 @@
 ---
 aliases:
   - Overdrive
-tags: []
 ---
 # Overdrive [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

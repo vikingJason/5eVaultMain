@@ -1,3 +1,6 @@
+---
+{}
+---
 # Materials
 
 The materials your gear is made from determine its effectiveness, durability, ease of repair, and aesthetic. The following are some of the materials that your gear may be made from. 

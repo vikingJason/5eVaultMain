@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
-tags: []
 aliases:
   - Chains from Hell (8 Ferocity)
 ---

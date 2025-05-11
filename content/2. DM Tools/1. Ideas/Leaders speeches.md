@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 **1. King Arion of the Golden Sun**
 

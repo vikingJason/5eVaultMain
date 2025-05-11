@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dysentery
-tags: []
 ---
 # Dysentery
 *Disease 4*  

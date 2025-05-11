@@ -1,7 +1,6 @@
 ---
 aliases:
   - Barbed Quills
-tags: []
 ---
 # Barbed Quills [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Lost Omens: The Mwangi Expanse p. 123*  

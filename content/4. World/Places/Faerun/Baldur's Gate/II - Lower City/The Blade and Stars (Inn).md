@@ -2,7 +2,6 @@
 Quality: Comfortable
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # The Blade and Stars (Inn)
 ## Overview

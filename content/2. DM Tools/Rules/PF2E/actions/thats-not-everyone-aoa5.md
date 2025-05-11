@@ -1,7 +1,6 @@
 ---
 aliases:
   - That's Not Everyone
-tags: []
 ---
 # That's Not Everyone
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

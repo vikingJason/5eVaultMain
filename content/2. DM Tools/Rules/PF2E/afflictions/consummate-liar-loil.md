@@ -1,7 +1,6 @@
 ---
 aliases:
   - Consummate Liar
-tags: []
 ---
 # Consummate Liar
 *Curse 14*  

@@ -2,7 +2,6 @@
 Quality: Average
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # The Splurging Sturgeon (Tavern)
 ## Overview

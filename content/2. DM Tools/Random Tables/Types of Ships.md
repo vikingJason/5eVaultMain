@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 # Types of Ships
 

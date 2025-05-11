@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-hazard
-tags: []
 aliases:
   - Freezing Floor Tiles
 ---

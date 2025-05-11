@@ -1,7 +1,6 @@
 ---
 aliases:
   - Clue In
-tags: []
 ---
 # Clue In [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  

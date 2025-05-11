@@ -1,7 +1,6 @@
 ---
 aliases:
   - Arrest a Fall
-tags: []
 ---
 # Arrest a Fall (basic) [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Core Rulebook p. 472*  

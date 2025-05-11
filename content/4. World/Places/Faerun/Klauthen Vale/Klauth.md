@@ -3,7 +3,6 @@ Type:
   - Dragon
   - placeholder
 Region: placeholder
-tags: []
 ---
 # Klauth
 ## Overview

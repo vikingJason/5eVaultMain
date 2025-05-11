@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thief's Retribution
-tags: []
 ---
 # Thief's Retribution
 *Curse 19*  

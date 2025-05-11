@@ -1,7 +1,6 @@
 ---
 aliases:
   - Diviner on Duty
-tags: []
 ---
 # Diviner on Duty
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

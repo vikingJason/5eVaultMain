@@ -1,6 +1,5 @@
 ---
 Race: Human
-Age: Adult
 Class: Commoner
 Member:
   - - III - Parliament of Peers

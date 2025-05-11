@@ -2,7 +2,6 @@
 Quality: Average
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # The Wide (Open Marketplace)
 ## Overview

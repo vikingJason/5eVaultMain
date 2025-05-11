@@ -1,4 +1,4 @@
 ---
-tags: []
+{}
 ---
 Automaton Scribe

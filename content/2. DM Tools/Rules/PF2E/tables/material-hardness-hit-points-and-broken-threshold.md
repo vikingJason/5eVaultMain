@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-note
-tags: []
 aliases:
   - Material Hardness, Hit Points, and Broken Threshold
 ---

@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
-tags: []
 aliases:
   - The Grand Masquerade; Grand Masquerade Objectives
 ---

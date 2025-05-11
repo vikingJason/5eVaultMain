@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Hunger Rules
 ### Appetite
 Your **appetite** represents how much food you need to eat to satisfy your hunger in a single sitting, and it's determined by your muscularity, mass, size, and environment.

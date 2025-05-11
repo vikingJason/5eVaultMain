@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-reward
-tags: []
 aliases:
   - Keep or Small Castle
 ---

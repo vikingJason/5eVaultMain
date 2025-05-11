@@ -1,7 +1,6 @@
 ---
 aliases:
   - Avert Gaze
-tags: []
 ---
 # Avert Gaze (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Core Rulebook p. 472*  

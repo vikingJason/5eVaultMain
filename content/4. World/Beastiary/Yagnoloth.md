@@ -5,7 +5,6 @@ Size: Large
 Type: Fiend
 parent:
   - Yugoloths
-tags: []
 ---
 # Yagnoloth
 ## Overview

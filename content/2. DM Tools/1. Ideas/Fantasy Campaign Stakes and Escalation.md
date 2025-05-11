@@ -1,4 +1,4 @@
 ---
-tags: []
+{}
 ---
 https://gnomestew.com/fantasy-campaign-stakes-and-escalation/

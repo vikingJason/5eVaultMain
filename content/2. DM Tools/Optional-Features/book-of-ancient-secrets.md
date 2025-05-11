@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
-tags: []
 aliases:
   - Book of Ancient Secrets
 ---

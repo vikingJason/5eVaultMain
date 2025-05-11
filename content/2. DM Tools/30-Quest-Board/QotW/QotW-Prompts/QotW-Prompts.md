@@ -1,9 +1,7 @@
 ---
 attribution: Craftidore
-creation: 2023-07-07
 modified: 2023-07-07
 type: folder
-tags: []
 ---
 
 # Quest of the Week Prompts (updated weekly)

@@ -1,22 +1,12 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-Tags: Category/Region--Political
 Political-Region: Nation
 Alignment: Chaotic Evil
 parent:
   - Region_ Political
-up:
-  - Region_ Political
-prev:
-  - Template - Region_ Geographical
-next:
-  - Template - Region_ Area
-RWtopicId: Topic_26
 Region: Glitterfall
 Type: placeholder
 Ruler: placeholder
 Factions: placeholder
-tags: []
 ---
 # Scrantonia
 ## Overview

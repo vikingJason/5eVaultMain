@@ -1,7 +1,6 @@
 ---
 aliases:
   - Recall Ammunition
-tags: []
 ---
 # Recall Ammunition [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [conjuration](rules/traits/conjuration.md "Conjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellshot](rules/traits/spellshot-g-g.md "Spellshot Class Trait")  [teleportation](rules/traits/teleportation.md "Teleportation Effect Trait")  

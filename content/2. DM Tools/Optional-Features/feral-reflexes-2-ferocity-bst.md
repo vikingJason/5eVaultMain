@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
-tags: []
 aliases:
   - Feral Reflexes (2 Ferocity)
 ---

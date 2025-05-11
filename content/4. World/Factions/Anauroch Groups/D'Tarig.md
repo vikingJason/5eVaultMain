@@ -6,7 +6,6 @@ Alignment: Neutral Evil
 parent:
   - Anauroch Groups
 Region: placeholder
-tags: []
 ---
 # D'Tarig
 

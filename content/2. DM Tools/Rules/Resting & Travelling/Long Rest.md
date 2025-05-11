@@ -1,3 +1,6 @@
+---
+{}
+---
 ### Long Rest
 
 A period of extended downtime **lasting at least eight hours**, during which time **you must either sleep or perform only light activities such as talking, eating, or standing watch**.

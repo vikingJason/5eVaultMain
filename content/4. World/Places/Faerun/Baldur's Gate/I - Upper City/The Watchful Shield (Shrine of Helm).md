@@ -3,7 +3,6 @@ Type:
   - Shrine
   - placeholder
 Region: placeholder
-tags: []
 ---
 # The Watchful Shield (Shrine of Helm)
 ## Overview

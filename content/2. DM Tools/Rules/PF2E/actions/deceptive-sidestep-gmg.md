@@ -1,7 +1,6 @@
 ---
 aliases:
   - Deceptive Sidestep
-tags: []
 ---
 # Deceptive Sidestep [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [misfortune](rules/traits/misfortune.md "Misfortune Effect Trait")  

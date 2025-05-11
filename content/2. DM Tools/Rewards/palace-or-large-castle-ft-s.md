@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-reward
-tags: []
 aliases:
   - Palace or Large Castle
 ---

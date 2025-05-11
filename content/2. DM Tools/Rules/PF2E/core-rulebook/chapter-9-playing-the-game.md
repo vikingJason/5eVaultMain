@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-book
-tags: []
 aliases:
   - chapter-9-playing-the-game
 ---
@@ -184,7 +182,7 @@ Penalties to attack rolls come from situations and effects as well. Circumstance
 #### Multiple Attack Penalty
 <sup>CRB p. 446</sup>
 
-The more attacks you make beyond your first in a single turn, the less accurate you become, represented by the multiple attack penalty. The second time you use an [attack](rules/traits/attack.md "Attack Combat Trait") action during your turn, you take a –5 penalty to your check. The third time you attack, and on any subsequent attacks, you take a –10 penalty to your check. Every check that has the [attack](rules/traits/attack.md "Attack Combat Trait") trait counts toward your multiple attack penalty, including [Strikes](rules/actions/strike.md), spell attack rolls, certain skill actions like [Shove](rules/actions/shove.md), and many others.
+The more attacks you make beyond your first in a single turn, the less accurate you become, represented by the multiple attack penalty. The second time you use an [attack](rules/traits/attack.md "Attack Combat Trait") action during your turn, you take a –5 penalty to your check. The third time you attack, and on any subsequent attacks, you take a –10 penalty to your check. Every check that has the [attack](rules/traits/attack.md "Attack Combat Trait") trait counts toward your multiple attack penalty, including [Strikes](rules/actions/strike.md), spell attack rolls, certain skill actions like [Shove](content/2.%20DM%20Tools/Rules/Rules/Actions/Shove.md), and many others.
 
 Some weapons and abilities reduce multiple attack penalties, such as [agile](rules/traits/agile.md "Agile Weapon Trait") weapons, which reduce these penalties to –4 on the second attack or –8 on further attacks.
 
@@ -506,7 +504,7 @@ Defenses against certain types of damage or effects are called immunities or res
 
 When you have immunity to a specific type of damage, you ignore all damage of that type. If you have immunity to a specific condition or type of effect, you can't be affected by that condition or any effect of that type. If you have immunity to effects with a certain trait (such as death effects, poison, or disease) you are unaffected by any effect with that trait. Often, an effect can be both a trait and a damage type (this is especially true in the case of energy damage types). In these cases, the immunity applies to the entire effect, not just the damage. You can still be targeted by an ability with an effect you are immune to; you just don't apply the effect. However, some complex effects might have parts that affect you even if you're immune to one of the effect's traits; for instance, a spell that deals both fire and acid damage can still deal acid damage to you even if you're immune to fire.
 
-Immunity to critical hits works a little differently. When a creature immune to critical hits is critically hit by a Strike or other attack that deals damage, it takes normal damage instead of double damage. This does not make it immune to any other critical success effects of other actions that have the attack trait (such as [Grapple](rules/actions/grapple.md) and [Shove](rules/actions/shove.md)).
+Immunity to critical hits works a little differently. When a creature immune to critical hits is critically hit by a Strike or other attack that deals damage, it takes normal damage instead of double damage. This does not make it immune to any other critical success effects of other actions that have the attack trait (such as [Grapple](content/2.%20DM%20Tools/Rules/Rules/Actions/Grapple.md) and [Shove](content/2.%20DM%20Tools/Rules/Rules/Actions/Shove.md)).
 
 Another exception is immunity to nonlethal attacks. If you are immune to nonlethal attacks, you are immune to all damage from attacks with the nonlethal trait, no matter what other type the damage has. For instance, a stone golem has immunity to nonlethal attacks. This means that no matter how hard you hit it with your fist, you're not going to damage it—unless your fists don't have the [nonlethal](rules/traits/nonlethal.md "Nonlethal Weapon Trait") trait, such as if you're a monk.
 
@@ -1197,7 +1195,7 @@ With the exception of [invisible](content/2.%20DM%20Tools/Rules/Conditions/Condi
 
 Typically, the GM tracks how well creatures detect each other, since neither party has perfect information. For example, you might think a creature is in the last place you sensed it, but it was able to Sneak away. Or you might think a creature can't see you in the dark, but it has [darkvision](rules/abilities/darkvision.md).
 
-You can attempt to avoid detection by using the [Stealth](compendium/skills.md#Stealth) skill to [Avoid Notice](rules/actions/avoid-notice.md), [Hide](rules/actions/hide.md), or [Sneak](rules/actions/sneak.md), or by using [Deception](compendium/skills.md#Deception) to [Create a Diversion](rules/actions/create-a-diversion.md).
+You can attempt to avoid detection by using the [Stealth](compendium/skills.md#Stealth) skill to [Avoid Notice](rules/actions/avoid-notice.md), [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md), or [Sneak](rules/actions/sneak.md), or by using [Deception](compendium/skills.md#Deception) to [Create a Diversion](rules/actions/create-a-diversion.md).
 
 #### Observed
 <sup>CRB p. 466</sup>
@@ -1522,7 +1520,7 @@ To flank a foe, you and your ally must be on opposites sides or corners of the c
 ### Cover
 <sup>CRB p. 477</sup>
 
-When you're behind an obstacle that could block weapons, guard you against explosions, and make you harder to detect, you're behind cover. Standard cover gives you a +2 circumstance bonus to AC, to Reflex saves against area effects, and to [Stealth](compendium/skills.md#Stealth) checks to [Hide](rules/actions/hide.md), [Sneak](rules/actions/sneak.md), or otherwise avoid detection. You can increase this to greater cover using the [Take Cover](rules/actions/take-cover.md) basic action, increasing the circumstance bonus to +4. If cover is especially light, typically when it's provided by a creature, you have lesser cover, which grants a +1 circumstance bonus to AC. A creature with standard cover or greater cover can attempt to use [Stealth](compendium/skills.md#Stealth) to [Hide](rules/actions/hide.md), but lesser cover isn't sufficient.
+When you're behind an obstacle that could block weapons, guard you against explosions, and make you harder to detect, you're behind cover. Standard cover gives you a +2 circumstance bonus to AC, to Reflex saves against area effects, and to [Stealth](compendium/skills.md#Stealth) checks to [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md), [Sneak](rules/actions/sneak.md), or otherwise avoid detection. You can increase this to greater cover using the [Take Cover](rules/actions/take-cover.md) basic action, increasing the circumstance bonus to +4. If cover is especially light, typically when it's provided by a creature, you have lesser cover, which grants a +1 circumstance bonus to AC. A creature with standard cover or greater cover can attempt to use [Stealth](compendium/skills.md#Stealth) to [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md), but lesser cover isn't sufficient.
 
 | Type of Cover | Bonus | Can Hide |
 |---------------|-------|----------|

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Fling Magic
-tags: []
 ---
 # Fling Magic [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  

@@ -3,7 +3,6 @@ Type:
   - Building
   - placeholder
 Region: placeholder
-tags: []
 ---
 # High Hall (The Ducal Palace)
 ## Overview

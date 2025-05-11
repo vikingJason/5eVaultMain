@@ -1,7 +1,6 @@
 ---
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # G6 - Town
 ## Overview

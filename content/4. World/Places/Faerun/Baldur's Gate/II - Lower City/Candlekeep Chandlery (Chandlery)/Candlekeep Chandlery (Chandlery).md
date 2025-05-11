@@ -2,7 +2,6 @@
 Quality: Comfortable
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Candlekeep Chandlery (Chandlery)
 ## Overview

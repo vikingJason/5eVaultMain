@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-ability
 aliases:
   - Grave Eruption
-tags: []
 ---
 # Grave Eruption [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 

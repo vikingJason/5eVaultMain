@@ -1,7 +1,6 @@
 ---
 aliases:
   - Avoid Notice
-tags: []
 ---
 # Avoid Notice (basic)
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

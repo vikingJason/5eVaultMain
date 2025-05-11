@@ -1,7 +1,6 @@
 ---
 date: 2022-04-16
 title: Random Buildings
-tags: []
 ---
 Source: 
 dungeon Master's Guide 5e

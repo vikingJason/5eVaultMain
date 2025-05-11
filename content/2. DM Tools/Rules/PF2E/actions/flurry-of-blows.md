@@ -1,7 +1,6 @@
 ---
 aliases:
   - Flurry of Blows
-tags: []
 ---
 # Flurry of Blows [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [monk](rules/traits/monk.md "Monk Class Trait")  

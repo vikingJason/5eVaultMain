@@ -7,7 +7,6 @@ settlementName: Ironhold
 wardName: Forgemaster's Quarter
 ownerName: Hrothgar Stonefist
 services: Weapon Crafting, Weapon Repair, Custom Engravings, Metalwork, Weapon Appraisal
-tags: []
 ---
 
 # **The Ironclad Armory**

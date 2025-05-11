@@ -1,7 +1,6 @@
 ---
 aliases:
   - Boastful Prince's Scourge
-tags: []
 ---
 # Boastful Prince's Scourge
 *Curse 7*  

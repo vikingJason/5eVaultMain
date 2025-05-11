@@ -3,7 +3,6 @@ Type:
   - Building
   - placeholder
 Region: placeholder
-tags: []
 ---
 # The Lady's Hall (Temple of Tymora)
 ## Overview

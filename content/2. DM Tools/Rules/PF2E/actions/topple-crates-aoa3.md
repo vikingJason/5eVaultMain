@@ -1,7 +1,6 @@
 ---
 aliases:
   - Topple Crates
-tags: []
 ---
 # Topple Crates
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

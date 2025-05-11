@@ -1,7 +1,6 @@
 ---
 aliases:
   - Locked Doors
-tags: []
 ---
 # Locked Doors
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

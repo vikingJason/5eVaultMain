@@ -1,7 +1,6 @@
 ---
 aliases:
   - Drain Bonded Item
-tags: []
 ---
 # Drain Bonded Item [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [arcane](rules/traits/arcane.md "Arcane Tradition Trait")  [wizard](rules/traits/wizard.md "Wizard Class Trait")  

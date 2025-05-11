@@ -1,7 +1,6 @@
 ---
 aliases:
   - Spellstrike
-tags: []
 ---
 # Spellstrike [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [magus](rules/traits/magus-som.md "Magus Class Trait")  

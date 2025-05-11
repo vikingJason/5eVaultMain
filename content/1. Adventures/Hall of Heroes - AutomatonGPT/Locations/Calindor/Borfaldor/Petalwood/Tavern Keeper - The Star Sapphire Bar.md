@@ -1,5 +1,4 @@
 ---
-cssclass: oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Tavern Keeper
@@ -20,7 +19,6 @@ services:
   - Common Room (Sleeping)( Low   quality, Average  costs)
   - Room (Meeting)( Excellent   quality, Above Average  costs)
 Region: '"[[Borfaldor]]"'
-tags: []
 ---
 
 

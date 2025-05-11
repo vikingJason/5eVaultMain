@@ -1,7 +1,6 @@
 ---
 aliases:
   - Accidental Shot
-tags: []
 ---
 # Accidental Shot [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [fortune](rules/traits/fortune.md "Fortune Effect Trait")  

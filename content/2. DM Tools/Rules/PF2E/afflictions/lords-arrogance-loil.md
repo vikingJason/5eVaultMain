@@ -1,7 +1,6 @@
 ---
 aliases:
   - Lord's Arrogance
-tags: []
 ---
 # Lord's Arrogance
 *Curse 7*  

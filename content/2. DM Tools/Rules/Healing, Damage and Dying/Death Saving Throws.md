@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Death Saving Throws
 

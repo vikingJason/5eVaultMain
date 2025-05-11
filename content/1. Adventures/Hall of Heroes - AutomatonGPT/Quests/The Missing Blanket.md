@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 
 Here’s a fleshed-out version of this touching and whimsical side quest, blending the Feywild's mystical elements with Lullaby’s personal connection to the orphan child.

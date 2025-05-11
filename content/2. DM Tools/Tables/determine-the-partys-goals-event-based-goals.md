@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
-tags: []
 aliases:
   - Determine the Party's Goals; Event-Based Goals
 ---

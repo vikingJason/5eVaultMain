@@ -1,7 +1,6 @@
 ---
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # G7 - Harvesthome Abbey
 ## Overview

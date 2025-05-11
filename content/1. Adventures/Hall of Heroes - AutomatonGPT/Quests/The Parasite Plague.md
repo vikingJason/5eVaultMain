@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### **Side Quest: The Parasite Plague**
 

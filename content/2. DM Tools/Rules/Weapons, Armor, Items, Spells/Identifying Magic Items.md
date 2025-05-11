@@ -1,3 +1,6 @@
+---
+{}
+---
 # Detecting & Identifying Magic Items
 
 Some magic items are indistinguishable from their nonmagical counterparts, while others are conspicuously magical. Handling a magic item is enough to give you a sense that it is extraordinary, but learning a magic item’s properties isn’t automatic.

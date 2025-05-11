@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ##### Store
 | Value | Store                  |

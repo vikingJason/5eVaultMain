@@ -1,7 +1,6 @@
 ---
 aliases:
   - Devise a Stratagem
-tags: []
 ---
 # Devise a Stratagem [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [fortune](rules/traits/fortune.md "Fortune Effect Trait")  [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  

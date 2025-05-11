@@ -1,7 +1,4 @@
 ---
-created: 2025-02-26T05:23:29 (UTC +11:00)
-tags: []
-source: https://www.dandwiki.com/wiki/Labours_(5e_Variant_Rule)
 author: 
 ---
 

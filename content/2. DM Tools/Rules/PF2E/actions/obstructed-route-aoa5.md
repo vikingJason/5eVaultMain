@@ -1,7 +1,6 @@
 ---
 aliases:
   - Obstructed Route
-tags: []
 ---
 # Obstructed Route
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

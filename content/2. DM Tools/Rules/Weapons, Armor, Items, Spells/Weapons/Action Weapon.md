@@ -1,3 +1,6 @@
+---
+{}
+---
 # Action Weapon (5e Variant Rule)
 
 # Weapon Action Rule

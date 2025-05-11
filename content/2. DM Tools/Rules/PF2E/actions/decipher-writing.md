@@ -1,7 +1,6 @@
 ---
 aliases:
   - Decipher Writing
-tags: []
 ---
 # Decipher Writing (basic)
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

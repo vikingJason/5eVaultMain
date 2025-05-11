@@ -2,7 +2,6 @@
 Quality: Average
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Felogyr's Fireworks (Fireworks Shop)
 ## Overview

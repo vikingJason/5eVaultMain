@@ -1,7 +1,4 @@
 ---
-created: 2025-02-22T08:36:07 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/equipmenT/goods-and-services/herbs-oils-other-substances/
 author: 
 ---
 

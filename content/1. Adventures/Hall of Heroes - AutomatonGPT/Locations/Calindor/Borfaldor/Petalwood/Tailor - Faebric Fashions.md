@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Tailor
@@ -15,7 +13,6 @@ ownerName: The Glimmertwists
 apprentices:
   - No apprentices
 services: 
-tags: []
 ---
 
 

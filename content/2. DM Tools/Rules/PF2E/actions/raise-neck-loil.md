@@ -1,7 +1,6 @@
 ---
 aliases:
   - Raise Neck
-tags: []
 ---
 # Raise Neck [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Lost Omens: Impossible Lands p. 48*  

@@ -1,7 +1,4 @@
 ---
-created: 2025-02-22T14:46:31 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/Magic/
 author: 
 ---
 

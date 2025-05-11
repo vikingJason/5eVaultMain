@@ -1,7 +1,6 @@
 ---
 aliases:
   - Seek the Hidden Forge
-tags: []
 ---
 # Seek the Hidden Forge
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

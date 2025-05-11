@@ -1,7 +1,6 @@
 ---
 aliases:
   - Seek the Animals
-tags: []
 ---
 # Seek the Animals
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

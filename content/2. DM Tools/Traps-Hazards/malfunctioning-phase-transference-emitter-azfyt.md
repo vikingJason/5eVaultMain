@@ -1,9 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-hazard
-tags:
-  - compendium/src/5e/azfyt
-  - hazard/cmpx
 aliases:
   - Malfunctioning Phase Transference Emitter
 ---

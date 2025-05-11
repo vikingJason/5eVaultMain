@@ -1,7 +1,6 @@
 ---
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # B11 - The Hooked Knucklehead
 ## Overview

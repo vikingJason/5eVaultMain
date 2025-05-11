@@ -1,9 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-hazard
-tags:
-  - compendium/src/5e/rtg
-  - hazard/smpl
 aliases:
   - Death Fog Trap
 ---

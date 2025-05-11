@@ -1,7 +1,6 @@
 ---
 aliases:
   - Breaking and Entering
-tags: []
 ---
 # Breaking and Entering
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

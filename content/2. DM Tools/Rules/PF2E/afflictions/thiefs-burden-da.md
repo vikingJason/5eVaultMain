@@ -1,7 +1,6 @@
 ---
 aliases:
   - Thief's Burden
-tags: []
 ---
 # Thief's Burden
 *Curse 1*  

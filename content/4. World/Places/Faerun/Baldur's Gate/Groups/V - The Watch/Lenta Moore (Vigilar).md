@@ -1,6 +1,5 @@
 ---
 Race: Human
-Age: Adult
 Class: Commoner
 Type: placeholder
 Region: placeholder

@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### **Quickling Den:**
 

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Recenter
-tags: []
 ---
 # Recenter [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  

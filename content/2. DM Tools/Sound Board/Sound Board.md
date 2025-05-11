@@ -1,3 +1,6 @@
+---
+{}
+---
 # Soundboard
 Some of these sounds require you to have Syrinscape installed and you need to own and have the right sound packs intsalled. 
 

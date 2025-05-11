@@ -1,7 +1,4 @@
 ---
-created: 2025-02-24T07:52:25 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/equipmenT/goods-and-services/books-paper-writing-supplies/
 author: 
 ---
 

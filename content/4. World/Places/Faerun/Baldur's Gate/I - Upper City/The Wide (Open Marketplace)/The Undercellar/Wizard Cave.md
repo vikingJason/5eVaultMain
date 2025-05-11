@@ -3,7 +3,6 @@ Type:
   - Building
   - placeholder
 Region: placeholder
-tags: []
 ---
 # Wizard Cave
 ## Overview

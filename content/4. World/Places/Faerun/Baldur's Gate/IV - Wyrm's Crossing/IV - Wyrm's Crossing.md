@@ -2,7 +2,6 @@
 Urban-Region: Neigborhood
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # IV - Wyrm's Crossing
 ## Overview

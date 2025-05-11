@@ -1,7 +1,6 @@
 ---
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # B14 - Geldenstag's Rest
 ## Overview

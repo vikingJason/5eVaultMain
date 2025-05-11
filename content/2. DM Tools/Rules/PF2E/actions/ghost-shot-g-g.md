@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ghost Shot
-tags: []
 ---
 # Ghost Shot [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [flourish](rules/traits/flourish.md "Flourish Combat Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

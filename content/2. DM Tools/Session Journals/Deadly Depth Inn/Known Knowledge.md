@@ -1,7 +1,4 @@
 ---
-tags:
-  - timeline
-  - SessionJournals
 players: 
 ---
 

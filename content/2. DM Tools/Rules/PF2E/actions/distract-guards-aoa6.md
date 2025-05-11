@@ -1,7 +1,6 @@
 ---
 aliases:
   - Distract Guards
-tags: []
 ---
 # Distract Guards
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [move](rules/traits/move.md "Move Combat Trait")  

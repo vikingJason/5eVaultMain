@@ -1,7 +1,6 @@
 ---
 aliases:
   - Swarming Words
-tags: []
 ---
 # Swarming Words
 *Curse 9*  

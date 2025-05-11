@@ -1,7 +1,6 @@
 ---
 aliases:
   - Scout the Facility
-tags: []
 ---
 # Scout the Facility
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

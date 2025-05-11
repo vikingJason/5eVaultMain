@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wicked Thorns
-tags: []
 ---
 # Wicked Thorns [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Lost Omens: Impossible Lands p. 37*  

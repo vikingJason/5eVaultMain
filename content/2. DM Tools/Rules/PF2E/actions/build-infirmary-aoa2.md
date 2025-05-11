@@ -1,7 +1,6 @@
 ---
 aliases:
   - Build Infirmary
-tags: []
 ---
 # Build Infirmary
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

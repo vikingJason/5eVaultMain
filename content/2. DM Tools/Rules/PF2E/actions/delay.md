@@ -1,7 +1,6 @@
 ---
 aliases:
   - Delay
-tags: []
 ---
 # Delay (basic) [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 *Source: Core Rulebook p. 470*  

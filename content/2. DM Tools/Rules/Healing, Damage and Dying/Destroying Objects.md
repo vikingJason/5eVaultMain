@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ## Destroying Objects
 

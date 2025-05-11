@@ -1,7 +1,6 @@
 ---
 aliases:
   - Boatman's Toll Curse
-tags: []
 ---
 # Boatman's Toll Curse
 *Curse 20*  

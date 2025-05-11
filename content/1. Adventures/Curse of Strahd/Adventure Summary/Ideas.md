@@ -1,6 +1,11 @@
 ---
-tags: []
+{}
 ---
+https://www.strahdreloaded.com/Act+III+-+The+Broken+Land/Arc+O+-+Dinner+with+the+Devil
+https://www.strahdreloaded.com/Act+III+-+The+Broken+Land/Arc+P+-+Ravenloft+Heist
+
+https://www.strahdreloaded.com/Act+IV+-+Secrets+of+the+Ancient/Act+IV+Summary
+
 
 
 ---

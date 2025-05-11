@@ -1,7 +1,6 @@
 ---
 aliases:
   - Impersonate
-tags: []
 ---
 # Impersonate (basic)
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cover Tracks
-tags: []
 ---
 # Cover Tracks (basic)
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dispel a Disguise
-tags: []
 ---
 # Dispel a Disguise
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

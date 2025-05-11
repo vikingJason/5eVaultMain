@@ -1,7 +1,6 @@
 ---
 aliases:
   - Find the Cells
-tags: []
 ---
 # Find the Cells
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

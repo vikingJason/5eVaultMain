@@ -1,9 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses:
-  - pf2e
-  - pf2e-book
-tags: []
 aliases:
   - "Lost Omens: Gods & Magic"
 ---

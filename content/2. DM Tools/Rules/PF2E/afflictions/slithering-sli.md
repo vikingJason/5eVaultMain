@@ -1,7 +1,6 @@
 ---
 aliases:
   - Slithering
-tags: []
 ---
 # Slithering
 *Curse 15*  

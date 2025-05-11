@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ##### Cooking
 | d100 | Result                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |

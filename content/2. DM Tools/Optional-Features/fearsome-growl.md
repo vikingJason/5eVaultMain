@@ -1,8 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses:
-  - json5e-feat
-tags: []
 ---
 # Bonus Action: Fearsome Growl
 *Source: Flee, Mortals! p. 36*  

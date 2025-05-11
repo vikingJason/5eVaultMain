@@ -1,3 +1,6 @@
+---
+{}
+---
 ### Short Rest
 
 A period of downtime lasting **at least one hour**, during which time you can do nothing more strenuous than eating, drinking, reading, or tending to wounds.

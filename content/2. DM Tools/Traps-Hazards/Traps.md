@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Traps
 
 ### Trap Trigger

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Debilitating Strike
-tags: []
 ---
 # Debilitating Strike [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [rogue](rules/traits/rogue.md "Rogue Class Trait")  

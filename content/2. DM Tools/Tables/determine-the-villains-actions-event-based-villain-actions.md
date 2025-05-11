@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
-tags: []
 aliases:
   - Determine the Villain's Actions; Event-Based Villain Actions
 ---

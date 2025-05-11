@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Improvised Weapons
 

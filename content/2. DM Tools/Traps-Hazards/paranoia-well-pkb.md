@@ -1,9 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-hazard
-tags:
-  - compendium/src/5e/pkb
-  - hazard/mag
 aliases:
   - Paranoia Well
 ---

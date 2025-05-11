@@ -1,7 +1,6 @@
 ---
 aliases:
   - Implement's Interruption
-tags: []
 ---
 # Implement's Interruption [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  

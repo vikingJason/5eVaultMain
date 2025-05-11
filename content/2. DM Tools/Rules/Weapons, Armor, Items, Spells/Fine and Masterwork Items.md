@@ -1,3 +1,6 @@
+---
+{}
+---
 # Fine and Masterwork
 
 Some weapons and armor are crafted with extreme skill, often as the crowning accomplishment of a craftsperson’s life. These pieces are visually distinctive and cost more than similar items of lower quality.

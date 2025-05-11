@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-book
-tags: []
 aliases:
   - chapter-5-golden-road
 ---

@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-book
-tags: []
 aliases:
   - chapter-4-skills
 ---
@@ -423,7 +421,7 @@ You must be trained in [Arcana](compendium/skills.md#Arcana) to use it for the f
 > 
 > **Legendary** stone or iron door
 
-![Grapple](rules/actions/grapple.md)
+![Grapple](content/2.%20DM%20Tools/Rules/Rules/Actions/Grapple.md)
 
 ![High Jump](rules/actions/high-jump.md)
 
@@ -433,11 +431,11 @@ You must be trained in [Arcana](compendium/skills.md#Arcana) to use it for the f
 
 ![Long Jump](rules/actions/long-jump.md)
 
-![Shove](rules/actions/shove.md)
+![Shove](content/2.%20DM%20Tools/Rules/Rules/Actions/Shove.md)
 
 > [!pf2-example] Forced Movement
 > 
-> The [Shove](rules/actions/shove.md) action can force a creature to move. When an effect forces you to move, or if you start falling, the distance you move is defined by the effect that moved you, not by your Speed. Because you're not acting to move, this doesn't trigger reactions triggered by movement.
+> The [Shove](content/2.%20DM%20Tools/Rules/Rules/Actions/Shove.md) action can force a creature to move. When an effect forces you to move, or if you start falling, the distance you move is defined by the effect that moved you, not by your Speed. Because you're not acting to move, this doesn't trigger reactions triggered by movement.
 
 ![Swim](rules/actions/swim.md)
 
@@ -780,12 +778,12 @@ You are skilled at avoiding detection, allowing you to slip past foes, hide, or 
 
 > [!pf2-brown] Being Stealthy
 > 
-> If you want to sneak around when there are creatures that can see you, you can use a combination of [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md) to do so.
+> If you want to sneak around when there are creatures that can see you, you can use a combination of [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md) and [Sneak](rules/actions/sneak.md) to do so.
 > 
-> - First, [Hide](rules/actions/hide.md) behind something (either by taking advantage of cover or having the [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) condition due to fog, a spell, or a similar effect). A successful [Stealth](compendium/skills.md#Stealth) check makes you hidden, though the creatures still know roughly where you are.
+> - First, [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md) behind something (either by taking advantage of cover or having the [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) condition due to fog, a spell, or a similar effect). A successful [Stealth](compendium/skills.md#Stealth) check makes you hidden, though the creatures still know roughly where you are.
 > - Second, now that you're hidden, you can [Sneak](rules/actions/sneak.md). That means you can move at half your Speed and attempt another [Stealth](compendium/skills.md#Stealth) check. If it's successful, you're now [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected). That means the creatures don't know which square you're in anymore.
 > 
-> If you were approaching creatures that didn't know you were there, you could begin [Sneaking](rules/actions/sneak.md) right away, since they didn't know your location to start with. Some actions can cause you to become [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed) again, but they're mostly what you'd expect: standing out in the open, attacking someone, making a bunch of noise, and so forth. If you [Strike](rules/actions/strike.md) someone after successfully [Hiding](rules/actions/hide.md) or [Sneaking](rules/actions/sneak.md), though, they're [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to that [Strike](rules/actions/strike.md).
+> If you were approaching creatures that didn't know you were there, you could begin [Sneaking](rules/actions/sneak.md) right away, since they didn't know your location to start with. Some actions can cause you to become [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed) again, but they're mostly what you'd expect: standing out in the open, attacking someone, making a bunch of noise, and so forth. If you [Strike](rules/actions/strike.md) someone after successfully [Hiding](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md) or [Sneaking](rules/actions/sneak.md), though, they're [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to that [Strike](rules/actions/strike.md).
 > 
 > Creatures can try to find you using the [Seek](rules/actions/seek.md) action , described on page 471.
 > 
@@ -806,7 +804,7 @@ You are skilled at avoiding detection, allowing you to slip past foes, hide, or 
 > 
 > The creature doesn't know your location.
 
-![Hide](rules/actions/hide.md)
+![Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md)
 
 ### Survival (Wis)
 <sup>CRB p. 252</sup>

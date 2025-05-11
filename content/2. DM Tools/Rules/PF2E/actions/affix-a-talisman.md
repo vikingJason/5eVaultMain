@@ -1,7 +1,6 @@
 ---
 aliases:
   - Affix a Talisman
-tags: []
 ---
 # Affix a Talisman (basic)
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

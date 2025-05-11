@@ -19,13 +19,11 @@ light: 1
 rain: 1
 size: -3
 spyglass: false
-darkvision: false
 metric: 1
 invisibility: false
 penalties: 1
 penaltyFactor: 3.3333333333333335
 obsidianUIMode: preview
-tags: []
 ---
 
 #  Spotting & Sneaking Calculator

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Secure Invitation
-tags: []
 ---
 # Secure Invitation
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

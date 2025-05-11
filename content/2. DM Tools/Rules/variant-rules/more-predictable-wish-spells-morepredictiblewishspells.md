@@ -1,8 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
-tags:
-  - compendium/src/5e/morepredictiblewishspells
 aliases:
   - (More Predictable) Wish Spells
 ---

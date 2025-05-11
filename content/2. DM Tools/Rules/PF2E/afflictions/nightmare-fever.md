@@ -1,7 +1,6 @@
 ---
 aliases:
   - Nightmare Fever
-tags: []
 ---
 # Nightmare Fever
 *Disease 8*  

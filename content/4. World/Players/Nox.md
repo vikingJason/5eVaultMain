@@ -3,7 +3,6 @@ Role:
   - Player
 Race: Gnome
 Sexuality: Bisexual
-Age: Young Adult
 Class: Warlock
 Alignment: Chaotic Neutral
 Religion: 

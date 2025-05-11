@@ -1,7 +1,6 @@
 ---
 aliases:
   - Into the Fray
-tags: []
 ---
 # Into the Fray [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

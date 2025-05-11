@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tetanus
-tags: []
 ---
 # Tetanus
 *Disease 1*  

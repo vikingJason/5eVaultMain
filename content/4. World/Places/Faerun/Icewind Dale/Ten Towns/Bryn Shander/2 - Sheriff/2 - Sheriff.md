@@ -3,7 +3,6 @@ Type:
   - Military
   - placeholder
 Region: placeholder
-tags: []
 ---
 # 2 - Sheriff
 ## Overview

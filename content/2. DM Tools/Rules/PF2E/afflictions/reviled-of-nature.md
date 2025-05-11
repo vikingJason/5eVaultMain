@@ -1,7 +1,6 @@
 ---
 aliases:
   - Reviled of Nature
-tags: []
 ---
 # Reviled of Nature
 *Curse 18*  

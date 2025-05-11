@@ -1,7 +1,6 @@
 ---
 aliases:
   - Breaking the Chains
-tags: []
 ---
 # Breaking the Chains
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

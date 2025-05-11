@@ -1,7 +1,6 @@
 ---
 aliases:
   - Change Tradition Focus
-tags: []
 ---
 # Change Tradition Focus [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [magical](rules/traits/magical.md "Magical Item Trait")  

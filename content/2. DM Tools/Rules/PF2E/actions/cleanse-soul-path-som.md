@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cleanse Soul Path
-tags: []
 ---
 # Cleanse Soul Path
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

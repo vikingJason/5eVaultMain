@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-deck
-tags: []
 aliases:
   - Fragments of Suffering
 ---

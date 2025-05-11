@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 
 ![[Rum Gremlins.jpg|700]]

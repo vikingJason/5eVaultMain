@@ -1,5 +1,4 @@
 ---
-cssclass: oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Apothecary
@@ -14,7 +13,6 @@ ownerName: Apothabots
 apprentices:
   - No apprentices
 services: 
-tags: []
 ---
 
 

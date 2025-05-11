@@ -7,7 +7,6 @@ settlementName:
 wardName: 
 title: The Jester's Jest
 ownerName: Lydia Larkspur
-tags: []
 ---
 
 # **The Jester's Jest**

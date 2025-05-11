@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-ability
 aliases:
   - Inhabit Object
-tags: []
 ---
 # Inhabit Object [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Treat Disease
-tags: []
 ---
 # Treat Disease (basic) [⏲](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Duration or Frequency") 8 hour (at least 8 hours)
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

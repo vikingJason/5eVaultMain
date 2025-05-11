@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-feat
-tags: []
 aliases:
   - Aerial Pursuit (Recharges after a Short or Long Rest)
 ---

@@ -6,7 +6,6 @@ PromptInfo:
   author: JoshP
   tags: fantasy, ttrpg
   version: 0.0.1
-tags: []
 ---
 
 {{#if selection}}

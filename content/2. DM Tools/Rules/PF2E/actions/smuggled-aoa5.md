@@ -1,7 +1,6 @@
 ---
 aliases:
   - Smuggled
-tags: []
 ---
 # Smuggled
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

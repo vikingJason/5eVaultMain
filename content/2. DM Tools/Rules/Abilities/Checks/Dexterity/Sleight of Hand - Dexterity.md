@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 # Sleight of Hand
 

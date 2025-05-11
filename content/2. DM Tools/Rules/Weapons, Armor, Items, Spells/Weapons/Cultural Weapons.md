@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Cultural Weapons
 
 Many weapons have equivalents in various cultures, both in the real world and in fantasy campaign settings. Below is a selection of weapons from different cultures which you may choose to include in your game, along with notes on how they are represented in Level Up. Availability of these weapons is at the discretion of the Narrator.
@@ -214,7 +217,7 @@ All weapons may deal the same basic types of damage, but they also have special 
 
 **Mounted.** This weapon deals the damage listed in parenthesis when you are wielding it while mounted.
 
-**Parrying.** When you are wielding this weapon and you are not using a shield, once before your next turn you can gain an expertise die to your AC against a single melee attack made against you by a creature you can see. You cannot use this property while [[Incapacitated]], [[Paralyzed]], [[Restrained]], or [[Stunned]].
+**Parrying.** When you are wielding this weapon and you are not using a shield, once before your next turn you can gain an expertise die to your AC against a single melee attack made against you by a creature you can see. You cannot use this property while [[content/2. DM Tools/Rules/Conditions/Incapacitated]], [[content/2. DM Tools/Rules/Conditions/Paralyzed]], [[content/2. DM Tools/Rules/Conditions/Restrained]], or [[content/2. DM Tools/Rules/Conditions/Stunned]].
 
 **Parrying Immunity.** Attacks with this weapon ignore the parrying property and Armor Class bonuses from shields.
 

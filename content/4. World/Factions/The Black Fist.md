@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ![[Pasted image 20220109005703.png|right|300]]
 

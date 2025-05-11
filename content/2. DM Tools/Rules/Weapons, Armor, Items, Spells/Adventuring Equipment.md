@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Adventuring Equipment
 
 | Item                                 | Price         | Weight                 | Bulk                            |

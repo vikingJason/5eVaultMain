@@ -1,7 +1,6 @@
 ---
 aliases:
   - Deduce Traditions
-tags: []
 ---
 # Deduce Traditions
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

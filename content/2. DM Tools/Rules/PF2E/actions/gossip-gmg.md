@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gossip
-tags: []
 ---
 # Gossip
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

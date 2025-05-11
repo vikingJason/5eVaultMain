@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-ability
 aliases:
   - Improved Grab
-tags: []
 ---
 # Improved Grab [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 

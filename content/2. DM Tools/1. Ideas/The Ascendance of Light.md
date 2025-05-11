@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 Certainly! Here's a religious ritual you can incorporate into your D&D campaign:
 

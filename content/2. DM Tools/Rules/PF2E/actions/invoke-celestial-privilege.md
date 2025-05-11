@@ -1,7 +1,6 @@
 ---
 aliases:
   - Invoke Celestial Privilege
-tags: []
 ---
 # Invoke Celestial Privilege [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Core Rulebook p. 123*  

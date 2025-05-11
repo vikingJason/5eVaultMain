@@ -1,7 +1,6 @@
 ---
 aliases:
   - Forge Documents
-tags: []
 ---
 # Forge Documents
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

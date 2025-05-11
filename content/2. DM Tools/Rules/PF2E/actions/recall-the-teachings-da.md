@@ -1,7 +1,6 @@
 ---
 aliases:
   - Recall The Teachings
-tags: []
 ---
 # Recall The Teachings [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [divination](rules/traits/divination.md "Divination School Trait")  [occult](rules/traits/occult.md "Occult Tradition Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  

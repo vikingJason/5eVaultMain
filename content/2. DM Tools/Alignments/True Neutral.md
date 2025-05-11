@@ -1,7 +1,6 @@
 ---
 Alignment: True Neutral
 Type: Alignment
-tags: []
 ---
 
 - May keep his word (depending on how it will affect the balance).

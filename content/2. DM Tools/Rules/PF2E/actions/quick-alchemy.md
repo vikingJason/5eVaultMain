@@ -1,7 +1,6 @@
 ---
 aliases:
   - Quick Alchemy
-tags: []
 ---
 # Quick Alchemy [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

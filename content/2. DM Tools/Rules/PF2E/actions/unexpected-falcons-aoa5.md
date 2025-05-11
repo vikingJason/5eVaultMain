@@ -1,7 +1,6 @@
 ---
 aliases:
   - Unexpected Falcons
-tags: []
 ---
 # Unexpected Falcons
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

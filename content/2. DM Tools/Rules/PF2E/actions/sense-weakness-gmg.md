@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sense Weakness
-tags: []
 ---
 # Sense Weakness [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Gamemastery Guide p. 167*  

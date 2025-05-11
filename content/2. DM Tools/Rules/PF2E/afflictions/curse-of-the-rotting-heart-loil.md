@@ -1,7 +1,6 @@
 ---
 aliases:
   - Curse of The Rotting Heart
-tags: []
 ---
 # Curse of The Rotting Heart
 *Curse 9*  

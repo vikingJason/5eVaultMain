@@ -6,7 +6,6 @@ PromptInfo:
   author: JoshP
   tags: current era, ttrpg
   version: 0.0.1
-tags: []
 ---
 ## Magic 8 Ball
 Prompt: Use the Mythic GM Emulator to roll the results of a Magic 8 Ball.

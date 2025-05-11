@@ -1,7 +1,6 @@
 ---
 aliases:
   - Unraveling Skin
-tags: []
 ---
 # Unraveling Skin
 *Curse 5*  

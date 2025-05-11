@@ -1,7 +1,6 @@
 ---
 aliases:
   - Earn Income
-tags: []
 ---
 # Earn Income (basic)
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

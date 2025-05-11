@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Food and Drink
 
 | Item                 | Cost  |

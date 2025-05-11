@@ -23,7 +23,6 @@ Religion: "[[elven-darahl-tilvenar]]"
 Ruler: "[[Finroth Tilvenar]]"
 Title: Mayor
 Region: "[[Borfaldor]]"
-tags: []
 ---
 
 
@@ -68,7 +67,7 @@ tags: []
 Placeholder
 
 ### DM Map
-![[Petalwood - DM Map.jpg|850]]
+![[Petalwood - DM Map.jpg|850|850x1133]]
 [[Petalwood - DM Map.jpg|open outside]]
 
 

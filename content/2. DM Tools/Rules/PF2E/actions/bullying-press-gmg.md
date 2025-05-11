@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bullying Press
-tags: []
 ---
 # Bullying Press [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [flourish](rules/traits/flourish.md "Flourish Combat Trait")  

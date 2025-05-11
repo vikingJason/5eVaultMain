@@ -1,7 +1,4 @@
 ---
-created: 2025-02-22T09:22:55 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/equipment/goods-and-services/herbs-oils-other-substances/tinctures/
 author: 
 ---
 

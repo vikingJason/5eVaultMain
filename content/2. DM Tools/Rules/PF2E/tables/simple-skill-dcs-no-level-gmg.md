@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-note
-tags: []
 aliases:
   - Simple Skill DCs (No Level)
 ---

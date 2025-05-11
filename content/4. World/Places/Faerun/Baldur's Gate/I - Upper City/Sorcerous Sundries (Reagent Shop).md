@@ -2,7 +2,6 @@
 Quality: Average
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Sorcerous Sundries (Reagent Shop)
 ## Overview

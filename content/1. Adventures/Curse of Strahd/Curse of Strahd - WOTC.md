@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 # Foreword: Ravenloft Revisited
 

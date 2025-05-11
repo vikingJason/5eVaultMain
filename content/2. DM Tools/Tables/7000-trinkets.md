@@ -3,7 +3,6 @@ publish: true
 title: Trinker Roller Table
 type:
   - list
-tags: []
 ---
 
 # 7000-Trinkets

@@ -3,7 +3,6 @@ parent:
   - Anauroch
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Anauroch Groups
 ## Overview

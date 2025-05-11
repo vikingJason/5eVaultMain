@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
-tags: []
 aliases:
   - Random Settlements; Current Calamity
 ---

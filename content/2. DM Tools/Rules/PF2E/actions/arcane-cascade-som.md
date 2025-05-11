@@ -1,7 +1,6 @@
 ---
 aliases:
   - Arcane Cascade
-tags: []
 ---
 # Arcane Cascade [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [magus](rules/traits/magus-som.md "Magus Class Trait")  [stance](rules/traits/stance.md "Stance Combat Trait")  

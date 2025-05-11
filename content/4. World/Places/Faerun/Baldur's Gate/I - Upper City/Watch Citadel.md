@@ -3,7 +3,6 @@ Type:
   - Point of Interest
   - placeholder
 Region: placeholder
-tags: []
 ---
 # Watch Citadel
 ## Overview

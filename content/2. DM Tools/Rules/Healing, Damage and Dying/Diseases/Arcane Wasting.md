@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Arcane Wasting
 _Source: Tome of Beasts p. 215_

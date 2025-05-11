@@ -4,7 +4,6 @@ parent:
   - Anauroch Groups
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Lamia
 ## Overview

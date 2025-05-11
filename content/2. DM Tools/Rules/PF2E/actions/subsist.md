@@ -1,7 +1,6 @@
 ---
 aliases:
   - Subsist
-tags: []
 ---
 # Subsist (basic)
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 
 GAME: Dungeons & Dragons: 5th Edition

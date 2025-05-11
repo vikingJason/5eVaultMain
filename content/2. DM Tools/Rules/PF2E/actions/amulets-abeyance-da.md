@@ -1,7 +1,6 @@
 ---
 aliases:
   - Amulet's Abeyance
-tags: []
 ---
 # Amulet's Abeyance [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [abjuration](rules/traits/abjuration.md "Abjuration School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [thaumaturge](rules/traits/thaumaturge-da.md "Thaumaturge Class Trait")  

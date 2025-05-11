@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 Here’s a list of **10 entertainers** from Petalwood and the surrounding area, each with unique acts and quirks that would be perfect for the Unity Festival.
 

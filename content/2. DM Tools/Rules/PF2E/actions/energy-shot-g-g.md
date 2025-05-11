@@ -1,7 +1,6 @@
 ---
 aliases:
   - Energy Shot
-tags: []
 ---
 # Energy Shot [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [evocation](rules/traits/evocation.md "Evocation School Trait")  [magical](rules/traits/magical.md "Magical Item Trait")  [spellshot](rules/traits/spellshot-g-g.md "Spellshot Class Trait")  

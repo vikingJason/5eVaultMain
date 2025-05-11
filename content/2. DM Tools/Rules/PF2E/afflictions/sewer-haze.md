@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sewer Haze
-tags: []
 ---
 # Sewer Haze
 *Disease 7*  

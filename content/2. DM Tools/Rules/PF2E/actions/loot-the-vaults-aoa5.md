@@ -1,7 +1,6 @@
 ---
 aliases:
   - Loot the Vaults
-tags: []
 ---
 # Loot the Vaults
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

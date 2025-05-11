@@ -1,7 +1,6 @@
 ---
 aliases:
   - Opportune Riposte
-tags: []
 ---
 # Opportune Riposte [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [swashbuckler](rules/traits/swashbuckler-apg.md "Swashbuckler Class Trait")  

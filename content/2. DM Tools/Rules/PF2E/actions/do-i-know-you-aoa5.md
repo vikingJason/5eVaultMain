@@ -1,7 +1,6 @@
 ---
 aliases:
   - Do I Know You?
-tags: []
 ---
 # Do I Know You?
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

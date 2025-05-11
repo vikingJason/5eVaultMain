@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-reward
-tags: []
 aliases:
   - Clay No-Face's Charm
 ---

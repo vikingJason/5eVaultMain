@@ -1,7 +1,6 @@
 ---
 date: 2022-02-21
 title: Settlement Generator
-tags: []
 ---
 
 # Settlements [^1]

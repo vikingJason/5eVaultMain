@@ -1,7 +1,6 @@
 ---
 aliases:
   - Choking Death
-tags: []
 ---
 # Choking Death
 *Disease 6*  

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bog Rot
-tags: []
 ---
 # Bog Rot
 *Disease 0*  

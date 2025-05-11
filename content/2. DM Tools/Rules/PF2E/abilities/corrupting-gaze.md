@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-ability
 aliases:
   - Corrupting Gaze
-tags: []
 ---
 # Corrupting Gaze [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 

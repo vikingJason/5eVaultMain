@@ -1,7 +1,6 @@
 ---
 aliases:
   - Fortify Camp
-tags: []
 ---
 # Fortify Camp
 *Source: Gamemastery Guide p. 173*  

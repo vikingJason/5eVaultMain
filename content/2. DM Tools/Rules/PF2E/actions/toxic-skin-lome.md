@@ -1,7 +1,6 @@
 ---
 aliases:
   - Toxic Skin
-tags: []
 ---
 # Toxic Skin [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [grippli](rules/traits/grippli-b2.md "Grippli Ancestry & Heritage Trait")  [poison](rules/traits/poison.md "Poison Effect Trait")  

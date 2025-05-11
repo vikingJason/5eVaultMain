@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-reward
-tags: []
 aliases:
   - Dark Gift of Norganas, the Finger of Oblivion
 ---

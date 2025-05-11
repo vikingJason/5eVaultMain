@@ -1,7 +1,6 @@
 ---
 aliases:
   - Tuberculosis
-tags: []
 ---
 # Tuberculosis
 *Disease 1*  

@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Dye Makers
@@ -15,7 +13,6 @@ ownerName: Artisitron
 apprentices:
   - No apprentices
 services: 
-tags: []
 ---
 
 

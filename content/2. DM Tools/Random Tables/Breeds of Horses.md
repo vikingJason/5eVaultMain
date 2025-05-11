@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 # Breeds of Horses
 

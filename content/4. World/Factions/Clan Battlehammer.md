@@ -5,7 +5,6 @@ Type:
 parent:
   - Dwarven Valley
 Region: placeholder
-tags: []
 ---
 # Clan Battlehammer
 ## Overview

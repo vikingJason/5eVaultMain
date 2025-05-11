@@ -1,7 +1,6 @@
 ---
 aliases:
   - Repair Crumbled Walls
-tags: []
 ---
 # Repair Crumbled Walls
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Automaton Aim
-tags: []
 ---
 # Automaton Aim [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Guns & Gears p. 39*  

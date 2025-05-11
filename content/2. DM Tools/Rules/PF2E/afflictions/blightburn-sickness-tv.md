@@ -1,7 +1,6 @@
 ---
 aliases:
   - Blightburn Sickness
-tags: []
 ---
 # Blightburn Sickness
 *Disease Level Varies*  

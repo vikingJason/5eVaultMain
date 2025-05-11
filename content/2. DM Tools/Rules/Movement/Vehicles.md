@@ -1,7 +1,4 @@
 ---
-created: 2025-02-22T15:08:14 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/equipmenT/vehicles/
 author: 
 ---
 

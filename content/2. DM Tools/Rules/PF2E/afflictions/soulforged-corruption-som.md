@@ -1,7 +1,6 @@
 ---
 aliases:
   - Soulforged Corruption
-tags: []
 ---
 # Soulforged Corruption
 *Curse 1*  

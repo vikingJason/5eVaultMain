@@ -1,5 +1,4 @@
 ---
-cssclass: oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Trading Post
@@ -18,7 +17,6 @@ services:
   - Merchant( Poor   quality, Low  costs)
   - Oil Trader( Average   quality, Low  costs)
 Region: '"[[Borfaldor]]"'
-tags: []
 ---
 
 

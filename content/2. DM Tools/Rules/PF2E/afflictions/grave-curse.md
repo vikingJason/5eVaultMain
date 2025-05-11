@@ -1,7 +1,6 @@
 ---
 aliases:
   - Grave Curse
-tags: []
 ---
 # Grave Curse
 *Curse Level Varies*  

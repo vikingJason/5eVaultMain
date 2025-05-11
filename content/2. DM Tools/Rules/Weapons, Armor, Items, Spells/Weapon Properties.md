@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Weapon Properties
 
 All weapons may deal the same basic types of damage, but they also have special properties that make each unique. You can only benefit from properties marked with † if you are proficient with the weapon.
@@ -20,7 +23,7 @@ All weapons may deal the same basic types of damage, but they also have special 
 
 **Mounted.** This weapon deals the damage listed in parenthesis when you are wielding it while mounted.
 
-**Parrying.** When you are wielding this weapon and you are not using a shield, once before your next turn you can gain an expertise die to your AC against a single melee attack made against you by a creature you can see. You cannot use this property while [[Incapacitated]], [[Paralyzed]], [[Restrained]], or [[Stunned]].
+**Parrying.** When you are wielding this weapon and you are not using a shield, once before your next turn you can gain an expertise die to your AC against a single melee attack made against you by a creature you can see. You cannot use this property while [[content/2. DM Tools/Rules/Conditions/Incapacitated]], [[content/2. DM Tools/Rules/Conditions/Paralyzed]], [[content/2. DM Tools/Rules/Conditions/Restrained]], or [[content/2. DM Tools/Rules/Conditions/Stunned]].
 
 **Parrying Immunity.** Attacks with this weapon ignore the parrying property and Armor Class bonuses from shields.
 

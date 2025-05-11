@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Squeezing Into Smaller Spaces
 

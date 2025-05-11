@@ -1,3 +1,6 @@
+---
+{}
+---
 # Food and Water
 
 ## Food and water Needs
@@ -17,7 +20,7 @@ A character needs one pound of food per day and can make food last longer by sub
 
 Eating half a pound of food in a day counts as half a day without food.
 
-A character can go without food for a number of days equal to 3 + their [[Constitution]] modifier (minimum 1). At the end o f each day beyond that limit, a character automatically suffers one level of [[Exhaustion]].
+A character can go without food for a number of days equal to 3 + their [[Constitution]] modifier (minimum 1). At the end o f each day beyond that limit, a character automatically suffers one level of [[content/2. DM Tools/Rules/Conditions/Exhaustion]].
 
 A normal day of eating resets the count of days without food to zero.
 
@@ -26,9 +29,9 @@ A normal day of eating resets the count of days without food to zero.
 
 A character needs one gallon of water per day, or two gallons per day if the weather is hot.
 
-A character who drinks only half that much water must succeed on a DC 15 [[Constitution]] saving throw or suffer one level of [[Exhaustion]] at the end of the day. A character with access to even less water automatically suffers one level of [[Exhaustion]] at the end of the day.
+A character who drinks only half that much water must succeed on a DC 15 [[Constitution]] saving throw or suffer one level of [[content/2. DM Tools/Rules/Conditions/Exhaustion]] at the end of the day. A character with access to even less water automatically suffers one level of [[content/2. DM Tools/Rules/Conditions/Exhaustion]] at the end of the day.
 
-If the character already has one or m ore levels of [[Exhaustion]], the character takes two levels in either case.
+If the character already has one or m ore levels of [[content/2. DM Tools/Rules/Conditions/Exhaustion]], the character takes two levels in either case.
 
 ![[Pasted image 20211219215806.png]]
 [[Pasted image 20211219215806.png|Show To Players]]

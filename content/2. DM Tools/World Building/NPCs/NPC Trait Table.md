@@ -1,7 +1,6 @@
 ---
 date: 2022-04-15
 title: NPC Trait Table
-tags: []
 ---
 
 Sources: 

@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-deck
-tags: []
 aliases:
   - Trickster Gods of Omu
 ---

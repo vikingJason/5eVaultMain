@@ -1,5 +1,4 @@
 ---
-Tags: Category/Settlement
 Community-Size: Outpost
 Alignment: Chaotic Evil
 Government: Autocracy
@@ -7,7 +6,6 @@ Region: Isyesari
 Type: placeholder
 Ruler: placeholder
 Factions: placeholder
-tags: []
 ---
 
 > [!infobox]+

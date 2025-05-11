@@ -1,5 +1,4 @@
 ---
-cssclass: oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Lord
@@ -18,7 +17,6 @@ services:
   - Noble( Horrible   quality, Average  costs)
   - Diplomacy( Average   quality, Low  costs)
 Region: '"[[Borfaldor]]"'
-tags: []
 ---
 
 

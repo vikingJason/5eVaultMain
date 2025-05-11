@@ -1,7 +1,6 @@
 ---
 aliases:
   - Curse of Nightmares
-tags: []
 ---
 # Curse of Nightmares
 *Curse 2*  

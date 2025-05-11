@@ -2,7 +2,6 @@
 aliases:
   - Recall Knowledge
   - Identify
-tags: []
 ---
 # Recall Knowledge (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

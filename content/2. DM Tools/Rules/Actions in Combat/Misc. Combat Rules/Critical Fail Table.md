@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 # Critical Fail Table
 
@@ -10,11 +10,11 @@ tags: []
 | 10-17        | Drop weapon 10' away                                                                            |
 | 18-23        | Drop weapon 20' away                                                                            |
 | 24-27        | Drop weapon 30' away                                                                            |
-| 28-37        | You fall down [[Prone]]                                                                         |
-| 38-45        | You fall down [[Prone]] and drop your weapon at your feet                                       |
-| 46-51        | You fall down [[Prone]] and drop your weapon 10' away                                           |
-| 52-55        | You fall down [[Prone]] and drop your weapon 20' away                                           |
-| 56-57        | You fall down [[Prone]] and drop your weapon 30' away                                           |
+| 28-37        | You fall down [[content/2. DM Tools/Rules/Conditions/Prone]]                                                                         |
+| 38-45        | You fall down [[content/2. DM Tools/Rules/Conditions/Prone]] and drop your weapon at your feet                                       |
+| 46-51        | You fall down [[content/2. DM Tools/Rules/Conditions/Prone]] and drop your weapon 10' away                                           |
+| 52-55        | You fall down [[content/2. DM Tools/Rules/Conditions/Prone]] and drop your weapon 20' away                                           |
+| 56-57        | You fall down [[content/2. DM Tools/Rules/Conditions/Prone]] and drop your weapon 30' away                                           |
 | 58-62        | Stumble, and lose initiative next round                                                         |
 | 63-68        | Stumble, all rolls next round are at [[Advantage and Disadvantage\|disadvantage]]               |
 | 69-73        | Stumble, opponent attempts another hit this round                                               |

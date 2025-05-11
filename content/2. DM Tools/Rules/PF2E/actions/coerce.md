@@ -1,7 +1,6 @@
 ---
 aliases:
   - Coerce
-tags: []
 ---
 # Coerce (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

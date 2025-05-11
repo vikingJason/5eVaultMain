@@ -3,7 +3,6 @@ Type: Government
 Alignment: Chaotic Evil
 parent:
   - Group_ Government
-tags: []
 ---
 # Template - Group: Government
 ## Overview

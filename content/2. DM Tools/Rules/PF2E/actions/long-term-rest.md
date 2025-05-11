@@ -1,7 +1,6 @@
 ---
 aliases:
   - Long-Term Rest
-tags: []
 ---
 # Long-Term Rest (basic)
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

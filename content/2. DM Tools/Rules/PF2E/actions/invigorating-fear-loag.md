@@ -1,7 +1,6 @@
 ---
 aliases:
   - Invigorating Fear
-tags: []
 ---
 # Invigorating Fear [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Lost Omens: Ancestry Guide p. 123*  

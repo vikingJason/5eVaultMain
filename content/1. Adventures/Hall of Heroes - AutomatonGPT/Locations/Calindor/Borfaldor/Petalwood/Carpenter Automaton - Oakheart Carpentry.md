@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Carpenter
@@ -15,7 +13,6 @@ ownerName: Timber
 apprentices:
   - No apprentices
 services: 
-tags: []
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Gain Contact
-tags: []
 ---
 # Gain Contact
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

@@ -6,7 +6,6 @@ PromptInfo:
   author: ColinM
   tags: fantasy, ttrpg
   version: 0.0.1
-tags: []
 ---
 
 {{#if selection}} 

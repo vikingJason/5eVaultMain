@@ -1,7 +1,5 @@
 ---
 Race: Human
-Age: Adult
-tags: []
 ---
 # "Nine-Fingers" Keene
 ## Overview

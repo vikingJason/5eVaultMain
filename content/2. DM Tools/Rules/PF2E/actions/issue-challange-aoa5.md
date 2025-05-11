@@ -1,7 +1,6 @@
 ---
 aliases:
   - Issue Challange
-tags: []
 ---
 # Issue Challange
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

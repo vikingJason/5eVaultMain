@@ -1,7 +1,6 @@
 ---
 aliases:
   - Waterborne Zombie Rot
-tags: []
 ---
 # Waterborne Zombie Rot
 *Disease 1*  

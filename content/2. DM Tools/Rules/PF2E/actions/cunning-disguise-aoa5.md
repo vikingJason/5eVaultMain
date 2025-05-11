@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cunning Disguise
-tags: []
 ---
 # Cunning Disguise
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

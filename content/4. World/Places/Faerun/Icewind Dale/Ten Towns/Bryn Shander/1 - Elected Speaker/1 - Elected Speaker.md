@@ -3,7 +3,6 @@ Type:
   - Government
   - placeholder
 Region: placeholder
-tags: []
 ---
 # 1 - Elected Speaker
 ## Overview

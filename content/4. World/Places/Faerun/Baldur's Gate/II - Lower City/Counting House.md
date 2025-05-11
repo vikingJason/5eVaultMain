@@ -3,7 +3,6 @@ Type:
   - Facility
   - placeholder
 Region: placeholder
-tags: []
 ---
 # Counting House
 ## Overview

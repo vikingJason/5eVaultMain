@@ -1,7 +1,6 @@
 ---
 aliases:
   - Treat Poison
-tags: []
 ---
 # Treat Poison (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

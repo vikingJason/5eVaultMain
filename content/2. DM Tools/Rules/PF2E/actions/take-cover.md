@@ -1,7 +1,6 @@
 ---
 aliases:
   - Take Cover
-tags: []
 ---
 # Take Cover (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Core Rulebook p. 471*  
@@ -10,4 +9,4 @@ tags: []
 - **Requirements**: You are benefiting from cover, are near a feature that allows you to take cover, or are [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone).
 - **Activity**: Single Action
 
-You press yourself against a wall or duck behind an obstacle to take better advantage of cover. If you would have standard cover, you instead gain greater cover, which provides a +4 circumstance bonus to AC; to Reflex saves against area effects; and to [Stealth](compendium/skills.md#Stealth) checks to [Hide](rules/actions/hide.md), [Sneak](rules/actions/sneak.md), or otherwise avoid detection. Otherwise, you gain the benefits of standard cover (a +2 circumstance bonus instead). This lasts until you move from your current space, use an [attack](rules/traits/attack.md "Attack Combat Trait") action, become [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious), or end this effect as a free action.
+You press yourself against a wall or duck behind an obstacle to take better advantage of cover. If you would have standard cover, you instead gain greater cover, which provides a +4 circumstance bonus to AC; to Reflex saves against area effects; and to [Stealth](compendium/skills.md#Stealth) checks to [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md), [Sneak](rules/actions/sneak.md), or otherwise avoid detection. Otherwise, you gain the benefits of standard cover (a +2 circumstance bonus instead). This lasts until you move from your current space, use an [attack](rules/traits/attack.md "Attack Combat Trait") action, become [unconscious](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Unconscious), or end this effect as a free action.

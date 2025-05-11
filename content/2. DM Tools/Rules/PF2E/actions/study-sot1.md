@@ -1,7 +1,6 @@
 ---
 aliases:
   - Study
-tags: []
 ---
 # Study
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

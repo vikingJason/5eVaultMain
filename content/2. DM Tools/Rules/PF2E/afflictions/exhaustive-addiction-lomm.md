@@ -1,7 +1,6 @@
 ---
 aliases:
   - Exhaustive Addiction
-tags: []
 ---
 # Exhaustive Addiction
 *Disease 15*  

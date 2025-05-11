@@ -1,7 +1,6 @@
 ---
 aliases:
   - Steal Keys
-tags: []
 ---
 # Steal Keys
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

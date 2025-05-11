@@ -1,7 +1,6 @@
 ---
 aliases:
   - Grim Swagger
-tags: []
 ---
 # Grim Swagger [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [fear](rules/traits/fear.md "Fear Effect Trait")  [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

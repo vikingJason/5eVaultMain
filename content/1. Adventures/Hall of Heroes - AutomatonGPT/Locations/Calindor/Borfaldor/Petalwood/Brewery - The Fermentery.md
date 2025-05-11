@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Brewery
@@ -15,7 +13,6 @@ ownerName: Brewbot
 apprentices:
   - No apprentices
 services: 
-tags: []
 ---
 
 

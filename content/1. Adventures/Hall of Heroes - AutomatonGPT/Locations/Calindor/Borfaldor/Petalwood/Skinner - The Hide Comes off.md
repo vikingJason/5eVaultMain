@@ -1,5 +1,4 @@
 ---
-cssclass: oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Skinner
@@ -18,7 +17,6 @@ services:
   - Merchant( Low   quality, Above Average  costs)
   - Oil Trader( Low   quality, Below Average  costs)
 Region: '"[[Borfaldor]]"'
-tags: []
 ---
 
 

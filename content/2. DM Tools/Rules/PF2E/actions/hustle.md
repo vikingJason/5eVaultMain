@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hustle
-tags: []
 ---
 # Hustle (basic)
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [move](rules/traits/move.md "Move Combat Trait")  

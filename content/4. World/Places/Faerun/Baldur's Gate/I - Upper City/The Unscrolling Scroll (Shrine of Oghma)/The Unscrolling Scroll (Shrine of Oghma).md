@@ -3,7 +3,6 @@ Type:
   - Shrine
   - placeholder
 Region: placeholder
-tags: []
 ---
 # The Unscrolling Scroll (Shrine of Oghma)
 ## Overview

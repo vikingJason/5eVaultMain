@@ -1,7 +1,6 @@
 ---
 aliases:
   - Calculate Threats
-tags: []
 ---
 # Calculate Threats [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [mental](rules/traits/mental.md "Mental Effect Trait")  [psyche](rules/traits/psyche-da.md "Psyche Action & Ability Trait")  [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  

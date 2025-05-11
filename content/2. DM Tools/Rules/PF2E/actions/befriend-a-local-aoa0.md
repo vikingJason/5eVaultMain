@@ -1,7 +1,6 @@
 ---
 aliases:
   - Befriend a Local
-tags: []
 ---
 # Befriend a Local
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  

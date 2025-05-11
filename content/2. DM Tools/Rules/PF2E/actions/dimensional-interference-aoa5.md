@@ -1,7 +1,6 @@
 ---
 aliases:
   - Dimensional Interference
-tags: []
 ---
 # Dimensional Interference
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

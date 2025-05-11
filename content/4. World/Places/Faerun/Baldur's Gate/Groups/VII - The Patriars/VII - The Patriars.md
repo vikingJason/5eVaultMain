@@ -3,7 +3,6 @@ Organization:
   - - Dlusker Family
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # VII - The Patriars
 ## Overview

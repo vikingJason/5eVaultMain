@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 Indigenous Australian mythology and folklore offer a wealth of inspiration for creating creatures, myths, and lore for your Feywild setting, particularly if you’re looking to emphasize the deeply spiritual connection between the natural world, spirits, and the Dreaming. Below are a few Feywild-inspired ideas, rooted in and adapted from Indigenous Australian cultural themes, while respecting their origins and avoiding direct appropriation:
 

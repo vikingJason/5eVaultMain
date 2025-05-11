@@ -1,7 +1,6 @@
 ---
 aliases:
   - Smooth the Path
-tags: []
 ---
 # Smooth the Path
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

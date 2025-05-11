@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-note
-tags: []
 aliases:
   - General Skill Feats
 ---
@@ -41,7 +39,7 @@ aliases:
 | [Combat Climber](compendium/feats/combat-climber.md) | 1 | Trained in [Athletics](compendium/skills.md#Athletics) | Fight more effectively as you [Climb](rules/actions/climb.md) |
 | [Hefty Hauler](compendium/feats/hefty-hauler.md) | 1 | Trained in Athletics | Increase your Bulk limits by 2 |
 | [Quick Jump](compendium/feats/quick-jump.md) | 1 | Trained in Athletics | [High Jump](rules/actions/high-jump.md) or [Long Jump](rules/actions/long-jump.md) as a single action |
-| [Titan Wrestler](compendium/feats/titan-wrestler.md) | 1 | Trained in Athletics | [Disarm](rules/actions/disarm.md), [Grapple](rules/actions/grapple.md), [Shove](rules/actions/shove.md), or [Trip](rules/actions/trip.md) larger creatures |
+| [Titan Wrestler](compendium/feats/titan-wrestler.md) | 1 | Trained in Athletics | [Disarm](rules/actions/disarm.md), [Grapple](content/2.%20DM%20Tools/Rules/Rules/Actions/Grapple.md), [Shove](content/2.%20DM%20Tools/Rules/Rules/Actions/Shove.md), or [Trip](rules/actions/trip.md) larger creatures |
 | [Underwater Marauder](compendium/feats/underwater-marauder.md) | 1 | Trained in Athletics | Fight more effectively underwater |
 | [Powerful Leap](compendium/feats/powerful-leap.md) | 2 | Expert in Athletics | Jump farther and higher |
 | [Rapid Mantel](compendium/feats/rapid-mantel.md) | 2 | Expert in Athletics | Pull yourself onto ledges quickly |
@@ -157,7 +155,7 @@ aliases:
 | [Quiet Allies](compendium/feats/quiet-allies.md) | 2 | Expert in Stealth | Roll a single Stealth check when sneaking with allies |
 | [Foil Senses](compendium/feats/foil-senses.md) | 7 | Master in Stealth | Take precautions against special senses |
 | [Swift Sneak](compendium/feats/swift-sneak.md) | 7 | Master in Stealth | Move your full Speed while you Sneak |
-| [Legendary Sneak](compendium/feats/legendary-sneak.md) | 15 | Legendary in [Stealth](compendium/skills.md#Stealth), [Swift Sneak](compendium/feats/swift-sneak.md) | [Hide](rules/actions/hide.md) and [Sneak](rules/actions/sneak.md) without cover or being concealed |
+| [Legendary Sneak](compendium/feats/legendary-sneak.md) | 15 | Legendary in [Stealth](compendium/skills.md#Stealth), [Swift Sneak](compendium/feats/swift-sneak.md) | [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md) and [Sneak](rules/actions/sneak.md) without cover or being concealed |
 ^general-skill-feats-5-2-104
 
 | [Survival](compendium/skills.md#Survival) Skill Feats | Level | Prerequisites | Benefits |

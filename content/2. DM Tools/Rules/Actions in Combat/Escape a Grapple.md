@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Escape a Grapple
 

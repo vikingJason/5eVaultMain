@@ -3,7 +3,6 @@ Type:
   - Family
   - placeholder
 Region: placeholder
-tags: []
 ---
 # Dlusker Family
 ## Overview

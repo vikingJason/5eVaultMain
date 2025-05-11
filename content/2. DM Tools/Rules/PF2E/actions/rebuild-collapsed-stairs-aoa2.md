@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rebuild Collapsed Stairs
-tags: []
 ---
 # Rebuild Collapsed Stairs
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

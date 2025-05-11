@@ -1,6 +1,5 @@
 ---
 Race: Human
-Age: Adult
 Class: Aristocrat
 Type: placeholder
 Region: placeholder

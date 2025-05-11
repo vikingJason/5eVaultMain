@@ -1,6 +1,5 @@
 ---
 Race: Human
-Age: Adult
 Class: Fighter
 Member:
   - - IV - The Flaming Fist

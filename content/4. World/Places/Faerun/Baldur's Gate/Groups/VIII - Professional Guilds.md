@@ -3,7 +3,6 @@ Type:
   - Commerce
   - placeholder
 Region: placeholder
-tags: []
 ---
 # VIII - Professional Guilds
 ## Overview

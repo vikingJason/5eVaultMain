@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
-tags: []
 aliases:
   - 20 Things to Say When a PC Looks for a Trap and Finds Nothing
 ---

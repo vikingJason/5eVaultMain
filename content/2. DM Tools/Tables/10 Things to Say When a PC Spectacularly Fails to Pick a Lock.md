@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
-tags: []
 aliases:
   - 10 Things to Say When a PC Spectacularly Fails to Pick a Lock
 ---

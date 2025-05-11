@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-book
-tags: []
 aliases:
   - chapter-1-gamemastery-basics
 ---
@@ -816,7 +814,7 @@ Some of the most memorable moments come from situations that inherently call for
 - Require an attack roll or skill check to deal minor damage and gain another benefit. Examples: jump from a higher elevation down onto a foe for a small amount of damage, potentially knocking the foe [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone); throw sand in an opponent's eyes.
 - Require a directed attack against an object, then allow foes to attempt saving throws against the object's effect at a DC you choose. Example: cast a _produce flame_ spell at a barrel of explosives.
 
-Another powerful tool you can use to help you say "Yes, but" when you're unsure of the game impact is to allow the idea to work just this once, letting your players know that this is part of your decision. For instance, maybe you think a PCs attempt to [Grapple](rules/actions/grapple.md) a spider to aim its web attack at another foe is so fun you have to let them do it, but you're worried that the effect would be so powerful that the PCs would just carry around a spider to shoot webs for the rest of the campaign. By making it a one-time effect, you can have fun but don't have to worry about whether you're setting a disruptive precedent for later on.
+Another powerful tool you can use to help you say "Yes, but" when you're unsure of the game impact is to allow the idea to work just this once, letting your players know that this is part of your decision. For instance, maybe you think a PCs attempt to [Grapple](content/2.%20DM%20Tools/Rules/Rules/Actions/Grapple.md) a spider to aim its web attack at another foe is so fun you have to let them do it, but you're worried that the effect would be so powerful that the PCs would just carry around a spider to shoot webs for the rest of the campaign. By making it a one-time effect, you can have fun but don't have to worry about whether you're setting a disruptive precedent for later on.
 
 ### House Rules
 <sup>GMG p. 29</sup>

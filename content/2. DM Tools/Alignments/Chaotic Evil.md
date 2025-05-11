@@ -1,7 +1,6 @@
 ---
 Alignment: "Chaotic Evil\r\rv"
 Type: Alignment
-tags: []
 ---
 
 - Will rarely keep his word (and has no honor).

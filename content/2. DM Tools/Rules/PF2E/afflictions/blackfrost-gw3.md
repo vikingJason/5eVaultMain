@@ -1,7 +1,6 @@
 ---
 aliases:
   - Blackfrost
-tags: []
 ---
 # Blackfrost
 *Curse 1*  

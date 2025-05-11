@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 For Sorrow, the possession by **Thorn Durst** amplifies her deepest fears of abandonment and loneliness. Thorn, a spirit of a fearful child, tries to take full control of her by feeding her anxieties and manipulating her into believing that her party, much like her family, will abandon her. The tension between Sorrow's desire for connection and Thorn's manipulative presence creates a powerful inner conflict.
 

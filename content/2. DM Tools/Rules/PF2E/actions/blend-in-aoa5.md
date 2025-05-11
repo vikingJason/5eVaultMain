@@ -1,7 +1,6 @@
 ---
 aliases:
   - Blend In
-tags: []
 ---
 # Blend In
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

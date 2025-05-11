@@ -1,6 +1,5 @@
 ---
 Race: Elf
-Age: Adult
 Class: Commoner
 Member:
   - - III - Parliament of Peers

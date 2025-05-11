@@ -1,7 +1,6 @@
 ---
 aliases:
   - Fight the Fire
-tags: []
 ---
 # Fight the Fire
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

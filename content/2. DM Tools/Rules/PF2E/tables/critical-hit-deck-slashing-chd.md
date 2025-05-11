@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-note
-tags: []
 aliases:
   - "Critical Hit Deck: Slashing"
 ---
@@ -18,7 +16,7 @@ aliases:
 | 6 | **Ugly Wound** The target takes a -2 circumstance penalty to checks with all Charisma-based skills except [Intimidation](compendium/skills.md#Intimidation). |
 | 7 | **Momentum** You gain a +2 circumstance bonus to all attack rolls until the end of your next turn. |
 | 8 | **Shattered Jaw** _Crit Effect:_ Until healed, the target is [wounded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Wounded) and can't speak, eat, drink, or make attacks with its jaws. |
-| 9 | **Tangled** _Crit Effect:_ You can attempt to [Grapple](rules/actions/grapple.md) the target as a free action. This uses the same multiple attack penalty as your attack and doesn't count towards your multiple attack penalty. |
+| 9 | **Tangled** _Crit Effect:_ You can attempt to [Grapple](content/2.%20DM%20Tools/Rules/Rules/Actions/Grapple.md) the target as a free action. This uses the same multiple attack penalty as your attack and doesn't count towards your multiple attack penalty. |
 | 10 | **Disembowel** Triple damage. |
 | 11 | **Weapon Strike** _Crit Effect:_ Deal normal damage to one of the target's weapons (applying Hardness normally). |
 | 12 | **Missing Digits** Normal damage. _Crit Effect:_ The target loses `1d4` fingers on one hand and becomes [clumsy](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Clumsy) until subject to regeneration spell or similar effect. |

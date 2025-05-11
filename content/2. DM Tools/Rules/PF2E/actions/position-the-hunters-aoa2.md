@@ -1,7 +1,6 @@
 ---
 aliases:
   - Position the Hunters
-tags: []
 ---
 # Position the Hunters
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

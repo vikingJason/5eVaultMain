@@ -1,11 +1,11 @@
 ---
-tags: []
+{}
 ---
 # Petrified
 
 A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
 
-The creature is [[Incapacitated]] , can’t move or speak, and is unaware of its surroundings.
+The creature is [[content/2. DM Tools/Rules/Conditions/Incapacitated]] , can’t move or speak, and is unaware of its surroundings.
 
 Attack rolls against the creature have advantage.
 

@@ -1,11 +1,11 @@
 ---
-tags: []
+{}
 ---
 # Unconscious
 
-An unconscious creature is [[Incapacitated]] (see the condition), can’t move or speak, and is unaware of its surroundings
+An unconscious creature is [[content/2. DM Tools/Rules/Conditions/Incapacitated]] (see the condition), can’t move or speak, and is unaware of its surroundings
 
-The creature drops whatever it’s holding and falls [[Prone|prone]].
+The creature drops whatever it’s holding and falls [[content/2. DM Tools/Rules/Conditions/Prone|prone]].
 
 The creature automatically fails [[Strength]] and [[Dexterity]] saving throws.
 

@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ## Obscuration
 
@@ -7,7 +7,7 @@ tags: []
 In a lightly obscured area, such as **dim light**, patchy fog, or moderate foliage, creatures have disadvantage on [[Perception - Wisdom]] checks that rely on sight.
 
 ### Heavily Obscured
-A **heavily obscured** area—such as **darkness**, opaque fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured area effectively suffers from the [[Blinded]] condition.
+A **heavily obscured** area—such as **darkness**, opaque fog, or dense foliage—blocks vision entirely. A creature in a heavily obscured area effectively suffers from the [[content/2. DM Tools/Rules/Conditions/Blinded]] condition.
 
 
 

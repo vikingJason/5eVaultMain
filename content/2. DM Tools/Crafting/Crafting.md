@@ -1,7 +1,4 @@
 ---
-created: 2025-02-25T05:57:41 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/skills/Craft/
 author: 
 ---
 

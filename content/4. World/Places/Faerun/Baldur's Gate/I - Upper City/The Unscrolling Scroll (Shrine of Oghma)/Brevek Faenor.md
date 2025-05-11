@@ -1,9 +1,7 @@
 ---
 Race: Human
-Age: Adult
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Brevek Faenor
 ## Overview

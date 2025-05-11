@@ -1,7 +1,4 @@
 ---
-created: 2025-02-27T03:07:48 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/basics-ability-scores/more-character-options/retraining/
 author: 
 ---
 

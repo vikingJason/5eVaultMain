@@ -1,7 +1,6 @@
 ---
 aliases:
   - Convince Mengkare
-tags: []
 ---
 # Convince Mengkare
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

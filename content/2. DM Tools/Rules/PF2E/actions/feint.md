@@ -1,7 +1,6 @@
 ---
 aliases:
   - Feint
-tags: []
 ---
 # Feint (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [mental](rules/traits/mental.md "Mental Effect Trait")  

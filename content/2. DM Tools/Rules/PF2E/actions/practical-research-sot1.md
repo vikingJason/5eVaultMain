@@ -1,7 +1,6 @@
 ---
 aliases:
   - Practical Research
-tags: []
 ---
 # Practical Research
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

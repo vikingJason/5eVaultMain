@@ -7,7 +7,6 @@ settlementName: Starcrest
 wardName: Merchant's Ward
 ownerName: Master Aric Valtoris
 services: Custom Weapon Crafting, Weapon Enchantment, Appraisals
-tags: []
 ---
 
 # **The Gilded Edge**

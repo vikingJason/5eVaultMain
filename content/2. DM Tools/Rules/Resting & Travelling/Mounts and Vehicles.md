@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Mounts and Vehicles
 
 ### Mounts

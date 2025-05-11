@@ -1,7 +1,4 @@
 ---
-created: 2025-02-24T07:34:10 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/Gamemastering/
 author: 
 ---
 # Trophies and Treasures

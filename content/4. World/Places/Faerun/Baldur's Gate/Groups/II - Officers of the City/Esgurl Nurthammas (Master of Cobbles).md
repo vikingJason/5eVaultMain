@@ -1,6 +1,5 @@
 ---
 Race: Human
-Age: Adult
 Member:
   - - III - Parliament of Peers
 Type: placeholder

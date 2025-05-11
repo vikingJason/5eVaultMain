@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sustain a Spell
-tags: []
 ---
 # Sustain a Spell (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  

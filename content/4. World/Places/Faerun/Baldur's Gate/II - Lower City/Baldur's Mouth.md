@@ -3,7 +3,6 @@ Type:
   - Facility
   - placeholder
 Region: placeholder
-tags: []
 ---
 # Baldur's Mouth
 ## Overview

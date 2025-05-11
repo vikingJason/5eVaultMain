@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mutagenic Flashback
-tags: []
 ---
 # Mutagenic Flashback [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [alchemist](rules/traits/alchemist.md "Alchemist Class Trait")  

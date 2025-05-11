@@ -1,7 +1,6 @@
 ---
 aliases:
   - Expeditious Inspection
-tags: []
 ---
 # Expeditious Inspection [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Yellow Silt Curse
-tags: []
 ---
 # Yellow Silt Curse
 *Curse 6*  

@@ -5,7 +5,6 @@ Type:
 parent:
   - Anauroch Groups
 Region: placeholder
-tags: []
 ---
 # The Black Shadow Band
 ## Overview

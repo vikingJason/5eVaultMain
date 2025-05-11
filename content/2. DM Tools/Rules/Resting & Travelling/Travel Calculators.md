@@ -42,7 +42,7 @@ Requires hourly [[Constitution]]  Saves after 8 hours:
 
 DC 11 at hour 9
 DC 12 at hour 10
-Each failure adds a level of [[Exhaustion]] .
+Each failure adds a level of [[content/2. DM Tools/Rules/Conditions/Exhaustion]] .
 
 ### Transport Services
 

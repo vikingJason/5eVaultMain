@@ -1,7 +1,6 @@
 ---
 aliases:
   - Slayer's Haunt
-tags: []
 ---
 # Slayer's Haunt
 *Curse 4*  

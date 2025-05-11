@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: General Store
@@ -15,7 +13,6 @@ ownerName: Gearsmith Gideon
 apprentices:
   - No apprentices
 services: 
-tags: []
 ---
 
 

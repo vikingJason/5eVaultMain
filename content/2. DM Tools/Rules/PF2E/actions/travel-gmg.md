@@ -1,7 +1,6 @@
 ---
 aliases:
   - Travel
-tags: []
 ---
 # Travel
 [move](rules/traits/move.md "Move Combat Trait")  

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Host Event
-tags: []
 ---
 # Host Event
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Administer
-tags: []
 ---
 # Administer
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

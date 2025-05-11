@@ -1,9 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-hazard
-tags:
-  - compendium/src/5e/tob2
-  - hazard/env
 aliases:
   - Crimson Slime
 ---

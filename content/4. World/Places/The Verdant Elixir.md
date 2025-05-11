@@ -7,7 +7,6 @@ settlementName: Petalwood
 wardName: Herbalist's Grove
 ownerName: Meliora Thistledown
 services: Potion Brewing, Herbal Remedies, Alchemical Supplies, Poison Antidotes, Consultation
-tags: []
 ---
 
 # The Verdant Elixir

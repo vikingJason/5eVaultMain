@@ -1,6 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
 ---
 # Index of Traps-hazards
 
@@ -104,3 +103,5 @@ cssclasses: json5e-note
 - [Web Lurker Noose Trap](web-lurker-noose-trap-pkb.md)
 - [Webs](webs.md)
 - [Yellow Mold](yellow-mold.md)
+
+

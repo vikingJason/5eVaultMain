@@ -1,9 +1,7 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-ability
 aliases:
   - Negative Healing
-tags: []
 ---
 # Negative Healing
 

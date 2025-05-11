@@ -1,7 +1,6 @@
 ---
 aliases:
   - Create a Diversion
-tags: []
 ---
 # Create a Diversion (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [mental](rules/traits/mental.md "Mental Effect Trait")  
@@ -15,5 +14,5 @@ With a gesture, a trick, or some distracting words, you can create a diversion t
 Attempt a single [Deception](compendium/skills.md#Deception) check and compare it to the [Perception](compendium/skills.md#Perception) DCs of the creatures whose attention you're trying to divert. Whether or not you succeed, creatures you attempt to divert gain a +4 circumstance bonus to their [Perception](compendium/skills.md#Perception) DCs against your attempts to Create a Diversion for 1 minute.
 
 > [!success-degree] 
-> - **Success** You become hidden to each creature whose [Perception](compendium/skills.md#Perception) DC is less than or equal to your result. (The [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) condition allows you to [Sneak](rules/actions/sneak.md) away, as described on page 252.) This lasts until the end of your turn or until you do anything except [Step](rules/actions/step.md) or use the [Hide](rules/actions/hide.md) or the [Sneak](rules/actions/sneak.md) action of the [Stealth](compendium/skills.md#Stealth) skill. If you [Strike](rules/actions/strike.md) a creature, the creature remains [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) against that attack, and you then become [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed). If you do anything else, you become [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed) just before you act unless the GM determines otherwise.
+> - **Success** You become hidden to each creature whose [Perception](compendium/skills.md#Perception) DC is less than or equal to your result. (The [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) condition allows you to [Sneak](rules/actions/sneak.md) away, as described on page 252.) This lasts until the end of your turn or until you do anything except [Step](rules/actions/step.md) or use the [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md) or the [Sneak](rules/actions/sneak.md) action of the [Stealth](compendium/skills.md#Stealth) skill. If you [Strike](rules/actions/strike.md) a creature, the creature remains [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) against that attack, and you then become [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed). If you do anything else, you become [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed) just before you act unless the GM determines otherwise.
 > - **Failure** You don't divert the attention of any creatures whose [Perception](compendium/skills.md#Perception) DC exceeds your result, and those creatures are aware you were trying to trick them.

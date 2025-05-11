@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-note
-tags: []
 aliases:
   - "Critical Fumble Deck: Unarmed"
 ---
@@ -38,10 +36,10 @@ aliases:
 | 26 | **Stop Hitting Yourself** You hit yourself instead of the target. |
 | 27 | **Just a Taste** You hit an ally adjacent to you or the target. |
 | 28 | **Battered** Until healed, you take a -2 circumstance penalty to checks and saving throws. |
-| 29 | **Got Too Close** This attack grants and triggers a [Grapple](rules/actions/grapple.md) or Grab as a reaction by your enemy. |
+| 29 | **Got Too Close** This attack grants and triggers a [Grapple](content/2.%20DM%20Tools/Rules/Rules/Actions/Grapple.md) or Grab as a reaction by your enemy. |
 | 30 | **Can't Find an Opening** You can't use this attack until the end of your next turn. |
 | 31 | **Off Balance** You are [slowed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Slowed) until the end of your next turn. |
-| 32 | **Caught Your Attack** This attack grants and triggers a [Trip](rules/actions/trip.md) or [Shove](rules/actions/shove.md) as a reaction by your enemy. |
+| 32 | **Caught Your Attack** This attack grants and triggers a [Trip](rules/actions/trip.md) or [Shove](content/2.%20DM%20Tools/Rules/Rules/Actions/Shove.md) as a reaction by your enemy. |
 | 33 | **Bad Headbutt** You are [stunned](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Stunned). |
 | 34 | **Bone Bruise** You become [wounded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Wounded) or your [wounded](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Wounded) value increases by 1. |
 | 35 | **Overexertion** You are [fatigued](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Fatigued). |

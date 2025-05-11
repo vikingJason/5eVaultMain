@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ## Marks of Horror
 

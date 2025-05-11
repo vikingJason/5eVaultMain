@@ -1,7 +1,4 @@
 ---
-created: 2025-02-25T04:57:40 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/EQUIPMENT/SPECIAL-MATERIALS/
 author: 
 ---
 

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Deconstruct
-tags: []
 ---
 # Deconstruct
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  

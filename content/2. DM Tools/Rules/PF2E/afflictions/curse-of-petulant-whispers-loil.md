@@ -1,7 +1,6 @@
 ---
 aliases:
   - Curse of Petulant Whispers
-tags: []
 ---
 # Curse of Petulant Whispers
 *Curse 2*  

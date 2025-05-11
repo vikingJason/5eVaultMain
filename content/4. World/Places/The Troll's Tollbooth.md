@@ -5,7 +5,6 @@ region: Starcrest
 settlementName: Starcrest
 wardName: Riverside Ward
 ownerName: Martha Underbough
-tags: []
 ---
 
 # **The Troll's Tollbooth**

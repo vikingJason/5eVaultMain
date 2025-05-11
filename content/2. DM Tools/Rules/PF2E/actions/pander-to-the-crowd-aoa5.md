@@ -1,7 +1,6 @@
 ---
 aliases:
   - Pander to the Crowd
-tags: []
 ---
 # Pander to the Crowd
 [auditory](rules/traits/auditory.md "Auditory Effect Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [visual](rules/traits/visual.md "Visual Effect Trait")  

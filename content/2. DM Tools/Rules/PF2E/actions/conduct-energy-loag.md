@@ -1,7 +1,6 @@
 ---
 aliases:
   - Conduct Energy
-tags: []
 ---
 # Conduct Energy [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [energy](rules/traits/energy-loag.md "Energy Energy & Element Trait")  

@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 
 ### Oils and Flammables

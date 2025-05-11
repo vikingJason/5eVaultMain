@@ -2,7 +2,6 @@
 Urban-Region: District
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # The Undercellar
 ## Overview

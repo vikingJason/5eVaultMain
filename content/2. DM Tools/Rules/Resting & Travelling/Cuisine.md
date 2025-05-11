@@ -1,7 +1,4 @@
 ---
-created: 2025-02-22T14:52:50 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/alternative-rule-systems/cuisine/
 author: 
 ---
 

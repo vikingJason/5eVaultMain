@@ -1,7 +1,6 @@
 ---
 aliases:
   - Theft of Thought
-tags: []
 ---
 # Theft of Thought
 *Curse 3*  

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Unleash Psyche
-tags: []
 ---
 # Unleash Psyche [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [psychic](rules/traits/psychic-da.md "Psychic Class Trait")  

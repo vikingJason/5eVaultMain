@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ready
-tags: []
 ---
 # Ready (basic) [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  

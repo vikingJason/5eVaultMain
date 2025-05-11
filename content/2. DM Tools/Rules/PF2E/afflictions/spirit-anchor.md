@@ -1,7 +1,6 @@
 ---
 aliases:
   - Spirit Anchor
-tags: []
 ---
 # Spirit Anchor
 *Curse 13*  

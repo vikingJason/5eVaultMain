@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 # Feywild Overview
 

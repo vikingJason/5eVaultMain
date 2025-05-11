@@ -1,7 +1,6 @@
 ---
 aliases:
   - Hunt the Animals
-tags: []
 ---
 # Hunt the Animals
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

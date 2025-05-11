@@ -1,7 +1,6 @@
 ---
 aliases:
   - Harvest Heartsliver
-tags: []
 ---
 # Harvest Heartsliver [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [rare](rules/traits/rare.md "Rare Rarity Trait")  

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Poison Sedum
-tags: []
 ---
 # Poison Sedum
 *Disease 1*  

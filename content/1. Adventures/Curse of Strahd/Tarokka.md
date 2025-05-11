@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### 1 - Tome of Strahd
 

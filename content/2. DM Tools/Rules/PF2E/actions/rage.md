@@ -1,7 +1,6 @@
 ---
 aliases:
   - Rage
-tags: []
 ---
 # Rage [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [emotion](rules/traits/emotion.md "Emotion Effect Trait")  [mental](rules/traits/mental.md "Mental Effect Trait")  

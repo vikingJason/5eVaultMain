@@ -1,7 +1,4 @@
 ---
-created: 2025-02-22T16:22:18 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/equipmenT/goods-and-services/animals-animal-gear/
 author: 
 ---
 

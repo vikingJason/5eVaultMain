@@ -3,7 +3,6 @@ Type:
   - Area
   - placeholder
 Region: placeholder
-tags: []
 ---
 # Mandorcai's Mansion
 ## Overview

@@ -1,3 +1,6 @@
+---
+{}
+---
 **Using a Magic Item You Are Not Attuned to:** You gain only the normal benefits of the item (if you grab a magic shield that requires attunement, it only give you the benefits of a normal shield).
 
 **How to Attune:** Spend a short rest focused only on that item while being in physical contact with it.

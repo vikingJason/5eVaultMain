@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Adventuring Services
 
 | Service            | Pay                  |

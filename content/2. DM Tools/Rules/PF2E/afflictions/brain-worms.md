@@ -1,7 +1,6 @@
 ---
 aliases:
   - Brain Worms
-tags: []
 ---
 # Brain Worms
 *Disease 11*  

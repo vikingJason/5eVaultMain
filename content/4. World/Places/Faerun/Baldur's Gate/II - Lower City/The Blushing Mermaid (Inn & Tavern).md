@@ -2,7 +2,6 @@
 Quality: Average
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # The Blushing Mermaid (Inn & Tavern)
 ## Overview

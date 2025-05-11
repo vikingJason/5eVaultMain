@@ -1,7 +1,6 @@
 ---
 aliases:
   - Unexpected Patrol
-tags: []
 ---
 # Unexpected Patrol
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

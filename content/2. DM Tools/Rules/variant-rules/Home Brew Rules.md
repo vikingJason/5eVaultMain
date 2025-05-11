@@ -1,3 +1,6 @@
+---
+{}
+---
 
 # Rules: Homebrew/Clarification 
 
@@ -75,7 +78,7 @@ When you take damage from any source that deals more than half of your current H
 | --------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1         | The creature drops to 0 hit points.                                                                                       |
 | 2-3       | The creature drops to 0 hit points but is stable.                                                                         |
-| 4-5       | The creature is [[Stunned]] until the end of its next turn.              |
+| 4-5       | The creature is [[content/2. DM Tools/Rules/Conditions/Stunned]] until the end of its next turn.              |
 | 6-7       | The creature can't take reactions and has disadvantage on attack rolls and ability checks until the end of its next turn. |
 | 8-10      | The creature can't take reactions until the end of its next turn.                                                         |
 
@@ -120,13 +123,13 @@ The attacker has disadvantage on its attack roll if the target is holding the it
 #### Mark
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
-When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[Incapacitated]] condition or the [[shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
+When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[content/2. DM Tools/Rules/Conditions/Incapacitated]] condition or the [[shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
 #### Overrun
 When a creature tries to move through a hostile creature's space, the mover can try to force its way through by overrunning the hostile creature. As an action or a bonus action, the mover makes a Strength ([[Athletics - Strength]]) check contested by the hostile creature's Strength ([[Athletics - Strength]]) check. The creature attempting the overrun has advantage on this check if it is larger than the hostile creature, or disadvantage if it is smaller. If the mover wins the contest, it can move through the hostile creature's space once this turn.
 
 #### Shove Aside
-With this option, a creature uses the special [[shove]] attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[Athletics - Strength]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
+With this option, a creature uses the special [[content/2. DM Tools/Rules/PF2E/traits/shove]] attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[Athletics - Strength]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
 
 #### Tumble
 A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([[Acrobatics - Dexterity]]) check contested by the hostile creature's Dexterity ([[Acrobatics - Dexterity]]) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
@@ -148,7 +151,7 @@ While adjacent to a willing ally, you can use your reaction to grab them by the 
 
 ### Pulling From Below
 
-If you are at least 5 feet below your target, your target is your size or smaller, and you aren't [[Grappled]] or [[Restrained]], you gain an expertise die on [[Strength]] checks and saving throws made against it.
+If you are at least 5 feet below your target, your target is your size or smaller, and you aren't [[content/2. DM Tools/Rules/Conditions/Grappled]] or [[content/2. DM Tools/Rules/Conditions/Restrained]], you gain an expertise die on [[Strength]] checks and saving throws made against it.
 
 <br>
 

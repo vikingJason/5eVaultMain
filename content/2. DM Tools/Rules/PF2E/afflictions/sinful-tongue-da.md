@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sinful Tongue
-tags: []
 ---
 # Sinful Tongue
 *Curse 7*  

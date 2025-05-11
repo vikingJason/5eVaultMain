@@ -1,7 +1,6 @@
 ---
 aliases:
   - Drive
-tags: []
 ---
 # Drive [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
 [move](rules/traits/move.md "Move Combat Trait")  

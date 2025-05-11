@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-book
-tags: []
 aliases:
   - gods-of-the-inner-sea
 ---

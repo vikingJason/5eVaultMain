@@ -1,7 +1,4 @@
 ---
-created: 2025-02-24T07:49:58 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/Gamemastering/
 author: 
 ---
 

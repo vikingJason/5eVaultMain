@@ -1,7 +1,6 @@
 ---
 aliases:
   - Quick Tincture
-tags: []
 ---
 # Quick Tincture [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [investigator](rules/traits/investigator-apg.md "Investigator Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

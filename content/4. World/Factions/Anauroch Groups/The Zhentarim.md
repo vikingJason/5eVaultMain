@@ -6,7 +6,6 @@ Alignment: Lawful Evil
 parent:
   - Anauroch Groups
 Region: placeholder
-tags: []
 ---
 # The Zhentarim
 ## Overview

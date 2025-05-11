@@ -1,7 +1,6 @@
 ---
 aliases:
   - Bubonic Plague
-tags: []
 ---
 # Bubonic Plague
 *Disease 3*  

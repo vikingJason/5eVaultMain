@@ -1,3 +1,6 @@
+---
+{}
+---
 # Armor
 
 The durability of your armor is a combination of the style of armor and its [[Materials]]. Less durable materials, such as cloth and leather, are comfortable, lightweight, and inexpensive but struggle to turn a hit. Metals may turn a hit more easily, but require more physical strength to wear and cost more coin. The different styles of armor are outlined below.
@@ -56,16 +59,16 @@ Helms fit over your head to protect your skull, though in exchange they limit yo
 
 **Helm (12g, 4lbs).** This hard leather or metal covering protects the head but not the face, with the exception of a strip over the nose. While wearing this helm you gain an [[expertise die]] on saving throws made to resist being [stunned]) or [rattled]) , and your passive Perception score is reduced by 2.
 
-**Visored Helm (25gp, 8 lbs).** This helm covers the entirety of the head, including the face; the visor may be moved out of the way of the face as an object interaction, in which case the visored helm functions as a standard helm. While wearing a visored helm you gain an [[expertise die]] on saving throws made to resist being [[charmed]] , [[stunned]] , or [[rattled]] , and your passive Perception score is reduced by 5. Additionally, whenever you take damage from falling, you reduce that damage by 5.
+**Visored Helm (25gp, 8 lbs).** This helm covers the entirety of the head, including the face; the visor may be moved out of the way of the face as an object interaction, in which case the visored helm functions as a standard helm. While wearing a visored helm you gain an [[expertise die]] on saving throws made to resist being [[content/2. DM Tools/Rules/Conditions/Charmed]] , [[content/2. DM Tools/Rules/Conditions/Stunned]] , or [[rattled]] , and your passive Perception score is reduced by 5. Additionally, whenever you take damage from falling, you reduce that damage by 5.
 
 
 #### Helms
 
 Helms fit over your head to protect your skull, though in exchange they limit your vision and hearing. No proficiency is required to wear a helm.
 
-**Helm (12g, 4lbs).** This hard leather or metal covering protects the head but not the face, with the exception of a strip over the nose. While wearing this helm you gain an expertise die on saving throws made to resist being [[Stunned]], and your passive Perception score is reduced by 2.
+**Helm (12g, 4lbs).** This hard leather or metal covering protects the head but not the face, with the exception of a strip over the nose. While wearing this helm you gain an expertise die on saving throws made to resist being [[content/2. DM Tools/Rules/Conditions/Stunned]], and your passive Perception score is reduced by 2.
 
-**Visored Helm (25gp, 8 lbs).** This helm covers the entirety of the head, including the face; the visor may be moved out of the way of the face as an object interaction, in which case the visored helm functions as a standard helm. While wearing a visored helm you gain an expertise die on saving throws made to resist being [[Charmed]] or [[Stunned]], and your passive Perception score is reduced by 5. Additionally, whenever you take damage from falling, you reduce that damage by 5.
+**Visored Helm (25gp, 8 lbs).** This helm covers the entirety of the head, including the face; the visor may be moved out of the way of the face as an object interaction, in which case the visored helm functions as a standard helm. While wearing a visored helm you gain an expertise die on saving throws made to resist being [[content/2. DM Tools/Rules/Conditions/Charmed]] or [[content/2. DM Tools/Rules/Conditions/Stunned]], and your passive Perception score is reduced by 5. Additionally, whenever you take damage from falling, you reduce that damage by 5.
 
 
 ---

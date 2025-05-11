@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wizard's Ward
-tags: []
 ---
 # Wizard's Ward
 *Curse 6*  

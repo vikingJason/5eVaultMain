@@ -1,7 +1,6 @@
 ---
 aliases:
   - Wind Them Up
-tags: []
 ---
 # Wind Them Up [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

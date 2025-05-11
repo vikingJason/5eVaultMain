@@ -1,7 +1,6 @@
 ---
 aliases:
   - Scarlet Fever
-tags: []
 ---
 # Scarlet Fever
 *Disease 1*  

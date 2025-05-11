@@ -1,7 +1,6 @@
 ---
 aliases:
   - Reconnoiter
-tags: []
 ---
 # Reconnoiter
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  

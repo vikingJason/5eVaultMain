@@ -1,7 +1,6 @@
 ---
 aliases:
   - Scarlet Leprosy
-tags: []
 ---
 # Scarlet Leprosy
 *Disease 4*  

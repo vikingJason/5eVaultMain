@@ -1,7 +1,6 @@
 ---
 aliases:
   - Build Connections
-tags: []
 ---
 # Build Connections
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Contact Steel Falcons
-tags: []
 ---
 # Contact Steel Falcons
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

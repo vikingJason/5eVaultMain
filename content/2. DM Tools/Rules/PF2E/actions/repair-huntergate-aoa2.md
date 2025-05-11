@@ -1,7 +1,6 @@
 ---
 aliases:
   - Repair Huntergate
-tags: []
 ---
 # Repair Huntergate
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

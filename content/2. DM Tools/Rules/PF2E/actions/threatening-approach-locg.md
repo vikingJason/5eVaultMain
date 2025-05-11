@@ -1,7 +1,6 @@
 ---
 aliases:
   - Threatening Approach
-tags: []
 ---
 # Threatening Approach [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 *Source: Lost Omens: Character Guide p. 57*  

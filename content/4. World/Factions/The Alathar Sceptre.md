@@ -9,7 +9,6 @@ urbanArea:
 leader: 
 size: unknown
 structure: 
-tags: []
 ---
 > [!Overview] 
 > #   `=this.file.name`

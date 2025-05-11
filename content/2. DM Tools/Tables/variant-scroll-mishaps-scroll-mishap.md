@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-note
-tags: []
 aliases:
   - "Variant: Scroll Mishaps; Scroll Mishap"
 ---

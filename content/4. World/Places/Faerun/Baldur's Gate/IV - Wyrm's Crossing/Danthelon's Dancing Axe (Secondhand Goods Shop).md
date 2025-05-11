@@ -2,7 +2,6 @@
 Quality: Average
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Danthelon's Dancing Axe (Secondhand Goods Shop)
 ## Overview

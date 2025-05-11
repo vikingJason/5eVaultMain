@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ``` mermaid
 timeline

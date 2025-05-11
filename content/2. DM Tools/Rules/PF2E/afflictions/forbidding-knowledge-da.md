@@ -1,7 +1,6 @@
 ---
 aliases:
   - Forbidding Knowledge
-tags: []
 ---
 # Forbidding Knowledge
 *Curse 10*  

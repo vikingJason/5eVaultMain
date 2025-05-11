@@ -1,7 +1,4 @@
 ---
-created: 2025-02-22T14:16:21 (UTC +11:00)
-tags: []
-source: https://www.5esrd.com/gamemastering/conditions/
 author: 
 ---
 

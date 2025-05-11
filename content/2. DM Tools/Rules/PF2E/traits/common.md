@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-trait
-tags: []
 aliases:
   - Common
 ---

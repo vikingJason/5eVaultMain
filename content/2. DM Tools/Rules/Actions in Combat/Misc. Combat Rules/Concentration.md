@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Concentration
 
@@ -13,4 +13,4 @@ The following factors break Concentration.
 
 ***Damage*.** If you take damage, you must succeed on a Constitution saving throw to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
 
-***Incapacitated or Dead*.** Your Concentration ends if you have the [[Incapacitated]] condition or you die.
+***Incapacitated or Dead*.** Your Concentration ends if you have the [[content/2. DM Tools/Rules/Conditions/Incapacitated]] condition or you die.

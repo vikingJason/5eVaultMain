@@ -1,7 +1,6 @@
 ---
 aliases:
   - Explode
-tags: []
 ---
 # Explode [>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Two-Action")
 [fire](rules/traits/fire.md "Fire Energy & Element Trait")  [inventor](rules/traits/inventor-g-g.md "Inventor Class Trait")  [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  [unstable](rules/traits/unstable-g-g.md "Unstable  Trait")  

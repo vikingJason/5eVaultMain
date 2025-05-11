@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Difficult Terrain
 

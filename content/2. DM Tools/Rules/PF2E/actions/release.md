@@ -1,7 +1,6 @@
 ---
 aliases:
   - Release
-tags: []
 ---
 # Release (basic) [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [manipulate](rules/traits/manipulate.md "Manipulate General Trait")  

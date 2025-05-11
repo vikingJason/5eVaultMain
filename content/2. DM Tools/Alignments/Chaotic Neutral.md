@@ -1,7 +1,6 @@
 ---
 Alignment: Chaotic Neutral
 Type: Alignment
-tags: []
 ---
 
 - Will keep his word, unless breaking it brings them substantial benefits.

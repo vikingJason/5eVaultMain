@@ -1,5 +1,4 @@
 ---
-tags: []
 aliases:
   - Price of a Contract; Fey Desires for Lesser Contracts
 ---

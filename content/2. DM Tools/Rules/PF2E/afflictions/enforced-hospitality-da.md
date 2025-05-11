@@ -1,7 +1,6 @@
 ---
 aliases:
   - Enforced Hospitality
-tags: []
 ---
 # Enforced Hospitality
 *Curse 13*  

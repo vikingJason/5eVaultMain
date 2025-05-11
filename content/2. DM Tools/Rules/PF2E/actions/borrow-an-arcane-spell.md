@@ -1,7 +1,6 @@
 ---
 aliases:
   - Borrow an Arcane Spell
-tags: []
 ---
 # Borrow an Arcane Spell (basic)
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

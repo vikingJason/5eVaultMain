@@ -1,7 +1,6 @@
 ---
 aliases:
   - Covered Reload
-tags: []
 ---
 # Covered Reload [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  
@@ -10,4 +9,4 @@ tags: []
 **Class** gunslinger; **Subclass** Sniper
 - **Activity**: Single Action
 
-You duck into a safe position or minimize your profile while reloading to make your next attack. Either [Take Cover](rules/actions/take-cover.md) or attempt to [Hide](rules/actions/hide.md), then [Interact](rules/actions/interact.md) to reload. As normal, you must meet the requirements to [Take Cover](rules/actions/take-cover.md) or [Hide](rules/actions/hide.md); you must be [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone), benefiting from cover, or near a feature that allows you to [Take Cover](rules/actions/take-cover.md), and you need to be benefiting from cover or [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) to a creature to [Hide](rules/actions/hide.md) from that creature.
+You duck into a safe position or minimize your profile while reloading to make your next attack. Either [Take Cover](rules/actions/take-cover.md) or attempt to [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md), then [Interact](rules/actions/interact.md) to reload. As normal, you must meet the requirements to [Take Cover](rules/actions/take-cover.md) or [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md); you must be [prone](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Prone), benefiting from cover, or near a feature that allows you to [Take Cover](rules/actions/take-cover.md), and you need to be benefiting from cover or [concealed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Concealed) to a creature to [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md) from that creature.

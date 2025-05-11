@@ -1,7 +1,4 @@
 ---
-created: 2025-02-16T14:33:28 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/alternative-rule-systems/critical-hits-alternative-system/
 author: 
 ---
 

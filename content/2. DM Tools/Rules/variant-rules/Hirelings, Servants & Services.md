@@ -1,3 +1,6 @@
+---
+{}
+---
 # Followers
 
 As adventurers gain fame and experience they start to attract followers. Followers come from all walks of life, from minstrels and cooks to soldiers and sages.
@@ -30,7 +33,7 @@ Known for assorted tonics and serums, apothecaries are sometimes mistaken for al
 
 **Inexperienced.** Once per day, an ally treated by the apothecary can make a new saving throw against a poison or disease.
 
-**Seasoned.** Once per day, the apothecary can use an antidote to automatically end the [[Poisoned]] condition on an ally.
+**Seasoned.** Once per day, the apothecary can use an antidote to automatically end the [[content/2. DM Tools/Rules/Conditions/Poisoned]] condition on an ally.
 
 **Expert.** Once per week, the apothecary provides one medicinal of your choosing worth no more than 100 gold. The medicinal must be used within 24 hours or it loses potency.
 

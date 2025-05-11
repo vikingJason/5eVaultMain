@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Tannery
@@ -15,7 +13,6 @@ ownerName: Gearwin
 apprentices:
   - No apprentices
 services: 
-tags: []
 ---
 
 

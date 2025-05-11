@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 https://gnomestew.com/a-super-simple-system-for-contacts-in-dd-5e-or-nearly-any-other-game/
 

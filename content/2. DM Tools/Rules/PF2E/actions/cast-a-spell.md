@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cast a Spell
-tags: []
 ---
 # Cast a Spell (basic) [V](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Varies")
 *Source: Core Rulebook p. 302*  

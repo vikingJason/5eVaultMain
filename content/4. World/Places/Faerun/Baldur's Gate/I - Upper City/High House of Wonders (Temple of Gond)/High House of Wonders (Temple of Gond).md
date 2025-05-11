@@ -3,7 +3,6 @@ Type:
   - Area
   - placeholder
 Region: placeholder
-tags: []
 ---
 # High House of Wonders (Temple of Gond)
 ## Overview

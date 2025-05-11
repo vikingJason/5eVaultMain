@@ -1,7 +1,6 @@
 ---
 aliases:
   - Take a Breather
-tags: []
 ---
 # Take a Breather
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

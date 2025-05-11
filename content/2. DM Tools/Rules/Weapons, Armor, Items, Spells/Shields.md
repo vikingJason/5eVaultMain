@@ -1,3 +1,6 @@
+---
+{}
+---
 # Shields
 
 Shields can range from a dueller’s fencing buckler to the tower shields of mercenary armies. You may wield two shields, but only gain the defensive benefits of one shield at a time. When it is used to attack, a shield is treated as an improvised weapon that deals **1d4** bludgeoning damage. 
@@ -8,7 +11,7 @@ Shields can range from a dueller’s fencing buckler to the tower shields of mer
 
 **Heavy.** Heavy shields increase your Armor Class by 2 and you gain an expertise die on [[Dexterity]] saving throws. When you take the Dodge action while wielding a heavy shield, you may instead take cover behind your shield, gaining an expertise die to your Armor Class until the start of your turn. You have disadvantage on [[Dexterity]] ([[Acrobatics - Dexterity]]) and [[Dexterity]] ([[Stealth - Dexterity]]) checks while wielding a heavy shield, and you cannot squeeze through spaces smaller than your size category.
 
-**Tower.** Tower shields share the properties of a heavy shield. These shields cover the entire body and reduce your Speed by 10 feet. On your turn, you may use an object interaction to plant it in the ground, gaining half cover (+2 bonus to AC, [[Dexterity]] saving throws, and ability checks made to hide) and advantage on saving throws made to resist being shoved or knocked [[Prone]] and while you remain behind it. Unplanting a tower shield requires a bonus action.
+**Tower.** Tower shields share the properties of a heavy shield. These shields cover the entire body and reduce your Speed by 10 feet. On your turn, you may use an object interaction to plant it in the ground, gaining half cover (+2 bonus to AC, [[Dexterity]] saving throws, and ability checks made to hide) and advantage on saving throws made to resist being shoved or knocked [[content/2. DM Tools/Rules/Conditions/Prone]] and while you remain behind it. Unplanting a tower shield requires a bonus action.
 
 Tower shields are bulky items, and count as such even when donned.
 

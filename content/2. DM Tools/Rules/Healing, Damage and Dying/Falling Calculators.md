@@ -13,11 +13,9 @@ dicenum: "2"
 drop_DC: 30
 drop_DC_half: 15
 drop_dmg: 3
-acr: 5
 fall_dmg: 15
 dex_save: 11
 obsidianUIMode: preview
-tags: []
 ---
 # Falling Calculators
 
@@ -76,7 +74,7 @@ When a creature make a conscious drop to a lower level that risks damaging the c
 
 ###### **Variant Rule:** Landing Prone (fall)
 > [!infobox]
-> # Landing [[Prone]]
+> # Landing [[content/2. DM Tools/Rules/Conditions/Prone]]
 > | | |
 > | -| :-: |
 > | Fall damage | `INPUT[number(class(nb-mb-55)):fall_dmg]`
@@ -84,4 +82,4 @@ When a creature make a conscious drop to a lower level that risks damaging the c
 > | DC | `VIEW[round(sqrt(10*{fall_dmg}), 0)]`
 > | **Prone?** | **`VIEW[{dex_save} >= round(sqrt(10*{fall_dmg}), 0) ? "No" : "Yes"]`**
 
-Even when a creature unwillingly falls, they might be able to use some of the momentum to get back up standing at the end of their fall. To determine if the creature ends its fall prone, roll a Dexterity Saving Throw against the square root of 10 times the fall damage taken. On a success, the creature is not prone. On a failure, the creature is [[Prone]].
+Even when a creature unwillingly falls, they might be able to use some of the momentum to get back up standing at the end of their fall. To determine if the creature ends its fall prone, roll a Dexterity Saving Throw against the square root of 10 times the fall damage taken. On a success, the creature is not prone. On a failure, the creature is [[content/2. DM Tools/Rules/Conditions/Prone]].

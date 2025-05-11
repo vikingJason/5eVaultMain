@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Leatherworker
@@ -15,7 +13,6 @@ ownerName: Stitchbot
 apprentices:
   - No apprentices
 services: 
-tags: []
 ---
 
 

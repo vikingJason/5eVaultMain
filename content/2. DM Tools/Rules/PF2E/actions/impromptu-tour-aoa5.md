@@ -1,7 +1,6 @@
 ---
 aliases:
   - Impromptu Tour
-tags: []
 ---
 # Impromptu Tour
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ## Vision
 
@@ -23,7 +23,7 @@ A creature with tremorsense can detect and pinpoint the origin of vibrations wit
 
 ### Truesight
 
-Truesight enables a creature to see in normal and magical Darkness, see [[Invisible]] Creatures and Objects, automatically detect visual illusions and succeed on Saving Throws against them, and perceives the original form of a Shapechanger or a creature that is transformed by magic out to a specific range. Furthermore, the creature can see into the Ethereal Plane.
+Truesight enables a creature to see in normal and magical Darkness, see [[content/2. DM Tools/Rules/Conditions/Invisible]] Creatures and Objects, automatically detect visual illusions and succeed on Saving Throws against them, and perceives the original form of a Shapechanger or a creature that is transformed by magic out to a specific range. Furthermore, the creature can see into the Ethereal Plane.
 
 ### Outdoor Visibility
 

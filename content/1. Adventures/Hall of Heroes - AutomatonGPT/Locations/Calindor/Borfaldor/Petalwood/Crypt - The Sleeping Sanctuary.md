@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Undertaker
@@ -15,7 +13,6 @@ ownerName: Mortimer Grimwood
 apprentices:
   - No apprentices
 services: 
-tags: []
 ---
 
 

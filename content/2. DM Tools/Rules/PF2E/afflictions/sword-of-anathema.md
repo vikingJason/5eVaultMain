@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sword of Anathema
-tags: []
 ---
 # Sword of Anathema
 *Curse 20*  

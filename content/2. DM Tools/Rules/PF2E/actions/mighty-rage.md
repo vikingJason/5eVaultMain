@@ -1,7 +1,6 @@
 ---
 aliases:
   - Mighty Rage
-tags: []
 ---
 # Mighty Rage [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [barbarian](rules/traits/barbarian.md "Barbarian Class Trait")  

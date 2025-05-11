@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 # THE LAZY DM’S WORKBOOK
 

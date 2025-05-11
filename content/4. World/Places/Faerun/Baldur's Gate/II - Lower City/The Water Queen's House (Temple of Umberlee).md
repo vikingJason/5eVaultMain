@@ -3,7 +3,6 @@ Type:
   - Facility
   - placeholder
 Region: placeholder
-tags: []
 ---
 # The Water Queen's House (Temple of Umberlee)
 ## Overview

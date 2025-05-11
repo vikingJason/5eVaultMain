@@ -1,7 +1,6 @@
 ---
 Alignment: Chaotic Good
 Type: Alignment
-tags: []
 ---
 
 - Will keep his word to any other good persons.

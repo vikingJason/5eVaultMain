@@ -1,7 +1,6 @@
 ---
 Alignment: Lawful Neutral
 Type: Alignment
-tags: []
 ---
 
 - Will always keep their word.

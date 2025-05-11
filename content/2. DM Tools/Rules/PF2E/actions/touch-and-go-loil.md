@@ -1,7 +1,6 @@
 ---
 aliases:
   - Touch and Go
-tags: []
 ---
 # Touch and Go [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

@@ -3,7 +3,6 @@ parent:
   - Waterdeep
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Red Sashes
 ## Overview

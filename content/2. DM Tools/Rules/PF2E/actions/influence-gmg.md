@@ -1,7 +1,6 @@
 ---
 aliases:
   - Influence
-tags: []
 ---
 # Influence
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [linguistic](rules/traits/linguistic.md "Linguistic Effect Trait")  

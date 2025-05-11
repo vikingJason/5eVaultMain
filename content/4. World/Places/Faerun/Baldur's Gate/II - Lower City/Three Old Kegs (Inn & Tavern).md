@@ -2,7 +2,6 @@
 Quality: Superior
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Three Old Kegs (Inn & Tavern)
 ## Overview

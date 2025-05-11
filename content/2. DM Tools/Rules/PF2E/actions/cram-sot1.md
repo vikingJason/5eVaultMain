@@ -1,7 +1,6 @@
 ---
 aliases:
   - Cram
-tags: []
 ---
 # Cram
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

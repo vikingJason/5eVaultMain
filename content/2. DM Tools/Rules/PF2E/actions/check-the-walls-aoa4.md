@@ -1,7 +1,6 @@
 ---
 aliases:
   - Check the Walls
-tags: []
 ---
 # Check the Walls
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  [secret](rules/traits/secret.md "Secret General Trait")  

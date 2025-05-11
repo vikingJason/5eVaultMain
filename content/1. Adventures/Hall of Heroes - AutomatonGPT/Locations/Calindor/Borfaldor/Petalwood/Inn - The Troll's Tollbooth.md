@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Inn
@@ -14,7 +12,6 @@ ownerName: Martha Evergreen
 apprentices:
   - No apprentices
 Region: Borfaldor
-tags: []
 ---
 
 # `=this.file.name`

@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 # Animal Handling
 

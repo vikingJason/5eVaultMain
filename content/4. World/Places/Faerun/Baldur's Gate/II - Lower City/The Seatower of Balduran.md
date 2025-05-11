@@ -3,7 +3,6 @@ Type:
   - Area
   - placeholder
 Region: placeholder
-tags: []
 ---
 # The Seatower of Balduran
 ## Overview

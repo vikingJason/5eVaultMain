@@ -1,7 +1,6 @@
 ---
 aliases:
   - Master Strike
-tags: []
 ---
 # Master Strike [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [incapacitation](rules/traits/incapacitation.md "Incapacitation Effect Trait")  [rogue](rules/traits/rogue.md "Rogue Class Trait")  

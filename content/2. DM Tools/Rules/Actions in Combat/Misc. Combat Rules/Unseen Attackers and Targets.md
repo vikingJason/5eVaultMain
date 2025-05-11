@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Unseen Attackers and Targets
 

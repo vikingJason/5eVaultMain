@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### **The High Council of the Silver Dragons**
 

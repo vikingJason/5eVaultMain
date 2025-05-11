@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Resting and Recovery
 ### Breather
 Taking a breather is a short period of rest, at least 5 minutes long, after a strenuous activity. During that time you may rest, slake your thirst and hunger, or check on a single wound and bandage it.

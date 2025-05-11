@@ -1,7 +1,6 @@
 ---
 aliases:
   - Trip
-tags: []
 ---
 # Trip (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [attack](rules/traits/attack.md "Attack Combat Trait")  

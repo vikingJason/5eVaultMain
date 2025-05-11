@@ -1,7 +1,6 @@
 ---
 aliases:
   - Unending Thirst
-tags: []
 ---
 # Unending Thirst
 *Curse 15*  

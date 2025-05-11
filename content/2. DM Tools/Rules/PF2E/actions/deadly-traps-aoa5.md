@@ -1,7 +1,6 @@
 ---
 aliases:
   - Deadly Traps
-tags: []
 ---
 # Deadly Traps
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

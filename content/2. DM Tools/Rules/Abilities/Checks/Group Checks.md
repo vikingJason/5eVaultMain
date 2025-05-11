@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 When a number of individuals are trying to accomplish something as a group, the DM might ask for a group ability check. In such a situation, the characters who are skilled at a particular task help cover those who aren't.
 

@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 The "Nullstone Prison" is a high-security facility located on a remote island in the middle of a vast ocean. It was built by a powerful archmage as a place to incarcerate the most dangerous magical criminals and otherworldly beings. The prison is a massive stone fortress with walls that are over 50 feet high and protected by a powerful anti-magic field that covers the entire island.
 

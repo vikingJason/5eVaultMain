@@ -1,9 +1,9 @@
 ---
-tags: []
+{}
 ---
 # Paralyzed
 
-A paralyzed creature is [[Incapacitated]] and can’t move or speak.
+A paralyzed creature is [[content/2. DM Tools/Rules/Conditions/Incapacitated]] and can’t move or speak.
 
 The creature automatically fails [[Strength]] and [[Dexterity]] saving throws.
 

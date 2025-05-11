@@ -1,7 +1,6 @@
 ---
 aliases:
   - Obnubilate Curse
-tags: []
 ---
 # Obnubilate Curse
 *Curse 10*  

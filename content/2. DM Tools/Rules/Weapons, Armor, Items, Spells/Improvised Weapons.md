@@ -1,3 +1,6 @@
+---
+{}
+---
 ## Improvised Weapons
 
 Sometimes you won’t have your weapons ready at hand. An improvised weapon includes a tankard, a wagon tongue, or a dead (or alive!) creature that you can lift and wield as a weapon.

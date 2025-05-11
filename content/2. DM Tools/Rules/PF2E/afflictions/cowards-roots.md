@@ -1,7 +1,6 @@
 ---
 aliases:
   - Coward's Roots
-tags: []
 ---
 # Coward's Roots
 *Curse 4*  

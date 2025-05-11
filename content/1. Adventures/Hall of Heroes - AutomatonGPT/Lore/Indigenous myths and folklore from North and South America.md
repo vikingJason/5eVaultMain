@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 Certainly! Indigenous myths and folklore from North and South America offer incredible opportunities for creating rich and diverse Feywild settings. Below are creatures, myths, and lore inspired by Indigenous stories, adapted with respect to their cultural roots, focusing on the spiritual connection to nature, the supernatural, and the unique perspectives on creation, transformation, and balance.
 

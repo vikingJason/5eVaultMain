@@ -1,7 +1,6 @@
 ---
 obsidianUIMode: preview
 draft: true
-tags: []
 ---
 
 

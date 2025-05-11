@@ -1,5 +1,4 @@
 ---
-cssclass: oRPGPage
 Role:
   - organization
 organizationType: Arcane Society
@@ -19,7 +18,6 @@ benefits:
     reward: Respect
   - standing: 3
     reward: What do they get at level 3?
-tags: []
 ---
 
 #   `=this.file.name`

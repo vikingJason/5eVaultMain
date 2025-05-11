@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sellsword's Folly
-tags: []
 ---
 # Sellsword's Folly
 *Curse 9*  

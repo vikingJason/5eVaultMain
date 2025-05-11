@@ -1,7 +1,6 @@
 ---
 aliases:
   - Curse of Slumber
-tags: []
 ---
 # Curse of Slumber
 *Curse 11*  

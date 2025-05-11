@@ -1,6 +1,5 @@
 ---
 Race: Human
-Age: Adult
 Class: Fighter
 Type: placeholder
 Region: placeholder

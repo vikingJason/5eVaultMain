@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Herbs and Plants
 

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ghast Fever
-tags: []
 ---
 # Ghast Fever
 *Disease 1*  

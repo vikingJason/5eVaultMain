@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 # Art Objects 250gp
 

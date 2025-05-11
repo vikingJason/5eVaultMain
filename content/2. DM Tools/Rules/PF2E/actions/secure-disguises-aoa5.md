@@ -1,7 +1,6 @@
 ---
 aliases:
   - Secure Disguises
-tags: []
 ---
 # Secure Disguises
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

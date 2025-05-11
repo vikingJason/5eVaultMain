@@ -1,7 +1,6 @@
 ---
 aliases:
   - Influence Guild
-tags: []
 ---
 # Influence Guild
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

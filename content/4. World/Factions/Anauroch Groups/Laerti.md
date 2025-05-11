@@ -6,7 +6,6 @@ Type:
 parent:
   - Anauroch Groups
 Region: placeholder
-tags: []
 ---
 # Laerti
 ## Overview

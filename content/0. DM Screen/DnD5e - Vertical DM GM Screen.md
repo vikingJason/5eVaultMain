@@ -1,6 +1,5 @@
 ---
 obsidianUIMode: preview
-tags: []
 ---
 
 
@@ -37,22 +36,22 @@ tags: []
 >  [[Survival - Wisdom]]
 
 > [!info]- Conditions
->  [[Blinded]]
->  [[Charmed]]
->  [[Deafened]]
->  [[Exhaustion]]
->  [[Frightened]]
->  [[Grappled]]
->  [[Incapacitated]]
->  [[Invisible]]
->  [[Paralyzed]]
->  [[Petrified]]
->  [[Poisoned]]
->  [[Prone]]
->  [[Restrained]]
->  [[Stunned]]
->  [[Unconscious]]
->  [[Wounded]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Blinded]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions/Charmed]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Deafened]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions/Exhaustion]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Frightened]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions/Grappled]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions/Incapacitated]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Invisible]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Paralyzed]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Petrified]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions/Poisoned]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Prone]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Restrained]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Stunned]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Unconscious]]
+>  [[content/2. DM Tools/Rules/Conditions/Conditions 1/Wounded]]
 
 > [!info]- Combat Actions
 > [[content/2. DM Tools/Rules/Actions in Combat/Misc. Combat Rules/actions#Actions#Activate an Item|Activate an Item]]

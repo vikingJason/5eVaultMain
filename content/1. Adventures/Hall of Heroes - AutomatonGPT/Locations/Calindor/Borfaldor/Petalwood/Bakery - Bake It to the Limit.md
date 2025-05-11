@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Baker
@@ -14,7 +12,6 @@ ownerName: Thistledown Whisperwind
 apprentices:
   - No apprentices
 Region: Borfaldor
-tags: []
 ---
 
 

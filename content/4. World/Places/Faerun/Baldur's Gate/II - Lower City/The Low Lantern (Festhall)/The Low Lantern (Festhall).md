@@ -4,7 +4,6 @@ Owner:
   - - Laraelra Thundreth (Low Lantern)
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # The Low Lantern (Festhall)
 ## Overview

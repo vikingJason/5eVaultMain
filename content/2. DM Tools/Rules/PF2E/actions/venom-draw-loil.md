@@ -1,7 +1,6 @@
 ---
 aliases:
   - Venom Draw
-tags: []
 ---
 # Venom Draw [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 *Source: Lost Omens: Impossible Lands p. 60*  

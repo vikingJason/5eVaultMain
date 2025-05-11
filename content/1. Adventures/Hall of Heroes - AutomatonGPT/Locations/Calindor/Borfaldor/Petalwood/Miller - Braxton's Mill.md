@@ -1,5 +1,4 @@
 ---
-cssclass: oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Miller
@@ -18,7 +17,6 @@ services:
   - Miller( Low   quality, Below Average  costs)
   - Harvester( Average   quality, Above Average  costs)
 Region: '"[[Borfaldor]]"'
-tags: []
 ---
 
 

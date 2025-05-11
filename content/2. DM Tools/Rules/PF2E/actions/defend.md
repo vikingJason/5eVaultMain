@@ -1,7 +1,6 @@
 ---
 aliases:
   - Defend
-tags: []
 ---
 # Defend (basic)
 [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

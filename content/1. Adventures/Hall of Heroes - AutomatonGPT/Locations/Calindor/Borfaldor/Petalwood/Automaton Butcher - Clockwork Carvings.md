@@ -1,6 +1,4 @@
 ---
-cssclasses:
-  - oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Butcher
@@ -15,7 +13,6 @@ ownerName: Gearsley
 apprentices:
   - No apprentices
 services: 
-tags: []
 ---
 
 

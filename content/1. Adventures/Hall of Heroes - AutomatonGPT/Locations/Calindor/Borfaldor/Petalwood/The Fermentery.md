@@ -8,7 +8,6 @@ wardName: Brewer's Quarter
 title: The Fermentery
 ownerName: Llerwyn
 services: Brewing Custom Orders, Tasting Sessions, Distilling Rare Spirits, Brewery Tours
-tags: []
 ---
 
 # **The Fermentery**

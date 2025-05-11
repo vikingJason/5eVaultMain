@@ -1,7 +1,6 @@
 ---
 aliases:
   - Curse of Biting Swarms
-tags: []
 ---
 # Curse of Biting Swarms
 *Curse 5*  

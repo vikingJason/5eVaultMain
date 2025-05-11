@@ -2,7 +2,6 @@
 Quality: Poor
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Elfsong Tavern (Tavern)
 ## Overview

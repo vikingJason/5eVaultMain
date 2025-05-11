@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 Welcome back to Calindor!
 

@@ -1,3 +1,6 @@
+---
+{}
+---
 ```timeline
 SessionJournals
 ```

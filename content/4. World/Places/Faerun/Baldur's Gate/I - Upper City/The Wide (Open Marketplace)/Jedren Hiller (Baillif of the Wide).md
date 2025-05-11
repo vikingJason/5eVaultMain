@@ -1,7 +1,6 @@
 ---
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Jedren Hiller (Baillif of the Wide)
 ## Professional Life

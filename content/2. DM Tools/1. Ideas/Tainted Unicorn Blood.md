@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 In Dungeons & Dragons, tainted unicorn blood can have various effects on characters, often depending on the context of the campaign and the Dungeon Master's narrative. Here are some possible effects of coming into contact with tainted unicorn blood:
 

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Spring the Trap
-tags: []
 ---
 # Spring the Trap [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

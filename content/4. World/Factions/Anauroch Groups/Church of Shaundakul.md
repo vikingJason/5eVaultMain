@@ -7,7 +7,6 @@ Religious-Organization: Religion
 parent:
   - Anauroch Groups
 Region: placeholder
-tags: []
 ---
 # Church of Shaundakul
 ## Overview

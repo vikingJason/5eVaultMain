@@ -1,7 +1,6 @@
 ---
 Alignment: Neutral Evil
 Type: Alignment
-tags: []
 ---
 
 - Will not necessarily keep his word to anyone.

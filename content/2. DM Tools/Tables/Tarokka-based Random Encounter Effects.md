@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ## Full Card and Effects List
 

@@ -1,17 +1,8 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
-tags: []
 Political-Region: Nation
 Alignment: Chaotic Evil
 parent:
   - Region_ Political
-up:
-  - Region_ Political
-prev:
-  - Template - Region_ Geographical
-next:
-  - Template - Region_ Area
-RWtopicId: Topic_26
 Region: "[[content/1. Adventures/Hall of Heroes - AutomatonGPT/Locations/Calindor/Calindor|Calindor]]"
 Type:
   - Region

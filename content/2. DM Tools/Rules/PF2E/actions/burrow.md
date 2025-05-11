@@ -1,7 +1,6 @@
 ---
 aliases:
   - Burrow
-tags: []
 ---
 # Burrow (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
 [move](rules/traits/move.md "Move Combat Trait")  

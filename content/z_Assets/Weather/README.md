@@ -1,1 +1,4 @@
+---
+{}
+---
 # Images for Weather Generator

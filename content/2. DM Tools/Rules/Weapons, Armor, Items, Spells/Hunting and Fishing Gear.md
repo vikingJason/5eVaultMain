@@ -1,7 +1,4 @@
 ---
-created: 2025-02-22T15:44:13 (UTC +11:00)
-tags: []
-source: https://www.d20pfsrd.com/equipment/goods-and-services/hunting-camping-survival-geaR/
 author: 
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ## Notable Areas
 

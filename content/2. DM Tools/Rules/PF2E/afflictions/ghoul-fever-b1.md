@@ -1,7 +1,6 @@
 ---
 aliases:
   - Ghoul Fever
-tags: []
 ---
 # Ghoul Fever
 *Disease 1*  

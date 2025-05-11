@@ -2,7 +2,6 @@
 Urban-Region: Borough
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Gray Harbor
 ## Overview

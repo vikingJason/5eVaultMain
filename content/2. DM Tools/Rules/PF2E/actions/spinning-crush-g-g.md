@@ -1,7 +1,6 @@
 ---
 aliases:
   - Spinning Crush
-tags: []
 ---
 # Spinning Crush [>>>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Three-Action")
 [gunslinger](rules/traits/gunslinger-g-g.md "Gunslinger Class Trait")  

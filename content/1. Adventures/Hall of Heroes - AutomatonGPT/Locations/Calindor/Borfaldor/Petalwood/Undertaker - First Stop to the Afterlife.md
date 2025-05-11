@@ -1,5 +1,4 @@
 ---
-cssclass: oRPGPage
 fileType: structure
 structureType: Profession
 merchantType: Undertaker
@@ -18,7 +17,6 @@ services:
   - Elected Official( Good   quality, High  costs)
   - Town Justice( Average   quality, Above Average  costs)
 Region: '"[[Borfaldor]]"'
-tags: []
 ---
 
 

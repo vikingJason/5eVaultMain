@@ -2,7 +2,6 @@
 Type: Military
 parent:
   - Group_ Military
-tags: []
 ---
 # Hammer of Moradin
 ## Overview

@@ -1,3 +1,6 @@
+---
+{}
+---
 # **Donning and Doffing Armor**
 
 The time it takes to don or doff armor depends on the armor’s category.

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Call to Axis
-tags: []
 ---
 # Call to Axis [F](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Free Action")
 [fortune](rules/traits/fortune.md "Fortune Effect Trait")  

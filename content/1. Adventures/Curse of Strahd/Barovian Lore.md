@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ### Barovian Lore
 

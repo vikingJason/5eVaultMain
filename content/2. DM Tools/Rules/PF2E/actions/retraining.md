@@ -1,7 +1,6 @@
 ---
 aliases:
   - Retraining
-tags: []
 ---
 # Retraining (basic)
 [downtime](rules/traits/downtime.md "Downtime Action & Ability Trait")  

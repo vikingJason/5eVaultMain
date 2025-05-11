@@ -1,7 +1,6 @@
 ---
 aliases:
   - Reviling Earth
-tags: []
 ---
 # Reviling Earth
 *Curse 12*  

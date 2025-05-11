@@ -1,7 +1,6 @@
 ---
 aliases:
   - Graveknight's Curse
-tags: []
 ---
 # Graveknight's Curse
 *Curse 1*  

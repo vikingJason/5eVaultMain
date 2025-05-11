@@ -1,7 +1,6 @@
 ---
 aliases:
   - Map the Area
-tags: []
 ---
 # Map the Area
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  

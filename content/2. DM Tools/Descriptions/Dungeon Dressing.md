@@ -1,5 +1,5 @@
 ---
-tags: []
+{}
 ---
 ## Dungeon Dressing
 

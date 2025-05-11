@@ -8,7 +8,6 @@ wardName:
 title: True As Copper
 ownerName: "[[Forge (Automaton)]]"
 services: Weaponsmithing, Armorsmithing, Tool Repair
-tags: []
 ---
 
 # **True As Copper**

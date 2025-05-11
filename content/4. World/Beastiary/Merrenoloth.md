@@ -5,7 +5,6 @@ Size: Medium
 Type: Fiend
 parent:
   - Yugoloths
-tags: []
 ---
 # Merrenoloth
 ## Overview

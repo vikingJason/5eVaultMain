@@ -1,10 +1,8 @@
 ---
 Race: Human
-Age: Adult
 Class: Rogue
 Type: placeholder
 Region: placeholder
-tags: []
 ---
 # Fruwald the Nail
 ## Overview

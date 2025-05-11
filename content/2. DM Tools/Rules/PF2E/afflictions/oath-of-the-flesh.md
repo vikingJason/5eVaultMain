@@ -1,7 +1,6 @@
 ---
 aliases:
   - Oath of the Flesh
-tags: []
 ---
 # Oath of the Flesh
 *Curse 7*  

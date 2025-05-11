@@ -3,7 +3,6 @@ role: Creature
 size: Large
 type: Monstrosity
 alignment: Chaotic Neutral
-tags: []
 ---
 
 # **Rhinotaur**

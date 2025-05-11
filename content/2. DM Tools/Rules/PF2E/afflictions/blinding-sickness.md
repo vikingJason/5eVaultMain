@@ -1,7 +1,6 @@
 ---
 aliases:
   - Blinding Sickness
-tags: []
 ---
 # Blinding Sickness
 *Disease 7*  

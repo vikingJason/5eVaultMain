@@ -1,7 +1,6 @@
 ---
 aliases:
   - Call on Ancient Blood
-tags: []
 ---
 # Call on Ancient Blood [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
 *Source: Core Rulebook p. 35*  

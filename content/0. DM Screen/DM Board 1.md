@@ -2,7 +2,6 @@
 obsidianUIMode: preview
 dg-home: false
 dg-publish: false
-tags: []
 ---
 # DM Screen
 

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Learn a Spell
-tags: []
 ---
 # Learn a Spell (basic)
 [concentrate](rules/traits/concentrate.md "Concentrate Action & Ability Trait")  [exploration](rules/traits/exploration.md "Exploration Action & Ability Trait")  

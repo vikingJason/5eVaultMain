@@ -1,7 +1,5 @@
 ---
 obsidianUIMode: preview
-cssclasses: pf2e,pf2e-note
-tags: []
 aliases:
   - Conditions
 ---
@@ -132,7 +130,7 @@ This condition reflects a creature's disposition toward a particular character, 
 ## Hidden
 _Source: Core Rulebook p. 620_
 
-While you're hidden from a creature, that creature knows the space you're in but can't tell precisely where you are. You typically become hidden by using [Stealth](compendium/skills.md#Stealth) to [Hide](rules/actions/hide.md). When [Seeking](rules/actions/seek.md) a creature using only imprecise senses, it remains [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden), rather than [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed). A creature you're [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) from is [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to you, and it must succeed at a DC 11 flat check when targeting you with an attack, spell, or other effect or it fails affect you. Area effects aren't subject to this flat check.
+While you're hidden from a creature, that creature knows the space you're in but can't tell precisely where you are. You typically become hidden by using [Stealth](compendium/skills.md#Stealth) to [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md). When [Seeking](rules/actions/seek.md) a creature using only imprecise senses, it remains [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden), rather than [observed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Observed). A creature you're [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) from is [flat-footed](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Flat-footed) to you, and it must succeed at a DC 11 flat check when targeting you with an attack, spell, or other effect or it fails affect you. Area effects aren't subject to this flat check.
 
 A creature might be able to use the [Seek](rules/actions/seek.md) action to try to observe you, as described on page 471.
 
@@ -159,7 +157,7 @@ While invisible, you can't be seen. You're [undetected](content/2.%20DM%20Tools/
 ## Observed
 _Source: Core Rulebook p. 621_
 
-Anything in plain view is observed by you. If a creature takes measures to avoid detection, such as by using [Stealth](compendium/skills.md#Stealth) to [Hide](rules/actions/hide.md), it can become [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) or [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) instead of observed. If you have another precise sense instead of or in addition to sight, you might be able to observe a creature or object using that sense instead. You can observe a creature only with precise senses. When Seeking a creature using only imprecise senses, it remains [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden), rather than observed.
+Anything in plain view is observed by you. If a creature takes measures to avoid detection, such as by using [Stealth](compendium/skills.md#Stealth) to [Hide](content/2.%20DM%20Tools/Rules/Rules/Actions/Hide.md), it can become [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden) or [undetected](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Undetected) instead of observed. If you have another precise sense instead of or in addition to sight, you might be able to observe a creature or object using that sense instead. You can observe a creature only with precise senses. When Seeking a creature using only imprecise senses, it remains [hidden](content/2.%20DM%20Tools/Rules/Conditions/Conditions.md#Hidden), rather than observed.
 
 ## Paralyzed
 _Source: Core Rulebook p. 621_
