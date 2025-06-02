@@ -1,9 +1,0 @@
----
-obsidianUIMode: preview
-aliases:
-  - Eldritch Mind
----
-# Eldritch Mind
-*Source: Tasha's Cauldron of Everything p. 71*  
-
-You have advantage on Constitution saving throws that you make to maintain your [concentration](2-Mechanics/CLI/rules/conditions.md#concentration) on a spell.

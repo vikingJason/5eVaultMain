@@ -34,7 +34,7 @@ The party meet in the city of Phlan at Madame Freona|Madame Freona's Tea Kettle.
 The party run off to investigate a Goblin infested cave that has been terrorising the town. 
 
 ### Summary 
-The party meet in the city of Phlan at [[Madame Freona|Madame Freona's]] Tea Kettle. It's a place where adventurers can find work and avoid the hassle associated with other places in Phlan. So far, that has been true. [[Madame Freona]], a stout and officious [[Halfling]] who runs the establishment with her five daughters, has proven an excellent hostess.
+The party meet in the city of Phlan at [[Madame Freona|Madame Freona's]] Tea Kettle. It's a place where adventurers can find work and avoid the hassle associated with other places in Phlan. So far, that has been true. [[Madame Freona]], a stout and officious [[halfling]] who runs the establishment with her five daughters, has proven an excellent hostess.
 
 It didn't take long for the party to be offered some work. 
 

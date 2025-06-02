@@ -51,7 +51,7 @@ _%>
 > Size | `=this.size` |
 > Region | `=this.region` |
 > ###### Travel (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[content/2. DM Tools/Rules/Conditions/Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
+> ###### [[Travel Calculator]]  / [[content/0. DM Screen/Rules/Conditions/Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
 > Destination |  Travel Days  |
 > ---|---|
 > [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |

@@ -16,7 +16,7 @@ Factions: placeholder
 
 **Seat of Power**: King Foxlyn Nordall
 
-**Major Races/Ethnicities**: [[Aasimar]], [[Dragonborn]], [[Genasi]], [[3. Mechanics/Races/Goliath|Goliath]], [[Halfling]], [[Human]]
+**Major Races/Ethnicities**: [[Aasimar]], [[Dragonborn]], [[Genasi]], [[3. Mechanics/Races/Goliath|Goliath]], [[halfling]], [[human]]
 
 **Government**: Placeholder
 
@@ -28,7 +28,7 @@ Factions: placeholder
 ## Description
 
 
-The Kingdom of Erradirn is a large country with a huge population of [[Aasimar]], [[Dragonborn]], [[Genasi]], [[3. Mechanics/Races/Goliath|Goliath]], [[Halfling]], [[Human]]
+The Kingdom of Erradirn is a large country with a huge population of [[Aasimar]], [[Dragonborn]], [[Genasi]], [[3. Mechanics/Races/Goliath|Goliath]], [[halfling]], [[human]]
 
 Bordered between Kiduzia to the West, Borfaldor to the South, Oshnog to the East and The Abyss of Cressano to the North,
 

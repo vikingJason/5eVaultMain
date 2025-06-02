@@ -18,7 +18,7 @@ Exports:
   - Lumber
   - Tobacco
   - Vegetables
-Race: "[[Elf]]"
+Race: "[[elf]]"
 Religion: "[[elven-darahl-tilvenar]]"
 Ruler: "[[Finroth Tilvenar]]"
 Title: Mayor

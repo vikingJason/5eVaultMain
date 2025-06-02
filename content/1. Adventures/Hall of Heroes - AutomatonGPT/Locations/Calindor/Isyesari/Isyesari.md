@@ -16,7 +16,7 @@ Factions: placeholder
 
 **Seat of Power**: Conciliator Darthorimor Balmenor
 
-**Major Races/Ethnicities**: [[Elf]], [[Gnome]], [[Half-Elf]], [[Fairy]], [[3. Mechanics/Races/Satyr|Satyr]], Shadar-kai
+**Major Races/Ethnicities**: [[elf]], [[gnome]], [[half-elf]], [[Fairy]], [[3. Mechanics/Races/Satyr|Satyr]], Shadar-kai
 
 **Government**: Placeholder
 
@@ -28,7 +28,7 @@ Factions: placeholder
 ## Description
 
 
-The Commonwealth of Iseyesari is a large country with a huge population of [[Elf]], [[Gnome]], [[Half-Elf]], [[Fairy]], [[3. Mechanics/Races/Satyr|Satyr]], Shadar-kai
+The Commonwealth of Iseyesari is a large country with a huge population of [[elf]], [[gnome]], [[half-elf]], [[Fairy]], [[3. Mechanics/Races/Satyr|Satyr]], Shadar-kai
 
 Bordered between The Emerald Waves to the West, Kiduzia to the North, Erradirn to the North East and Borfaldor to the East,
 

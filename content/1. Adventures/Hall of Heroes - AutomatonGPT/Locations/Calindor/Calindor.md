@@ -13,7 +13,7 @@ Military:
 Factions: 
 Imports: 
 Exports: 
-Race: "[[Elf]]"
+Race: "[[elf]]"
 Religion: 
 Ruler: 
 Title: 

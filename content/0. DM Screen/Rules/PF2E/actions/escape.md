@@ -1,0 +1,17 @@
+---
+aliases:
+  - Escape
+---
+# Escape (basic) [>](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Single Action")
+[attack](rules/traits/attack.md "Attack Combat Trait")  
+*Source: Core Rulebook p. 470*  
+
+
+- **Activity**: Single Action
+
+You attempt to escape from being [grabbed](content/0.%20DM%20Screen/Rules/Conditions/Conditions.md#Grabbed), [immobilized](content/0.%20DM%20Screen/Rules/Conditions/Conditions.md#Immobilized), or [restrained](content/0.%20DM%20Screen/Rules/Conditions/Conditions.md#Restrained). Choose one creature, object, spell effect, hazard, or other impediment imposing any of those conditions on you. Attempt a check using your unarmed attack modifier against the DC of the effect. This is typically the [Athletics](compendium/skills.md#Athletics) DC of a creature grabbing you, the [Thievery](compendium/skills.md#Thievery) DC of a creature who tied you up, the spell DC for a spell effect, or the listed [Escape](content/0.%20DM%20Screen/Rules/Actions/Escape.md) DC of an object, hazard, or other impediment. You can attempt an [Acrobatics](compendium/skills.md#Acrobatics) or [Athletics](compendium/skills.md#Athletics) check instead of using your attack modifier if you choose (but this action still has the [attack](rules/traits/attack.md "Attack Combat Trait") trait).
+
+> [!success-degree] 
+> - **Critical Success** You get free and remove the [grabbed](content/0.%20DM%20Screen/Rules/Conditions/Conditions.md#Grabbed), [immobilized](content/0.%20DM%20Screen/Rules/Conditions/Conditions.md#Immobilized), and [restrained](content/0.%20DM%20Screen/Rules/Conditions/Conditions.md#Restrained) conditions imposed by your chosen target. You can then [Stride](rules/actions/stride.md) up to 5 feet.
+> - **Success** You get free and remove the [grabbed](content/0.%20DM%20Screen/Rules/Conditions/Conditions.md#Grabbed), [immobilized](content/0.%20DM%20Screen/Rules/Conditions/Conditions.md#Immobilized), and [restrained](content/0.%20DM%20Screen/Rules/Conditions/Conditions.md#Restrained) conditions imposed by your chosen target.
+> - **Critical Failure** You don't get free, and you can't attempt to [Escape](content/0.%20DM%20Screen/Rules/Actions/Escape.md) again until your next turn.

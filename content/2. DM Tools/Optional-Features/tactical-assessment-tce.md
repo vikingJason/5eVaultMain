@@ -1,9 +1,0 @@
----
-obsidianUIMode: preview
-aliases:
-  - Tactical Assessment
----
-# Tactical Assessment
-*Source: Tasha's Cauldron of Everything p. 42*  
-
-When you make an Intelligence ([Investigation](2-Mechanics/CLI/rules/skills.md#Investigation)), an Intelligence ([History](2-Mechanics/CLI/rules/skills.md#History)), or a Wisdom ([Insight](2-Mechanics/CLI/rules/skills.md#Insight)) check, you can expend one superiority die and add the superiority die to the ability check.
