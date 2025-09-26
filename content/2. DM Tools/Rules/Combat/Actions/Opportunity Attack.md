@@ -1,10 +1,7 @@
 ---
-
 noteType: combatAction
 gamesystem:
-
-* D\&D
-
+  - D&D
 ---
 
 ### Opportunity Attack
