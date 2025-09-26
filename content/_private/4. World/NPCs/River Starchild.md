@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[xtktcp5i.aay.png|Portrait]]
+![[public/4.-World/Places/zz_asset-files/xtktcp5i.aay.png|Portrait]]
 [[2. World/Places/zz_asset-files/xtktcp5i.aay.png|open outside]]
 
 River Starchild

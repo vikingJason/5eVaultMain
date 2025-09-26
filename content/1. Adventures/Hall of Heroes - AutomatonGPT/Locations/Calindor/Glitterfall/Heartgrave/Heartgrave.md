@@ -39,8 +39,8 @@ Not only this but there has been a growing sentiment of civil unrest, constant p
 
 
 ### Map
-![[Map-Scrantonia.jpeg]]
-[[Map-Scrantonia.jpeg|open outside]]
+![[public/4.-World/Places/zz_asset-files/Map-Scrantonia.jpeg]]
+[[public/4.-World/Places/zz_asset-files/Map-Scrantonia.jpeg|open outside]]
 
 
 

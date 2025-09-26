@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[55l4lcz0.1tw.png|Portrait]]
+![[public/4.-World/Places/zz_asset-files/55l4lcz0.1tw.png|Portrait]]
 [[2. World/Places/zz_asset-files/55l4lcz0.1tw.png|open outside]]
 
 Mysterioso

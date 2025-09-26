@@ -31,8 +31,8 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[r2vcxxtr.who.png|Portrait]]
-[[r2vcxxtr.who.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/r2vcxxtr.who.png|Portrait]]
+[[public/4.-World/Places/zz_asset-files/r2vcxxtr.who.png|open outside]]
 
 Sophronia "Sophie" Cullen
 

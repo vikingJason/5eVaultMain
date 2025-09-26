@@ -1,5 +1,10 @@
 ---
+table: true
+tableType:
+  - dice
+  - template
 ---
+
 `dice: [[Insert Rollable Table]]^TableName]]`
 
 | d10 | -   |
@@ -14,4 +19,5 @@
 | 8   |     |
 | 9   |     |
 | 10  |     |
-^TableName
+
+^TableNameD10

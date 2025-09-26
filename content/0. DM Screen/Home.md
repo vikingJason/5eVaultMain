@@ -5,17 +5,93 @@ draft: true
 
 
 > [!cards|4]
-> **Map-Faerun**
-> !Northern Faerun Map.jpg\|sban htiny ctr (Lampoteuo)
+> **[[Calindor_Map.jpg]]**
+> [![[Borfaldor_Map.png\|sban htiny ctr]]](Borfaldor.md)
 > 
-> **Link**
-> !JourneyBoard.png\|sban htiny ctr  (Journey%20Board)
+> **[[Link]]**
+> !JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
 >
-> **Link**
+> **[[Link]]**
 > !AdventureIcon.png\|sban htiny ctr]]](Lampoteuo)
 > 
-> **Link**
-> !PartyLogo.jpg\|sban htiny ctr p+t]]|](Party%201%2FExample%20Party%201)
+> **[[Link]]**
+> [![[Party 1.jpg\|sban htiny ctr p+t]]](Players.md)
+
+## 📚 Chapter Links
+```dataviewjs
+const targetFolder = "content/1. Adventures"; // Update to your folder path
+
+try {
+    const folder = app.vault.getFolderByPath(targetFolder);
+    
+    if (!folder) {
+        dv.paragraph(`❌ Folder not found: "${targetFolder}"`);
+    } else {
+        // Get all subfolders
+        const subfolders = (folder.children || []).filter(item => item.children);
+        
+        // Find matching folder notes
+        const folderData = subfolders.map(subfolder => {
+            const expectedNotePath = `${subfolder.path}/${subfolder.name}.md`;
+            const note = app.vault.getAbstractFileByPath(expectedNotePath);
+            return {
+                folder: subfolder,
+                note: note,
+                exists: !!note,
+                path: expectedNotePath
+            };
+        });
+        
+        // Separate existing and missing notes
+        const existingNotes = folderData.filter(x => x.exists);
+        const missingNotes = folderData.filter(x => !x.exists);
+        
+        // Display existing notes as headers
+        if (existingNotes.length > 0) {
+            existingNotes.forEach(fn => {
+                dv.header(4, `[[${fn.note.path}|${fn.folder.name}]]`);
+            });
+        }
+        
+        // Display missing notes section
+        if (missingNotes.length > 0) {
+            missingNotes.forEach(mn => {
+                dv.paragraph(`❌ ${mn.folder.name} ([[${mn.path}|create]])`);
+            });
+            
+            // Create button for missing notes
+            const btn = this.container.createEl('button', {
+                text: 'Create All Missing Notes',
+                cls: 'mod-cta'
+            });
+            
+            btn.addEventListener('click', async () => {
+                for (const mn of missingNotes) {
+                    try {
+                        await app.vault.create(mn.path, `# ${mn.folder.name}\n\n## Summary\n\n## NPCs\n\n## Locations\n\n## Plot Points`);
+                        dv.paragraph(`✅ Created: [[${mn.path}]]`);
+                    } catch (e) {
+                        dv.paragraph(`❌ Failed to create ${mn.path}: ${e.message}`);
+                    }
+                }
+                // Refresh the view after creation
+                setTimeout(() => { this.container.removeChild(btn) }, 1000);
+            });
+            
+            this.container.appendChild(btn);
+        }
+        
+        // Show message if no folder notes exist at all
+        if (folderData.length === 0) {
+            dv.paragraph(`No subfolders found in "${targetFolder}"`);
+        } else if (missingNotes.length === 0 && existingNotes.length > 0) {
+            dv.paragraph(`✅ All ${existingNotes.length} folder notes exist!`);
+        }
+    }
+} catch (error) {
+    dv.paragraph(`❌ Error: ${error.message}`);
+}
+```
 
 
 > [!infobox]

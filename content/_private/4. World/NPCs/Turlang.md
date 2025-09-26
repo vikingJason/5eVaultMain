@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Turlang (Pic)
-![[mxbdzvij.ruu.png|Turlang (Pic)]]
+![[public/4.-World/Places/zz_asset-files/mxbdzvij.ruu.png|Turlang (Pic)]]
 [[2. World/Places/zz_asset-files/mxbdzvij.ruu.png|open outside]]
 
 The primary caretaker of [[Shadowtop Cathedral]] is a xenophobic, moss-covered treant named Turlang. He visits the site only occasionally. When he's not at the cathedral, Turlang wanders the forest, frightening off interlopers. He has the statistics of a treant, with 200 hit points and the following additional feature.

@@ -1457,3 +1457,6 @@ Strahd is actively **weakening the Fanes**, making **ritual sites battlefields**
 
 Want **additional mechanics for the final battle with Strahd** later on?
 
+
+
+9

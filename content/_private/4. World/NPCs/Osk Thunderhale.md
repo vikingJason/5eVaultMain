@@ -29,8 +29,8 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Osk Thunderhale (Pic)
-![[ejhwodef.ozx.png|Osk Thunderhale (Pic)|300]]
-[[ejhwodef.ozx.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/ejhwodef.ozx.png|Osk Thunderhale (Pic)|300]]
+[[public/4.-World/Places/zz_asset-files/ejhwodef.ozx.png|open outside]]
 
 CN male 11- [[Luskan|luskan]] human bandit captain
 

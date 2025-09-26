@@ -14,8 +14,8 @@ The interior of [[Delborggan|the Blade]] and Stars is an unremarkable yet comfor
 [[200px-Final.png|open outside]]
 
 ### Aurayaun
-![[06d3f01e1da867b9e916ac01a7e0ae63.jpg|Aurayaun]]
-[[06d3f01e1da867b9e916ac01a7e0ae63.jpg|open outside]]
+![[public/4.-World/Places/zz_asset-files/06d3f01e1da867b9e916ac01a7e0ae63.jpg|Aurayaun]]
+[[public/4.-World/Places/zz_asset-files/06d3f01e1da867b9e916ac01a7e0ae63.jpg|open outside]]
 
 ## Goods and Services
 **Goods Sold**: Food and Drink

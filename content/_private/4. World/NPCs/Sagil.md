@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[aumhykhx.xfh.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/aumhykhx.xfh.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/aumhykhx.xfh.png|open outside]]
 
 Sagil

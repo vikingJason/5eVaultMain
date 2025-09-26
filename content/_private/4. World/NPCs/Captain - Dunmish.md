@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral #Character-Role/Supporting-Character
 
 ### Portrait
-![[ccd9d348e2f084d1d84de8e3e2f0b1f4.jpg|Portrait]]
+![[public/4.-World/Places/zz_asset-files/ccd9d348e2f084d1d84de8e3e2f0b1f4.jpg|Portrait]]
 [[2. World/Places/zz_asset-files/ccd9d348e2f084d1d84de8e3e2f0b1f4.jpg|open outside]]
 
 Captain Dunmish was an envoy from Icewind Dale who went to [[Neverwinter]] to recruit adventurers to fight Akar Kessel and the black ice menace. He is currently captain of the local guard.

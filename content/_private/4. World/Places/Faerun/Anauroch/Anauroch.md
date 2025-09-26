@@ -78,11 +78,11 @@ marker: default, 112.4, 58.4,[[The Smokeholes]]
 marker: default, 111.3, 40.0,[[The Taglorlar]]
 marker: default, 118.6, 71.1,[[Untrivvin]]
 ```
-[[2iq4zyvn.t4f.png|open outside]]
+[[public/4.-World/Places/zz_asset-files/2iq4zyvn.t4f.png|open outside]]
 
 ### Trade Routes of Anauroch
-![[ox2gw0rc.se1.png|Trade Routes of Anauroch|300]]
-[[ox2gw0rc.se1.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/ox2gw0rc.se1.png|Trade Routes of Anauroch|300]]
+[[public/4.-World/Places/zz_asset-files/ox2gw0rc.se1.png|open outside]]
 
 ### Inhabitants
 The only people to call Anauroch home were the nomadic Bedine tribes and a small Zhentarim garrison, tasked with patrolling and defending a line of oases along [[The Black Road|the Black Road]], the trade route that winded west from the ruins of Teshendale to Llorkh at the foot of the Graypeak Mountains. A diminutive people called the [[D'Tarig|D'tarig]] were the only other major inhabitants, who lived along the borders of the desert and interact somewhat with peoples from surrounding countries.

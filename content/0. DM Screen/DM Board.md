@@ -16,16 +16,14 @@ dg-publish: false
 > !AdventureIcon.png\|sban htiny ctr]]](Lampoteuo)
 > 
 > **[Link]]**
-> [![[Party 1.jpg\|sban htiny ctr p+t]]|](Players)
+> [![[Party 1.jpg\|sban htiny ctr p+t]]|](Players.md)
 
 
 <!-- QueryToSerialize: TABLE WITHOUT ID link(file.name) AS "Player", Pronouns, Gender, Race, Alignment, Class, Background, Religion FROM "content/4. World" WHERE contains(Role, "Player") -->
 <!-- SerializedQuery: TABLE WITHOUT ID link(file.name) AS "Player", Pronouns, Gender, Race, Alignment, Class, Background, Religion FROM "content/4. World" WHERE contains(Role, "Player") -->
 
-| Player                                       | Pronouns | Gender | Race    | Alignment       | Class    | Background | Religion |
-| -------------------------------------------- | -------- | ------ | ------- | --------------- | -------- | ---------- | -------- |
-| [[Nox]]     | \-       | \-     | Gnome   | Chaotic Neutral | Warlock  | \-         | \-       |
-| [[Reeva]] | \-       | \-     | Eladrin | Chaotic Good    | Sorceror | \-         | \-       |
+| Player | Pronouns | Gender | Race | Alignment | Class | Background | Religion |
+| ------ | -------- | ------ | ---- | --------- | ----- | ---------- | -------- |
 <!-- SerializedQuery END -->
 
 

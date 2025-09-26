@@ -21,8 +21,8 @@ Region: placeholder
 #Class/Fighter
 
 ### Portrait
-![[blaze.png|Portrait]]
-[[blaze.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/blaze.png|Portrait]]
+[[public/4.-World/Places/zz_asset-files/blaze.png|open outside]]
 
 ## Profile
 **Appearance Traits**: Unadorned

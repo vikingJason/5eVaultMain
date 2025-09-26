@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[jlrrmbmz.n0c.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/jlrrmbmz.n0c.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/jlrrmbmz.n0c.png|open outside]]
 
 Roberto Graviani

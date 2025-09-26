@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - noteType == "combatRules"
+        - and:
+            - gamesystem.contains("D&D")
+    order:
+      - file.name
+    sort: []

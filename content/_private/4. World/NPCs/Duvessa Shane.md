@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[adkkijbh.3gt.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/adkkijbh.3gt.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/adkkijbh.3gt.png|open outside]]
 
 

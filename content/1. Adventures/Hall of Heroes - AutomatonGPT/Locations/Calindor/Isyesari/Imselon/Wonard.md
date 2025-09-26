@@ -10,7 +10,7 @@ Factions: placeholder
 
 > [!infobox]+
 > # [[Name]]
-> ![[Map-Wonard.png|cover hsmall]]
+> ![[public/4.-World/Places/zz_asset-files/Map-Wonard.png|cover hsmall]]
 > [[content/z_Assets/Misc/ImagePlaceholder.png|Show To Players]]
 > ###### Geography
 > Type |  Stat |
@@ -50,7 +50,7 @@ Factions: placeholder
 
 
 ### Placeholder Map
-![[Map-Wonard.png|Placeholder Map]]
+![[public/4.-World/Places/zz_asset-files/Map-Wonard.png|Placeholder Map]]
 [[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
 
 ## Notable NPCs

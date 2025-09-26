@@ -73,7 +73,7 @@ marker: default, 190.8, 205.7,[[The Rose Portal (Shrine of Lathander)]]
 marker: default, 174.1, 169.6,[[The Unscrolling Scroll (Shrine of Oghma)]]
 marker: default, 137.5, 140.1,[[The Water Queen's House (Temple of Umberlee)]]
 ```
-[[zjkdgtsh.1ki.png|This is the more detailed of the city maps but it lacks the context of the surrounding areas. It is from the Forgotten Realms Atlas so it is a little older.]]
+[[public/4.-World/Places/zz_asset-files/zjkdgtsh.1ki.png|This is the more detailed of the city maps but it lacks the context of the surrounding areas. It is from the Forgotten Realms Atlas so it is a little older.]]
 
 ### Baldur's Gate and Surrounding Areas
 
@@ -123,7 +123,7 @@ marker: default, 126.6, 76.8,[[Shrine of Suffering (Shrine of Ilmater)]]
 marker: default, 134.1, 51.4,[[The Rose Portal (Shrine of Lathander)]]
 marker: default, 116.8, 48.5,[[The Unscrolling Scroll (Shrine of Oghma)]]
 ```
-[[mzuzjsze.t44.png|More recent map but less detail. From the Murder in Baldur's Gate PDF.]]
+[[public/4.-World/Places/zz_asset-files/mzuzjsze.t44.png|More recent map but less detail. From the Murder in Baldur's Gate PDF.]]
 
 ### The Five Districts of Baldur's Gate
 
@@ -143,11 +143,11 @@ marker: default, 12.5, 53.9,[[IV - Wyrm's Crossing]]
 marker: default, 16.6, 52.4,[[Wyrm's Rock]]
 marker: default, 37.2, 34.1,[[Little Calimshan]]
 ```
-[[PA130917.JPG|A general layout of the area with no detailed locations. From the Murder in Baldur's Gate PDF.]]
+[[public/4.-World/Places/zz_asset-files/PA130917.JPG|A general layout of the area with no detailed locations. From the Murder in Baldur's Gate PDF.]]
 
 ### Coat of Arms
-![[mjgnnsz0.1y4.png|Coat of Arms|300]]
-[[mjgnnsz0.1y4.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/mjgnnsz0.1y4.png|Coat of Arms|300]]
+[[public/4.-World/Places/zz_asset-files/mjgnnsz0.1y4.png|open outside]]
 
 The ship in the Baldur’s Gate coat of arms represents both the city’s role as a hub for river and ocean trade and its namesake, Balduran, an explorer who sailed west into the unknown and returned with great wealth. The calm sea symbolizes the Gate’s intent to be a peaceful power, and the clear, blue sky denotes optimism about its future. The frequent fogs and drizzling rains put the city’s coat of arms at the center of various jokes and sayings, such as uWhen the arms show true,” meaning never or rarely, and “Don’t forget your coat,” indicating clear and sunny weather. Meanwhile, sayings such as “The seas do roil” and “The ship is tipping” reference present danger or trouble on the way.
 
@@ -253,8 +253,8 @@ With the unprecedented simultaneous election of three dukes in the offing and th
 The commercial blood of Baldur’s Gate is channeled through its guarded gates. Eight gates allow traffic through the city walls. Three face outward from the city, five face inward toward the harbor, and one pro tects the [[Watch Citadel]]. Only the Citadel Gate houses no tax or toll collectors, because its use is restricted to [[V - The Watch|the Watch]]. The gate toll is a trivial amount for anyone of even modest means—a few coppers at most—but it does curtail the comings and goings of beggars and the very poor. Merchants who pass through a gate pay taxes on the goods they bring to market. All these fees are low individually, but so much commerce moves through Baldur’s Gate that transit fees fund much of the city’s needs.
 
 ### One of the many city gates
-![[tm420qcp.fgw.png|One of the many city gates|300]]
-[[tm420qcp.fgw.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/tm420qcp.fgw.png|One of the many city gates|300]]
+[[public/4.-World/Places/zz_asset-files/tm420qcp.fgw.png|open outside]]
 
 #### Citadel Gate
 Citadel Gate is the only entrance to [[V - The Watch|the Watch]]’s fortress and barracks, which nestles in a salient of the [[I - Upper City|Upper City]]’s landward wall. The gate has Watch soldiers on duty day and night. The Citadel is one of the few places inside the city walls that has [[Stables|stables]]. [[V - The Watch|The Watch]] maintains a small cavalry force, nominally for defense and crowd control, but its chief function is riding in parades and providing honor escorts for aristocrats and visiting dignitaries.

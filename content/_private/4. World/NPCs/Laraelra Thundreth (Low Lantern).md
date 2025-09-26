@@ -33,8 +33,8 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[weuuysgy.udh.png|Portrait|300]]
-[[weuuysgy.udh.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/weuuysgy.udh.png|Portrait|300]]
+[[public/4.-World/Places/zz_asset-files/weuuysgy.udh.png|open outside]]
 
 Captain of [[The Low Lantern (Festhall)|the Low Lantern]] in [[II - Lower City|Lower City]].
 

@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Stokely Silverstream (Pic)
-![[31oc3l3i.le0.png|Stokely Silverstream (Pic)|300]]
+![[public/4.-World/Places/zz_asset-files/31oc3l3i.le0.png|Stokely Silverstream (Pic)|300]]
 [[2. World/Places/zz_asset-files/31oc3l3i.le0.png|open outside]]
 
 Stokely Silverstream was the leader of the dwarven [[Clan Battlehammer]] that dwelt in [[Kelvin's Cairn]] in [[Icewind Dale]].

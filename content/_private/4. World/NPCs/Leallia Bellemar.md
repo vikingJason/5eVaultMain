@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[saioebkn.ccc.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/saioebkn.ccc.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/saioebkn.ccc.png|open outside]]
 
 Leallia Bellemar

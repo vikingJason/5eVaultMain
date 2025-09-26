@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[a0ers1og.ju2.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/a0ers1og.ju2.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/a0ers1og.ju2.png|open outside]]
 
 Hardy Harr

@@ -102,7 +102,7 @@ marker: default, 125.1, 165.4,[[Bellister's House (Warehouse)]]
 marker: default, 122.3, 165.6,[[Orm's Highbench (Business)]]
 marker: default, 121.1, 172.7,[[Athals's Stables (Business)]]
 ```
-[[Dock South Ward.PNG|open outside]]
+[[Dock South Ward.png|open outside]]
 
 ---
 ## Governed Content

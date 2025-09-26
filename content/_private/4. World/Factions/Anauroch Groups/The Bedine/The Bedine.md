@@ -105,8 +105,8 @@ At the center of the caravan ride the mothers and sisters. The wealthiest women 
 Around them, watched and guided by walking children and by women holding long reins, are the baggage camels, tribal belongings lashed to them with leather thongs. The women and children usually walk to avoid tiring the camels, but when a tribe is moving in haste, everyone rides camels, the youngest children clinging to the baggage atop the baggage camels. With everyone doubled up on camels, and the whole group moving at a deliberate, steady rate, a large tribe can cover as much as forty miles a day across the sands.
 
 ### Bedine Oasis
-![[2vrd0a0d.mjo.png|Bedine Oasis|300]]
-[[2vrd0a0d.mjo.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/2vrd0a0d.mjo.png|Bedine Oasis|300]]
+[[public/4.-World/Places/zz_asset-files/2vrd0a0d.mjo.png|open outside]]
 
 ### Warfare
 Bedine use scimitars, daggers, lances and arrows (all of which they may employ from camel-back) in their struggles against each other and other desert predators. Desert wind and heat shimmer (by day) and poor visibility (by night) limit the usefulness of archery at long range; most combat is decided at swords points.
@@ -120,8 +120,8 @@ The only reason that all the Bedine tribes are not constantly at each others thr
 Many Bedine have perished in hopeless fights they enter knowing death can be escaped only by some miracle. They go in, and die in vain, because it is a matter of honor for the entire tribe. This bravery makes them deadly foes-but it is also foolishness that allows non-Bedine opponents, such as [[The Zhentarim|the Zhentarim]], to lead the Bedine into disaster and defeat, over and ovrer again, once they have learned how the Bedine think and act.
 
 ### Desert Travel
-![[w3ntx1rz.ybv.png|Desert Travel|300]]
-[[w3ntx1rz.ybv.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/w3ntx1rz.ybv.png|Desert Travel|300]]
+[[public/4.-World/Places/zz_asset-files/w3ntx1rz.ybv.png|open outside]]
 
 ## Philosophy
 An outsiders view of any people is often distorted. This is especially true of the Bedine, for few folk of Faerun know enough of harsh desert conditions to understand why Bedine are as they are, and do as they do. Bedine are brown-skinned, proud, warlike humans, who live a nomadic, tribal existence in [[I - The Sword|the Sword]], the hot sand sea which makes up the southernmost part of [[1. Story World Almanac/Forgotten Realms/Toril/Faerun/1 - World Above/Anauroch]]. They dwell in tribes who will freely share food and water with those in need, but who otherwise carry on endless, deadly rivalries.

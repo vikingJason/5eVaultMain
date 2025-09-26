@@ -19,8 +19,8 @@ Region: placeholder
 #Class/Aristocrat #Class/Commoner
 
 ### Portrait
-![[dukesilvershield.png|Portrait]]
-[[dukesilvershield.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/dukesilvershield.png|Portrait]]
+[[public/4.-World/Places/zz_asset-files/dukesilvershield.png|open outside]]
 
 Leader of the city’s greatest patriar house, duke on [[I - The Council of Four|the Council of Four]], and head priest of its grandest temple of Chuch of Gond, Torlin Silvershield is one of the most power ful people in [[1. Story World Almanac/Forgotten Realms/Toril/Faerun/1 - World Above/Baldur's Gate/Baldur's Gate|Baldur’s Gate]]. Decades ago, Silvershield helped defend the city during Valarken’s coup and assisted in founding the [[III - Parliament of Peers|Parliament of Peers]]. He is a descendant of the great Entar Silvershield, a grand duke at the time when Ahdel Adrian defeated Sarevok.
 

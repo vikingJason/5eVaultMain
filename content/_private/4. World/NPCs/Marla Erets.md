@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[rthdguui.5lv.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/rthdguui.5lv.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/rthdguui.5lv.png|open outside]]
 
 Marla Erets

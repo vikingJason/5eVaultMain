@@ -66,8 +66,8 @@ The war between [[The Phaerimm|the Phaerimm]] and the Netherese was constantly d
 Almost immediately after Mystryl died, she was reincarnated as Mystra, the goddess of magic who retained her position until the Time of Troubles. Fortunately, she was able to save three of the falling Netherese cities: [[Anauria]], [[Asram]], and [[Hlondath]]. Two other cities, the Thultanthar (still in existence) and Opus (currently in the outer planes), were saved by Shar and Selûne respectively.   Almost all of the surviving Netherese forsook magic completely. The three cities saved by Mystra were later either destroyed or abandoned.
 
 ### The Fall of Netheril
-![[01i1a4tv.ra5.png|The Fall of Netheril|300]]
-[[01i1a4tv.ra5.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/01i1a4tv.ra5.png|The Fall of Netheril|300]]
+[[public/4.-World/Places/zz_asset-files/01i1a4tv.ra5.png|open outside]]
 
 ### Survivor States
 **[[Anauria]]**: The lands directly south of Netheril became the home of the Anaurians, who became renowned for creating fine swords and carrying on the magical legacy of Netheril. The lack of high-level magics and the mythallars severely hampered their efforts, however, and the kingdom was finally destroyed in a bloody and costly battle against an orc horde in 450 DR.

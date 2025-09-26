@@ -1377,3 +1377,354 @@
 [[2025-06-02]] 06:12 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
 [[2025-06-02]] 06:13 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
 [[2025-06-02]] 06:13 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-06-06]] 19:10 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-06-06]] 19:10 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-06-06]] 19:11 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-06-06]] 19:11 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-06-06]] 19:11 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-06-13]] 20:09 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-06-13]] 20:09 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-06-13]] 20:09 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-06-13]] 20:10 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-06-13]] 20:10 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-06-13]] 23:16 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-06-13]] 23:16 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-06-13]] 23:16 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-06-13]] 23:17 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-06-13]] 23:17 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-06-20]] 19:39 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-06-20]] 19:39 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-06-20]] 19:39 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-06-20]] 19:40 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-06-20]] 19:40 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-06-27]] 06:24 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-06-27]] 06:24 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-06-27]] 06:24 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-06-27]] 06:25 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-06-27]] 06:25 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-06-27]] 06:29 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-06-27]] 06:29 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-06-27]] 06:29 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-06-27]] 06:30 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-06-27]] 06:30 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-04]] 19:13 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-04]] 19:13 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-04]] 19:13 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-04]] 19:14 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-04]] 19:14 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-05]] 07:09 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-05]] 07:09 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-05]] 07:09 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-05]] 07:10 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-05]] 07:10 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-06]] 07:08 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-06]] 07:08 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-06]] 07:09 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-06]] 07:09 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-06]] 07:09 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-08]] 04:35 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-08]] 04:36 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-08]] 04:36 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-08]] 04:36 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-08]] 04:36 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-11]] 19:59 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-11]] 19:59 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-11]] 19:59 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-11]] 20:00 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-11]] 20:00 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-12]] 07:41 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-12]] 07:41 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-12]] 07:41 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-12]] 07:42 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-12]] 07:42 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-12]] 08:05 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-12]] 08:06 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-12]] 08:06 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-12]] 08:06 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-12]] 08:06 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-17]] 05:51 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-17]] 05:52 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-17]] 05:52 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-17]] 05:52 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-17]] 05:52 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-19]] 16:12 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-19]] 16:12 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-19]] 16:12 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-19]] 16:13 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-19]] 16:13 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-25]] 05:46 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-25]] 05:46 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-25]] 05:46 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-25]] 05:47 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-25]] 05:47 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-25]] 19:51 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-25]] 19:51 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-25]] 19:51 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-25]] 19:52 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-25]] 19:52 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-27]] 10:23 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-27]] 10:23 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-27]] 10:23 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-27]] 10:24 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-27]] 10:24 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-29]] 04:47 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-29]] 04:47 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-29]] 04:48 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-29]] 04:48 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-29]] 04:48 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-07-29]] 18:53 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-07-29]] 18:53 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-07-29]] 18:53 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-07-29]] 18:54 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-07-29]] 18:54 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-01]] 17:04 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-01]] 17:04 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-01]] 17:04 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-01]] 17:05 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-01]] 17:05 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-07]] 07:12 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-07]] 07:12 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-07]] 07:12 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-07]] 07:13 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-07]] 07:13 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-08]] 19:28 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-08]] 19:28 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-08]] 19:28 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-08]] 19:29 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-08]] 19:29 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-09]] 14:33 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-09]] 14:33 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-09]] 14:33 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-09]] 14:34 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-09]] 14:34 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-10]] 10:03 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-10]] 10:03 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-10]] 10:04 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-10]] 10:04 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-10]] 10:04 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-12]] 06:03 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-12]] 06:03 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-12]] 06:03 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-12]] 06:04 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-12]] 06:04 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-14]] 19:58 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-14]] 19:58 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-14]] 19:59 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-14]] 19:59 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-14]] 19:59 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-15]] 04:17 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-15]] 04:17 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-15]] 04:17 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-15]] 04:18 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-15]] 04:18 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-15]] 18:31 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-15]] 18:31 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-15]] 18:31 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-15]] 18:32 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-15]] 18:32 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-16]] 17:41 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-16]] 17:41 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-16]] 17:41 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-16]] 17:42 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-16]] 17:42 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-19]] 05:14 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-19]] 05:14 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-19]] 05:14 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-19]] 05:15 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-19]] 05:15 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-19]] 05:23 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-19]] 05:23 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-19]] 05:23 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-19]] 05:24 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-19]] 05:24 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-22]] 05:20 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-22]] 05:20 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-22]] 05:20 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-22]] 05:21 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-22]] 05:21 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-22]] 19:52 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-22]] 19:52 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-22]] 19:52 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-22]] 19:53 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-22]] 19:53 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-23]] 08:38 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-23]] 08:38 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-23]] 08:38 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-23]] 08:39 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-23]] 08:39 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-23]] 12:18 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-23]] 12:18 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-23]] 12:18 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-23]] 12:19 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-23]] 12:19 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-24]] 11:50 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-24]] 11:51 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-24]] 11:51 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-24]] 11:51 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-24]] 11:51 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-08-29]] 19:53 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-08-29]] 19:53 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-08-29]] 19:53 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-08-29]] 19:54 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-08-29]] 19:54 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-12]] 06:27 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-12]] 06:27 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-12]] 06:27 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-12]] 06:28 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-12]] 06:28 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-12]] 20:03 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-12]] 20:04 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-12]] 20:04 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-12]] 20:04 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-12]] 20:04 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 09:11 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 09:11 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 09:11 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 09:12 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 09:12 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 10:20 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 10:20 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 10:20 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 10:21 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 10:21 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 10:31 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 10:31 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 10:31 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 10:32 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 10:32 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 10:51 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 10:52 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 10:52 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 10:52 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 10:52 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 11:51 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 11:51 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 11:51 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 11:52 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 11:52 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 12:14 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 12:14 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 12:15 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 12:15 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 12:15 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 12:20 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 12:21 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 12:21 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 12:21 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 12:21 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 12:26 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 12:26 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 12:26 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 12:27 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 12:27 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 13:27 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 13:27 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 13:27 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 13:28 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 13:28 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 13:37 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 13:37 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 13:37 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 13:38 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 13:38 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 13:42 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 13:42 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 13:42 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 13:43 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 13:43 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 15:10 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 15:10 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 15:10 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 15:11 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 15:11 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 15:25 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 15:25 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 15:25 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 15:26 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 15:26 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 15:51 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 15:51 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 15:51 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 15:52 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 15:52 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 15:53 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 15:53 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 15:53 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 15:54 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 15:54 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 16:07 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 16:07 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 16:07 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 16:08 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 16:08 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 16:13 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 16:13 DESKTOP-EHJ38C8 Error updating plugin nothingislost/obsidian-bartender/: Request failed, status 404
+[[2025-09-19]] 16:13 DESKTOP-EHJ38C8 Removed nothingislost/obsidian-bartender/ from BRAT plugin list
+[[2025-09-19]] 16:19 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 16:19 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 16:20 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 16:20 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 17:16 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 17:16 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 17:18 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 17:18 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 17:19 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 17:20 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 17:20 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 17:20 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 17:47 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 17:47 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 17:48 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 17:48 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-19]] 17:55 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-19]] 17:55 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-19]] 17:56 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-19]] 17:56 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-20]] 08:02 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-20]] 08:02 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-20]] 08:03 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-20]] 08:03 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-20]] 08:15 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-20]] 08:15 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-20]] 08:16 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-20]] 08:16 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-20]] 08:22 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-20]] 08:22 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-20]] 08:23 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-20]] 08:23 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-20]] 08:32 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-20]] 08:32 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-20]] 08:33 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-20]] 08:33 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-20]] 08:35 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-20]] 08:36 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-20]] 08:36 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-20]] 08:36 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-20]] 08:40 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-20]] 08:42 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-21]] 06:50 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-21]] 06:50 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-21]] 06:51 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-21]] 06:51 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-21]] 07:02 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-21]] 07:02 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-21]] 07:03 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-21]] 07:03 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-21]] 07:05 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-21]] 07:05 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-21]] 07:06 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-21]] 07:06 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-21]] 07:11 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-21]] 07:11 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-21]] 07:16 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-21]] 07:16 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-21]] 07:17 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-21]] 07:17 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-21]] 09:04 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-21]] 09:04 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-21]] 09:05 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-21]] 09:05 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-09-26]] 19:54 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-09-26]] 19:54 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-09-26]] 19:55 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-09-26]] 19:55 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED

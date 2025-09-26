@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[p43tj5s4.mjg.png|Portrait]]
+![[public/4.-World/Places/zz_asset-files/p43tj5s4.mjg.png|Portrait]]
 [[2. World/Places/zz_asset-files/p43tj5s4.mjg.png|open outside]]
 
 Kyle Lawson

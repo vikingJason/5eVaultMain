@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[fbhanv5t.1bh.png|Portrait]]
+![[public/4.-World/Places/zz_asset-files/fbhanv5t.1bh.png|Portrait]]
 [[2. World/Places/zz_asset-files/fbhanv5t.1bh.png|open outside]]
 
 Izzy Moran
@@ -50,7 +50,7 @@ Street Hustler
 
 ## Profile
 ### Profile
-![[fi5dq0df.5sm.png|Profile|300]]
+![[public/4.-World/Places/zz_asset-files/fi5dq0df.5sm.png|Profile|300]]
 [[2. World/Places/zz_asset-files/fi5dq0df.5sm.png|open outside]]
 
 

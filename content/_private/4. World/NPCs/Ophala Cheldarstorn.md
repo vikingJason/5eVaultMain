@@ -29,8 +29,8 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Ophala Cheldarstorn (Pic)
-![[vaxq5w5j.hv5.png|Ophala Cheldarstorn (Pic)]]
-[[vaxq5w5j.hv5.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/vaxq5w5j.hv5.png|Ophala Cheldarstorn (Pic)]]
+[[public/4.-World/Places/zz_asset-files/vaxq5w5j.hv5.png|open outside]]
 
 Ophala Cheldarstorn is the covert owner of the [[Moonstone Mask]] as well as a respected member of the Many-Starred Cloak. Regarding the Harpers (as well as Elminster of [[Shadowdale]]) as allies, she counts the Arcane Brotherhood of [[Luskan]] among her list of foes. Ophala's apprentices spend most of their time spying on the Brotherhood through magical means so its agents can be stopped. Ophala once had a brief yet dangerous career as an adventurer of other planes, but she has since retired.
 

@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[pwhem0qg.hxw.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/pwhem0qg.hxw.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/pwhem0qg.hxw.png|open outside]]
 
 Brynhild Skaldmeier

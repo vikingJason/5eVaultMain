@@ -1,0 +1,14 @@
+formulas:
+  first_image: file.embeds.filter(value.containsAny("png","jpg","webp","svg","jpeg"))[0]
+views:
+  - type: table
+    name: Card
+    filters:
+      and:
+        - noteType == "condition"
+        - gamesystem.contains("D&D")
+    order:
+      - file.name
+    cardSize: 230
+    imageFit: contain
+    image: formula.first_image

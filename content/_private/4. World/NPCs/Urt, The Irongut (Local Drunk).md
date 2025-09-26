@@ -29,8 +29,8 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[ctgyrqwy.nap.png|Portrait|300]]
-[[ctgyrqwy.nap.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/ctgyrqwy.nap.png|Portrait|300]]
+[[public/4.-World/Places/zz_asset-files/ctgyrqwy.nap.png|open outside]]
 
 **URT, THE IRONGUT**
 
@@ -54,8 +54,8 @@ Urt absolutely detests anyone that belittles or mistreats him because of his rac
 
 ## Profile
 ### Picture (Simple)
-![[zda45dmz.h4v.png|Picture (Simple)]]
-[[zda45dmz.h4v.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/zda45dmz.h4v.png|Picture (Simple)]]
+[[public/4.-World/Places/zz_asset-files/zda45dmz.h4v.png|open outside]]
 
 
 ---

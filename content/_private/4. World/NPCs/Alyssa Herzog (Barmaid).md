@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[n2tp0ap1.ong.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/n2tp0ap1.ong.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/n2tp0ap1.ong.png|open outside]]
 
 Alyssa Herzog

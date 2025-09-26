@@ -13,8 +13,8 @@ Region: placeholder
 **Alignment**: Lawful Evil
 
 ### Iconography
-![[eqg3jcrt.0wy.png|Iconography]]
-[[eqg3jcrt.0wy.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/eqg3jcrt.0wy.png|Iconography]]
+[[public/4.-World/Places/zz_asset-files/eqg3jcrt.0wy.png|open outside]]
 
 ## Profile
 ### The Zhentarim in Tyranny of Dragons

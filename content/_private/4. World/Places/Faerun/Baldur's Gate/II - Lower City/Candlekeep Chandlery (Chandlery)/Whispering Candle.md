@@ -5,8 +5,8 @@ Region: placeholder
 # Whispering Candle
 ## Overview
 ### Marcella Idra with one of her Whispering Candles
-![[datgjddr.sla.png|Marcella Idra with one of her Whispering Candles]]
-[[datgjddr.sla.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/datgjddr.sla.png|Marcella Idra with one of her Whispering Candles]]
+[[public/4.-World/Places/zz_asset-files/datgjddr.sla.png|open outside]]
 
 A speciality item sold in the [[Candlekeep Chandlery (Chandlery)|Candlekeep Chandlery]] in [[1. Story World Almanac/Forgotten Realms/Toril/Faerun/1 - World Above/Baldur's Gate/Baldur's Gate]]. The item is sold by Marcella Idra.
 

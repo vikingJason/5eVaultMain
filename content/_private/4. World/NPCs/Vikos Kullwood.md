@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[qyq2gmjq.wtn.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/qyq2gmjq.wtn.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/qyq2gmjq.wtn.png|open outside]]
 
 Vikos Kullwood

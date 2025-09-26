@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[lm5jkrw2.41c.png|Portrait]]
+![[public/4.-World/Places/zz_asset-files/lm5jkrw2.41c.png|Portrait]]
 [[2. World/Places/zz_asset-files/lm5jkrw2.41c.png|open outside]]
 
 Ulfgar Bartreson

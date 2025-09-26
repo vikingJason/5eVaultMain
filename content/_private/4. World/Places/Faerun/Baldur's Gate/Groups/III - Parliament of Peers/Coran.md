@@ -21,8 +21,8 @@ Region: placeholder
 #Class/Commoner
 
 ### Coran
-![[coran.png|Coran]]
-[[coran.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/coran.png|Coran]]
+[[public/4.-World/Places/zz_asset-files/coran.png|open outside]]
 
 The elf-adventurer-turned-upstanding-citizen known as Coran, formerly a bold fighter and thief, currently occupies himself as a merchant and an information broker, and is well known as an infamous celebrity at patriar revels. Coran relishes being in the know and playing the sardonic, world-wise observer.
 

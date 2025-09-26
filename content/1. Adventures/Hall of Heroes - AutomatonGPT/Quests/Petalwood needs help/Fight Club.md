@@ -136,7 +136,7 @@ They can bet on their fights as well.
 
 [[Gnarl Bloodclaw]]
 - isn't interested in talking unless they have been in fights and proved their worth
-	- [[Intimidation - Charisma]] check (DC 15) will impress him and will share info
+	- [[Intimidation]] check (DC 15) will impress him and will share info
 - became a fighter after being taken in by [[Rorick]] when he was a young pup, has a lot of love and affection for [[Rorick]]
 	- He lost his brood during the plague
 - [[Rorick]] is like a father, but at his age he must challenge and prove himself

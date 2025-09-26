@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[jqgi35nj.gmi.png|Portrait]]
+![[public/4.-World/Places/zz_asset-files/jqgi35nj.gmi.png|Portrait]]
 [[2. World/Places/zz_asset-files/jqgi35nj.gmi.png|open outside]]
 
 Drohst the Anvil

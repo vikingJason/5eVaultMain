@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[4cte0c0j.ix1.png|Portrait]]
+![[public/4.-World/Places/zz_asset-files/4cte0c0j.ix1.png|Portrait]]
 [[2. World/Places/zz_asset-files/4cte0c0j.ix1.png|open outside]]
 
 **BENN SOLDSHORTE**
@@ -53,7 +53,7 @@ Benn has worn more names and disguises than pairs of trousers in his life time. 
 
 ## Profile
 ### Picture (Simple)
-![[xjzi3bxd.4au.png|Picture (Simple)]]
+![[public/4.-World/Places/zz_asset-files/xjzi3bxd.4au.png|Picture (Simple)]]
 [[2. World/Places/zz_asset-files/xjzi3bxd.4au.png|open outside]]
 
 

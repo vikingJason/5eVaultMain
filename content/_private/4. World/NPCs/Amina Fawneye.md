@@ -29,8 +29,8 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[zuuq3b3d.hkz.png|Portrait|300]]
-[[zuuq3b3d.hkz.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/zuuq3b3d.hkz.png|Portrait|300]]
+[[public/4.-World/Places/zz_asset-files/zuuq3b3d.hkz.png|open outside]]
 
 Amina Fawneye
 

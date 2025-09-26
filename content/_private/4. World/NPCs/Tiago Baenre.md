@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Tiago Baenre (Pic)
-![[vohyuqpy.jxd.png|Tiago Baenre (Pic)|300]]
+![[public/4.-World/Places/zz_asset-files/vohyuqpy.jxd.png|Tiago Baenre (Pic)|300]]
 [[2. World/Places/zz_asset-files/vohyuqpy.jxd.png|open outside]]
 
 Tiago Baenre was the grandson of [[Dantrag Baenre]] and a noble of [[House Baenre]] in [[Menzoberranzan]]. Tiago and Ravel Xorlarrin were considered the most promising of [[Menzoberranzan]]'s young males.

@@ -32,7 +32,7 @@ Type: NPC
 
 ### Great Chief Harlic Bonesnapper (Pic)
 
-![[e2skbmsy.1of.png|Great Chief Harlic Bonesnapper (Pic)|300]]
+![[public/4.-World/Places/zz_asset-files/e2skbmsy.1of.png|Great Chief Harlic Bonesnapper (Pic)|300]]
 [[2. World/Places/zz_asset-files/e2skbmsy.1of.png|open outside]]
 
 Great Chief Halric Bonesnapper is a berserker, with the following changes (*added to HL file*): 

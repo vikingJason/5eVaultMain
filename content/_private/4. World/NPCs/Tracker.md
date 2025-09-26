@@ -32,7 +32,7 @@ Type: NPC
 **Character Role**: Friend, Neutral, Advisor
 #Character-Role/Friend #Character-Role/Neutral #Character-Role/Advisor
 
-Tracker of the Harpers, who aids good travelers and folk against orcs, [[Lamia|Lamia]], and other dangers of the desert, is a mysterious individual much given to disguises, who lives in a cellar in a nameless ruined community south of [[Ascore]]. When not in disguise, he (actually, Tracker is a woman, but conceals this from all but close friends by magic and dress) appears as a wild-haired, grim man in the rotting remnants of much-patched armor. Trackers wry nature can be summed up by his cesspit, near his cellar home, which bears a sign: Last Dungeon Before Waterdeep.
+Tracker of the Harpers, who aids good travelers and folk against orcs, [[Lamia|Lamia]], and other dangers of the desert, is a mysterious individual much given to disguises, who lives in a cellar in a nameless ruined community south of [[content/_private/4. World/Places/Faerun/Above World/Ascore]]. When not in disguise, he (actually, Tracker is a woman, but conceals this from all but close friends by magic and dress) appears as a wild-haired, grim man in the rotting remnants of much-patched armor. Trackers wry nature can be summed up by his cesspit, near his cellar home, which bears a sign: Last Dungeon Before Waterdeep.
 
 ## Background
 **Birth Date**: Monday, 1 January -20000 12:00:00 AM

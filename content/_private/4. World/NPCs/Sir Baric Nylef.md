@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[00hzbrig.xcl.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/00hzbrig.xcl.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/00hzbrig.xcl.png|open outside]]
 
 

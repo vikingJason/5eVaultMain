@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[zuqkiuin.mag.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/zuqkiuin.mag.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/zuqkiuin.mag.png|open outside]]
 
 Douglas Green

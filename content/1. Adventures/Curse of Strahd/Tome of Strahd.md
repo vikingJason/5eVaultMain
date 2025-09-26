@@ -15,6 +15,7 @@ Reveal the section headings to the players (they have already been decoded by so
 *Attunement is only required to use the Tome as a spellbook, once that section is decoded.
 
 
+
 # Decoded Entry
 
 *I am the Ancient. I am the Land. My beginnings are lost in the darkness of the past. I was the warrior, I was good and just. I thundered across the land like the wrath of a just god, but the war years and the killing years wore down my soul as the wind wears stone into sand.*
@@ -135,7 +136,7 @@ Reveal the section headings to the players (they have already been decoded by so
 
 ## DC 12 - Genocide
 
-**Second Moon, 382 BC:** *The crime of the elves is beyond all measure of forgiveness and justice. I should have eliminated them when I first conquered this valley. I have ordered the death of every female elf in the valley for what they have done to Patrina. The elves will never again sire children, nor know womanly comfort among their own kind. Despite their longevity, they will fade from existence as I outlive them.*
+~~**Second Moon, 382 BC:** *The crime of the elves is beyond all measure of forgiveness and justice. I should have eliminated them when I first conquered this valley. I have ordered the death of every female elf in the valley for what they have done to Patrina. The elves will never again sire children, nor know womanly comfort among their own kind. Despite their longevity, they will fade from existence as I outlive them.*~~
 
 ## DC 15 - Marina
 
@@ -193,7 +194,7 @@ Reveal the section headings to the players (they have already been decoded by so
 
 ## DC 20 - The Heart of Ravenloft
 
-**Tenth Moon, 526 BC:** *The Heart glows with purpose. It has become living. The circles of masonry about its tower are its ribs, the great bastion its chest. My tests on the condemned proved the heart will use the tower itself against invaders. My will sustains it, but its construction is mere glass, fragile, ironically mortal. With it, I am sheltered from the unthinkable, yet I will not allow myself to become reckless.*
+==**Tenth Moon, 526 BC:** *The Heart glows with purpose. It has become living. The circles of masonry about its tower are its ribs, the great bastion its chest. My tests on the condemned proved the heart will use the tower itself against invaders. My will sustains it, but its construction is mere glass, fragile, ironically mortal. With it, I am sheltered from the unthinkable, yet I will not allow myself to become reckless.*==
 
 ## DC 25 - Armour
 
@@ -225,9 +226,9 @@ This entry refers to the password for the *Daern’s Instant Fortress* in Strahd
 
 ## DC 15 - Darkon
 
-**Twelfth Moon, 579 BC:** *It was too much to hope for that damned lich’s destruction along with his useless portal. The Dark Powers would never allow his escape, even in death. He is as much a deserving prisoner of the mists as I, and now he has his own cell: Darkon. Azalin Rex indeed. Pompous buffoon.*
+==**Twelfth Moon, 579 BC:** *It was too much to hope for that damned lich’s destruction along with his useless portal. The Dark Powers would never allow his escape, even in death. He is as much a deserving prisoner of the mists as I, and now he has his own cell: Darkon. Azalin Rex indeed. Pompous buffoon.*==
 
-*I shall have to levy my armies once more. It has been too long.*
+==*I shall have to levy my armies once more. It has been too long.*==
 
 ## DC 20 - Sithicus
 

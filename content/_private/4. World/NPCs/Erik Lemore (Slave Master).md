@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[tqjdv0zj.rcm.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/tqjdv0zj.rcm.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/tqjdv0zj.rcm.png|open outside]]
 
 Erik Lemore

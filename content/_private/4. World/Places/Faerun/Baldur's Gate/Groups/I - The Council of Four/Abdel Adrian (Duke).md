@@ -19,8 +19,8 @@ Region: placeholder
 #Class/Fighter #Class/Aristocrat
 
 ### Portrait
-![[dukeabdel.png|Portrait]]
-[[dukeabdel.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/dukeabdel.png|Portrait]]
+[[public/4.-World/Places/zz_asset-files/dukeabdel.png|open outside]]
 
 Among Baldurians, Duke Abdel Adrian is universally considered to be the city’s greatest hero, second only to Balduran the Brave. The wizard Gorion raised Adrian in Candlekeep, but Adrian, a child of Bhaal, was swept up in a series of deadly events orchestrated by his half-siblings, the Bhaalspawn. Adrian’s life as an adventurer became noto rious when he saved [[1. Story World Almanac/Forgotten Realms/Toril/Faerun/1 - World Above/Baldur's Gate/Baldur's Gate|Baldur’s Gate]] from the Iron Throne’s -- machinations and killed his half-brother Sarevok to avert a war with Amn.
 

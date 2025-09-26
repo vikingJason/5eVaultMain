@@ -22,12 +22,12 @@ The Phaerimm thought of the area as their own realm and ignored those who dwelt 
 They found death. The most powerful Phaerimm worked together to develop a mighty spell that would destroy the things that humans lived on: the lifedrain.
 
 ### Battle against the Phaerimm
-![[i5vgi2hr.w5m.png|Battle against the Phaerimm|300]]
-[[i5vgi2hr.w5m.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/i5vgi2hr.w5m.png|Battle against the Phaerimm|300]]
+[[public/4.-World/Places/zz_asset-files/i5vgi2hr.w5m.png|open outside]]
 
 ### Phaerimm
-![[gr315co0.ys2.png|Phaerimm]]
-[[gr315co0.ys2.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/gr315co0.ys2.png|Phaerimm]]
+[[public/4.-World/Places/zz_asset-files/gr315co0.ys2.png|open outside]]
 
 ## The Lifedrain
 This spell was cast, and cast again, by brave Phaerimm venturing onto the surface by night, over all the lands of men that menaced the realm of the Phaerimm. Once it was set in motion, the Phaerimm hurled themselves into a spellwar, attacking Netherese wizards, trying to steal or destroy their spellbooks, and trying above all to disrupt their researches, thin their ranks, and keep them too busy fighting to have time enough to learn the secrets of the mightiest Phaerimm spell-or to have time to act against it.

@@ -14,8 +14,8 @@ The distinctive crooked, hat-shaped form of this isolated rock pillar makes it a
 This rock formation towers 100 yards (90 meters) over the surrounding land.
 
 ### Pillar of Tauros
-![[akyistoy.5ed.png|Pillar of Tauros|300]]
-[[akyistoy.5ed.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/akyistoy.5ed.png|Pillar of Tauros|300]]
+[[public/4.-World/Places/zz_asset-files/akyistoy.5ed.png|open outside]]
 
 
 ---

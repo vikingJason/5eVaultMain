@@ -21,12 +21,12 @@ These diminutive folk (averaging just over four feet tall) may be descended from
 
 ### D'Tarig explorers
 
-![[vclshunu.mo4.png|D'Tarig explorers|300]]
-[[vclshunu.mo4.png|open outside]]
+![[public/4.-World/Places/zz_asset-files/vclshunu.mo4.png|D'Tarig explorers|300]]
+[[public/4.-World/Places/zz_asset-files/vclshunu.mo4.png|open outside]]
 
 ## Profile
 
-The Dtarig dwell on the eastern and southeastern fringes of [[Anauroch]], where they herd goats and sheep in the foothills, and make rare trips to Tilverton to trade. (Since [[The Zhentarim|the Zhentarim]] started coming to them, these trips have grown even rarer. Why go to the trouble and expense of travel, when it is easier to let greedy buyers come to you?) Dtarig tend to be self-serving and rather cowardly. They will switch loyalties readily, to those who pay them most highly.
+The Dtarig dwell on the eastern and southeastern fringes of [[content/_private/4. World/Places/Faerun/Anauroch/Anauroch]], where they herd goats and sheep in the foothills, and make rare trips to Tilverton to trade. (Since [[The Zhentarim|the Zhentarim]] started coming to them, these trips have grown even rarer. Why go to the trouble and expense of travel, when it is easier to let greedy buyers come to you?) Dtarig tend to be self-serving and rather cowardly. They will switch loyalties readily, to those who pay them most highly.
 
 ## Philosophy 
 

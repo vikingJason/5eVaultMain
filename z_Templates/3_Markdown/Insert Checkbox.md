@@ -1,8 +1,8 @@
 ---
 ---
 - [ ] Empty
-- [x] Regular
-- [?] Checked
+- [ ] Regular
+- [x] Checked
 - [-] Dropped
 - [>] Forward
 - [D] Defer

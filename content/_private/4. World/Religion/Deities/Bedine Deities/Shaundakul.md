@@ -27,8 +27,8 @@ Caravans, Exploration, Miners, Portals, Travel.
 #Cleric-Domain/Air #Cleric-Domain/Chaos #Cleric-Domain/Portal #Cleric-Domain/Protection #Cleric-Domain/Trade #Cleric-Domain/Travel
 
 ### Holy Symbol
-![[1d51g045.ky5.png|Holy Symbol]]
-[[1d51g045.ky5.png|A wind-walking bearded man in traveler's cape and boots.]]
+![[public/4.-World/Places/zz_asset-files/1d51g045.ky5.png|Holy Symbol]]
+[[public/4.-World/Places/zz_asset-files/1d51g045.ky5.png|A wind-walking bearded man in traveler's cape and boots.]]
 
 ### Rider of the Winds
 ![[ep0efydo.e5f.png|Rider of the Winds|300]]

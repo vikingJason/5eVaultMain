@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[51xife44.gub.png|Portrait]]
+![[public/4.-World/Places/zz_asset-files/51xife44.gub.png|Portrait]]
 [[2. World/Places/zz_asset-files/51xife44.gub.png|open outside]]
 
 **SALVADOR “SALTY” GORDON**
@@ -54,7 +54,7 @@ Although he’s difficult to deal with, Salty does have a few shreds of human em
 
 ## Profile
 ### Picture (Simple)
-![[zp42zmca.g3c.png|Picture (Simple)]]
+![[public/4.-World/Places/zz_asset-files/zp42zmca.g3c.png|Picture (Simple)]]
 [[2. World/Places/zz_asset-files/zp42zmca.g3c.png|open outside]]
 
 

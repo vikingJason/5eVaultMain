@@ -58,7 +58,7 @@ Destroying their familiars or breaking their hex bags can weaken them significan
 
 
 #### 4. Zombies
-**Entry Dated: 2nd of Baroviar, in the Year of the Raven**
+**Entry Dated: 2nd of Barovia, in the Year of the Raven**
 
 "Zombies are the mindless foot soldiers of Barovia's darkness, reanimated corpses driven by a single purpose: to consume the living. They are slow and clumsy, but their numbers can overwhelm even the most skilled warriors. Fire is the most effective weapon against them, as it destroys both the body and the necromantic energy animating it.
 
@@ -70,7 +70,7 @@ Zombies are drawn to noise and movement, making them easy to lure into traps. Us
 
 
 #### 5. Hags
-**Entry Dated: 9th of Baroviar, in the Year of the Raven**
+**Entry Dated: 9th of Barovia, in the Year of the Raven**
 
 "Hags are ancient and vile creatures, their cruelty matched only by their cunning. They delight in tormenting the weak and striking bargains that inevitably lead to ruin. A hag's power lies in her ability to manipulate and corrupt, often using illusions and charms to deceive her victims.
 

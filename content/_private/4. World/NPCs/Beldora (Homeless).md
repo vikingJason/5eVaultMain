@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[ibwbtfle.vn1.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/ibwbtfle.vn1.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/ibwbtfle.vn1.png|open outside]]
 
 

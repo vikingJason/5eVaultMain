@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Neutral
 
 ### Portrait
-![[q0e0nkfq.dce.png|Portrait|300]]
+![[public/4.-World/Places/zz_asset-files/q0e0nkfq.dce.png|Portrait|300]]
 [[2. World/Places/zz_asset-files/q0e0nkfq.dce.png|open outside]]
 
 Yoruna Faede

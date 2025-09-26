@@ -1,6 +1,0 @@
----
-{}
----
-```timeline
-SessionJournals
-```

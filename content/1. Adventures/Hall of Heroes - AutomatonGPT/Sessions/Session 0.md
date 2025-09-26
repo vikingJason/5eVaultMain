@@ -1,5 +1,5 @@
 ---
-{}
+SessionNotes: HoH
 ---
 Welcome back to Calindor!
 

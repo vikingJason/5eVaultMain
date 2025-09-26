@@ -29,7 +29,7 @@ Type: NPC
 #Character-Role/Supporting-Character
 
 ### Portrait
-![[1791171.jpg|Portrait]]
+![[public/4.-World/Places/zz_asset-files/1791171.jpg|Portrait]]
 [[2. World/Places/zz_asset-files/1791171.jpg|open outside]]
 
 Lord of Waterdeep - Lord Protector of [[Neverwinter]]

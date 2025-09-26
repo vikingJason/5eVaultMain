@@ -1,0 +1,20 @@
+properties:
+  file.folderName:
+    displayName: folder
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - noteType == "checkRules"
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: folderName
+        direction: ASC
+      - property: file.folder
+        direction: DESC
+    columnSize:
+      file.name: 145
