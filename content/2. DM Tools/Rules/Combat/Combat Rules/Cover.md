@@ -15,3 +15,8 @@ Cover provides a degree of protection to a target behind it. There are three deg
 
 
 If behind more than one degree of cover, a target benefits only from the most protective degree.
+
+
+
+
+

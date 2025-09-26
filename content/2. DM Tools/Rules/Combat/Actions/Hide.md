@@ -8,3 +8,5 @@ gamesystem:
 - **Duration**: 1 action
 
 Make a [[Stealth]] check vs. searcher's Passive Perception.
+
+
