@@ -22,6 +22,7 @@ obsidianUIMode: preview
 >>>    order:
 >>>      - file.name
 >>>      - folderName
+>>>      - cardDisplay
 >>>    sort:
 >>>      - property: file.name
 >>>        direction: ASC
@@ -30,7 +31,11 @@ obsidianUIMode: preview
 >>>    columnSize:
 >>>      file.name: 200
 >>> ```
-> 
+
+<br>
+
+>[!multi-column] 
+>
 >> [! important  |bg-c-purple ttl-c n-th]- Check Rules
 >>>![[CheckRules.base]]
 >
@@ -72,13 +77,12 @@ obsidianUIMode: preview
 >
 >>![[DMTools.base]]
 
+<br>
+
 >[! | bg-c-orange  ttl-c]- Campaign Maps
 > 
 
-
-
-
-
+<br>
 
 > [!example |  ttl-c ]- Rules Reference
 >>[!cards| dataview]
@@ -86,11 +90,15 @@ obsidianUIMode: preview
 >>TABLE 
 >>FROM #5er-ref
 >>SORT file.link ASC
+>> ```
 
 
+<br>
 
 >[! health |  bg-c-red ttl-c n-th]- Healing
 >>![[HealthRules.base]]
+
+<br>
 
 > [!example|  ttl-c]- Exploration and Downtime Activities
 >>[!cards| dataview]

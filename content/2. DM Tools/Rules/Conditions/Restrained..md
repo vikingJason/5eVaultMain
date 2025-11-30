@@ -10,4 +10,4 @@ gamesystem:
 ![[gm_restrained.png|150]]
 # Restrained
 
-You're tied up and can barely move, or a creature has you pinned. You have the [[Off-Guard]] and [[Immobilized]] conditions, and you can't use any actions with the attack or manipulate traits except to attempt to [[escape]] or [[Force Open]] your bonds. Restrained overrides [[Grabbed]].
+You're tied up and can barely move, or a creature has you pinned. You have the [[Off-Guard]] and [[Immobilized]] conditions, and you can't use any actions with the attack or manipulate traits except to attempt to [[Escape]] or [[Force Open]] your bonds. Restrained overrides [[Grabbed]].

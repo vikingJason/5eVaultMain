@@ -7,13 +7,14 @@
 
 Six abilities provide a quick description of every creature's physical and mental characteristics:
 
-- Strength, measuring physical power
-- Dexterity, measuring agility
-- Constitution, measuring endurance
-- Intelligence, measuring reasoning and memory
-- Wisdom, measuring perception and insight
-- Charisma, measuring force of personality
-
+| Ability      | Score Measures...                   |
+|--------------|-------------------------------------|
+| Strength     | Physical might                      |
+| Dexterity    | Agility, reflexes, and balance      |
+| Constitution | Health and stamina                  |
+| Intelligence | Reasoning and memory                |
+| Wisdom       | Perceptiveness and mental fortitude |
+| Charisma     | Confidence, poise, and charm        |
 
 
 ![[Pasted image 20211224134635.png|500]]
@@ -21,6 +22,16 @@ Six abilities provide a quick description of every creature's physical and menta
 
 
 ### Ability Scores and Modifiers Table
+
+| Score | Meaning                                                                                                           |
+|-------|-------------------------------------------------------------------------------------------------------------------|
+| 1     | This is the lowest a score can normally go. If an effect reduces a score to 0, that effect explains what happens. |
+| 2–9   | This represents a weak capability.                                                                                |
+| 10–11 | This represents the human average.                                                                                |
+| 12–19 | This represents a strong capability.                                                                              |
+| 20    | This is the highest an adventurer’s score can go unless a feature says otherwise.                                 |
+| 21–29 | This represents an extraordinary capability.                                                                      |
+| 30    | This is the highest a score can go.                                                                               |
 
 | Score | Modifier |
 | ----- | -------- |

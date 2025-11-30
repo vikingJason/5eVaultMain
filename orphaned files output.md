@@ -151,7 +151,7 @@
 - [[Session Notes from Achroteth.md]]
 - [[Ghost Haunt.md]]
 - [[48. 16th July 2025 - 1 1.md]]
-- [[45. 26th June 2025 -.md]]
+- [[45. 26th June 2025 - up to here for drafts]]
 - [[content/1. Adventures/Hall of Heroes - AutomatonGPT/Sessions/Untitled.md]]
 - [[Tarokka.md]]
 - [[49. 23rd July 2025 - 1 1 1.md]]

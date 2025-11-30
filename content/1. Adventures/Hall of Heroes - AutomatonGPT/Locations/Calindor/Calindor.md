@@ -61,8 +61,8 @@ Title:
 Placeholder
 
 ### DM Map
-![[content/z_Assets/Misc/MapPlaceholder.png|850]]
-[[content/z_Assets/Misc/MapPlaceholder.png|open outside]]
+![[Calindor_Map.jpg|850|349x261]]
+![[Calindor_Map.jpg|open outside|349x261]]
 
 
 

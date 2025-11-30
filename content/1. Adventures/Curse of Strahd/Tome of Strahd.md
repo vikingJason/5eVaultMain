@@ -198,13 +198,13 @@ Reveal the section headings to the players (they have already been decoded by so
 
 ## DC 25 - Armour
 
-**Fifth Moon, 546 BC:** *I have succeeded in granting my old battle armor the same form of sentience Azalin bestowed upon his own. I have empowered it with my will and the might of storms and instructed it to defend the castle. In great need I may summon it to myself and don it with a single word.*
+==**Fifth Moon, 546 BC:** *I have succeeded in granting my old battle armor the same form of sentience Azalin bestowed upon his own. I have empowered it with my will and the might of storms and instructed it to defend the castle. In great need I may summon it to myself and don it with a single word.*==
 
 ## DC 35 - untitled
 
-This page was encoded, ciphered and befuddled by more magical and mathematical means than any other entry in the book. Deciphered and revealed, it contains only a single word.
+==This page was encoded, ciphered and befuddled by more magical and mathematical means than any other entry in the book. Deciphered and revealed, it contains only a single word.==
 
-*cosmological.*
+==*cosmological.*==
 
 > ❗
 This entry refers to the password for the *Daern’s Instant Fortress* in Strahd's Treasury at K41.
@@ -262,9 +262,9 @@ This entry refers to the password for the *Daern’s Instant Fortress* in Strahd
 
 ## DC 20 - Azalin
 
-**Twelfth Moon, 542 BC:** *The mists continue to draw lost souls to my land. This one seems different however: he is no petty bandit or thief; he is clearly an extremely accomplished wizard. I don’t trust him in the slightest, but he may be of use to me. The man hides much, but he goes by the name “Azalin”. He says he is of a world called “Oerth”.*
+==**Twelfth Moon, 542 BC:** *The mists continue to draw lost souls to my land. This one seems different however: he is no petty bandit or thief; he is clearly an extremely accomplished wizard. I don’t trust him in the slightest, but he may be of use to me. The man hides much, but he goes by the name “Azalin”. He says he is of a world called “Oerth”.*==
 
-*Azalin believes he can, with sufficient resources, build a portal that will transport us away from this place, to what he calls the “Material Plane”. If he is right, I might finally be free of this prison. He is teaching me much in the ways of magic in order to assist him. We are constructing a tower on the shore of Lake Zarovich to conduct his experiments.*
+==*Azalin believes he can, with sufficient resources, build a portal that will transport us away from this place, to what he calls the “Material Plane”. If he is right, I might finally be free of this prison. He is teaching me much in the ways of magic in order to assist him. We are constructing a tower on the shore of Lake Zarovich to conduct his experiments.*==
 
 ## DC 20 - Lyssa von Zarovich
 

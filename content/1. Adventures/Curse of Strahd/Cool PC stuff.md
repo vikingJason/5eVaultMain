@@ -9,7 +9,7 @@ Some examples:
 
 Replacing Ireena with a PC. The PC discovers that they are being pursued by an evil vampire lord for some reason. As the campaign progresses, they find out they are the reincarnation of the lord's lost love, Tatyana. --- [[Aeli]]
 
-Making a PC Izek's sibling. The PC discovers that they aren't the orphan they thought they were. They were actually born in Barovia and have a weird brother with a demon arm! --- [[Sorrow]]
+Making a PC Izek's sibling. The PC discovers that they aren't the orphan they thought they were. They were actually born in Barovia and have a weird brother with a demon arm! --- [[content/_private/4. World/Players/Sorrow]]
 
 A PC has Vistani roots. The PC discovers that their missing parent(s) were actually Vistani. Somehow, the PC was left behind and raised outside Barovia. Now they have a whole extended family they didn't know about.
 
