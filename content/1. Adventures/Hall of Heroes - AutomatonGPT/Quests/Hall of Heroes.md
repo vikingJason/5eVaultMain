@@ -12,12 +12,12 @@
 
 | Player  | Character            | Race             | Class     | Backstory                 |
 | ------- | -------------------- | ---------------- | --------- | ------------------------- |
-| Tori    | [[Fawn]]             | Half-Elf/Firbolg | Cleric    | Daughter of Queen Reeva   |
+| Tori    | [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Fawn/Fawn]]             | Half-Elf/Firbolg | Cleric    | Daughter of Queen Reeva   |
 | Jarrod  | [[Cedrick Deerfoot]] | Half-Elf         | Artificer | Son of Beldroth           |
-| Jake    | [[Achroteth]]        | Dragonborn       | Druid     | Brother of Rinji        |
-| Michael | [[Rinji]]            | Kobold           | Barbarian | Brother of Achroteth    |
+| Jake    | [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Achroteth/Achroteth]]        | Dragonborn       | Druid     | Brother of Rinji        |
+| Michael | [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Rinji/Rinji]]            | Kobold           | Barbarian | Brother of Achroteth    |
 | Harley  | [[Dorgle]]           | Dwarf            | Fighter   | Last/Perfect Dorgle clone |
-| Sirius  | [[Lullaby]]          | Kenku            | Cleric    | Orphaned                  |
+| Sirius  | [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Lullaby/Lullaby]]          | Kenku            | Cleric    | Orphaned                  |
 
 
 
@@ -61,7 +61,7 @@
 
 
 ## **Player Quests**
-### [[Fawn]] - learn to be a princess and serve [[Sehanine]]
+### [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Fawn/Fawn]] - learn to be a princess and serve [[Sehanine]]
 - [[Celly]], [[Ness]], [[Sehanine]] quests
 	- host Royal Gala, displaying proper Royal etiquette 
 	- help [[Brother Varras]] secure a Sacred Moonstone blessed by [[Sehanine]] to perform a sacred ritual during the lunar eclipse to strengthen the connection between Calindor and the Feywilds
@@ -69,12 +69,12 @@
 		- Once the moonstone is stolen, Fawn no longer hears the voice of [[Sehanine]] in her her head.
 			- It was a malevolent spirit, [[Kalistyr, the Twilight Betrayer|Kalistyr]], who has now been released and begins plaguing the villagers with nightmares.
 			- Townspeople begin experiencing disturbing dreams, some unable to wake from their sleep, while others suffer from sleepwalking episodes.
-				- [[Brother Varras]] reveals he is a member of a Thieves Guild and needed their help to aquire the moonstone to sell to a secret buyer. He tries to manipulate [[Fawn]] by claiming that [[Sehanine]] approved of the release to teach her a lesson about the dangers of power.
+				- [[Brother Varras]] reveals he is a member of a Thieves Guild and needed their help to aquire the moonstone to sell to a secret buyer. He tries to manipulate [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Fawn/Fawn]] by claiming that [[Sehanine]] approved of the release to teach her a lesson about the dangers of power.
 			- The party must find a way to track and trap [[Kalistyr, the Twilight Betrayer|Kalistyr]] before more lives are ruined.
 				- **Research Kalistyr**: The party must consult sages, old tomes, and maybe even the Fey themselves to learn about [[Kalistyr, the Twilight Betrayer|Kalistyr]]. This investigation could lead them into dangerous territory, such as old Fey ruins or confronting [[Kalistyr, the Twilight Betrayer|Kalistyr]]’s past victims.
-				- **Identify Patterns**: [[Fawn]] must figure out the pattern of [[Kalistyr, the Twilight Betrayer|Kalistyr]]’s attacks. Does it target people based on their fears? Their connection to the moon? With the help of a local dream-reader, the party develops a method to predict who [[Kalistyr, the Twilight Betrayer|Kalistyr]] will target next.
-				- **Craft a Trap**: Using the moonstone, [[Fawn]] can forge a powerful talisman to trap [[Kalistyr, the Twilight Betrayer|Kalistyr]]. However, the ritual to bind the spirit will require the same lunar energies that released it. The party must prepare for another dangerous ceremony during the next lunar event.
-			- Final confrontation with [[Kalistyr, the Twilight Betrayer|Kalistyr]], offering [[Fawn]] a choice between banishment or attempting to bind the spirit under her control.
+				- **Identify Patterns**: [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Fawn/Fawn]] must figure out the pattern of [[Kalistyr, the Twilight Betrayer|Kalistyr]]’s attacks. Does it target people based on their fears? Their connection to the moon? With the help of a local dream-reader, the party develops a method to predict who [[Kalistyr, the Twilight Betrayer|Kalistyr]] will target next.
+				- **Craft a Trap**: Using the moonstone, [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Fawn/Fawn]] can forge a powerful talisman to trap [[Kalistyr, the Twilight Betrayer|Kalistyr]]. However, the ritual to bind the spirit will require the same lunar energies that released it. The party must prepare for another dangerous ceremony during the next lunar event.
+			- Final confrontation with [[Kalistyr, the Twilight Betrayer|Kalistyr]], offering [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Fawn/Fawn]] a choice between banishment or attempting to bind the spirit under her control.
 		- **Potential Rewards**:
 			- **Moonstone Amulet**: A powerful artifact that can be purified or corrupted, depending on Fawn’s choices.
 			- **New Powers from Sehanine**: If Fawn completes the ritual faithfully, she gains Sehanine’s blessing in the form of new divine abilities.
@@ -113,7 +113,7 @@
 			- **New Crafting Skills**: Cedrick learns advanced techniques for repairing and enchanting magical items, which he can use in future crafting endeavors. 
 
 
-### [[Rinji]] - figure out his destiny and keep his brother safe
+### [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Rinji/Rinji]] - figure out his destiny and keep his brother safe
 - [[Bax]]'s daughter tells him that he looks like the Guardian of the [[Shimmering Cave]], from her favourite bed time story. (including the runes)
 	- It is a story about the of the "Kobold of the Fey",  a kobold with a flower beard, a Red Cap, and  Runes etched into his scales, who arises when the cave is in danger, to protect the luminous crystals and precious gems from being stolen. (the source of the Fey Magic)
 		- Finding the author of the book/Spend time studying the book to learn that the rune is part of a star constellation long forgotten
@@ -128,7 +128,7 @@
 		- **Guardian’s Staff**: A powerful magical staff that allows Rinji to control the cave’s illusions and defenses, cementing his role as the cave’s eternal protector.
 
 
-### [[Achroteth]] - decipher Rinji's rune, confirm existence and location of [[Jewellwood Grove]]
+### [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Achroteth/Achroteth]] - decipher Rinji's rune, confirm existence and location of [[Jewellwood Grove]]
 - learns the runes are actually a long forgotten star constellations = Stargate
 	- The illustrations in Bax’s daughter’s storybook, the same one that introduced Rinji to his destiny, contain subtle clues.
 		- Bax's daughter has "decorated" some of the pages in the book. Pages with illustrations on it, you can see that she has added her own special touch, drawing in herself holding hands with the Guardian, giving the villains stink lines. But on one page that shows the Guardian fighting under the night sky, she has drawn lines to connect the star clusters making her own constellations, one of the constellations  looks similar to the runes on Rinji.
@@ -202,7 +202,7 @@
 			- **Defeat**: If Dorgle is defeated, the Faceless Legion succeeds in absorbing him and completing their plan, becoming the dominant power of the Dorgleverse. This leads to a dark outcome for the Dorgle clones and potentially sets up future quests where the party must defeat the new Legion overlord.
 
 
-### [[Lullaby]] - learn about the world outside the [[Jewellwood Grove]]
+### [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Lullaby/Lullaby]] - learn about the world outside the [[Jewellwood Grove]]
 - [[Eldath]]/[[Willow]] quests
 	- They are pick pocketed by a street kid. They see the kid around town, stealing and scamming.
 		- Lullaby feels a deep connection to this child

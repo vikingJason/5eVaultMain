@@ -1845,3 +1845,104 @@
 [[2025-11-30]] 15:22 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
 [[2025-11-30]] 15:23 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
 [[2025-11-30]] 15:23 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-11-30]] 15:34 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-11-30]] 15:34 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-11-30]] 15:35 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-11-30]] 15:35 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-11-30]] 16:35 DESKTOP-EHJ38C8 hay-kot/obsidian-dnd-ui-toolkit (version: latest) The plugin has been registered with BRAT.
+[[2025-11-30]] 17:13 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-11-30]] 17:13 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-11-30]] 17:14 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-11-30]] 17:14 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-11-30]] 17:50 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-11-30]] 17:50 DESKTOP-EHJ38C8 micahke/obsidian-gpt3-notes The plugin has been registered with BRAT. You may still need to enable it the Community Plugin List.
+[[2025-11-30]] 17:50 DESKTOP-EHJ38C8 Oliver-Akins/file-hider The plugin has been registered with BRAT. You may still need to enable it the Community Plugin List.
+[[2025-11-30]] 17:50 DESKTOP-EHJ38C8 mProjectsCode/obsidian-media-db-plugin The plugin has been registered with BRAT. You may still need to enable it the Community Plugin List.
+[[2025-11-30]] 17:50 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-11-30]] 17:51 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-11-30]] 17:51 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-02]] 04:40 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-02]] 04:40 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-02]] 04:41 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-02]] 04:41 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-02]] 04:48 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-02]] 04:49 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-02]] 04:51 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-02]] 04:52 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-02]] 04:54 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-02]] 04:54 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-02]] 04:56 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-02]] 04:56 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-02]] 04:59 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-02]] 04:59 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-02]] 05:00 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-02]] 05:00 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-02]] 05:18 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-02]] 05:18 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-02]] 05:19 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-02]] 05:19 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-02]] 05:26 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-02]] 05:26 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-02]] 05:27 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-02]] 05:27 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-02]] 05:44 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-02]] 05:44 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-02]] 05:45 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-02]] 05:45 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-06]] 15:51 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-06]] 15:51 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-06]] 15:53 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-06]] 15:53 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-06]] 15:54 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-06]] 15:54 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-06]] 16:12 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-06]] 16:12 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-06]] 16:14 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-06]] 16:14 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-06]] 16:15 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-06]] 16:15 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-06]] 16:18 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-06]] 16:18 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-06]] 16:19 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-06]] 16:19 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-06]] 16:21 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-06]] 16:21 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-06]] 16:22 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-06]] 16:22 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-12]] 07:35 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-12]] 07:35 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-12]] 07:36 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-12]] 07:36 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-12]] 07:51 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-12]] 07:51 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-12]] 07:52 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-12]] 07:52 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-12]] 07:52 DESKTOP-EHJ38C8 valentine195/obsidian-image-window (version: 2.0.6) The plugin has been registered with BRAT.
+[[2025-12-12]] 07:53 DESKTOP-EHJ38C8 valentine195/obsidian-image-window reinstalled
+[[2025-12-12]] 07:53 DESKTOP-EHJ38C8 hay-kot/obsidian-dnd-ui-toolkit reinstalled
+[[2025-12-12]] 07:54 DESKTOP-EHJ38C8 Removed valentine195/obsidian-image-window from BRAT plugin list
+[[2025-12-12]] 07:55 DESKTOP-EHJ38C8 Removed javalent/calendarium from BRAT plugin list
+[[2025-12-12]] 20:04 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-12]] 20:04 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-12]] 20:05 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-12]] 20:05 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-12]] 23:42 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-12]] 23:42 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-12]] 23:43 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-12]] 23:43 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-17]] 19:25 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-17]] 19:25 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-17]] 19:26 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-17]] 19:26 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-17]] 19:59 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-17]] 19:59 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-17]] 20:00 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-17]] 20:00 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-17]] 20:07 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-17]] 20:07 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-17]] 20:08 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-17]] 20:08 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED
+[[2025-12-17]] 20:44 DESKTOP-EHJ38C8 Checking for plugin updates STARTED
+[[2025-12-17]] 20:44 DESKTOP-EHJ38C8 Checking for plugin updates COMPLETED
+[[2025-12-17]] 20:45 DESKTOP-EHJ38C8 Checking for beta theme updates STARTED
+[[2025-12-17]] 20:45 DESKTOP-EHJ38C8 Checking for beta theme updates COMPLETED

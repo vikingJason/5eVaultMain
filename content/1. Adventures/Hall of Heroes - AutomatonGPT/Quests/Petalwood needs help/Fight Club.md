@@ -113,7 +113,7 @@ They can bet on their fights as well.
 		- [[Raddicus]], his assistant manager, who has challenged him for ownership 
 
 
-- Asks to leave [[Fawn]] and [[Achroteth]] to guard the armor, only ones to be trusted.
+- Asks to leave [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Fawn/Fawn]] and [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Achroteth/Achroteth]] to guard the armor, only ones to be trusted.
 
 - [[Felgan]] is working with both parties, trying to play them against each other and eventually buy the club
 	- she noticed that certain townsfolk were making some good money working for the Red Caps so knew that the club must be successful, and she deserves to own it
@@ -159,7 +159,7 @@ They can bet on their fights as well.
 
 When presented with evidence:
 - she admits she added a little more chaos to help her cause - won't revel what though, "they will just have to wait and see" 
-	- (have [[Rinji]]'s next fight be announced - with [[Byll & Teadd]])
+	- (have [[content/1. Adventures/Campaigns/Hall of Heroes/01. Adventures/Rinji/Rinji]]'s next fight be announced - with [[Byll & Teadd]])
 - is working with both parties, trying to play them against each other and eventually buy the club
 - will be devastated to learn that it doesn't really turn a big profit
 

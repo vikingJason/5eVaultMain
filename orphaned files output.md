@@ -19,7 +19,7 @@
 - [[23. 17th January - More Truths are Revealed.md]]
 - [[Marcus's Trial.md]]
 - [[26. 04th December 2024 - The Gang Tries Their Hands at Politics.md]]
-- [[Hall of Heroes.md]]
+- [[content/1. Adventures/Campaigns/Hall of Heroes/Hall of Heroes]]
 - [[Vidar's Pilgrimage.md]]
 - [[29. 28th February 2025 - What Lies In Wait At Krezk.md]]
 - [[41. 4th May 2025 - Threads Unravelling.md]]

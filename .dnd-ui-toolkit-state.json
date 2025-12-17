@@ -1,0 +1,129 @@
+{
+  "state": {
+    "my_character_hp": {
+      "current": 28,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "my_character_spells_1": {
+      "value": 0
+    },
+    "my_character_sneak_attack": {
+      "value": 0
+    },
+    "dragon_encounter": {
+      "activeIndex": -1,
+      "initiatives": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "Ancient Red Dragon": 0,
+        "Fighter": 0,
+        "Wizard": 0
+      },
+      "hp": {
+        "Ancient Red Dragon": {
+          "main": 546
+        },
+        "Fighter": {
+          "main": 45
+        },
+        "Wizard": {
+          "main": 28
+        }
+      },
+      "round": 1,
+      "consumables": {
+        "dragon_legendary": 0,
+        "dragon_lair": 0
+      }
+    },
+    "dungeon_encounter": {
+      "activeIndex": 2,
+      "initiatives": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "Party Fighter": 0,
+        "Goblin Squad": 0,
+        "Skeleton Archers": 0
+      },
+      "hp": {
+        "Party Fighter": {
+          "main": 45
+        },
+        "Goblin Squad": {
+          "Goblin 1": 12,
+          "Goblin 2": 12,
+          "Goblin 3": 12
+        },
+        "Skeleton Archers": {
+          "Archer 1": 5,
+          "Archer 2": 7
+        }
+      },
+      "round": 1,
+      "consumables": {}
+    },
+    "forest_encounter": {
+      "activeIndex": -1,
+      "initiatives": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "hp": {
+        "0": {
+          "main": 45
+        },
+        "1": {
+          "main": 28
+        },
+        "2": {
+          "main": 21
+        }
+      },
+      "round": 1,
+      "consumables": {}
+    },
+    "din_health": {
+      "current": 40,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "din_spells_1": {
+      "value": 0
+    },
+    "din_spell_2": {
+      "value": 0
+    },
+    "din_fey_touched_misty_step": {
+      "value": 0
+    },
+    "din_fey_touched_silvery_barbs": {
+      "value": 0
+    },
+    "din_luck_points": {
+      "value": 0
+    },
+    "din_arcane_recovery": {
+      "value": 0
+    },
+    "din_items__ring_of_investigation": {
+      "value": 0
+    },
+    "din_luck_spell_1": {
+      "value": 0
+    },
+    "action_surge": {
+      "value": 0
+    },
+    "bardic_inspiration": {
+      "value": 0
+    }
+  }
+}

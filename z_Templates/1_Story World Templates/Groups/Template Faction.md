@@ -1,10 +1,10 @@
 ---
-tags:
-  - Faction
-  - Organisation
-  - Group
+type: Faction
+name: <% tp.file.title %>
+affilliation: 
+tags: [Faction]
 ---
-# {{Faction Name}}
+# <% tp.file.title %>
 
 ## Overview
 - **Type**: {{Type (e.g., Guild, Religion, Government)}}

@@ -2,6 +2,10 @@
 database-plugin: basic
 ---
 
+
+
+
+
 ```yaml:dbfolder
 name: Calindor NPC database
 description: NPC database

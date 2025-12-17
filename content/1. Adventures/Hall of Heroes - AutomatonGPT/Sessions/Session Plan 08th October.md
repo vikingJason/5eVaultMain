@@ -44,7 +44,7 @@ SessionNotes: HoH
 ## Cedrick
 
 - Goggles
-	- [[Hall of Heroes#Cedrick Deerfoot - repair his father's goggles]]
+	- [[content/1. Adventures/Campaigns/Hall of Heroes/Hall of Heroes#Cedrick Deerfoot - repair his father's goggles]]
 - New parts for his automaton
 
 ## Rinji

@@ -55,6 +55,14 @@ sort importance DESC
 ```
 
 
+| Original          | Arcane Variant      | Notes                                             |
+| ----------------- | ------------------- | ------------------------------------------------- |
+| Egon Spengler     | **Aegon Sparkler**  | Half-mad gnome engineer, loves volatile devices   |
+| Ray Stantz        | **Rae Stanzwick**   | Idealistic inventor obsessed with “ecto-energies” |
+| Peter Venkman     | **Petran Venkross** | Showman, sells “Spectral Insurance”               |
+| Winston Zeddemore | **Wystan Zeddmoor** | Veteran mercenary who keeps the team alive        |
+
+
 ### Motto
 Whispers turn to thorns, the Eladrin shall learn
 
