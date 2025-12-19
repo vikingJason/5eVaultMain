@@ -26,6 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
+    Component.DiceRoller(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       mapFn: (node) => {
@@ -49,6 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.RecentNotes(),
     Component.Graph(),
     Component.Backlinks(),
     Component.MobileOnly(Component.Explorer({
