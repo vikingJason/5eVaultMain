@@ -1,12 +1,12 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-import anime = require("animejs")  // CommonJS import
+import { animate } from 'animejs'
 
 const DiceRollerFixed: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   const rollDice = (sides: number) => {
     const result = Math.floor(Math.random() * sides) + 1
     const diceElement = document.getElementById('dice-result')
     
-    anime({
+    animate({
       targets: diceElement,
       innerHTML: [0, result],
       round: 1,
