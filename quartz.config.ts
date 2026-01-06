@@ -84,22 +84,6 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      {
-        name: "RemoveSecrets",
-        textTransform(_ctx, src) {
-          let content = src.toString();
-          // Define all your tag pairs in an array
-          const secretTags = ['gm', 'secret', 'private', 'plot', 'lore'];
-
-          // Loop through each tag and remove its content
-          secretTags.forEach(tag => {
-            const regex = new RegExp(`<!-- ${tag} -->[\\s\\S]*?<!-- /${tag} -->`, 'g');
-            content = content.replace(regex, '');
-          });
-
-          return content;
-        },
-      },
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
