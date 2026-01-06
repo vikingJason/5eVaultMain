@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
         return !omit.has(node.displayName.toLowerCase())
       },
     })),
-    Component.MobileOnly(Component.TableOfContents()),
+    Component.TableOfContents(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
