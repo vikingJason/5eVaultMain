@@ -83,9 +83,17 @@ const config: QuartzConfig = {
       {
         name: "RemoveSecrets",
         textTransform(_ctx, src) {
-          // Removes content between <!-- gm --> and <!-- /gm --> tags
-          // The 's' flag (dotAll) allows . to match newline characters.
-          return src.toString().replace(/<!-- gm -->[\s\S]*?<!-- \/gm -->/g, "");
+          let content = src.toString();
+          // Define all your tag pairs in an array
+          const secretTags = ['gm', 'secret', 'private', 'plot', 'lore'];
+
+          // Loop through each tag and remove its content
+          secretTags.forEach(tag => {
+            const regex = new RegExp(`<!-- ${tag} -->[\\s\\S]*?<!-- /${tag} -->`, 'g');
+            content = content.replace(regex, '');
+          });
+
+          return content;
         },
       },
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
