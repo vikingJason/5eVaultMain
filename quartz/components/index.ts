@@ -21,7 +21,6 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
-import DiceRoller from "./DiceRoller"
 
 export {
   ArticleTitle,
@@ -47,5 +46,4 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  DiceRoller,
 }

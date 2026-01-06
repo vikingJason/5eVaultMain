@@ -21,7 +21,6 @@ draft: true
 
 | Player | Pronouns | Gender | Race | Alignment | Class | Background | Religion |
 | ------ | -------- | ------ | ---- | --------- | ----- | ---------- | -------- |
-
 <!-- SerializedQuery END -->
 
 
@@ -34,7 +33,6 @@ draft: true
 
 | Session Date | Status | players |
 | ------------ | ------ | ------- |
-
 <!-- SerializedQuery END -->
 
 # NPCs
@@ -44,7 +42,6 @@ draft: true
 
 | NPC Name | Gender | Race | Location | Groups |
 | -------- | ------ | ---- | -------- | ------ |
-
 <!-- SerializedQuery END -->
 
 # Recently Modified Locations
@@ -54,7 +51,6 @@ draft: true
 
 | Place | Art | Region | Type | Government | Ruler | Defences | Law | Military | Factions |
 | ----- | --- | ------ | ---- | ---------- | ----- | -------- | --- | -------- | -------- |
-
 <!-- SerializedQuery END -->
 
 # **Session Log**
@@ -66,7 +62,6 @@ draft: true
 
 | Name | QuickNotes |
 | ---- | ---------- |
-
 <!-- SerializedQuery END -->
 
 <!-- SerializedQuery END -->
@@ -80,7 +75,6 @@ draft: true
 
 | Name | QuickNotes |
 | ---- | ---------- |
-
 <!-- SerializedQuery END -->
 
 <!-- SerializedQuery END -->
@@ -92,7 +86,6 @@ draft: true
 
 | Name | QuickNotes |
 | ---- | ---------- |
-
 <!-- SerializedQuery END -->
 
 <!-- SerializedQuery END -->

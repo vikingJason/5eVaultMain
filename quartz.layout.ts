@@ -29,7 +29,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.DiceRoller()),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       mapFn: (node) => {
