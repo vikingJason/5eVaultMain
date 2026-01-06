@@ -6,13 +6,14 @@ merchantCategory: Service
 kingdom: Calindor
 Region: Borfaldor
 settlementName: Petalwood
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: The Rainbow Palette
 ownerName: Artisitron
 apprentices:
   - No apprentices
-services: 
+services:
+draft: true
 ---
 
 

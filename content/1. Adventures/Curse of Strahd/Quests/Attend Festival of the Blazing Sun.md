@@ -1,6 +1,7 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+draft: true
 ---
 
 # Attend Festival of the Blazing Sun

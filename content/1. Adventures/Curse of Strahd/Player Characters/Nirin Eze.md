@@ -1,6 +1,7 @@
 ---
 aliases: Nirin
-tags: 
+tags:
+draft: true
 ---
 
 # Nirin Eze

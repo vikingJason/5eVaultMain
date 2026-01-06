@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 At your discretion, a spell can be modified cosmetically to enhance the horrific atmosphere. Here are examples|
 

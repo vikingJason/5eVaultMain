@@ -1,3 +1,6 @@
+---
+draft: true
+---
 That’s an amazing character concept! A **Kobold Storyteller** becoming the **Guardian of the Shimmering Cave** opens up some fantastic narrative possibilities. Here are a few ways storytelling and the role of the Guardian can be deeply intertwined:
 
 ---

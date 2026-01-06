@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 Below are tables for **benefits** and **flaws** associated with the player's growing bond with Ireena and the spiritual awakening of their connection to Sergei, along with actions that would **strengthen or weaken the reincarnated bond**, how **Strahd's reactions escalate**, and possible **paths for the player to embrace or reject the connection**.
 

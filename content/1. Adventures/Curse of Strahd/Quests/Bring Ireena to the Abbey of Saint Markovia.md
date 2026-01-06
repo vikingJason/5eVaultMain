@@ -1,6 +1,7 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+draft: true
 ---
 
 # Bring Ireena to the Abbey of Saint Markovia

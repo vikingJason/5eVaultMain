@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 ### **Side Quest: The Parasite Plague**
 

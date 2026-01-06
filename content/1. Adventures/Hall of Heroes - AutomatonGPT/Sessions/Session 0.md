@@ -1,5 +1,6 @@
 ---
 SessionNotes: HoH
+draft: true
 ---
 Welcome back to Calindor!
 

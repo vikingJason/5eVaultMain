@@ -1,6 +1,7 @@
 ---
 aliases: Eresse
-tags: 
+tags:
+draft: true
 ---
 
 # Sanar

@@ -4,10 +4,11 @@ merchantType: Blacksmith
 kingdom: Calindor
 region: Borfaldor
 settlementName: Petalwood
-wardName: 
+wardName:
 title: The Iron Arms
 ownerName: Lerendrie Silkban
 services: Weapon Crafting, Armor Repair, Custom Metalwork, Toolsmithing
+draft: true
 ---
 
 # **The Iron Arms**

@@ -1,6 +1,7 @@
 ---
 aliases: Fourth Village
-tags: 
+tags:
+draft: true
 ---
 
 # Berez

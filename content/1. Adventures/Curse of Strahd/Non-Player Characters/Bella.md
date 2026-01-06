@@ -7,6 +7,7 @@ Enemies:
 Allies:
 Siblings: "[[Ophalia]]"
 Partner:
+draft: true
 ---
 
 # Bella

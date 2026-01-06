@@ -1,6 +1,7 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+draft: true
 ---
 
 # Order of the Silver Dragon

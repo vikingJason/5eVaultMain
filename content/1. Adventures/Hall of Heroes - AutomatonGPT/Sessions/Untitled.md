@@ -5,6 +5,7 @@ scale_pixels: 257
 scale_pixels_range: 20
 mapCalc1: 0.07782101167315175
 SessionNotes: HoH
+draft: true
 ---
 
 > [!NOTE]- Quick Calculator  

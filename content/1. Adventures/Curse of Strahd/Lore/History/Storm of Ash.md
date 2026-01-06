@@ -1,6 +1,7 @@
 ---
 aliases: Darkest Night, Silverymoon gets yoinked and heroes get yeeted to the moon
-tags: 
+tags:
+draft: true
 ---
 
 # Storm of Ash

@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 https://www.reddit.com/r/CurseofStrahd/comments/9l5zfh/fleshing_out_curse_of_strahd_the_fanes_and_the/
 

@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 When they enter the town they first notice farms.  
   

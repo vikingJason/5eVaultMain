@@ -6,6 +6,7 @@ Region: Kiduzia
 Type: placeholder
 Ruler: placeholder
 Factions: placeholder
+draft: true
 ---
 
 > [!infobox]+

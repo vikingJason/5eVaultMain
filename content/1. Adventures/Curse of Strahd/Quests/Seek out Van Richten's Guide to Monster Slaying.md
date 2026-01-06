@@ -1,6 +1,7 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+draft: true
 ---
 
 # Seek out Van Richten's Guide to Monster Slaying

@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 - a group of animals are attacking the farm and livestock.
 - pick which farm to head to first

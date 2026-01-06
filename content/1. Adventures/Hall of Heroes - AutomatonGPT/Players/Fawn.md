@@ -3,6 +3,7 @@ name: Fawn
 faction_standing:
   The Knights of the First Order: 1
   Neighbourhood Watch: 2
+draft: true
 ---
 
 ```dataviewjs

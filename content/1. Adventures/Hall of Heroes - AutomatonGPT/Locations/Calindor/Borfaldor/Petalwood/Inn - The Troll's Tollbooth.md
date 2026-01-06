@@ -5,13 +5,14 @@ merchantType: Inn
 merchantCategory: Hospitality
 kingdom: Calindor
 settlementName: Petalwood
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: The Troll's Tollbooth
 ownerName: Martha Evergreen
 apprentices:
   - No apprentices
 Region: Borfaldor
+draft: true
 ---
 
 # `=this.file.name`

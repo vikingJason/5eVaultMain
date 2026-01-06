@@ -1,6 +1,7 @@
 ---
-aliases: 
-tags: 
+aliases:
+tags:
+draft: true
 ---
 
 # Strahd Letter to Dursts

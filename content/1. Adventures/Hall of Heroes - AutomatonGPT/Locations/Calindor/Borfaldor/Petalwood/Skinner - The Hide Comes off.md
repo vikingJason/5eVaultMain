@@ -3,20 +3,21 @@ fileType: structure
 structureType: Profession
 merchantType: Skinner
 merchantCategory: Leatherworker
-kingdom: 
+kingdom:
 settlementName: Not Assigned
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: The Hide Comes off
 ownerName: No Owner Assigned
-ownerLink: 
-ownerRace: 
+ownerLink:
+ownerRace:
 apprentices:
   - Dryden (Young Adult ) Male who is Well
 services:
   - Merchant( Low   quality, Above Average  costs)
   - Oil Trader( Low   quality, Below Average  costs)
 Region: '"[[Borfaldor]]"'
+draft: true
 ---
 
 

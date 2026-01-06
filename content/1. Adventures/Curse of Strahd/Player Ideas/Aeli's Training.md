@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 Given that Aeli is already a fighter and her motivation for seeking greater strength stems from wanting to best her brother, we can refine the structure to focus on improving her fighting abilities and strength through her bond with the revenant. This bond will give her enhanced martial prowess but at a cost, which mirrors the revenant’s tragic nature. The revenant, a former member of the **Order of the Silver Dragon**, offers to guide Aeli down a path of intense combat mastery, helping her achieve the power she seeks but at the risk of her humanity.
 

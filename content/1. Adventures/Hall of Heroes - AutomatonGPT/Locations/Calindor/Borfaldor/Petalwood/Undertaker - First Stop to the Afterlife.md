@@ -3,20 +3,21 @@ fileType: structure
 structureType: Profession
 merchantType: Undertaker
 merchantCategory: Service
-kingdom: 
+kingdom:
 settlementName: Not Assigned
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: First Stop to the Afterlife
 ownerName: No Owner Assigned
-ownerLink: 
-ownerRace: 
+ownerLink:
+ownerRace:
 apprentices:
   - Willoughby (Teen ) Female who is Healthy
 services:
   - Elected Official( Good   quality, High  costs)
   - Town Justice( Average   quality, Above Average  costs)
 Region: '"[[Borfaldor]]"'
+draft: true
 ---
 
 

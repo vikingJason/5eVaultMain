@@ -1,6 +1,7 @@
 ---
 aliases: Barovia Church
-tags: 
+tags:
+draft: true
 ---
 
 # Barovia Church of the Morning Lord

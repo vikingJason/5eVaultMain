@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 Excellent — that gives this downtime a _rich connective tissue_ between Petalwood’s events, the greater mythos of the Shimmering Cave, and the sandbox expansion toward the **Verdant Expanse**.
 

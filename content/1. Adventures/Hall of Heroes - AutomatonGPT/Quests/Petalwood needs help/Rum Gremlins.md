@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 
 ![[Rum Gremlins.jpg|700]]

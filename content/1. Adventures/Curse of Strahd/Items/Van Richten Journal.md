@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Van Richten Journal
 
 Yes, **Van Richten’s Journal** can provide several benefits to the party, both in terms of tangible gameplay mechanics and narrative opportunities. Here’s how you can leverage it to enhance the game:

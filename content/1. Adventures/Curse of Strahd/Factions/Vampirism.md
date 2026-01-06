@@ -1,6 +1,7 @@
 ---
 aliases: vampire, vampires
-tags: 
+tags:
+draft: true
 ---
 
 # Vampirism 

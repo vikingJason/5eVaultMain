@@ -8,6 +8,7 @@ Type:
   - Region
 Ruler: placeholder
 Factions: placeholder
+draft: true
 ---
 # Borfaldor
 ## Overview

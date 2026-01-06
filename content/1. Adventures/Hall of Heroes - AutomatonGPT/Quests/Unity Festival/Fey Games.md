@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 Here’s a list of **10 Fey-inspired carnival games** that blend whimsy, challenge, and opportunities for players to use their abilities creatively. Each game ties into the magical nature of the Feywild and allows players to engage with skill checks, spells, or creative problem-solving.
 

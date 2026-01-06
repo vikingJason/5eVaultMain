@@ -6,13 +6,14 @@ merchantCategory: Service
 kingdom: Calindor
 Region: Borfaldor
 settlementName: Petalwood
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: Faebric Fashions
 ownerName: The Glimmertwists
 apprentices:
   - No apprentices
-services: 
+services:
+draft: true
 ---
 
 

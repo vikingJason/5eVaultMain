@@ -8,6 +8,7 @@ Allies:
   - "[[Strahd von Zarovich]]"
 Siblings:
 Partner:
+draft: true
 ---
 
 # Arrigal

@@ -4,10 +4,11 @@ merchantType: Apothecary
 kingdom: Calindor
 Region: Borfaldor
 settlementName: Petalwood
-wardName: 
+wardName:
 title: Mystic Roots
 ownerName: Althea Thornblossom
-services: 
+services:
+draft: true
 ---
 
 

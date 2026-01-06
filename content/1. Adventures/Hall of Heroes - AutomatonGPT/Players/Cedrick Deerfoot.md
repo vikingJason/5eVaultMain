@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 ## A Legacy of Secrets: Cedrick Deerfoot's Backstory
 

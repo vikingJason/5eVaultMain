@@ -7,6 +7,7 @@ Enemies:
 Allies:
 Siblings:
 Partner:
+draft: true
 ---
 
 # Stanamir

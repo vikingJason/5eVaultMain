@@ -8,6 +8,7 @@ wardName: Holy District
 title: The Sacred Reliquary
 ownerName: Father Benediktus
 services: Blessing of Items, Spiritual Guidance, Holy Water Refills, Prayer Sessions
+draft: true
 ---
 
 # **The Sacred Reliquary**

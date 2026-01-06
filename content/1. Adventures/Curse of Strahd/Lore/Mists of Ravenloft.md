@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 ### Mists of Ravenloft
 

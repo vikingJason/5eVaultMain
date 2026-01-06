@@ -7,6 +7,7 @@ Region: Calindor
 Type: Region
 Ruler: placeholder
 Factions: placeholder
+draft: true
 ---
 # Commonwealth of Isyesari
 ## Overview

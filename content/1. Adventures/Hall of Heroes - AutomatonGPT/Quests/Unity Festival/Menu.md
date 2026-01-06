@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 
 The menu includes local ingredients and a specialty dish only served on important occasions, Blue Corn Polenta with Wild Mushroom Ragout.

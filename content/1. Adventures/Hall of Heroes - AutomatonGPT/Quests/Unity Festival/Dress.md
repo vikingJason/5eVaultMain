@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 ![[tailor 1.jpeg]]
 

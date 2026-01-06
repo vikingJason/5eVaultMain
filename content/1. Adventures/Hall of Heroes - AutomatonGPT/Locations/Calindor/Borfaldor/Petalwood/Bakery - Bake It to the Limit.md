@@ -5,13 +5,14 @@ merchantType: Baker
 merchantCategory: Food and Beverage Service
 kingdom: Calindor
 settlementName: Petalwood
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: Bake It to the Limit
 ownerName: Thistledown Whisperwind
 apprentices:
   - No apprentices
 Region: Borfaldor
+draft: true
 ---
 
 

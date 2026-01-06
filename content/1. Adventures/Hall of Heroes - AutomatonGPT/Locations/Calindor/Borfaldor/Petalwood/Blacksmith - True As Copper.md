@@ -4,10 +4,11 @@ merchantType: Blacksmith
 kingdom: "[[content/1. Adventures/Hall of Heroes - AutomatonGPT/Lore/History/Calindor]]"
 region: "[[Borfaldor]]"
 settlementName: "[[Petalwood]]"
-wardName: 
+wardName:
 title: True As Copper
 ownerName: "[[Forge (Automaton)]]"
 services: Weaponsmithing, Armorsmithing, Tool Repair
+draft: true
 ---
 
 # **True As Copper**

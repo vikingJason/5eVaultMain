@@ -1,22 +1,23 @@
 ---
-Art: 
+Art:
 Pronounced: Calindor
 Region: "[[The Feywild]]"
 Type:
   - Kingdom
-Population: 
-Races: 
-GovtType: 
+Population:
+Races:
+GovtType:
 Defences: Formidable
-Law: 
-Military: 
-Factions: 
-Imports: 
-Exports: 
+Law:
+Military:
+Factions:
+Imports:
+Exports:
 Race: "[[elf]]"
-Religion: 
-Ruler: 
-Title: 
+Religion:
+Ruler:
+Title:
+draft: true
 ---
 
 

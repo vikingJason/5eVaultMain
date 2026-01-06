@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 # Shard of the Eternal Vein
 *Melee Weapon, Rare (requires attunement by a creature proficient with spears)*  

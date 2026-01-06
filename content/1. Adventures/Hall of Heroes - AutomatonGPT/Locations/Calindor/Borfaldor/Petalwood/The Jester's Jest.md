@@ -1,12 +1,13 @@
 ---
 type: Tavern
 tavernType: Whimsical High Fantasy Tavern
-kingdom: 
-region: 
-settlementName: 
-wardName: 
+kingdom:
+region:
+settlementName:
+wardName:
 title: The Jester's Jest
 ownerName: Lydia Larkspur
+draft: true
 ---
 
 # **The Jester's Jest**

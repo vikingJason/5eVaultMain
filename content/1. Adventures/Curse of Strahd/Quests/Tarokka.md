@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 ### 1 - Tome of Strahd
 

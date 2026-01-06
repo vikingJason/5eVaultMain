@@ -4,13 +4,13 @@ Role:
   - organization
 organizationType: Arcane Society
 kingdom: "[[content/1. Adventures/Hall of Heroes - AutomatonGPT/Lore/History/Calindor]]"
-region: 
-settlement: 
-urbanArea: 
-leader: 
+region:
+settlement:
+urbanArea:
+leader:
 size: unknown
-structure: 
-hierarchy: 
+structure:
+hierarchy:
 faction: The Knights of the First Order
 benefits:
   - standing: 1
@@ -19,6 +19,7 @@ benefits:
     reward: Respect
   - standing: 3
     reward: What do they get at level 3?
+draft: true
 ---
 
 <br>

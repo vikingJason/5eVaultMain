@@ -3,20 +3,21 @@ fileType: structure
 structureType: Profession
 merchantType: Lord
 merchantCategory: Noble
-kingdom: 
+kingdom:
 settlementName: Not Assigned
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: Livingstone's Mansion
 ownerName: No Owner Assigned
-ownerLink: 
-ownerRace: 
+ownerLink:
+ownerRace:
 apprentices:
   - Kimberley (Young Adult ) Female who is At death's door
 services:
   - Noble( Horrible   quality, Average  costs)
   - Diplomacy( Average   quality, Low  costs)
 Region: '"[[Borfaldor]]"'
+draft: true
 ---
 
 

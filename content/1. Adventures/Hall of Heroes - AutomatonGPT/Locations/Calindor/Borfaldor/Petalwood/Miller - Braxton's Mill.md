@@ -3,20 +3,21 @@ fileType: structure
 structureType: Profession
 merchantType: Miller
 merchantCategory: Food Service
-kingdom: 
+kingdom:
 settlementName: Not Assigned
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: Braxton's Mill
 ownerName: No Owner Assigned
-ownerLink: 
-ownerRace: 
+ownerLink:
+ownerRace:
 apprentices:
   - Stratford (Teen ) Female who is Fit as a fiddle
 services:
   - Miller( Low   quality, Below Average  costs)
   - Harvester( Average   quality, Above Average  costs)
 Region: '"[[Borfaldor]]"'
+draft: true
 ---
 
 

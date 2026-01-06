@@ -8,6 +8,7 @@ Enemies:
 Allies:
 Siblings:
 Partner:
+draft: true
 ---
 
 # Abbot

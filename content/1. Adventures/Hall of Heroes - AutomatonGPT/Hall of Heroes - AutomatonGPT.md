@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-draft: false
+draft: true
 campaign: HoH
 ---
 

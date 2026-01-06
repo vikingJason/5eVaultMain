@@ -6,13 +6,14 @@ merchantCategory: Food and Beverage Service
 kingdom: Calindor
 Region: Borfaldor
 settlementName: Petalwood
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: The Fermentery
 ownerName: Brewbot
 apprentices:
   - No apprentices
-services: 
+services:
+draft: true
 ---
 
 

@@ -5,6 +5,7 @@ Enemies:
 Allies:
 Siblings:
 Partner:
+draft: true
 ---
 > _“You think you know shadow? I was born from it.”_
 

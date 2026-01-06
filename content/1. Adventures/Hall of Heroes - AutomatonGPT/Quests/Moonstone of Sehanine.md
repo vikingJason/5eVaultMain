@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 ### **Encounter: "The Moonstone of Sehanine" (Expanded Version)**
 

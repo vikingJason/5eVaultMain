@@ -3,7 +3,6 @@ obsidianUIMode: preview
 draft: true
 ---
 
-
 > [!cards|4]
 > **[[Calindor_Map.jpg]]**
 > [![[Borfaldor_Map.png\|sban htiny ctr]]](Borfaldor.md)
@@ -17,7 +16,8 @@ draft: true
 > **[[Link]]**
 > [![[Party 1.jpg\|sban htiny ctr p+t]]](Players.md)
 
-## 📚 Chapter Links
+# 📚 Chapter Links
+
 ```dataviewjs
 const targetFolder = "content/1. Adventures"; // Update to your folder path
 
@@ -93,10 +93,10 @@ try {
 }
 ```
 
-
 > [!infobox]
 > # Session Journals
 > ```dataview
+
 TABLE WITHOUT ID link(file.name) AS "Session Date", Status, players
 from "1-Session Journals"
 where (type = "Session Journal")
@@ -129,8 +129,8 @@ SORT file.mtime DESC
 LIMIT 10
 ```
 
-
 # Recently Modified Notes
+
 ```dataview
 TABLE WITHOUT ID
     link(file.path, file.folder + " / " + file.name) AS "Note",

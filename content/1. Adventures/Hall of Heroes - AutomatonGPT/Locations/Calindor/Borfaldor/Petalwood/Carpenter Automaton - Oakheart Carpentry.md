@@ -6,13 +6,14 @@ merchantCategory: Craftsman
 kingdom: Calindor
 Region: Borfaldor
 settlementName: Petalwood
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: Oakheart Carpentry
 ownerName: Timber
 apprentices:
   - No apprentices
-services: 
+services:
+draft: true
 ---
 
 

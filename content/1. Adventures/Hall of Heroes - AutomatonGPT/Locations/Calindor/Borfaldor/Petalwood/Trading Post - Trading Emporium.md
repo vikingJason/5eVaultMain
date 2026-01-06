@@ -3,20 +3,21 @@ fileType: structure
 structureType: Profession
 merchantType: Trading Post
 merchantCategory: Merchant
-kingdom: 
+kingdom:
 settlementName: Not Assigned
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: Trading Emporium
 ownerName: No Owner Assigned
-ownerLink: 
-ownerRace: 
+ownerLink:
+ownerRace:
 apprentices:
   - Nibley (Young Adult ) Male who is Hurt
 services:
   - Merchant( Poor   quality, Low  costs)
   - Oil Trader( Average   quality, Low  costs)
 Region: '"[[Borfaldor]]"'
+draft: true
 ---
 
 

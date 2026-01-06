@@ -1,6 +1,7 @@
 ---
 aliases: St Andral Church
-tags: 
+tags:
+draft: true
 ---
 
 # Church of St. Andral

@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 To tell the history of Calindor, one must first look at the history of the Nebula Oasis. This, but one of many islands in the Dreaming Isles was once a vast and peaceful land, ruled by the wise and benevolent Eladrin, a powerful and magical race. But all that changed ten thousand years ago when the forces of the Abyssal Lords invaded. In the resulting Conflict of the Primordials, the Eladrin were brought to the brink of devastation and the Eladrin were forced to flee their homeland.
 

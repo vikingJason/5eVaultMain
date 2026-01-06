@@ -4,7 +4,7 @@ Pronounced: Peh-Tal-wuhd
 Type: Settlement
 SettlementType: Village
 Population: 132
-Races: 
+Races:
 GovtType: "[[Feudalism]]"
 Defences: None
 Law: Warden
@@ -23,6 +23,7 @@ Religion: "[[elven-darahl-tilvenar]]"
 Ruler: "[[Finroth Tilvenar]]"
 Title: Mayor
 Region: "[[Borfaldor]]"
+draft: true
 ---
 
 

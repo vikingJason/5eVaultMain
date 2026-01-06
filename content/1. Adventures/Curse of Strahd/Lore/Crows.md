@@ -1,3 +1,6 @@
+---
+draft: true
+---
 In the gothic horror setting of *Ravenloft*, particularly in the domain of Barovia, crows are more than just ordinary birds—they are deeply tied to the dark, oppressive atmosphere and the machinations of the land's ruler, Strahd von Zarovich. Here are some facts about crows in Barovia that a player might know, depending on their background, knowledge of nature, or familiarity with Barovia's lore:
 
 ---

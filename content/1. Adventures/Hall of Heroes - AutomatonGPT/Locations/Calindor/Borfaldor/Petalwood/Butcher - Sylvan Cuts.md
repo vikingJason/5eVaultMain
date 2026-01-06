@@ -6,13 +6,14 @@ merchantCategory: Service
 kingdom: Calindor
 Region: Borfaldor
 settlementName: Petalwood
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: Sylvan Cuts
 ownerName: Elowen Greenshade
 apprentices:
   - Theren Leafwhisper
-services: 
+services:
+draft: true
 ---
 
 

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 ## 🍇 **Core Connection Premise**
 
 > The land of Barovia once pulsed with natural magic, channeled through the **Three Fanes** (Swamp, Forest, Mountain). When they were desecrated, the land turned sick — crops withered, mists thickened, and wild things grew cruel.  

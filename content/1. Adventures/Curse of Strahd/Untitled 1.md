@@ -1,5 +1,6 @@
 ---
 SessionNote: CoS
+draft: true
 ---
 ```base
 formulas:

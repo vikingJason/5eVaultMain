@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 Here’s a breakdown of some **DnD-compatible settings** or inspiration sources that align with the themes you’re interested in. While not all are official D&D, many third-party publishers or adaptations work seamlessly within 5E rules.
 

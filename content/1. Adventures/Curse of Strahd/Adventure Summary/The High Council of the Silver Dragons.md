@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 ### **The High Council of the Silver Dragons**
 

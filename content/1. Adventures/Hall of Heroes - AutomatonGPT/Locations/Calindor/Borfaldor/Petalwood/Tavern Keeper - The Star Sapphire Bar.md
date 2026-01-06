@@ -3,14 +3,14 @@ fileType: structure
 structureType: Profession
 merchantType: Tavern Keeper
 merchantCategory: Hosteler
-kingdom: 
+kingdom:
 settlementName: Not Assigned
-wardName: 
+wardName:
 structure: SHOP,HOUSE
 title: The Star Sapphire Bar
 ownerName: No Owner Assigned
-ownerLink: 
-ownerRace: 
+ownerLink:
+ownerRace:
 apprentices:
   - Wilberforce (Young Adult ) Male who is All Right
 services:
@@ -19,6 +19,7 @@ services:
   - Common Room (Sleeping)( Low   quality, Average  costs)
   - Room (Meeting)( Excellent   quality, Above Average  costs)
 Region: '"[[Borfaldor]]"'
+draft: true
 ---
 
 

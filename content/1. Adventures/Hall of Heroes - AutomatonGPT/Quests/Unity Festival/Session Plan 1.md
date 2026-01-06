@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Thank you! Based on your answers, here’s a complete **3-phase climactic encounter** for the **final confrontation with Finroth**, the manipulative architect of greed, betrayal, and mechanical domination—wrapped in the guise of unity and inclusion.
 
 ---

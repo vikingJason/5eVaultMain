@@ -1,3 +1,6 @@
+---
+draft: true
+---
 Certainly! Here's an exciting 3-phased climactic encounter for your six level 5 PCs designed to challenge them tactically, weave in story elements they've encountered, and present a meaningful moral choice. This climactic showdown takes place in Finroth's estate and his workshops in Petalwood, culminating in a tense negotiation or battle with the mayor and his Automatons.
 
 ---

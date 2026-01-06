@@ -1,6 +1,7 @@
 ---
 aliases: Nox, Vox, Vox Nita
-tags: 
+tags:
+draft: true
 ---
 
 # Nox Vita

@@ -2,14 +2,15 @@
 fileType: structure
 structureType: Profession
 merchantType: Weaver Tailor
-kingdom: 
-settlement: 
-urbanArea: 
+kingdom:
+settlement:
+urbanArea:
 structure: Shop
 title: Weavers
 services: services
 owner: Empell (Halfling)
 Region: '"[[Borfaldor]]"'
+draft: true
 ---
 > [!oRPG-Layout] 
 > #  Weavers  (Weaver/Tailor)
