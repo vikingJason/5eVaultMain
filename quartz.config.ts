@@ -80,6 +80,14 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+      {
+        name: "RemoveSecrets",
+        textTransform(_ctx, src) {
+          // Removes content between <!-- gm --> and <!-- /gm --> tags
+          // The 's' flag (dotAll) allows . to match newline characters.
+          return src.toString().replace(/<!-- gm -->[\s\S]*?<!-- \/gm -->/g, "");
+        },
+      },
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
