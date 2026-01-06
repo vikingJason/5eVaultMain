@@ -3,14 +3,14 @@ obsidianUIMode: preview
 draft: false
 ---
 
-
+# 5e GM Screen
 
 ![[5eGMScreen.png]]
 
-
 >[!multi-column] Abilities and Skills
 >
->>[! important  |wide-2 ttl-c n-th]- Skill Checks
+>>[! important |wide-2 ttl-c n-th]- Skill Checks
+>>
 >>>```base
 >>>properties:
 >>>  file.folderName:
@@ -37,15 +37,18 @@ draft: false
 
 >[!multi-column] 
 >
->> [! important  |bg-c-purple ttl-c n-th]- Check Rules
+>> [! important |bg-c-purple ttl-c n-th]- Check Rules
+>>
 >>>![[CheckRules.base]]
->
->> [! important  |bg-c-green ttl-c n-th]- Abilities
+>>
+>> [! important |bg-c-green ttl-c n-th]- Abilities
+>>
 >>>![[Abilities.base]]
 
 <br>
 
->[! important  |bg-c-red color-red ttl-c n-th]- Conditions
+>[! important |bg-c-red color-red ttl-c n-th]- Conditions
+>
 >>```base
 >> formulas:
 >>  first_image: |
@@ -66,26 +69,29 @@ draft: false
 <br>
 
 >[!multi-column] Combat
->>[!danger | bg-c-green  ttl-c]- Combat Actions
->>>![[CombatActions.base]]
 >
->>[!danger | bg-c-yellow  ttl-c]- Combat Rules
+>>[!danger | bg-c-green ttl-c]- Combat Actions
+>>
+>>>![[CombatActions.base]]
+>>
+>>[!danger | bg-c-yellow ttl-c]- Combat Rules
+>>
 >>>![[CombatRules.base]]
 
 <br>
 
->[!tldr | bg-c-gray  ttl-c]- DM Tools
+>[!tldr | bg-c-gray ttl-c]- DM Tools
 >
 >>![[DMTools.base]]
 
 <br>
 
->[! | bg-c-orange  ttl-c]- Campaign Maps
-> 
+>[! | bg-c-orange ttl-c]- Campaign Maps
 
 <br>
 
-> [!example |  ttl-c ]- Rules Reference
+> [!example | ttl-c ]- Rules Reference
+>
 >>[!cards| dataview]
 >>```dataview
 >>TABLE 
@@ -93,15 +99,16 @@ draft: false
 >>SORT file.link ASC
 >> ```
 
-
 <br>
 
->[! health |  bg-c-red ttl-c n-th]- Healing
+>[! health | bg-c-red ttl-c n-th]- Healing
+>
 >>![[HealthRules.base]]
 
 <br>
 
-> [!example|  ttl-c]- Exploration and Downtime Activities
+> [!example| ttl-c]- Exploration and Downtime Activities
+>
 >>[!cards| dataview]
 >> ```dataview 
 >> TABLE
