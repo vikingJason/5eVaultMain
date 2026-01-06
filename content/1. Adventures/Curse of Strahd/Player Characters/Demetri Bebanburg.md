@@ -1,7 +1,7 @@
 ---
 aliases: Demetri
 tags:
-draft: true
+draft: false
 ---
 
 # Demetri Bebanburg
