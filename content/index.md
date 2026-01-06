@@ -20,7 +20,7 @@ Calindeseus' family ruled Calindor for many generations, with each successor a s
 
 But Calindor's peace was not to last. A dark force was rising in the Underdark, and it soon threatened to overrun the realm reigned over by King Thoras. This force was led by Aurzath, a powerful drow warlord. Aurzath and his armies invaded Calindor, and the realm was plunged into a dark age known as the Blight.
 
-The people of Calindor fought bravely against the Blight, but they were outnumbered and outmatched. Just when it seemed like all hope was lost, a young woman named  Lorawenys rose through the ranks and lead the final assault against the invaders. She was a brave and loyal soldier, who fought valiantly and earnt the admiration and respect of all. She was a symbol of hope and courage, and was selected to lead the Knights of The First Order, the company of guards that protect the crown and those that wear it.
+The people of Calindor fought bravely against the Blight, but they were outnumbered and outmatched. Just when it seemed like all hope was lost, a young woman named Lorawenys rose through the ranks and lead the final assault against the invaders. She was a brave and loyal soldier, who fought valiantly and earnt the admiration and respect of all. She was a symbol of hope and courage, and was selected to lead the Knights of The First Order, the company of guards that protect the crown and those that wear it.
 
 With King Thoras' declining health after The Blight, King Thoras abdicated from the throne and passed the crown on to his daughter, Clarice Thramfhaer.
 
