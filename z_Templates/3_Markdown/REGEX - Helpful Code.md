@@ -40,3 +40,18 @@ REPLACE:
 FIND: ^(\n)+
 REPLACE:\n
 ```
+
+
+#### Add space between Capital Letter and previous letter
+
+```
+FIND: ([a-z])([A-Z])
+REPLACE: $1 $2
+
+```
+
+#### Change line break to paragraph break
+```
+FIND: ^\s*$
+REPLACE: </p><p>
+```

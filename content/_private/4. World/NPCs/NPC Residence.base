@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.inFolder("content/_private/4. World/NPCs")
+    - list(MyContainer).contains(this.file.name)
+properties:
+  file.name:
+    displayName: List of People in Places
+views:
+  - type: table
+    name: People - Table
+    order:
+      - file.name
+      - Occupation
+      - Age
+      - MyContainer
+  - type: cards
+    name: People - Cards
+    order:
+      - file.name
+      - Occupation
+      - Age
+    image: note.image

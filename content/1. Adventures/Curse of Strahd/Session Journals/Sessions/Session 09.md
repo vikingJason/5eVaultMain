@@ -1,0 +1,628 @@
+---
+aliases: 
+tags: 
+---
+
+# Session 9
+
+[Youtube - Curse of Strahd Session 9](https://youtu.be/StCbW6iiLYQ)
+
+## Raw Notes 
+
+-   2 days from now is festival
+-   Dusk elf leader describes Bluto as "Fara Suflet"
+    -   Vistani insult for "One with no soul"
+    -   Some people exist without a soul in Barovia
+        -   Mist of the souls of all in this land are trapped here
+        -   Souls have been disappearing: they no longer reincarnate
+            -   Usually souls trapped here reincarnate eventually (this is normal)
+        -   Noticed there are "mist touched"
+            -   bartender, dull guy - he is mist touched
+            -   seems to not feel pain, just shells of a person
+            -   Lack charm and imagination, depression, tired
+            -   Bluto was probably one
+                -   Not sure if he ever had one
+        -   "Sun touched"
+            -   cheery, antonym
+-   Short on wine
+    -   Shipment is missing from "Wizards of Wine"
+    -   Contact is Davian Martikov
+-   Nox has chain with rings on it
+    -   "Hard without you. This group is better than the last, but its dark here. "
+    -   Hides rings in his hands when Piddlewick pokes him with a dark
+    -   Nirin approaches
+    -   Nox shares that sending Bluto off to his death was definitely in the "grey" area
+    -   Nirin: we will likely encounter more
+    -   Nox: did you have a child
+    -   Nirin: i used to
+    -   Nox: I was supposed to
+-   Leave pidlwick, take carpet into town (30m)
+-   Court jester (very colorful) is in town
+    -   Having a puppet show
+    -   "Rictavio's famous puppet show"
+-   Church of St Andral
+    -   Windows with glass "saints"
+-   To town square
+    -   On the way we cross the town square, which appears to be the center of the town's festivals
+        -   Center of square is statue of man facing west, platform around him holds gallows
+    -   Nirin follows his line of sight,  
+        - Around gallows are some stocks, where some men, women and children wearing donkey heads are locked
+-   Shopping
+    -   book store - Yonvich and sons bookstore
+        -   Not many books
+        -   Most of the room is filled with a giant printing press
+        -   Several are around printing flyers for the festival
+        -   Nirin enters
+        -   Nirin: looking for some books
+        -   ?: Burgomaster's library has most of the books
+        -   Nirin buys a leather-bound journal
+        -   Looking through books - buys all the interesting books
+            -   most are basic, generic books
+            -   land before the lord: breif history of barovia
+                -   before strahd, nothing since him
+            -   st markovias rebellion: life and death
+            -   lycanthropy book
+            -   dragomir's guiode to better potion making
+            -   poems: love adn love again
+        
+    -   dust light supply - adventuring gear
+        -   dust everywhere
+        -   HUGE general store
+        -   Woman Bethel "oh hello there"
+            -   Kali buys
+                -   lamp
+                -   bullseye lantern
+                -   caltrops
+            -   Sanar buys
+                -   climbing kit
+            -   Sanar convinces Bethel to reduce cost from 45g (?) down to 30 and promises to send friends
+            -   Sanar convinces Kali to split down the middle (even though its a loss to her)
+    -   thimduls smithing
+        -   Nirin buys a Rapier, splits cost with Klepto
+        -   Ireena takes rapier and eyes glaze over
+            -   Seems to have expertise
+            -   eyes come back into focus "easy to use, very nice"
+        -   Ireena buys herself a Rapier
+        -   Nox buys Scale Mail and Warhammer
+            -   Warhammer from Cholt (sp?) - region way far to the south
+        -   Kingmaker to Klepto: a leader needs gold to buy soldiers, dont they
+            -   Hand takes gold and puts it into his backpack
+    -   ravens eye tannery
+        -   smells on the way
+        -   wooden sign: arresk stockyard, arresk goods
+        -   South near the tannery is a carnival wagon "Ricktarvioas"
+        -   Light grey skinned woman, Anyang
+            -   Half dusk elf, half vistani
+        -   Kali buys leather armor
+        -   Sanar engages
+            -   Sanar finds out the Dusk Elves look down upon Anyang
+            -   She is not allowed in the vistani/dusk elf camp
+            -   She wouldnt mind their houses burning down
+            -   Doesnt mind living in vallaki
+            -   Refuses to share names of those that outcast her
+            -   Reformation center
+                -   Courthouse, guard, barracks, prison... and unofficially torture center
+                -   People change in there, more compliant
+                -   Not "Souless"
+                -   people have a good opinion about the town after going through the center
+    -   blinkskys toys (first)
+        -   cramped shop, rocking horse, arch windows
+        -   "Is no fun, is no blinkskys"
+        -   all toys are a little creepy
+            -   headless dolls with attachable heads
+            -   wooden mobile with bats
+            -   Dummy looks like strahd
+        -   Overweight man with a monkey (piccolo) wearing a tutu
+        -   Goblin Doll
+            -   Izek Strazni
+                -   head of guard, right hand man of Burgomaster
+                -   Demands that a doll is made looking like a goblin each month
+        -   Nirin: any clockwork toys?
+            -   No, Great clockwork maker named "Fritz Von Wierg", but cannot find them
+        -   (overweight man) Doesnt know what a Goblin is
+        -   Kleptop got Arabelle a werewolf beanie baby
+        -   "Settlers of Barovia"
+        -   Got monkey from colorful man that came in a couple of weeks ago and bought vistani doll
+        -   Nox buys cards and knife spinner (fidget spinner) for hobbies
+-   Nox and Ireena at the Church (morning Lord)
+    -   Nox moves gem from spear to warhammer
+    -   Nox prays to kalemdvor on way in, nothing happens
+    -   Priest inside praying
+        -   larger, thining hair
+        -   brown robes, bare feet
+    -   Priest: welcome to the church of st andral
+    -   Looking for priest
+    -   Father Lucian Petrovich
+    -   Nox: Ireena has been visited by strahd and he has taken a liking to her
+    -   Lucian: so sorry
+    -   Nox: She has been biten, but not turned
+    -   Lucian leads Nox away after approval from Ireena
+        -   Lucian: youre a Holy man arent you
+        -   Nox: yes
+        -   Lucian: I can only trust one as holy as me, cannot tell the people, only those you trust
+        -   Lucian: It will cause unrest
+        -   Nox: have my word
+        -   Lucian: Chruch of st andral, holy man, when he died his bones were blessed to keep evil at bay
+            -   Bones in the crypt of this chruch, no evil can enter
+            -   St andral is so holy, even strahd cannot enter
+            -   BUT now the church is at risk. Someone stole the bones of st andral
+                -   needs bones on the altar for protection
+        -   Nox: only church, or whole ciity
+        -   Lucian: in City, if nobody is afraid on him, then festival is working - strahd wont enter
+        -   Yiska altar boy - mother not stable, slit her throat during confessional
+            -   Took him in
+            -   Mentioned the bones to the boy a month ago after panic attack to calm him
+            -   Asked boy if he shared info, he said yes, but wouldnt give him name
+            -   Yeska is out in graveyard cleaning gravestones
+        -   Nox: has the morngng lord ever restored life?
+        -   Luscian: unfrotunately not, not that i have heard of
+        -   Morning lord teching: to let them go to the mother night
+        -   Nox: where can i find someone to worship the mother night
+        -   Lucian: not a formal organization, but the hunters and **___** in the bluewater inn celebrate her
+        -   Nox: why not more followed in a place of death
+        -   L: followed, but not a formal organization, no devoted religion, but we pray and recognize her
+        -   Nox: you prayed to her?
+        -   L: not said anything to me or anyone ive every known
+        
+-   The Carnival Wagon
+    -   "I bring you from shadow into light"
+    -   As invisible Sanar and Kali approach the wagon, we hear a large beast snarl
+    -   Decide to get the full group
+-   Graveyard with Yeska
+    -   Yeska says nox is scary
+    -   Nox: just small and green. Father says you have info about something missing
+    -   Yeska, crys: no
+    -   Nox: Nox gets scared as well, its okay. we need this thing that protects us
+    -   Ireena helps persuade Yeska
+    -   Y: i told someone else
+    -   N: why
+    -   Y: idk, wanted him to think i was cool, becasue he is cool
+    -   N: name?
+    -   Y: Milivoj the gravedigger
+    -   N: When was last time you saw?
+    -   Y: few dayas
+    -   N: where live
+    -   Y: orphanage, no orphan maybe, probaby a care giver
+    -   N: how old
+    -   Y: super old, like 19
+    -   N: we all make mistakes, its okay. Morning lord talks of revival and refreshment, forgivemness.
+    -   Y: Thanks old mister, youre wise
+    -   N: Just nox
+    -   Y: okay mister nox
+    -   N: gives fidget spinner. Luscian is a good man
+    -   Y: uh huh
+    -   N: Yeska! Listen to me, Father Luscian is a good man
+    -   ...ignores
+    -   Y: yeah okay
+    -   Conversation with Ireena
+        -   Ireena: Orphanage again?
+-   We get back to the church
+    -   Nox starts talking and Sanar talks over him
+    -   Head into the church to meet Father
+    -   Get Nox caught up
+    -   Nox shares details about the bones, the altar boy, and the gravedigger
+-   Ricktavo
+    -   Nirin, daughter want to see you again, be here again?
+    -   R: yes! be here many many days!
+    -   Nirin leaves
+-   Orphanage - afternoon, early evening
+    -   More activity, people running around
+    -   Sanar goes to disguise, guards walk by, nox distracts with a bad card trick
+    -   Sanar knocks, detect thoughts
+    -   Head mistress opens door
+    -   Nox detect undead
+    -   Nirin: Heard anythign about church?
+        -   Sanar Detect thoughts: panic and fear that the only safe haven is threatened
+    -   Nirin: its oka, just want to talk to others
+    -   HM: Cant speak to Millivoj
+    -   Nirin: can we come back later?
+    -   HM: No, hes too sick to even speak
+        -   Detect thoughts: freakign about church, this is strange
+    -   Sanar: we have someone who has healing abilities, we can help
+    -   HM: very well, but if you get sick its not my fault
+    -   To Room
+        -   Chaos in room, kids are playing
+    -   Girl at dollhouse looks to be in pain
+        -   DT: maybe i need a new mattress, hope millivoj feels better soon
+            -   Sanar relays info
+    -   Led into a room of Millivoj
+        -   Kali can see
+        -   Deathly pale, bile near mouth, boils
+        -   Nirin smells a fiend in the room - an aura around Millivoj
+        -   DT: no thoughts
+        -   Nirin Medicine check with Nox help
+            -   magical in nature, not contagious
+        -   Sanar gets nothing from Millivoj, hes unconscious
+        -   Nox
+            -   Spare the dying did nothing
+            -   Cure Wounds fizzles out - no effect
+            -   Protection from Good and Evil
+                -   Seems to breathe more easily, still sleeping
+                -   Creature sense - aura is supressed, but still lingers
+        -   Sanar: anything weird that brought this about?
+        -   HM: now that you mention it, many of the orphans are getting bruises, but dont know how they get thim
+            -   also getting night terrors
+            -   Accident recently, orphan cedric died
+                -   fell from higher in the house - the second floor window
+    -   Klepto greeted by plain looking bald man wearing nicer clothes
+        -   M: are you one of the new outsider
+        -   K
+        -   Ernst Larnak: pleasure to meet you
+        -   Lady Watcher
+        -   U: she wishes to speak with all the outsiders, specifically you. Tonight or tomorrow
+        -   K: going to finish our current task
+        -   U: Fair enough, manor down south. It is important. Involves the Burgomaster, so keep this all to yourself
+            -   Has medallion of Fire, like a hearth
+    -   Kali in bushes
+        -   shadow moved
+    -   Nirin has connection with whatever this is
+        -   Tells Klepto that he fears they are all going to die
+    -   Sanar + Nirin
+        -   S: we need you inside. I know you want to help to children and we need you in there.
+            -   Cant do it without you
+        -   N: they are all going to die
+        -   S: we are all going to die, but we are going to try to help those children
+            -   Everything ive thought about you is correct
+    -   In play room
+        -   Nirin: these girls need to watch them at all times to figure out where bruises are coming from. nobody can leave
+        -   Girl (worker) leaves journal on table
+            -   One of the orphans parents were brutally murdered, never caught
+    -   Orphans line up - girls and boys
+    -   2nd floor hallway - everyone was separated in rooms by sex + age
+    -   Broken window is boarded up
+        -   light fingernail scratches - someone was holding on, and pushed off
+    -   Klepto yanks attic stairs down
+        -   dark inside, few random piles of clutter
+        -   Far end, near only window is a boy
+        -   P: My names Felix
+        -   N: meeting downstairs, want to join
+        -   P: dont really want to join
+        -   N: why
+        -   P: insignificant
+        -   N: big thought
+        -   P: i guess
+            -   Dont come closer - clutches knife
+        -   N: just give Nox the knife
+    -   Nirin to head mistress
+        -   N: age of cedrick?
+        -   10?
+    -   Going to bed of cedrick
+        -   nothing out of ordinary
+    -   Klepto tells head mistress abotu Felix in attic
+        -   Fear Cedrick death wasnt an accident - found a locket on Cedrick
+        -   All the bruises and everything started after Felix came
+    -   Nox + Felix
+        -   N: dont you want to be with someone?
+        -   F: Groans, "Please Leave!" (Voice changes)
+        -   N: please let us help
+        -   F: Starts getting mad, light from window dims
+            -   Dark smoke come out of skin
+            -   Black claws come out
+            -   "I TOLD YOU TO LEAVE"
+    -   whisps of smoke leave the beast and enter Klepto?
+-   Grabs Felix with locket and jumps out window
+-   As sucked into hell, kills Felix
+    -   Spare the dying
+    -   Spare the dying with prayer
+        -   Kalemvor
+        -   Felix's body gets sealed back with black ichor
+        -   alive, but lost function on legs
+-   Millivoj looks better
+-   Nirin is kneeling next to himself
+    -   Clone: "Saw the signs, the same signs"
+    -   N: I did
+    -   C: Follow the clues
+    -   N: youre nirin
+    -   C: i am you, and also not you. For now, where did he get the locket from... Follow the clues
+-   Nirin: Nox, you did very good today, I never thanked you for the wolves
+-   Millivoj
+    -   Ireena: going to ask some questions, not mad yet
+    -   M: Fine, what do you want to know
+    -   N: you were at the church, right?
+    -   M: how'd you know about the bones?
+    -   N: so you took them
+    -   M: told someone... Wasnt my fault... it was. Got this cough. Felt sick. Losing time + money. Hoping bones could pay for children
+        -   Gave the bones to Henrik van der Voort, the coffin maker - for 10 gold
+    -   N: you risked lives for 10g..
+    -   M: i made a mistake...
+-   Sanar gives Head Mistress 25 gold to care for Felix and ensure he is not blamed
+-   Nox cares for the child
+-   Nirin to Felxi
+    -   F: baking lady gave me the locket. said it was from a powerful adventurer
+        -   was playing adn she gave it to me
+    -   N: say anything?
+    -   F: Parents couldnt pay her, said it nicely
+        -   She likes coming to the orphanage
+    -   N: If you need help, just ask
+    -   F: how do i forget all the bad things?
+    -   N&N: you cant, but you learn to live with it
+
+
+## Raw Ryan 
+
+### Attendees
+Matt, Ryan, Scott, Ty, Zach, Peter
+
+### Notes
+#### Speaking of Souls
+- [[Luvash]] speaks with [[Ireena Kolyanovich|Ireena]], [[Kali Rouge|Kali]], [[Nirin Eze|Nirin]], and [[Klepto]]
+	- Brings back up that [[Bluto]] seemed pretty out of it
+	- Called it - _Fara Suflet_ - Vistani word for mindless, heartless, those w/o souls
+		- Mists keeps the souls from leaving, but eventually they get reincarnated over time
+		- However, they've been noticing souls disappearing from the pool of reincarnation
+- Unbeknownst to some denizens of [[Barovia (Country)|Barovia]], there are some around without souls
+	- [[Ireena Kolyanovich|Ireena]] states they call them mist touched - believe their spirits are choked by the fog around us
+	- States that [[Eric]] from the Blood on the Vine Tavern is mist touched
+- They tend to be more compliant and depressed, dull and muted individuals, lack creativity
+- [[Kali Rouge|Kali]] asks how it works
+	- [[Luvash]] is unsure
+	- [[Klepto]] is curious if he ever had a soul?
+		- [[Luvash]] says no - then it seems as though some are born w/o souls
+- Souls may be disappearing through hole in the mist? or something is consuming them?
+- [[Kali Rouge|Kali]] asks if [[Pidlwick II]] has a soul
+	- Clear he doesn't as it is a construct
+- While consider where to go next the party considers staying w/ the Vistani for the rest of the day
+	- [[Luvash]] states they wouldn't have enough wine to go around, they haven't gotten a delivery in some time
+	- [[Davian Martikov]] is their contact from the Wizard of Wine- same last name as [[Urwin Martikov]]
+
+#### Approaching [[Nox Vita|Nox]]
+- Party approaches [[Nox Vita|Nox]] as he is talking to the rings on the end of the chain around his neck
+	- Seems to be talking to Amare, his friend from his previous group - Sodality 
+	- [[Pidlwick II]] sneaks up on [[Nox Vita|Nox]], who seems to be extremely unsettled by it's presence
+- [[Nox Vita|Nox]] explains that the past day was really dark, and he is uncomfortable
+	- [[Nirin Eze|Nirin]] apologizes for things getting out of hand
+	- [[Nox Vita|Nox]] knows attempting to kill a child is terrible, but [[Bluto]] was a husk
+		- Punishing him with death is no different than what he was going to do to [[Arabelle]]
+		- Everything is morally grey
+- [[Nox Vita|Nox]] asks if [[Nirin Eze|Nirin]] has a child
+	- He did, [[Nox Vita|Nox]] says he was supposed to
+- [[Nox Vita|Nox]] doesn't want [[Pidlwick II]] to join them
+	- It seems to like [[Nirin Eze|Nirin]], [[Klepto]] is roughly able to command it to do things
+	- Listens to [[Nirin Eze|Nirin]] to stay behind as [[Nox Vita|Nox]] taunts it
+- [[Sanar]] joins back up with the group and is seen itching his arm
+	- [[Nirin Eze|Nirin]] asks if he has learned anything, [[Sanar]] states he still has some processing to do
+
+#### Back to Valaki
+- Different guards, confirm with our previous documentation, generally less of a hassle then last time
+- As soon as we enter we see a small crowd of people, laughter and smiles, which seems weird
+	- Court jester in the center, colorful (but not [[Vistani]] colorful), performing a puppet show
+	- No apparent meaning to the story he is telling
+	- _[[Rictavio]]'s Carnival of Wonders
+- Eventually we come across a church - [[Church of Saint Andral]] 
+	- Stained windows depicting pious saints, gravestones behind wrought iron fence
+	- Decide to come back later, [[Ireena Kolyanovich|Ireena]] agrees
+- Work our way towards the Market
+	- On the way we cross the town square, which appears to be the center of the town's festivals
+		- Center of square is statue of man facing west, platform around him holds gallows
+			- [[Nirin Eze|Nirin]] follows his line of sight, appears to be looking straight towards the [[Baron Vargas Vallakovich]]'s mansion
+		- Around gallows are some stocks, where some men, women and children wearing donkey heads are locked
+
+#### Shopping
+- Potential shops
+	- Yanvich and Son's bookstore
+	- Dusklight Supply Shop
+	- Thindoles Smithing
+	- [[Blinkski's Toy Shop|Blinkski's toys]]
+	- Raven's eye tannery - a bit further off from the town square
+
+#### [[Blinkski's Toy Shop|Blinkski's Toys]]
+- [[Blinkski's Toy Shop|Blinkski's Toys]] - Everyone but [[Sanar]] and [[Kali Rouge|Kali]] start here first
+	- _Is no Fun, Is no [[Blinkski]]_
+	- All of the toys seem slightly off, like dolls but missing an eye or mouth etc.
+	- [[Blinkski]] has monkey on his shoulder w/ a pink ballerina tutu (Piccolo)
+	- [[Blinkski]] shows [[Nox Vita|Nox]] that he has a doll that looks exactly like him
+		- Apparently the head of the guard - Izek Strazni - requests a doll that looks exactly like [[Nox Vita|Nox]] every single month
+		- Every month his description gets more and more accurate
+		- [[Blinkski]] Doesn't appear to know what a Goblin is
+	- [[Nirin Eze|Nirin]] asks about clockwork toys
+		- He doesn't have it, but [[Frtiz Von Weirg]] has a clockwork man somewhere in Valaki
+		- Later says Fritz is dead, but clockwork man is missing
+	- Toy for [[Arabelle]]
+		- [[Nirin Eze|Nirin]] finds a werewolf doll
+		- [[Klepto]] asks about a game for multiple children to play at once, as well as a disguise for a child
+		- Decides to buy both
+	- They ask about Piccolo, says a puppet man ([[Rictavio]]) gave him Piccolo as he seemed lonely
+	- [[Nox Vita|Nox]] asks if [[Blinkski]] sells any hobbies
+		- Buys some cards to do magic tricks with as well as a knife 'fidget' spinner
+	- As they leave [[Nox Vita|Nox]] brings up that the doll was really weird, especially weird that the head of the guard is asking for it
+
+#### Dusklight Supply Shop
+- [[Sanar]] and [[Kali Rouge|Kali]] head here
+	- [[Sanar]] buys a climber's kit and a bag of ball bearings
+	- [[Kali Rouge|Kali]] buys some lanterns and caltrops
+- [[Sanar]] is able to convince the shopkeeper to give them quite a large discount
+	- When he does his tattoo itches and some ghostly figure (The Kingmaker) appears to whisper in the shopkeepers ear, although no one sees this
+	
+#### Thindole's Smithing
+- [[Nirin Eze|Nirin]] buys a rapier
+	- [[Ireena Kolyanovich|Ireena]] asks to hold the rapier briefly, as she grabs it something comes over her, eyes gloss over, and she appears as if she suddenly knows how to wield it
+		- [[Nirin Eze|Nirin]] casts detect magic and nothing appears
+	- [[Ireena Kolyanovich|Ireena]] decides to buy her own
+- [[Klepto]] buys some scale mail
+- [[Nox Vita|Nox]] buys some tiny scale mail and a hammer
+	- [[Nox Vita|Nox]] notices dragon-like engravings along the hammer
+- [[Klepto]] tries to steal a gem within one of the swords
+	- Kingmaker assists him in stealing the gem - a bloodstone
+
+#### Raven's Eye Tannery
+- [[Sanar]] and [[Kali Rouge|Kali]] head towards east side of town towards Tannery
+- On the way there we see a stockyard, a butcher, and possibly a mortuary
+	- Additionally see [[Rictavio]]'s wagon, colorful and seems to be the wagon we are searching for [[Fortune - Group - Knowledge of the Past]]
+	- Wagon has a padlock on it
+	- [[Kali Rouge|Kali]] reaches out to [[Klepto]] and tells him what we found, we'll wait for him and head to the tannery in the meantime
+- Woman covered in scars, darkish skin, long curly back hair
+	- [[Kali Rouge|Kali]] buys leather armor
+	- [[Sanar]] recognizes her as a half-dusk elf, she also reveals she is half Vistani
+		- Other dusk elves look down upon her, as do Vistani and humans
+		- [[Sanar]] is confused as they Vistani and Dusk elves live together so they clearly like each other
+			- Vistani and dusk elves are family oriented, their ideal individual is not mixed with one another
+	- Her scars are from 3 oafs in Valaki
+		- [[Sanar]] offers to deal with them, but she doesn't wish to give him any information in case they he winds up in the Reformation center
+			- Reformation center - combination court house, barracks, prison and unofficially torture center
+			- People enter and leave more compliant, not soulless but less likely to speak poorly of Valaki
+
+#### Yanvich and Son's bookstore
+- [[Nirin Eze|Nirin]] buys a journal, and wants to take a look at some of the books
+	- [[Nirin Eze|Nirin]] buys several books to hopefully get some insight into the history and culture of [[Barovia (Country)|Barovia]]
+- [[Klepto]] arrives as he is leaving
+	- Fills [[Nirin Eze|Nirin]] in on what [[Kali Rouge|Kali]] and [[Sanar]] found
+
+#### [[Church of Saint Andral]]
+- [[Nox Vita|Nox]] and [[Ireena Kolyanovich|Ireena]] enter the church
+	- [[Nox Vita|Nox]] prays to [[Kelemvor]] as he enters
+- They meet [[Father Lucian Petrovich]] and introduce themselves
+	- [[Nox Vita|Nox]] asks if it is ok to talk about [[Strahd von Zarovich]] here
+	- [[Nox Vita|Nox]] reveals [[Ireena Kolyanovich#Strahd von Zarovich Strahd tries to woo Ireena]]
+		- [[Father Lucian Petrovich|Father Lucian]] asks to speak to [[Nox Vita|Nox]] alone - speaks to [[Nox Vita|Nox]] about him being influenced by a God
+	- [[Father Lucian Petrovich|Father Lucian]] tells [[Nox Vita|Nox]] that [[Saint Andral]]'s bones protect the Church
+		- [[Church of Saint Andral]] is so hallowed that it is protected from [[Strahd von Zarovich|Strahd]] and other evil
+		- But now the church is at risk, someone broke into the crypt and stole the bones of [[Saint Andral]], and thus church is no longer protected
+	- He believes [[Yeska]], altar boy, the only person to know, may have taken them
+		- [[Yeska]] says he told someone else about the bones, but would not say their name
+		- [[Yeska]] can be found in the graveyard or generally around the church
+	- [[Nox Vita|Nox]] asks if the [[Morning Lord]] has ever come up with a way to restore life
+		- [[Father Lucian Petrovich|Father Lucian]] says he has never heard of it
+		- When people pass they prey to let them pass to [[Mother Night]]
+		- [[Nox Vita|Nox]] is curious about talking to someone who preys to [[Mother Night]]
+			- [[Father Lucian Petrovich|Father Lucian]] states the Martikov's ([[Urwin Martikov]] and family) follow her
+
+#### [[Rictavio]]'s wagon
+- Fortune involving the wagon -  _"A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek."_
+	- [[Kali Rouge|Kali]] wants to look inside, [[Nirin Eze|Nirin]] looks annoyed that they are committing another crime
+- Plan
+	- [[Nirin Eze|Nirin]] disguises self to act as lookout
+	- [[Klepto]] creates a magic music box to distract everyone else around so that [[Kali Rouge|Kali]] and [[Sanar]] can sneak behind a shed to go invisible
+	- [[Kali Rouge|Kali]] and [[Sanar]] successfully go invisible and approach the wagon
+		- As we near it, something inside gets our scent and the whole wagon lurches
+		- Outside of the wagon is spattered with dried blood
+			- _I bring you from Shadow into Light_
+	- Decide to not open the wagon as we are worried about what is inside
+
+#### Speaking with [[Yeska]]
+- [[Nox Vita|Nox]] and [[Ireena Kolyanovich|Ireena]] ask him about the missing bones of [[Saint Andral]]
+	- [[Yeska]] is scared of [[Nox Vita|Nox]], but [[Nox Vita|Nox]] tries to allay his fears
+	- [[Nox Vita|Nox]] gives him his fidget spinner to stop him from crying
+- [[Yeska]] confirms he told someone else about the bones
+	- Wanted them to think [[Yeska]] was cool
+		- [[Milivoj]] - the gravedigger, about 19
+	- Hasn't seen him in a few days, lives at the orphanage, possibly a caretaker there as well
+
+#### Group reunites at the Church
+- [[Nox Vita|Nox]] introduces us to [[Father Lucian Petrovich|Father Lucian]]
+- [[Sanar]] tells [[Nox Vita|Nox]] about finding the wagon related to [[Fortune - Group - Knowledge of the Past]] and [[Nox Vita|Nox]] fills the group in on the missing bones of [[Saint Andral]]
+- [[Nirin Eze|Nirin]] decides to try and find [[Rictavio]] to find out if he will be around much longer
+	- [[Rictavio]] states he will be here for several days
+
+#### Looking for [[Milivoj]] at the [[Saint Andral Orphanage]]
+- More active then the last time we were here as it is still the afternoon
+	- [[Klepto]] looks for [[Arabelle]] - no where in sight, [[Luvash]] likely has her on a tight leash
+	- Can't see anyone in the attic like we did last night
+- [[Nirin Eze|Nirin]], [[Sanar]], [[Kali Rouge|Kali]] and [[Nox Vita|Nox]] try to enter the [[Saint Andral Orphanage]] via talking to the headmistress
+	- [[Kali Rouge|Kali]] and [[Klepto]] keep watch of the front and back
+	- Knock on the front door and the [[Headmistress Claudia Belasco]] answers the door
+		- Ask to enter, assure her that the last case has been handled
+		- [[Nirin Eze|Nirin]] introduces us as the rest of his investigation team
+- [[Nirin Eze|Nirin]] brings up the church and she begins to freak out with a panic attack
+	- [[Sanar]] detects her thoughts, they seem accurate to her panic
+- [[Nirin Eze|Nirin]] asks to speak to the rest of her staff
+	- Cook has already gone home
+	- One caretaker died months ago
+	- [[Milivoj]] another caretaker, but can't really speak to him right now as he is sick
+		- [[Sanar]] convinces her, we have someone with us that can heal him we just want to speak with him
+- She brings everyone through the house and [[Sanar]] reaches out to [[Kali Rouge|Kali]] to fill her in
+	- One girl playing dollhouse has splotchy bruises on her arm, another is holding her back
+	- [[Sanar]] detects her thoughts and she seems innocent to the causes, worried about [[Milivoj]] 
+- She brings us to the room of [[Milivoj]], he looks extremely sickly - boils, bile by the mouth
+	- [[Nirin Eze|Nirin]] is able to sense the aura of a fiend coming from around [[Milivoj]], although not exactly him
+	- [[Sanar]] is unable to detect any thoughts coming from him, digging deeper does nothing
+	- [[Nirin Eze|Nirin]] investigates his medical condition - magical in nature and not contagious
+- [[Nox Vita|Nox]] tries to heal him
+	- [[Nox Vita|Nox]] casts spare the dying - nothing happens as he isn't at 0 hp
+	- Cure wounds - magic fizzles out around him
+	- Casts protection from good and evil - he seems to start to breathe more easily, but doesn't quite wake up
+		- [[Nirin Eze|Nirin]] uses creature sense again and the aura is suppressed, but still lingering
+- [[Sanar]] asks if there was anything weird that started this
+	- Orphans have been waking up with bruises and night terrors
+	- There was additionally an accident recently - Orphan named [[Cedric]] died
+		- Fell out of the 2nd story window
+- [[Sanar]] asks if they can search the orphanage for clues and if the rest of their team can join
+
+#### [[Klepto]] and [[Kali Rouge|Kali]] keeping watch
+- While we were inside a bald-headed, well dressed man approached [[Klepto]] outside
+	- Asks if he is one of the new outsiders, introduces himself as [[Ernst Larnak]], wearing medallion of a fireplace hearth 
+	- Extends invitation to meet his mistress - [[Miss Wachter]] - for dinner
+	- Asks for discretion as the meeting has to do with the Burgomaster
+- While we were inside - [[Kali Rouge|Kali]]'s shadow moves when she does not
+	- It stands up and moves next to her eerily
+	- She tries to stab it, it responds "why are you trying to stab me, I am your own shadow"
+		- States it can help her
+		- [[Kali Rouge|Kali]] lights her lantern and the Shadow dissipates and reappears behind her
+	- Shadow tells [[Kali Rouge|Kali]] it knows her story, it's seen what she has and what drives her and what she has done in Luskan
+		- They didn't get justice because there wasn't any justice in Luskan
+		- Shadow likes the way she does justice - knife in the dark
+	- Shadow offers boon to [[Kali Rouge|Kali]], one she already has, the knife she took from the Death House
+		- [[Kali Rouge|Kali]] asks who she should seek out - Lady Wachter, the baron, others who serve them and those unrelated
+	- [[Kali Rouge|Kali]] asks if Kira's soul is at rest, the one who didn't get justice
+		- Not yet, but together we can put those to rest that deserve retribution
+	- As the shadow fades back to [[Kali Rouge|Kali]]'s own, her dagger is left behind and covered in some oily dark blackness
+		- As she touches a plant w/ it it shimmers a bit
+	- [[Kali Rouge|Kali]] states she accepts the boon
+
+#### Investigating the [[Saint Andral Orphanage]]
+- [[Sanar]] goes outside to try and get [[Nirin Eze|Nirin]] to come back inside
+	- [[Nirin Eze|Nirin]] says all of the children are going to die
+	- [[Sanar]] states we are all going to die, but its what we do in the meantime that matters
+	- If he stays outside and lets this happen then [[Sanar]] was right about him
+- Everyone but [[Nirin Eze|Nirin]] regroups and decides to check the 2nd floor
+- [[Nirin Eze|Nirin]] eventually decides to re-enter the house, but wants to talk to the [[Headmistress Claudia Belasco|Headmistress]]
+	- [[Nirin Eze|Nirin]] tells her that the girls need to be kept in the same room and be under constant observation
+	- As she leaves the room to gather the orphans, he looks to see what she was writing
+		- Chronicling the orphanage - page she was on details that one of the orphans parents were brutally murdered
+- We start investigating the window in which [[Cedric]] fell out of
+	- [[Nirin Eze|Nirin]] discovers light fingernail scratches on the inside of the windowsill
+	- Indicates someone was holding onto dear life and was forced out - not an accident
+	- [[Headmistress Claudia Belasco|Headmistress]] states [[Cedric]] was 10 years old
+	- Heads into room he would've been in, only 1/5 beds in there look used, no other boys in orphanage seem of his age
+- [[Klepto]] reaches up to open the hatch to the attic
+	- [[Nox Vita|Nox]] looks inside, generally dark, a few random piles of clutter
+		- Also sees small child near a window silhouetted by the light
+		- Does not see any undead
+	- Child is busy carving a wooden doll with a stolen kitchen knife
+		- Introduces himself as [[Felix]], doesn't want to join the other orphans, they all seem insignificant
+		- As [[Nox Vita|Nox]] steps closer he gets more and more aggressive
+	- [[Klepto]] heads down to [[Headmistress Claudia Belasco|Claudia]] to ask about [[Felix]]
+		- Confirms [[Felix]] has only lived at the orphanage for a few months
+		- His parents were murdered, and no one ever caught who did it
+		- She doesn't think [[Cedric]]'s death was an accident
+			- There was a locket on his body, a locket that wasn't here before and arrived w/ [[Felix]]
+			- Bad luck ever since he came here, [[Cedric]]'s death and 3 other boys his age have fled without return
+	- [[Nox Vita|Nox]] tries to talk to him more as [[Klepto]] is gone
+		- As he asks [[Nox Vita|Nox]] to leave his voice changes
+		- Light goes out, putrid shadow takes form out of boy and a demonic face appears
+
+#### Fighting the Shadowy Fiend
+- Can kind of assume the locket was storing or holding this shadowy form and escaped to take hold of [[Felix]]
+	- As we fight the shadowy fiend it races around the house to take [[Felix]] back to the locket in order to posses another creature
+	- As it's last action before it is killed takes one of it's scimitars and nearly slices [[Felix]] in two
+	- [[Nox Vita|Nox]] prays to [[Kelemvor]] to try and save [[Felix]]
+		- Succeeds in his prayer and [[Kelemvor]] brings [[Felix]] back to life
+		- [[Nox Vita|Nox]] heals [[Felix]] back to life, but he awakes w/o having feeling in his legs
+- Ireena, [[Kali Rouge|Kali]] and [[Sanar]] rush to [[Milivoj]] 
+	- He looks much better, immediately pukes and asks for water
+- As [[Nirin Eze|Nirin]] is taking care of [[Felix]] with [[Nox Vita|Nox]] he sees an image of himself kneeling next to him
+	- Tells him that he saw all the same signs, and that he must follow all the clues
+	- He is [[Nirin Eze|Nirin]] and yet not [[Nirin Eze|Nirin]], he is here to help
+	- He wants to know where he got the locket from, and then disappears
+- Ireena tells [[Milivoj]] that we are going to ask a few questions
+	- [[Nirin Eze|Nirin]] asks about the missing bones - tries to act clueless
+	- [[Milivoj]] says he told someone about the bones
+		- He started getting sick and was falling behind on work
+		- He hired a few hunters and someone offered to pay for the location of the bones - thought he could use this money to help out the orphans
+		- He gave the information to Henrik van der Voort, the coffin maker
+- [[Sanar]] gives [[Headmistress Claudia Belasco]] 25g to make sure [[Felix]] is well taken care of and that she and none of the other orphans treat him differently
+- Nirin asks Felix where he got the locket
+	- The baking lady gave it to him, said it was from a powerful adventurer
+	- When this happens the scales on his mechanical arm goes all the way down to devil
+	- Where did she give it to him/What did she say?
+		- He was playing outside of Valaki and she gave it to him
+		- She said that Felix's parents didn't have a lot of money to pay her and they owed a lot of money

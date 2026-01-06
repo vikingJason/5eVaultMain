@@ -2,7 +2,7 @@
 title: Frightened
 aliases:
   - Frightened
-effect: Disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+effect: "**Disadvantage** on ability checks and attack rolls while the source of its fear is within line of sight."
 noteType: condition
 gamesystem:
   - D&D

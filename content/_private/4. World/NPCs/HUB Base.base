@@ -1,0 +1,29 @@
+formulas:
+  LinkedViaPlace: |
+    list(MyContainer)                                          
+      .filter( file(value)                                     
+               && list(file(value).properties.MyContainer)     
+                    .contains(this.file.name) )                          
+      .length > 0
+  PlacesForThis: |-
+    list(MyContainer)
+      .filter( file(value)
+               && list(file(value).properties.MyContainer).contains(this) )
+      .map( link(value, file(value).name) )
+properties:
+  file.name:
+    displayName: Person
+  PlacesForThis:
+    displayName: Places (for this note)
+views:
+  - type: cards
+    name: People linked via Places → this note
+    filters:
+      and:
+        - file.inFolder("content/_private/4. World/NPCs")
+        - formula.LinkedViaPlace
+    order:
+      - file.name
+      - Age
+      - Race
+    image: note.image

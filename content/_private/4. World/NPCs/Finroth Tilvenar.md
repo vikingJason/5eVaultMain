@@ -1,12 +1,15 @@
 ---
+Type: NPC
 Race: Eladrin (Autumn)
+Age: "517"
 Occupation: Mayor of Petalwood
 Alignment: Lawful Evil
 Religion: None
 Condition: Secret Villain
 Location: Petalwood
 Groups: Local Government
-Type: NPC
+NoteIcon: NPC
+MyContainer: Test Place
 ---
 
 # **Finroth**

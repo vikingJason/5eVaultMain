@@ -4,3 +4,5 @@ views:
     filters:
       and:
         - noteType == "Ability"
+    order:
+      - file.name
