@@ -7,6 +7,7 @@ aliases:
 effect: All dying conditions increased by 1 per Doomed value.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_doomed.png]]
 # Doomed 

@@ -1,5 +1,6 @@
 ---
 factionGoalNumber: 1
+draft: true
 ---
 # Summary
 These are the goals for every major faction which is antagonistic to the current opposing factions that control the areas. 

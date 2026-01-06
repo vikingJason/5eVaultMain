@@ -2,6 +2,7 @@
 noteType: movementRule
 gamesystem:
   - D&D
+draft: true
 ---
 ### Squeezing Into Smaller Spaces
 

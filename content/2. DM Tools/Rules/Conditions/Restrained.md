@@ -6,6 +6,7 @@ effect: Speed becomes 0, attack rolls against the creature have **advantage**, a
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 ![[Restrained.png|150]]
 

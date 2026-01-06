@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 ![[Part 2 Playing the Game.png|right|500]]
 

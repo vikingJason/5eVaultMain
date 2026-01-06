@@ -3,6 +3,7 @@ effect:
 noteType: actions
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 
 

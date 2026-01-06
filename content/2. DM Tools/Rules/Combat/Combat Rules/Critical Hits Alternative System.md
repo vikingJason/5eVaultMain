@@ -5,6 +5,7 @@ gamesystem:
   - D&D
   - Homebrew
   - Pathfinder 2e
+draft: true
 ---
 
 # Critical Hits Alternative System – d20PFSRD

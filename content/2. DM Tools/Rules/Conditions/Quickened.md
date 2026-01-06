@@ -7,6 +7,7 @@ aliases:
 effect: You gain 1 additional action based on source of Quickened.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_haste.png|150]]
 # Quickened

@@ -1,6 +1,7 @@
 ---
 noteType: Ability
 folderName: Constitution
+draft: true
 ---
 # Constitution
 

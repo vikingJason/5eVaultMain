@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Charisma
 cardDisplay: Tell a convincing lie, or wear a disguise convincingly.
+draft: true
 ---
 
 # Deception

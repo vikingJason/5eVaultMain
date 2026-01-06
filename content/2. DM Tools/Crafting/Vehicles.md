@@ -1,6 +1,7 @@
 ---
 source: https://www.d20pfsrd.com/gamemastering/other-rules/vehicles/
 author:
+draft: true
 ---
 
 # Vehicles – d20PFSRD

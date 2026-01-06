@@ -1,6 +1,7 @@
 ---
 noteType: checkRules
 folderName:
+draft: true
 ---
 
 

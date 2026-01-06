@@ -4,6 +4,7 @@ aliases:
 noteType: combatRules
 gamesystem:
   - D&D
+draft: true
 ---
 # Massive Damage
 *Source: Dungeon Master's Guide p. 273* 

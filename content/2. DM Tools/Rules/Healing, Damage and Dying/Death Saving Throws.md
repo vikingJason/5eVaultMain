@@ -1,5 +1,6 @@
 ---
 noteType: healthRules
+draft: true
 ---
 ### Death Saving Throws
 

@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Resurrection
 
 When a creature is resurrected, the caster makes a Spellcasting Ability Check against the target's `Death DC`.  The `Death DC` starts at `13` and increment by `+3` for each death experienced.

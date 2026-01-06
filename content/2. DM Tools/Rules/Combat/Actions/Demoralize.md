@@ -2,6 +2,7 @@
 noteType: combatAction
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 # `=this.file.name` `pf2:1`
 

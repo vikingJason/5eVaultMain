@@ -5,6 +5,7 @@ aliases:
   - Healing Potion (Moderate)
 effect: "`dice: 3d8+10` Hit Points"
 cost: 75 gp
+draft: true
 ---
 ![[gm_posh.png|150]]
 # Healing Potion (Moderate)

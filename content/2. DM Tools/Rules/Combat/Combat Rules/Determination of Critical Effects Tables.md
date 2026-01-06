@@ -6,6 +6,7 @@ gamesystem:
   - Homebrew
   - Pathfinder 2e
 DMtool: true
+draft: true
 ---
 
 ## Determination of Critical Effects:

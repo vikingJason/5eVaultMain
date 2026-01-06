@@ -21,6 +21,7 @@ PartyMembers: 5
 LifestyleCostSP: 100
 IncludeMeals: true
 TravelCalc: 19.999333355554814
+draft: true
 ---
 
 # Travel Speed

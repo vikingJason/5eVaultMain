@@ -1,5 +1,6 @@
 ---
 noteType: damageRules
+draft: true
 ---
 ### Suffocating
 

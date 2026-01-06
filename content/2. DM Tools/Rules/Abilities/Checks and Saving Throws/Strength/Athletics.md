@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Strength
 cardDisplay: Jump farther than normal, stay afloat in rough water, or break something.
+draft: true
 ---
 
 # Athletics

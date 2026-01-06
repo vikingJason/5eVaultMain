@@ -1,6 +1,7 @@
 ---
 source: https://www.d20pfsrd.com/SKILLS/alternate-profession-rules/
 author:
+draft: true
 ---
 
 # Alternate Profession Rules

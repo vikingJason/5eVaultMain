@@ -4,6 +4,7 @@ noteType: condition
 aliases: Concealed
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_concealed.png|150]]
 # Concealed

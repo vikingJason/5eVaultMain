@@ -4,6 +4,7 @@ author:
 noteType: combatRules
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 
 # Combat Modifiers

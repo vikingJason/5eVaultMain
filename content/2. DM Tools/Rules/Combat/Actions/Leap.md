@@ -3,6 +3,7 @@ effect:
 noteType: combatAction
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 
 # Leap `pf2:1`

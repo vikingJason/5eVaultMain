@@ -6,6 +6,7 @@ aliases:
 effect: You cannot act, **AC 9**, **Hardness 8**.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_petrified.png|150]]
 # Petrified

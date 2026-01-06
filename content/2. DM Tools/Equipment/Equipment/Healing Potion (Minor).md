@@ -5,6 +5,7 @@ aliases:
   - Healing Potion (Minor)
 effect: "`dice: 1d8+2` Hit Points"
 cost: 10 gp
+draft: true
 ---
 ![[gm_heal.png|150]]
 # Healing Potion (Minor)

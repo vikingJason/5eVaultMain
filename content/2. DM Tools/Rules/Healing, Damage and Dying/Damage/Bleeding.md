@@ -1,6 +1,7 @@
 ---
 author:
 noteType: damageRules
+draft: true
 ---
 
 ## Bleeding

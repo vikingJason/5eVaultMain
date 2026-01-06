@@ -1,5 +1,6 @@
 ---
 noteType: healthRules
+draft: true
 ---
 # Healing and Scarring
 

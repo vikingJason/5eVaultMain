@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Wisdom
 cardDisplay: Discern a person’s mood and intentions.
+draft: true
 ---
 # Insight
 

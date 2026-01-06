@@ -1,6 +1,7 @@
 ---
 Alignment: True Neutral
 Type: Alignment
+draft: true
 ---
 
 - May keep his word (depending on how it will affect the balance).

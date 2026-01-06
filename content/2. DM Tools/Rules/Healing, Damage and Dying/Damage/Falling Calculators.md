@@ -18,6 +18,7 @@ dex_save: 11
 obsidianUIMode: preview
 noteType: damageRules
 DMtool: true
+draft: true
 ---
 # Falling Calculators
 

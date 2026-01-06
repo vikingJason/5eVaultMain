@@ -4,6 +4,7 @@ noteType: condition
 aliases: Stunned 1
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_stun.png|150]]
 # Stunned

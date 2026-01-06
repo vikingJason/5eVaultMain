@@ -7,6 +7,7 @@ effect: Speed is halved, -2 penalty to **AC** and **Dexterity** saving throws, c
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 
 ![[Slowed.png|150]]

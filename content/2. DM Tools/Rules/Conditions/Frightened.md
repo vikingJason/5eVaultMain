@@ -6,6 +6,7 @@ effect: "**Disadvantage** on ability checks and attack rolls while the source of
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 ![[Fear.png|150]]
 # Frightened

@@ -3,6 +3,7 @@ Alias:
 noteType: movementRule
 gamesystem:
   - D&D
+draft: true
 ---
 
 # Chases

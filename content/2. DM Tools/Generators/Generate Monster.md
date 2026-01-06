@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 
 GAME: Dungeons & Dragons: 5th Edition

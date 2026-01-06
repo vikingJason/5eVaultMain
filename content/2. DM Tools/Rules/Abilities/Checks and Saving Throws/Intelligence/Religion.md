@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Intelligence
 cardDisplay: Recall lore about gods, religious rituals, and holy symbols.
+draft: true
 ---
 # Religion
 

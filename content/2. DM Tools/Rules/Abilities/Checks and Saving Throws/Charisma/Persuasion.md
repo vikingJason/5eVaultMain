@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Charisma
 cardDisplay: Honestly and graciously convince someone of something.
+draft: true
 ---
 # Persuasion
 

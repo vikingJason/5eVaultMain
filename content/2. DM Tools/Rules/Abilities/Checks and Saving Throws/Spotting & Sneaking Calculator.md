@@ -26,6 +26,7 @@ penaltyFactor: 3.3333333333333335
 obsidianUIMode: preview
 noteType: checkRules
 folderName:
+draft: true
 ---
 
 #  Spotting & Sneaking Calculator

@@ -2,6 +2,7 @@
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 # Exhaustion
 

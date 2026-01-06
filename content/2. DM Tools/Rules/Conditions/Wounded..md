@@ -5,6 +5,7 @@ aliases: Wounded
 effect: While wounded, increase your dying condition value by your wounded value.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_wounded.png|150]]
 # Wounded

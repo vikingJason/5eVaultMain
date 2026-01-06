@@ -1,5 +1,6 @@
 ---
 noteType: restingRule
+draft: true
 ---
 # Food and Water
 

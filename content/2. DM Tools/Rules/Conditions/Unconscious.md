@@ -6,6 +6,7 @@ effect: Incapacitated,can’t move, speak or act, and is unaware of its surround
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 ![[Unconscious.png|150]]
 # Unconscious

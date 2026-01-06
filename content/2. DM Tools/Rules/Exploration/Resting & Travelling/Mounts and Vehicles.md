@@ -2,6 +2,7 @@
 noteType: goods&Services
 DMtool: false
 priceList: true
+draft: true
 ---
 ## Mounts and Vehicles
 

@@ -1,6 +1,7 @@
 ---
 source: https://thedmlair.com/blogs/news/15-tips-for-creating-amazing-npcs-in-d-d
 author: AdornThemes
+draft: true
 ---
 
 # 15 Tips for Creating Amazing NPCs in D&D – The DM Lair

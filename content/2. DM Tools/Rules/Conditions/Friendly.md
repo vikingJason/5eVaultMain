@@ -4,6 +4,7 @@ noteType: condition
 aliases: Friendly
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_carousing.png|150]]
 # Friendly

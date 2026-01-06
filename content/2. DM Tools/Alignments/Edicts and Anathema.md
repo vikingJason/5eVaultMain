@@ -1,10 +1,10 @@
 ---
 source: https://2e.aonprd.com/Rules.aspx?ID=2045
 author:
+draft: true
 ---
 
 # Edicts and Anathema - Rules - Archives of Nethys: Pathfinder 2nd Edition Database
-
 
 You can choose to take on edicts and anathema to reinforce your character's beliefs and guide how they'd react in certain situations. **Edicts** are behaviors your personal philosophy or code encourages. **Anathema** are the opposite: actions contrary to your point of view and violations of your personal code. For example, you might declare that you follow an edict to keep detailed records of any dungeon you explore, or you might consider it anathema to refuse to help a friend in need.
 

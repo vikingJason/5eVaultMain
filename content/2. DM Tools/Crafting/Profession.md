@@ -1,6 +1,7 @@
 ---
 source: https://www.d20pfsrd.com/SKILLS/profession/
 author:
+draft: true
 ---
 
 # Profession (Wis, Trained only)

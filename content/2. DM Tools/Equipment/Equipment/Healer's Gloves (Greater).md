@@ -3,6 +3,7 @@ title: Healer's Gloves (Greater)
 noteType: ":luggage:"
 aliases: Healer's Gloves (Greater)
 effect: "`dice: 4d6+15` Hit Points once per day"
+draft: true
 ---
 ![[gm_heal.png|150]]
 # Healer's Gloves (Greater)

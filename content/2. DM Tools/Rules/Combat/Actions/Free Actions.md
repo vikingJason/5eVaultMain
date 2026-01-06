@@ -3,6 +3,7 @@ noteType: combatAction
 gamesystem:
   - D&D
   - Pathfinder 2e
+draft: true
 ---
 # Free Actions
 

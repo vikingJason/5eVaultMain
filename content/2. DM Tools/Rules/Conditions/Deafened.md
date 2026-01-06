@@ -6,6 +6,7 @@ effect: " Automatically fails any **ability check** that requires hearing."
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 ![[Deaf.png|150]]
 # Deafened

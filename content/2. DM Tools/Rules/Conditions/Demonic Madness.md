@@ -4,6 +4,7 @@ gamesystem:
   - D&D
   - Pathfinder 2e
   - Homebrew
+draft: true
 ---
 ### Demonic Madness
 

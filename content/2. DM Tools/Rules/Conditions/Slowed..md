@@ -9,6 +9,7 @@ aliases:
 effect: Penalty to total actions based on **Slowed** value.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_slowed.png|150]]
 # Slowed

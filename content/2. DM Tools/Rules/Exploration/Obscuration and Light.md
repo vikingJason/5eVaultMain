@@ -1,6 +1,7 @@
 ---
 noteType: explorationRule
 folderName:
+draft: true
 ---
 ## Obscuration
 

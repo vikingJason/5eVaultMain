@@ -1,6 +1,7 @@
 ---
 noteType: Ability
 folderName: Charisma
+draft: true
 ---
 # Charisma
 

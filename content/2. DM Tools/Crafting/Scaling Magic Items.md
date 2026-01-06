@@ -2,7 +2,8 @@
 created: 2025-03-16T12:14:31 (UTC +11:00)
 tags: []
 source: https://www.d20pfsrd.com/gamemastering/other-rules/scaling-magic-items/
-author: 
+author:
+draft: true
 ---
 
 # Scaling Magic Items – d20PFSRD

@@ -1,5 +1,6 @@
 ---
 noteType: explorationRule
+draft: true
 ---
 ### Overland Movement
 

@@ -6,6 +6,7 @@ aliases:
 effect: "**Off-Guard** and take a -2 circumstance penalty to attack rolls."
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_prone.png|150]]
 # Prone

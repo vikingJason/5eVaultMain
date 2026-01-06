@@ -2,6 +2,7 @@
 noteType: restingRule
 DMtool: false
 priceList: true
+draft: true
 ---
 
 # Drinking

@@ -6,6 +6,7 @@ effect: Incapacitated and can’t move or speak.
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 ![[Paralyzed.png|150]]
 

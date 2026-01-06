@@ -3,6 +3,7 @@ noteType: combatAction
 gamesystem:
   - D&D
   - Homebrew
+draft: true
 ---
 ### Pull
 

@@ -1,5 +1,6 @@
 ---
 noteType:
+draft: true
 ---
 ### Assassin's Blood (Ingested)
 

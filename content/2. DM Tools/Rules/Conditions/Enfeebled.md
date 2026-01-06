@@ -8,6 +8,7 @@ effect: Strength penalty equal to Enfeebled value.
 noteType: condition
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_weak.png|150]]
 # Enfeebled

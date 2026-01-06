@@ -5,6 +5,7 @@ aliases:
   - Healer's Gel (Greater)
 effect: Add 15 temporary Hit Points from **Heal** spell
 cost: 150 gp
+draft: true
 ---
 ![[gm_heal.png|150]]
 # Healer's Gel (Greater)

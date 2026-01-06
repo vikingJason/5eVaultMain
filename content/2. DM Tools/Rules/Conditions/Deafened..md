@@ -5,6 +5,7 @@ aliases: Deafened
 effect: -2 status auditory Perception. **DC 5** flat check for auditory actions.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_deaf.png|150]]
 # Deafened

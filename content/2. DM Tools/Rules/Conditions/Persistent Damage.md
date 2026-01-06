@@ -6,6 +6,7 @@ aliases:
 effect: Re-roll damage at end of each turn, then **DC 15** flat check to recover.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_perdamage.png|150]]
 # Persistent Damage

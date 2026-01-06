@@ -6,6 +6,7 @@ effect: A poisoned creature has **disadvantage** on attack rolls and ability che
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 ![[Poisoned.png|150]]
 # Poisoned

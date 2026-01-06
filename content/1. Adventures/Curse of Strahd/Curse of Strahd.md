@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-draft: true
+draft: false
 campaign: CoS
 ---
 
@@ -19,7 +19,8 @@ campaign: CoS
 > **[[Link]]**
 > [![[Party 1.jpg\|sban htiny ctr p+t]]](Players.md)
 
-## 📚 Chapter Links
+# 📚 Chapter Links
+
 ```dataviewjs
 const targetFolder = "content/1. Adventures"; // Update to your folder path
 
@@ -96,6 +97,7 @@ try {
 ```
 
 >[!success] Recent Sessions:
+>
 > ```dataviewjs
 > const currentFolder = dv.current().file.folder; 
 > const pages = dv.pages(`"${currentFolder}/Session Journals"`)
@@ -110,6 +112,7 @@ try {
 <br>
 
 > [!success] Recent Sessions:
+>
 > ```base
 > filters:
 >   and:
@@ -127,6 +130,7 @@ try {
 # Session Journals
 
 > [!success] Recent Sessions:
+>
 > ```base
 > filters:
 >   and:
@@ -143,10 +147,6 @@ try {
 >     imageAspectRatio: 0.25
 > 
 > ```
-
-
-
-
 
 ```dataview  
 TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role  
@@ -175,8 +175,8 @@ SORT file.mtime DESC
 LIMIT 10
 ```
 
-
 # Recently Modified Notes
+
 ```dataview
 TABLE WITHOUT ID
     link(file.path, file.folder + " / " + file.name) AS "Note",

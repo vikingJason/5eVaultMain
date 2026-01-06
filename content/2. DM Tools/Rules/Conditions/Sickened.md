@@ -8,6 +8,7 @@ effect: Staus penalty equal to **Sickened **value to all stats.
 noteType: condition
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_poisoned.png|150]]
 # Sickened

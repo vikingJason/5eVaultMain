@@ -6,6 +6,7 @@ PromptInfo:
   author: JoshP
   tags: fantasy, ttrpg
   version: 0.0.1
+draft: true
 ---
 
 https://chatgpt.com/c/e2f875cd-4d8f-4fba-933c-8f50b8f4cb9f

@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Charisma
 cardDisplay: Act, tell a story, perform music, or dance.
+draft: true
 ---
 # Performance
 

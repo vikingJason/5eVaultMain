@@ -7,6 +7,7 @@ noteType: condition
 gamesystem:
   - D&D
   - Pathfinder 2e
+draft: true
 ---
 ![[Charmed.png|150]]
 # Charmed

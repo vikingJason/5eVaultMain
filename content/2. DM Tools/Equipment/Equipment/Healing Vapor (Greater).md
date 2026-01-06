@@ -5,6 +5,7 @@ aliases:
   - Healing Vapor (Greater)
 effect: "**Duration** - 10 Minutes, 2 Hit Points every minute, **5 Foot** burst. Up to 4 targets."
 cost: 400 gp
+draft: true
 ---
 ![[gm_heal.png|150]]
 # Healing Vapor (Greater)

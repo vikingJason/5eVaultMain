@@ -27,6 +27,7 @@ ChaseTime: 2
 obsidianUIMode: preview
 noteType: movementRule
 gamesystem:
+draft: true
 ---
 #  Chase Calculator
 

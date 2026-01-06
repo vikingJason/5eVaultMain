@@ -1,6 +1,7 @@
 ---
 date: 2022-04-16
 title: Weather
+draft: true
 ---
 
 > [!info] Weather 

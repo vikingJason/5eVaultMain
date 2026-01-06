@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 aliases:
   - Trickster Gods of Omu
+draft: true
 ---
 # Trickster Gods of Omu
 *Source: Tomb of Annihilation p. 256*  

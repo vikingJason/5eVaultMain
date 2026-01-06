@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 aliases:
   - Fragments of Suffering
+draft: true
 ---
 # Fragments of Suffering
 *Source: Critical Role: Call of the Netherdeep p. 218*  

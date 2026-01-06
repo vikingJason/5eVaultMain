@@ -5,6 +5,7 @@ aliases:
 effect: Fails any sight **ability check**. Attack rolls against the creature have **advantage**, and the creature’s attack rolls have **disadvantage**.
 noteType: condition
 gamesystem: D&D
+draft: true
 ---
 ![[Blinded.png|150]]
 

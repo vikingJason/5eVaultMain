@@ -6,6 +6,7 @@ aliases:
 effect: " **Clumsy** 1 and -10 foot speed."
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_encumbered.png|150]]
 # Encumbered

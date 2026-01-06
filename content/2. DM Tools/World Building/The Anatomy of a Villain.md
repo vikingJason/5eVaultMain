@@ -1,6 +1,7 @@
 ---
 source: https://www.dndbeyond.com/posts/1895-the-anatomy-of-a-villain-crafting-compelling
 author: by Mike Bernier
+draft: true
 ---
 
 # The Anatomy of a Villain: Crafting Compelling Antagonists for Your Campaign | Dungeons & Dragons

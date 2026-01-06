@@ -5,6 +5,7 @@ aliases:
   - Healing Potion (Major)
 effect: "`dice: 8d8+30` Hit Points"
 cost: 5000 gp
+draft: true
 ---
 ![[gm_posuh.png|150]]
 # Healing Potion (Major)

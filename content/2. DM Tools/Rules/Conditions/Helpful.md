@@ -4,6 +4,7 @@ noteType: condition
 aliases: Helpful
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 
 # Helpful

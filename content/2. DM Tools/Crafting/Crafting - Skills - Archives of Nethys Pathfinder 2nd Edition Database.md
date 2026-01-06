@@ -1,6 +1,7 @@
 ---
 source: https://2e.aonprd.com/Skills.aspx?ID=37&Redirected=1
 author:
+draft: true
 ---
 
 # Crafting - Skills - Archives of Nethys: Pathfinder 2nd Edition Database

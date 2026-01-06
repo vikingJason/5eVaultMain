@@ -1,6 +1,7 @@
 ---
 author:
 noteType: condition
+draft: true
 ---
 
 

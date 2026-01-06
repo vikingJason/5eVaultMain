@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Dexterity
 cardDisplay: Escape notice by moving quietly and hiding behind things.
+draft: true
 ---
 # Stealth
 

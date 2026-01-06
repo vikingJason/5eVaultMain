@@ -6,6 +6,7 @@ effect: "**Disadvantage** on attack rolls, and attack roll against the creature 
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 
 ![[Prone.png|150]]

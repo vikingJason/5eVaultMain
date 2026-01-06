@@ -1,6 +1,6 @@
 ---
 title: Blacksmithing Done Right
-description: ''
+description: ""
 tags: []
 systems:
   - 5e
@@ -10,15 +10,12 @@ snippets:
   - name: brew_snippets
     subsnippets:
       - name: example snippet
-        gen: >-
+        gen: |-
+          
+          The text between `\snippet title` lines will become a snippet of name `title` as this example provides.
 
-          The text between `\snippet title` lines will become a snippet of name
-          `title` as this example provides.
-
-
-          This snippet is accessible in the brew tab, and will be inherited if
-          the brew is used as a theme.
-
+          This snippet is accessible in the brew tab, and will be inherited if the brew is used as a theme.
+draft: true
 ---
 
 {{frontCover}}
@@ -26,27 +23,32 @@ snippets:
 {{logo ![](/assets/naturalCritLogoRed.svg)}}
 
 # Blacksmithing Done Right
+
 ## Silvercrow605
+
 ___
 
 {{banner HOMEBREW}}
 
 {{footnote
-  Not all weapons are the same. including the materials they're made of.
+		Not all weapons are the same. including the materials they're made of.
 }}
 
 ![background image](https://i.imgur.com/BSDgc00.jpeg){position:absolute,bottom:0,left:0,height:100%}
 
 {{artist,top:300px,right:3px
+
 ## Art By:
-#### [Radomir Markovic](https://www.behance.net/radomarkovic)
+
+### [Radomir Markovic](https://www.behance.net/radomarkovic)
+
 }}
 
 
 \page
 
+## Crafting
 
-### Crafting
 Making a weapons is a step-by-step process. The individual parts are first shaped or forged. When every component has been built, you select the weapon you want to build and put the pieces together to create the end result.
 
 When crafting, you must make an initial check against the DC. If the process takes longer than 2 hours, you make an additional check for every 2 hours of work after the first.
@@ -54,15 +56,17 @@ When crafting, you must make an initial check against the DC. If the process tak
 The special conditions of the material only need to be met for the first 15 minutes of each 2-hour block. Once those 15 minutes are met, the weapon can be worked on as normal. This rule exists to make crafting possible during adventures, and to help with very hard or hell level materials, where the special condition isn’t permanent or easy to maintain.
 
 Once all the parts are ready, you can assemble the weapon easily over the course of 3 hours.
-### Crafting Time
+
+## Crafting Time
+
 The amount of time it takes to make a part depends on how much material is being used, and the number given by the material. For example, making a iron large blade, would take 1 x 8 hours, equaling 8 hours. Always round up to the nearest .25, .5, .75 or whole number. These equal 15 minutes, 30 minutes, 45 minutes, and an hour. The lowest amount of time that a part can take is 15 minutes.
-### Crafting Mishaps
+
+## Crafting Mishaps
 
 If you fail to make the check, a complication happens, resulting in a flaw in the part. Roll on the table below to determine the flaw. If you fail 3 times on a part, it becomes scrap. Finished parts can be used to make weapons that require said parts.
 
+### Handle
 
-
-#### Handle  
 | D6  |     Flaw      | Description                                                                                                                                            |
 | :-- | :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Slippery Grip | Handle becomes slick when wet, imposing disadvantage on attack rolls in rain or when bloodied.                                                         |
@@ -72,10 +76,10 @@ If you fail to make the check, a complication happens, resulting in a flaw in th
 | 5   | Warped Shape  | Causes mild wrist strain; after prolonged use, the wielder takes 1 level of exhaustion every 20 attacks with this weapon until they take a short rest. |
 | 6   | Fragile Grip  | Handle has a low break threshold; on a critical failure, the handle snaps and the weapon becomes unusable till replaced.                               |
 
-
 \column
 
-#### Binding  
+### Binding
+
 | D6  |        Flaw        | Description                                                                                                                                                                                                                                           |
 | :-- | :----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   |   Loose Lashings   | The weapon’s parts rattle, producing noise and giving disadvantage on stealth.                                                                                                                                                                        |
@@ -85,8 +89,8 @@ If you fail to make the check, a complication happens, resulting in a flaw in th
 | 5   | Uncomfortable Bind | The seam digs into the wielder’s hands, causing 1 damage per hour of use.                                                                                                                                                                             |
 | 6   |   Loose Strands    | The binding’s fibres slowly unravel with use, causing small bits of debris or dust to fall off. This leaves a faint trail behind the wielder that can be tracked easily for 1 hour after combat.                                                      |
 
+### Head
 
-#### Head  
 | D6  |       Flaw       | Description                                                                                                                                                                                   |
 | :-- | :--------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   |  Poor Tempering  | On a natural 1, the head cracks and becomes unusable till replaced.                                                                                                                           |
@@ -97,7 +101,9 @@ If you fail to make the check, a complication happens, resulting in a flaw in th
 | 6   |  Vibrating Edge  | The weapon head produces a subtle vibration on impact. Roll 2d20, if both numbers match, you must succeed on a DC 12 Constitution saving throw or have disadvantage on your next attack roll. |
 
 {{descriptive
-##### Less Downtime Optional Rule
+
+#### Less Downtime Optional Rule
+
 If your game doesnt have a large amount of downtime, the DM could choose to rule that working on a part can be done over the course of long rests, doing 2 hours per rest, or taking up to 8, but gainning a point of exaustion.
 }}
 
@@ -105,10 +111,14 @@ If your game doesnt have a large amount of downtime, the DM could choose to rule
 \page
 
 {{descriptive
-##### Artificer Optional Rule
+
+#### Artificer Optional Rule
+
 Any features from artificer or similar features count towards crafting parts. Such as *Magic Item Adept* would grant quater normal time and half cost to common and uncommon parts.
 }}
-### Material Types
+
+## Material Types
+
 | Material Type | Description |
 |:--------------|:------------|
 | **Metal**     | Refined from ores such as iron, steel, or mithral. Durable and forgeable. |
@@ -118,8 +128,8 @@ Any features from artificer or similar features count towards crafting parts. Su
 | **Planar**    | Sourced from other planes of existence. Includes rare and powerful materials like hellsteel or celestium. |
 | **Alchemical**| Synthesized, magically-infused, or chemically altered substances. Often volatile or unstable. |
 
+## Tools Required
 
-### Tools Required
 | Tool | Description |
 |:----|:------------|
 | **Alchemists supplies**|	Lets you turn substances into weapons.
@@ -134,13 +144,15 @@ Any features from artificer or similar features count towards crafting parts. Su
 | **Cooks Utensils**| Lets you bake your own parts.
 | **Special**|	Some materials need more than tools—like forging in extreme heat, freezing cold, or even inside another dimension.
 
-### Material Harvesting
+## Material Harvesting
+
 To gain materials, you have to harvest them or purchase them. The methods of harvesting vary depending on the source, but unless otherwise stated, you receive 1d4 materials when harvesting from metal ores, stones, or wood-like materials.
 
 
 \column
 
-### Weapon Parts
+## Weapon Parts
+
 Each weapon uses different parts, and each part needs different amounts of materials.
 
 | Part | Materials Used |
@@ -162,19 +174,20 @@ Each weapon uses different parts, and each part needs different amounts of mater
 |Large Axe Head| 4
 |Large Blade| 8
 
+## Part Properties
 
-### Part Properties
 Each weapon is made up of multiple parts, typically including a Head, Handle, and Binding (some weapons may add or remove components depending on their type). Each part is crafted from a material, and the material grants properties to the finished weapon.
 
 These properties represent mechanical traits—such as attack bonuses, utility effects, or penalties that are applied to the finished weapon based on the materials used.
 
-#### Property Stacking
+### Property Stacking
 
 If the same property appears on more than one part of the weapon, its effect increases. This means that choosing a material with a strong property for multiple parts will increase its power for the final item. For example, if both the Head and Handle grant the Magnetic property, then the weapon receives a double effect from Magnetic.
 
 The exact mechanical stacking (e.g. additive, multiplicative, increasing intensity) depends on the property itself and is detailed in each property’s definition.
 
-#### Parts By Color
+### Parts By Color
+
 {{column-count:2
 
 | Color       | Part      |
@@ -185,6 +198,7 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 | Dark Blue   | Head 2    |
 | Orange      | Binding   |
 | Dark Orange | Binding 2 |
+
 }}
 ***This has no mechanical difference, just appearances.***
 ***Note: Images will be added once parts are finalized.***
@@ -208,7 +222,6 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 | Glowing | The weapon glows 10 ft of bright light, and 10 ft of dim light while unsheathed. This increases by 10 with every level of Glowing.  
 | Heavy | Increases the weapon’s weight, giving it the Heavy property if it didn’t already have it. If you get this twice, as well as the lightweight property, one cancels it out, the other stays. 
 
-
 | | |
 |----------|-------------|
 | Heat Retention | As a reaction when the wielder takes fire damage, you take half the damage, and gain an additional 1d6 fire damage to your next attack. This can be done a number of times equal to the weapons level in Heat Retention per long rest, as well as increasing the damage by 1d6 per level.  
@@ -225,10 +238,6 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 | Magic Resistant | You have advantage on saving throws against spells while holding this weapon.  
 | Magical | This weapon counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.  
 
-
-
-
-
 \page
 
 | | |
@@ -243,7 +252,6 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 | Returning | When thrown, the weapon returns to the wielder's hand immediately after the attack.  
 | Sentient | The weapon has a conscience of its own. Roll a 4d6 for its intelligence, wisdom, and charisma scores, dropping the lowest roll and totalling the rest. Roll a d100 to determine its alignment, unless the material gives one; if multiple are given, you choose one of them. **Alignments:** 01-15 Lawful good, 16-35 Neutral good, 36-50 Chaotic good, 51-63 Lawful neutral, 64-73 Neutral, 74-85 Chaotic neutral, 86-89 Lawful evil, 90-96 Neutral evil, 97-00 Chaotic evil. A sentient item has some ability to communicate, with its form depending on the level of sentient the weapon has. **Communication:** level 1: The item communicates by transmitting emotion to the creature carrying or wielding it. Level 2: The item can speak, read, and understand one language. Level 3 and up: The item can speak, read, and understand 2 languages. In addition, the item can communicate telepathically with any character that carries or wields it. A sentient item can perceive its surroundings out to a limited range, also determined by its sentient level. **Senses:** level 1: Hearing and normal vision out to 30 feet. Level 2: Hearing and normal vision out to 60 feet. Level 3: Hearing and normal vision out to 120 feet. Level 4 and up: Hearing and darkvision out to 120 feet. The DM may determine other things, such as if it has a special purpose, or if something will develop further from it in time. ***Warning: Sentient over level 6 is able to control the weapon itself, being able to supress positives, and add negatives to its own accord, and attempt to take over the wielder (DC 10 + Int Mod + level.) be sure to stay on its good side, and it can assist you instead of harm.***
 | Shattered | Upon getting a critical fail with this weapon twice in a row, the part shatters, making the weapon unusable until replaced.  
-
 
 | | |
 |----------|-------------|
@@ -263,182 +271,243 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 |Shorter | Removes 5ft of reach, per level of Shorter to a minimum of 5ft.
 
 \page
+
 ## Weapon Recipes
 
-### Arm Wraps 
+### Arm Wraps
+
 *These apply the properties to your unarmed attacks.*
+
 #### Weapon Parts [Total: 3]
+
 |  |
 |:----------|
 | String [Binding]
+
 :::
+
 ### Club
 
 #### Weapon Parts [Total: 0.5]
+
 |  |
 |:----------|
 | Tool Rod [Head]
+
 :::
+
 ### Dagger
 
 #### Weapon Parts [Total: 1]
+
 |  |
 |:----------|
 | Tool Rod [Handle]
 | Knife Blade [Head]
+
 ::
+
 ### Gauntlets
+
 *These apply the properties to your unarmed attacks.*
+
 #### Weapon Parts [Total: 6]
+
 |  |
 |:----------|
 | Large Plate [Head]
 | Plate [Binding]
 | Plate [Binding 2]
+
 :
 
 ### Greatclub
 
 #### Weapon Parts [Total: 3]
+
 |  |
 |:----------|
 | Tough Rod [Head]
+
 :::
+
 ### Handaxe
 
 #### Weapon Parts [Total: 1.5]
+
 |  |
 |:----------|
 | Tool Rod [Handle]
 | Binding [Binding]
 | Axe Head [Head]
+
 :
+
 ### Javelin
 
 #### Weapon Parts [Total: 1.5]
+
 |  |
 |:----------|
 | Tool Rod [Handle]
 | Tool Rod [Handle 2]
 | Knife Blade [Head]
+
 :
 \page
-### Light hammer
+
+### Light Hammer
 
 #### Weapon Parts [Total: 1.5]
+
 |  |
 |:----------|
 | Tool Rod [Handle]
 | Plate [Head]
+
 ::
 
 ### Mace
 
 #### Weapon Parts [Total: 1.5]
+
 |  |
 |:----------|
 | Tool Rod [Handle]
 | Plate [Head]
+
 ::
+
 ### Quarterstaff
 
 #### Weapon Parts [Total: 1]
+
 |  |
 |:----------|
 | Tool Rod [Head]
 | Tool Rod [Handle]
+
 ::
 
 ### Sickle
 
 #### Weapon Parts [Total: 1]
+
 |  |
 |:----------|
 | Tool Rod [Handle]
 | Knife Blade [Head]
+
 ::
+
 ### Spear
 
 #### Weapon Parts [Total: 1.5]
+
 |  |
 |:----------|
 | Tool Rod [Handle]
 | Tool Rod [Handle 2]
 | Knife Blade [Head]
+
 :
+
 ### Light Crossbow
 
 #### Weapon Parts [Total: 4]
+
 |  |
 |:----------|
 | Tool Rod [Head]
 | Tool Rod [Handle]
 | String [Binding]
+
 :
+
 ### Dart
 
 #### Weapon Parts [Total: 0.5]
+
 |  |
 |:----------|
 | Tool Rod [Head]
+
 :::
+
 ### Shortbow
 
 #### Weapon Parts [Total: 4]
+
 |  |
 |:----------|
 | Tool Rod [Head]
 | Tool Rod [Head 2]
 | String [Binding]
+
 :
 \page
 
 ### Sling
 
 #### Weapon Parts [Total: 1]
+
 |  |
 |:----------|
 | Plate (Flexible Only) [Head]
+
 :::
 
 ### Bolts & Arrows (20)
 
 #### Weapon Parts [Total: 1.5]
+
 |  |
 |:----------|
 | Tool Rod [Handle]
 | Arrow Head [Head]
+
 ::
+
 ### Battleaxe
 
 #### Weapon Parts [Total: 5]
+
 |  |
 |:----------|
 | Axe Head [Head]
 | Axe Head [Head 2]
 | Tough Rod [Handle]
+
 :
+
 ### Flail
 
 #### Weapon Parts [Total: 4.5]
+
 |  |
 |:----------|
 | Plate [Head]
 | String [Binding]
 | Tool Rod [Handle]
+
 :
+
 ### Glaive
 
 #### Weapon Parts [Total: 7]
+
 |  |
 |:----------|
 | Tough Rod [Handle]
 | Tough Rod [Handle 2]
 | Sword Blade [Head]
+
 :
+
 ### Greataxe
 
 #### Weapon Parts [Total: 11]
+
 |  |
 |:----------|
 | Tough Rod [Handle]
@@ -449,45 +518,57 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 ### Greatsword
 
 #### Weapon Parts [Total: 14]
+
 |  |
 |:----------|
 | Tough Rod [Handle]
 | Tough Rod  [Binding]
 | Large Blade [Head]
+
 :
+
 ### Halberd
 
 #### Weapon Parts [Total: 5]
+
 |  |
 |:----------|
 | Tough Rod [Handle]
 | Sword Blade [Head]
 | Axe Head [Head 2]
+
 :
 
 \page
+
 ### Lance
 
 #### Weapon Parts [Total: 14]
+
 |  |
 |:----------|
 | Tough Rod [Handle]
 | Tough Binding [Binding]
 | Large Blade [Head]
+
 :
 
 ### Longsword
 
 #### Weapon Parts [Total: 2]
+
 |  |
 |:----------|
 | Sword Blade [Head]
 | Wide Guard [Binding]
 | Tool Rod [Handle]
+
 :
+
 ### Maul
 
 #### Weapon Parts [Total: 8]
+
 |  |
 |:----------|
 | Tough Rod [Handle]
@@ -498,15 +579,19 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 ### Morningstar
 
 #### Weapon Parts [Total: 7]
+
 |  |
 |:----------|
 | Tough Rod [Handle]
 | Tough Binding [Binding]
 | Plate [Head]
+
 :
+
 ### Pike
 
 #### Weapon Parts [Total: 3]
+
 |  |
 |:----------|
 | Tool Rod [Handle]
@@ -517,34 +602,44 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 ### Rapier
 
 #### Weapon Parts [Total: 2]
+
 |  |
 |:----------|
 | Sword Blade [Head]
 | Crossbar [Binding]
 | Tool Rod [Handle]
+
 :
+
 ### Scimitar
 
 #### Weapon Parts [Total: 2]
+
 |  |
 |:----------|
 | Sword Blade [Head]
 | Hand Guard [Binding]
 | Tool Rod [Handle]
+
 :
+
 ### Shortsword
 
 #### Weapon Parts [Total: 2]
+
 |  |
 |:----------|
 | Sword Blade [Head]
 | Wide Guard [Binding]
 | Tool Rod [Handle]
+
 :
 \page
+
 ### Trident
 
 #### Weapon Parts [Total: 2.5]
+
 |  |
 |:----------|
 | Knife Blade [Head]
@@ -552,9 +647,10 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 | Binding [Binding]
 | Tool Rod [Handle]
 
-### War pick
+### War Pick
 
 #### Weapon Parts [Total: 5]
+
 |  |
 |:----------|
 | Tough Rod [Handle]
@@ -565,6 +661,7 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 ### Warhammer
 
 #### Weapon Parts [Total: 5.5]
+
 |  |
 |:----------|
 | Tool Rod [Handle]
@@ -572,54 +669,68 @@ The exact mechanical stacking (e.g. additive, multiplicative, increasing intensi
 | Plate [Head]
 | Plate [Head]
 
-### Whip 
+### Whip
 
 #### Weapon Parts [Total: 3.5]
+
 |  |
 |:----------|
 | String [Head]
 | Tool Rod [Handle]
+
 ::
-### Blowgun 
+
+### Blowgun
 
 #### Weapon Parts [Total: 0.5]
+
 |  |
 |:----------|
 | Tool Rod [Head]
+
 :::
+
 ### Hand Crossbow
 
 #### Weapon Parts [Total: 6]
+
 |  |
 |:----------|
 | Tough Rod [Head]
 | String [Binding]
+
 ::
+
 ### Heavy Crossbow
 
 #### Weapon Parts [Total: 9]
+
 |  |
 |:----------|
 | Tough Rod [Head]
 | Tough Rod [Handle]
 | String [Binding]
+
 :
+
 ### Longbow
 
 #### Weapon Parts [Total: 9]
+
 |  |
 |:----------|
 | Tough Rod [Head]
 | Tough Rod [Head 2]
 | String [Binding]
+
 :
 
 \page
 
-
 ## Common Materials
 
 ### Air
+
 Its just solid air. Did you think it would be useful?
 :
 **Material Type:** Alchemical   
@@ -630,7 +741,8 @@ Its just solid air. Did you think it would be useful?
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight
@@ -638,7 +750,8 @@ Its just solid air. Did you think it would be useful?
 | Soft
 | Breakable 5
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Lightweight
@@ -646,7 +759,8 @@ Its just solid air. Did you think it would be useful?
 | Soft
 | Breakable 5
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Lightweight
@@ -667,19 +781,22 @@ Its just solid air. Did you think it would be useful?
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight 
 | Slippery Grip
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Flexible
 | Cheapskate
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Blunt
@@ -698,17 +815,20 @@ Its just solid air. Did you think it would be useful?
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Hollow
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | ---
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Spiked
@@ -719,6 +839,7 @@ Its just solid air. Did you think it would be useful?
 \column
 
 ### Bread
+
 Its bread. Why? Why not. Battle Baguette!
 :
 **Material Type:** Organic  
@@ -729,22 +850,24 @@ Its bread. Why? Why not. Battle Baguette!
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight	|
 | Soft      |
 | Cheapskate | 
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Lightweight	|
 | Soft      |
 | Cheapskate | 
 
+#### Head
 
-#### Head  
 | Properties
 |:----------|
 | Lightweight	|
@@ -753,7 +876,7 @@ Its bread. Why? Why not. Battle Baguette!
 
 }}
 
-### Copper  
+### Copper
 
 :
 **Material Type:** Metal  
@@ -764,25 +887,27 @@ Its bread. Why? Why not. Battle Baguette!
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sterile
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Flexible
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Lightning rod
 
 }}
 
-
-### Glass  
+### Glass
 
 :
 **Material Type:** Stone  
@@ -793,21 +918,24 @@ Its bread. Why? Why not. Battle Baguette!
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Breakable 5
 | Jagged Edge
 | Dangerous
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Breakable 5
 | Jagged Edge
 | Dangerous
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Breakable 5
@@ -815,12 +943,10 @@ Its bread. Why? Why not. Battle Baguette!
 | Dangerous
 | Sharpened
 
-
 }}
 
+### Iron
 
-
-### Iron  
 Iron is the default material used in creating weapons and armor. It is solid and reliable, but offers no special traits or enhancements.  
 :
 **Material Type:** Metal  
@@ -831,18 +957,20 @@ Iron is the default material used in creating weapons and armor. It is solid and
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | ---
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | ---
 
+#### Head
 
-#### Head  
 | Properties
 |:----------|
 | ---
@@ -851,7 +979,7 @@ Iron is the default material used in creating weapons and armor. It is solid and
 
 \page
 
-### Lead  
+### Lead
 
 :
 **Material Type:** Metal  
@@ -862,24 +990,26 @@ Iron is the default material used in creating weapons and armor. It is solid and
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Heavy
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Heavy
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Heavy
 | Poisonous
 
 }}
-
 
 ### Scrap
 
@@ -895,19 +1025,22 @@ Its so mixed with everything else in the pile of scrap, you have no idea what yo
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Wild Positive
 | Wild Negative
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Wild Positive
 | Wild Negative
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Wild Positive
@@ -915,8 +1048,6 @@ Its so mixed with everything else in the pile of scrap, you have no idea what yo
 | Wild Negative
 
 }}
-
-
 
 ### Stone
 
@@ -929,17 +1060,20 @@ Its so mixed with everything else in the pile of scrap, you have no idea what yo
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Heavy
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | ---
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Blunt
@@ -949,7 +1083,7 @@ Its so mixed with everything else in the pile of scrap, you have no idea what yo
 
 \column
 
-### Tin  
+### Tin
 
 :
 **Material Type:** Metal  
@@ -960,25 +1094,25 @@ Its so mixed with everything else in the pile of scrap, you have no idea what yo
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Lightweight
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Soft
 
 }}
-
-
-
 
 ### Weak Construct
 
@@ -994,25 +1128,28 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sentient
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Sentient
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Sentient
 
 }}
 
-
 ### Wood
+
 Wood is the most common material you can make any parts out of. Wooden parts are mediocre, but easy to come by.
 :
 **Material Type:** Organic  
@@ -1023,18 +1160,20 @@ Wood is the most common material you can make any parts out of. Wooden parts are
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight |
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Cheapskate |
 
+#### Head
 
-#### Head  
 | Properties
 |:----------|
 | Blunt        |
@@ -1044,9 +1183,10 @@ Wood is the most common material you can make any parts out of. Wooden parts are
 
 
 \page
+
 ## Uncommon Materials
 
-### Brass  
+### Brass
 
 :
 **Material Type:** Metal  
@@ -1057,17 +1197,20 @@ Wood is the most common material you can make any parts out of. Wooden parts are
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sterile
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Heat Retention
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Heat Retention
@@ -1075,8 +1218,7 @@ Wood is the most common material you can make any parts out of. Wooden parts are
 
 }}
 
-
-### Bronze  
+### Bronze
 
 :
 **Material Type:** Metal  
@@ -1087,25 +1229,27 @@ Wood is the most common material you can make any parts out of. Wooden parts are
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sterile
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Reinforced
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Polished
 
 }}
 
-
-### Cold Iron  
+### Cold Iron
 
 :
 **Material Type:** Metal  
@@ -1116,17 +1260,20 @@ Wood is the most common material you can make any parts out of. Wooden parts are
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | ---
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | ---
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Chilling
@@ -1151,19 +1298,22 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sentient
 | Reinforced
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Sentient
 | Reinforced
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Sentient
@@ -1182,20 +1332,23 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight
 | Magic Focus
 | Slippery Grip
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Chilling
 | Flexible
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Chilling
@@ -1204,7 +1357,7 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 }}
 
-### Gallium  
+### Gallium
 
 :
 **Material Type:** Metal  
@@ -1215,20 +1368,23 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Endothermic
 | Flexible
 | Slippery Grip
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Endothermic
 | Flexible
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Endothermic
@@ -1239,7 +1395,7 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 \page
 
-### Gold  
+### Gold
 
 :
 **Material Type:** Metal  
@@ -1250,24 +1406,27 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Keen
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Flexible
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Soft
 
 }}
 
-### Obsidian 
+### Obsidian
 
 :
 **Material Type:** Stone  
@@ -1278,21 +1437,24 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Breakable 3
 | Jagged Edge
 | Dangerous
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Breakable 3
 | Jagged Edge
 | Dangerous
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Breakable 3
@@ -1300,11 +1462,9 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 | Dangerous
 | Sharpened
 
-
 }}
 
-
-### Silver  
+### Silver
 
 :
 **Material Type:** Metal  
@@ -1315,19 +1475,22 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight
 | Magical
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Polished
 | Magical
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Magical
@@ -1338,6 +1501,7 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 \column
 
 ### Slime Core
+
 The core itself isnt the part, rather the slime that forms around it. To do so, you must use magic to cause the core to reform in the correct shape of the part, rather than the slimes normal shape. Most of the material itself comes from the slime.
 :
 The damage done by Empowered core is the additional damage from the ooze. This is normally acid, but in cases such as the ooblex, its psychic.
@@ -1350,7 +1514,8 @@ The damage done by Empowered core is the additional damage from the ooze. This i
 
 {{column-count:3
 
-#### Handle 
+#### Handle
+
 | Property |
 |:----------|
 | Empowered Core
@@ -1358,7 +1523,8 @@ The damage done by Empowered core is the additional damage from the ooze. This i
 
 \column
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Empowered Core
@@ -1367,6 +1533,7 @@ The damage done by Empowered core is the additional damage from the ooze. This i
 \column
 
 #### Head
+
 | Property |
 |:----------|
 | Shattered (core breaks)
@@ -1377,10 +1544,8 @@ The damage done by Empowered core is the additional damage from the ooze. This i
 
 }}
 
-
-
-
 ### Stale Bread
+
 Its STILL bread. Its just been awhile! Its also noticeably harder.
 :
 **Material Type:** Organic  
@@ -1391,20 +1556,22 @@ Its STILL bread. Its just been awhile! Its also noticeably harder.
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight	|
 | Cheapskate | 
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Lightweight	|
 | Cheapskate | 
 
+#### Head
 
-#### Head  
 | Properties
 |:----------|
 | Lightweight	|
@@ -1413,11 +1580,9 @@ Its STILL bread. Its just been awhile! Its also noticeably harder.
 
 }}
 
+### Steel
 
-
-
-### Steel  
- 
+	
 :
 **Material Type:** Metal  
 **Rarity:** Uncommon   
@@ -1427,17 +1592,20 @@ Its STILL bread. Its just been awhile! Its also noticeably harder.
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Heavy
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Reinforced
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Reinforced
@@ -1446,7 +1614,7 @@ Its STILL bread. Its just been awhile! Its also noticeably harder.
 
 \page
 
-### Treant wood 
+### Treant Wood
 
 :
 **Material Type:** Organic  
@@ -1457,22 +1625,23 @@ Its STILL bread. Its just been awhile! Its also noticeably harder.
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight
 
+#### Binding
 
-#### Binding  
 | Property |
 |:----------|
 | ---
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Sentient
-
 
 }}
 \page
@@ -1490,30 +1659,34 @@ Its STILL bread. Its just been awhile! Its also noticeably harder.
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Siege
 | Reinforced
 | Heavy
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Siege
 | Reinforced
 | Heavy
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Siege
 | Reinforced
 | Heavy
-
 
 }}
+
 ### Bled Celestial Feather
+
 The feather of a slain celestial will always be worse than one that is given and pure, one gainned from a corpse or against its will is said to drive those who wield it insane. Even if its a feather, that doesnt mean its soft, being as sharp as steel.
 :
 **Material Type:** Planar  
@@ -1524,7 +1697,8 @@ The feather of a slain celestial will always be worse than one that is given and
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Hollow
@@ -1535,7 +1709,8 @@ The feather of a slain celestial will always be worse than one that is given and
 
 \column
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Lightweight
@@ -1545,7 +1720,8 @@ The feather of a slain celestial will always be worse than one that is given and
 
 \column
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Sharpened
@@ -1556,7 +1732,8 @@ The feather of a slain celestial will always be worse than one that is given and
 
 }}
 
-### Dragonbone 
+### Dragonbone
+
 Parts carved from the bones of dragons, still holding parts of their power within.
 :
 **Material Type:** Monstrous  
@@ -1567,20 +1744,22 @@ Parts carved from the bones of dragons, still holding parts of their power withi
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Draconic Will
 | Magical
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Draconic Will
 | Magical
 
+#### Head
 
-#### Head  
 | Properties
 |:----------|
 | Draconic Will
@@ -1593,7 +1772,7 @@ Parts carved from the bones of dragons, still holding parts of their power withi
 
 \column
 
-### Electrum  
+### Electrum
 
 :
 **Material Type:** Metal  
@@ -1604,27 +1783,27 @@ Parts carved from the bones of dragons, still holding parts of their power withi
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Magical
 | Lightning rod
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Shocking
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Shocking
 | Soft
 
 }}
-
-
-
 
 ### Greater Construct
 
@@ -1640,21 +1819,24 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sentient
 | Reinforced
 | Keen
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Sentient
 | Reinforced
 | Magnetic
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Sentient 2
@@ -1663,10 +1845,7 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 }}
 
-
-
-
-### Hardened Glass 
+### Hardened Glass
 
 :
 **Material Type:** Stone  
@@ -1677,21 +1856,24 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Breakable
 | Jagged Edge
 | Dangerous
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Breakable
 | Jagged Edge
 | Dangerous
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Breakable
@@ -1706,6 +1888,7 @@ If carved or reforged, it retains its mental stats and alignment. If crafted, ro
 \page
 
 ### Ironwood
+
 Wood thats been infused with iron, or a wood so dense and tough that it might as well be iron. both are correct, though its much harder to find natural ironwood, only growing in specific areas, or in the feywilds. 
 :
 compared to the challenge of making said ironwood yourself by infusing iron into wood without charing it. 
@@ -1718,28 +1901,31 @@ compared to the challenge of making said ironwood yourself by infusing iron into
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight
 | Reinforced
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Reinforced
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Blunt
 | Reinforced
 
-
 }}
 
-### Jewels 
- 
+### Jewels
+
+	
 :
 **Material Type:** Stone  
 **Rarity:** Rare  
@@ -1749,27 +1935,32 @@ compared to the challenge of making said ironwood yourself by infusing iron into
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Magic Focus
 | Slippery Grip
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Magic Focus
 | Shattered
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Magic Focus
 | Jagged Edge
+
 }}
 
-### Platinum  
- 
+### Platinum
+
+	
 :
 **Material Type:** Metal  
 **Rarity:** Rare  
@@ -1779,20 +1970,23 @@ compared to the challenge of making said ironwood yourself by infusing iron into
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sterile
 | Magical
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Heat Retention
 | Magical
 | Shimmering
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Heat Retention
@@ -1805,6 +1999,7 @@ compared to the challenge of making said ironwood yourself by infusing iron into
 \column
 
 ### Quicksilver
+
 Quicksilver is another name for mercery.
 :
 **Material Type:** Metal  
@@ -1815,20 +2010,23 @@ Quicksilver is another name for mercery.
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Insanity
 | Magic Focus
 | Heavy
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Flexible
 | Magical
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Poisonous
@@ -1847,19 +2045,22 @@ Quicksilver is another name for mercery.
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Shimmering
 | Magical
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Shimmering
 | Burning
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Heat Retention
@@ -1869,7 +2070,8 @@ Quicksilver is another name for mercery.
 }}
 
 ### Troll Bone
- 
+
+	
 :
 **Material Type:** Monstrous  
 **Rarity:** Rare  
@@ -1879,7 +2081,8 @@ Quicksilver is another name for mercery.
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Hollow
@@ -1887,7 +2090,8 @@ Quicksilver is another name for mercery.
 
 \column
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Shimmering
@@ -1895,7 +2099,8 @@ Quicksilver is another name for mercery.
 
 \column
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Spiked
@@ -1908,7 +2113,7 @@ Quicksilver is another name for mercery.
 
 ## Very Rare Materials
 
-### Adamantine  
+### Adamantine
 
 :
 **Material Type:** Metal  
@@ -1919,7 +2124,8 @@ Quicksilver is another name for mercery.
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Heat Retention
@@ -1927,7 +2133,8 @@ Quicksilver is another name for mercery.
 | Magical
 | Reinforced
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Heat Retention
@@ -1935,7 +2142,8 @@ Quicksilver is another name for mercery.
 | Magical
 | Shimmering
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Heat Retention 2
@@ -1945,6 +2153,7 @@ Quicksilver is another name for mercery.
 }}
 
 ### Aerosite
+
 Condensed storm-wind crystal, gathered from the eye of a hurricane or formed from slain Air Elementals.
 
 :
@@ -1956,21 +2165,24 @@ Condensed storm-wind crystal, gathered from the eye of a hurricane or formed fro
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight
 | Shocking
 | Magical
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Lightweight
 | Shocking
 | Magical
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Lightweight
@@ -1981,6 +2193,7 @@ Condensed storm-wind crystal, gathered from the eye of a hurricane or formed fro
 }}
 
 ### Aquacite
+
 Formed from crystallized elemental water, found in the deepest ocean trenches or torn from a Water Elemental’s core.
 
 :
@@ -1992,21 +2205,24 @@ Formed from crystallized elemental water, found in the deepest ocean trenches or
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Flexible
 | Chilling
 | Magical
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Flexible
 | Chilling
 | Magical
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Flexible
@@ -2018,7 +2234,9 @@ Formed from crystallized elemental water, found in the deepest ocean trenches or
 
 
 \column
+
 ### Celestial Feather
+
 A feather gifted from a celestial, known for being one of the most pure things there is. Even if its a feather, that doesnt mean its soft, being as sharp as steel.
 :
 **Material Type:** Planar  
@@ -2029,7 +2247,8 @@ A feather gifted from a celestial, known for being one of the most pure things t
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Hollow
@@ -2038,20 +2257,20 @@ A feather gifted from a celestial, known for being one of the most pure things t
 | Moon-touched 
 | Lightweight
 
-
 \column
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Lightweight
 | Moon-touched 
 | Holy
 
-
 \column
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Sharpened
@@ -2059,7 +2278,6 @@ A feather gifted from a celestial, known for being one of the most pure things t
 | Planar
 | Moon-touched
 | Lightweight
-
 
 }}
 
@@ -2074,7 +2292,8 @@ A feather gifted from a celestial, known for being one of the most pure things t
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | 
@@ -2082,7 +2301,8 @@ A feather gifted from a celestial, known for being one of the most pure things t
 | Dangerous
 | Draconic Will
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | 
@@ -2090,7 +2310,8 @@ A feather gifted from a celestial, known for being one of the most pure things t
 | Dangerous
 | Draconic Will
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | 
@@ -2115,7 +2336,8 @@ it retains its mental stats and alignment.
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sentient 2
@@ -2123,7 +2345,8 @@ it retains its mental stats and alignment.
 | Keen
 | Magic Resistant
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Sentient 2
@@ -2131,7 +2354,8 @@ it retains its mental stats and alignment.
 | Magnetic
 | Magic Resistant
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Sentient 3
@@ -2143,7 +2367,9 @@ it retains its mental stats and alignment.
 
 
 \page
+
 ### Ignisite
+
 Forged from cooled shards of pure elemental flame, harvested from the inside of an active volcano or from a Fire Elemental’s core.
 
 :
@@ -2155,21 +2381,24 @@ Forged from cooled shards of pure elemental flame, harvested from the inside of 
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Glowing
 | Burning
 | Magical
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Glowing
 | Burning
 | Magical
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Glowing
@@ -2180,6 +2409,7 @@ Forged from cooled shards of pure elemental flame, harvested from the inside of 
 }}
 
 ### Lich
+
 This isnt made of a liches bones, its made with a modified phylactery, turning the lich itself into the part. Due to this transformation, the lich cannot cast spells, though he is NOT happy about this. Maybe make sure his sentience isnt too high. The sentience in the first head overtakes any other sentience in the weapon, consuming them. The part only needs the phylactery, the rest of the material will regenerate on its own.
 
 ***I have no mouth, and i must scream - Some lich made into a Dagger***
@@ -2192,7 +2422,8 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Magical
@@ -2205,7 +2436,8 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 
 \column
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Magical
@@ -2218,7 +2450,8 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 
 \column
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Magical
@@ -2235,7 +2468,7 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 
 \column
 
-### Mithral  
+### Mithral
 
 :
 **Material Type:** Metal  
@@ -2246,7 +2479,8 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Lightweight
@@ -2254,7 +2488,8 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 | Magic Resistant
 | Glowing 
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Lightweight
@@ -2262,7 +2497,8 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 | Magic Resistant
 | Glowing
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Lightweight
@@ -2273,8 +2509,8 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 
 }}
 
-
 ### Starmetal
+
 :
 **Material Type:** Metal/Planar  
 **Rarity:** Very Rare  
@@ -2284,7 +2520,8 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Magnetic
@@ -2292,7 +2529,8 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 | Magical
 | Planar
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | 
@@ -2302,7 +2540,9 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 | Planar
 
 ::
-#### Head  
+
+#### Head
+
 | Property |
 |:----------|
 | Planar 2
@@ -2313,12 +2553,8 @@ This isnt made of a liches bones, its made with a modified phylactery, turning t
 
 }}
 
-
-
-
-
-
 ### Terracite
+
 Dense mineral infused with elemental earth, quarried from the bottom of mountains or mined from slain Earth Elementals.
 
 :
@@ -2330,7 +2566,8 @@ Dense mineral infused with elemental earth, quarried from the bottom of mountain
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Heavy
@@ -2339,7 +2576,8 @@ Dense mineral infused with elemental earth, quarried from the bottom of mountain
 
 \column
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Heavy
@@ -2348,7 +2586,8 @@ Dense mineral infused with elemental earth, quarried from the bottom of mountain
 
 \column
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Heavy
@@ -2363,6 +2602,7 @@ Dense mineral infused with elemental earth, quarried from the bottom of mountain
 ## Legendary Materials
 
 ### Eternal Glass
+
 This glass is made from a material called "Starseed Sand" dropped from meteorites that fly through the air.
 :
 **Material Type:** Stone  
@@ -2373,7 +2613,8 @@ This glass is made from a material called "Starseed Sand" dropped from meteorite
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | 
@@ -2384,7 +2625,8 @@ This glass is made from a material called "Starseed Sand" dropped from meteorite
 | Magical
 | Moon-touched
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | 
@@ -2395,7 +2637,9 @@ This glass is made from a material called "Starseed Sand" dropped from meteorite
 | Moon-touched
 
 \column
-#### Head  
+
+#### Head
+
 | Property |
 |:----------|
 | 
@@ -2407,10 +2651,10 @@ This glass is made from a material called "Starseed Sand" dropped from meteorite
 | Moon-touched 2
 | Holy 2
 
-
 }}
 
 ### Nyxium
+
 This alloy is made with a combination of adamantine and starmetal, striking with the burning force of the sun and the chilling hunger of the void. It is pure black, with a white boarder, similar to a black hole.
 :
 **Material Type:** Metal/Planar  
@@ -2421,7 +2665,8 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Magic Resistant
@@ -2432,10 +2677,10 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 | Moon-touched -1 (produces darkness; still gains +1)
 | Magic Focus
 
-
 \column
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Withering
@@ -2446,10 +2691,10 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 | Glowing -1 (produces darkness)
 | Moon-touched -1 (produces darkness; still gains +1)
 
-
 \column
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Planar 2
@@ -2464,7 +2709,7 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 
 \column
 
-### Orichalchum 
+### Orichalchum
 
 :
 **Material Type:** Metal  
@@ -2475,7 +2720,8 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sterile
@@ -2486,7 +2732,8 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 | Magic Resistant
 | Reinforced
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Sentient
@@ -2496,8 +2743,8 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 | Polished
 | Reinforced
 
+#### Head
 
-#### Head  
 | Property |
 |:----------|
 | Sentient 2
@@ -2521,7 +2768,8 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sticky
@@ -2532,7 +2780,8 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 | Heat Retention 2
 | Wild Positive 3
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Keen
@@ -2543,7 +2792,8 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 | Heat Retention 2
 | Wild Positive 3
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Blunt
@@ -2553,7 +2803,6 @@ This alloy is made with a combination of adamantine and starmetal, striking with
 | Dangerous 2
 | Heat Retention 2
 | Wild Positive 3
-
 
 }}
 
@@ -2573,7 +2822,8 @@ it retains its mental stats and alignment.
 
 {{column-count:3
 
-#### Handle  
+#### Handle
+
 | Property |
 |:----------|
 | Sentient 2
@@ -2581,7 +2831,8 @@ it retains its mental stats and alignment.
 | Keen 2
 | Magic Resistant
 
-#### Binding  
+#### Binding
+
 | Property |
 |:----------|
 | Sentient 2
@@ -2589,7 +2840,8 @@ it retains its mental stats and alignment.
 | Magnetic 2
 | Magic Resistant
 
-#### Head  
+#### Head
+
 | Property |
 |:----------|
 | Sentient 3
@@ -2609,10 +2861,13 @@ These are the basic rules for making a material, granted these rules can be bent
 If you make a meterial, or have additional rules or changes and think it should be in the book itself, send it to me for review! (Discord: silvercrow605 Reddit: u/silvercrow605) if i think that you either gave enough materials, or give great insight for balence/rules, your free to make an example weapon to be added to the book, as well as art for it if you wish to provide your own! (no ai, as i post this in places that don't allow it, and proper credit must be given if you didnt make it.)
 
 ### Difficulty
+
 The difficulty of crafting the parts depends on the rarity and the difficulty of working with the material. Each rarity has its own flat DC, with the difficulty added onto that.
 
-##### Rarity & Difficulty
+#### Rarity & Difficulty
+
 {{column-count:2
+
 | Rarity | DC |
 |:----------------|:--:|
 | Common          | 11 |
@@ -2629,13 +2884,17 @@ The difficulty of crafting the parts depends on the rarity and the difficulty of
 | Hard         |    +1    |
 | Very Hard    |    +2    |
 | Hell         |    +3    |
+
 }}
 
 ### Crafting Time
+
 The time it takes to make a weapon depends on its difficulty, and rarity, similarly to the Difficulty section before, having its own flat DC, and modifier, in addition to being multiplied by the material count to determine the amount of hours.
 
-##### Rarity & Difficulty
+#### Rarity & Difficulty
+
 {{column-count:2
+
 | Rarity | DC |
 |:----------------|:--:|
 | Common          | 1 |
@@ -2652,6 +2911,7 @@ The time it takes to make a weapon depends on its difficulty, and rarity, simila
 | Hard         |    +0.25 |
 | Very Hard    |    +0.5  |
 | Hell         |    +1    |
+
 }}
 
 
@@ -2681,8 +2941,6 @@ The time it takes to make a weapon depends on its difficulty, and rarity, simila
 :
 - **Examples:** Dragonbone, Platinum, Troll Bone, Hardened Glass.
 
-
-
 ### Very Rare Materials
 
 - **Property Limits:** Positive properties reach 3, normally having 1-2 tier 2, extremely rarely tier 3.
@@ -2691,6 +2949,7 @@ The time it takes to make a weapon depends on its difficulty, and rarity, simila
 :
 - **Examples:** Adamantine, Mithral, Dragonfire Glass, Elite Construct.
 :
+
 ### Legendary Materials
 
 - **Property Limits:** Positive properties can reach 3, normally having 3 tier 2, rarely tier 3. Negative properties are rare.
@@ -2700,11 +2959,13 @@ The time it takes to make a weapon depends on its difficulty, and rarity, simila
 - **Examples:** Orichalcum, Eternal Glass, Ultimate Construct.
 
 \page
-## Weapon examples
+
+## Weapon Examples
+
 I asked some friends to make items using the materials, here are some they made as examples of weapons. I also allowed people who give to this book the ability to add one as well.
 
-
 ### The Good Orc's Will
+
 *Melee weapon, Greatclub, Tough Rod (Orichalchum)*
 :
 Two-Handed, 1d8 Bludgeoning Damage
@@ -2714,7 +2975,9 @@ Sentient 2 (Int 8, Wis 11, Cha 13 Lawful good, Speaks, reads, and understands Or
 Magic Focus, Magical, Shimmering 2, Reinforced 2, Polished
 
 {{artist,top:200px,right:150px
-##### Original By:
+
+#### Original By:
+
 Polar Engine
 }}
 
@@ -2724,6 +2987,7 @@ Polar Engine
 :::::::
 
 ### Glass Cannon
+
 *Melee weapon, Handaxe, Tool Rod (Glass), Binding (Glass), Axe Head (Glass)*
 :
 Light, thrown (range 20/60), 4d6 Slashing
@@ -2737,11 +3001,15 @@ Jagged Edge 3, Dangerous 3, Sharpened
 ![Glass Cannon](https://i.imgur.com/rPijtXQ.png) {position:absolute,top:350px,right:200px,width:170px}
 
 {{artist,top:450px,right:140px
-##### Original By:
+
+#### Original By:
+
 Starlight Sorcerer
 }}
 :::::::::
+
 ### Thor's Backup
+
 *Melee weapon, Greataxe,Tough Rod (Brass), Tough Binding (Bronze), Large Axe Head (Stone), Axe Head (Electrum)*
 :
 *This weapon was made by the person rolling parts selectively at random.*
@@ -2757,7 +3025,9 @@ Sterile, Reinforced, Blunt, Shocking, Lightning rod
 ![Thor's Backup](https://i.imgur.com/DObIRAE.png) {position:absolute,top:600px,right:100px,width:370px}
 
 {{artist,top:850px,right:170px
-##### Original Parts By:
+
+#### Original Parts By:
+
 Reagan Wigboldy
 
 Loot Tavern
@@ -2769,7 +3039,9 @@ or just use an image of Stormbreaker, idk lol
 
 
 \page
+
 ### Twilight Harvest
+
 *Melee weapon, Glaive, Tough Rod (Dragonbone), Tough Rod (Dragonbone), Sword Blade (Jewels [Amethyst])*
 :
 *This weapon was suggested by Dracolich for his contributions.*
@@ -2781,7 +3053,9 @@ Draconic Will 2, Magical, Magic Focus, Jagged Edge
 
 
 {{artist,top:200px,right:150px
-##### Original Parts By:
+
+#### Original Parts By:
+
 Joseph Bentley
 
 Ahlvie
@@ -2791,6 +3065,7 @@ Ahlvie
 :::::::
 
 ### Malaria
+
 *Melee weapon, Rapier, Sword Blade (Troll Bone), Crossbar (Troll Bone), Tool Rod (Troll Bone Handle)*
 :
 *This weapon was suggested by Milo for his contributions.*
@@ -2803,7 +3078,9 @@ Hollow, Heavy, Shimmering, Leeching 2, Spiked
 :
 
 {{artist,top:400px,right:150px
-##### Original By:
+
+#### Original By:
+
 boomboompowboyz
 
 }}
@@ -2814,6 +3091,7 @@ boomboompowboyz
 :::::::
 
 ### Earthquake
+
 *Melee weapon, Flail, Plate (Terracite), String (Gold), Tool Rod (Silver)*
 :
 *This weapon was suggested by Vampiric12 for his contributions.*
@@ -2825,7 +3103,9 @@ Can reroll a 1 on a damage roll twice per round.
 Blunt, Shimmering, Reinforced 2, Magical, (Lightweight cancels Heavy)
 
 {{artist,top:790px,right:260px
-##### Original From:
+
+#### Original From:
+
 D&D Player’s Handbook (2024)
 
 }}
@@ -2836,7 +3116,9 @@ D&D Player’s Handbook (2024)
 :::::::
 
 \page
+
 ### Reach The Sun
+
 *Melee weapon, Greatsword, Large Blade (High-grade Steel), Tough Rod (Sunsteel), Tough Rod (Gallium)*
 :
 *This weapon was suggested by Background-Record685 for his contributions.*
@@ -2856,7 +3138,8 @@ Siege, Reinforced, Heavy, Shimmering, Burning, Endothermic, Flexible, Slippery G
 
 
 {{artist,top:200px,right:260px
-##### Original By:
+
+#### Original By:
 
 kimkkyu_
 }}
@@ -2870,117 +3153,117 @@ kimkkyu_
 
 - 0.3:
 
-  - Initial Release.
+		- Initial Release.
 
 - 0.4: 
 
-  - Added materials: Treant Wood, Construct tier for each level, Slime Core, & Troll Bone.
+		- Added materials: Treant Wood, Construct tier for each level, Slime Core, & Troll Bone.
 
-  - Added properties: Engulf.
-  
-  - Added examples: Image for "Thor's Backup."
-  
-  - Added Gauntlets to the list of recipes. counting as another unarmed weapon.
-  
-  - Moved Parts by Color up to page 3.
-  
+		- Added properties: Engulf.
+		
+		- Added examples: Image for "Thor's Backup."
+		
+		- Added Gauntlets to the list of recipes. counting as another unarmed weapon.
+		
+		- Moved Parts by Color up to page 3.
+		
 - 0.4.5:
-  
-    - Added materials: Obsidian, Dragonfire Glass, & Eternal Glass.
-    
-    - Changed crafting recipe for Gauntlets.
-    
+		
+				- Added materials: Obsidian, Dragonfire Glass, & Eternal Glass.
+				
+				- Changed crafting recipe for Gauntlets.
+				
 - 0.5:
-  
-  - Added Material making rules, and my contact locations for sharing ideas.
-  
+		
+		- Added Material making rules, and my contact locations for sharing ideas.
+		
 - 0.5.5:
 
-  - Fixed the rarities being listed wrong on the construct materials.
-  
-  - Fixed the grammar and spelling mistakes.
-  
-  - Changed the 10 attacks rules on twist shift, and vibrating edge to Roll 2d20, if both numbers match, you make their saves.
-  
-  - Added new contribuition example "Twilight Harvest."
-  
+		- Fixed the rarities being listed wrong on the construct materials.
+		
+		- Fixed the grammar and spelling mistakes.
+		
+		- Changed the 10 attacks rules on twist shift, and vibrating edge to Roll 2d20, if both numbers match, you make their saves.
+		
+		- Added new contribuition example "Twilight Harvest."
+		
 - 0.6:
 
-  - Added materials: Scrap.
-  
-  - Added properties: Wild Positive, Wild Negative.
+		- Added materials: Scrap.
+		
+		- Added properties: Wild Positive, Wild Negative.
 
-  - Changed the DC to create a part to be higher at later rarities.
-  
-  - Added the total amount of material needed to make a weapon.
-  
-  - Alphabetized things.
+		- Changed the DC to create a part to be higher at later rarities.
+		
+		- Added the total amount of material needed to make a weapon.
+		
+		- Alphabetized things.
 
 - 0.7:
 
-  - Added materials: Bread, Stale bread.
+		- Added materials: Bread, Stale bread.
 
-  - Moved Difficulty chart to "Material Tier Rules."
-  
-  - Replaced the difficulty names on the materials with their DCs.
-  
-  - Changed Crafting Tags to Tools Required.
-  
-  - Renamed Tool Parts, Tool Properties, and the word "tool" from material descriptions to avoid confusion with artisan's tools.
-  
-  - Added Crafting times.
-  
+		- Moved Difficulty chart to "Material Tier Rules."
+		
+		- Replaced the difficulty names on the materials with their DCs.
+		
+		- Changed Crafting Tags to Tools Required.
+		
+		- Renamed Tool Parts, Tool Properties, and the word "tool" from material descriptions to avoid confusion with artisan's tools.
+		
+		- Added Crafting times.
+		
 - 0.7.3:
 
-  - Added materials: Bamboo, Frostwood, Sunsteel, Starmetal, Nyxium, Quicksilver.
-  
-  - Added property: Insanity.
-  
-  - Sentient weapons at level 6 can now control the weapon itself.
+		- Added materials: Bamboo, Frostwood, Sunsteel, Starmetal, Nyxium, Quicksilver.
+		
+		- Added property: Insanity.
+		
+		- Sentient weapons at level 6 can now control the weapon itself.
 
 - 0.7.5:
 
-  - Readded the missing holy property.
-  
-  - Added materials: Elemental materials (Ignisite, Aquacite, Terracite, Aerosite.)
-  
+		- Readded the missing holy property.
+		
+		- Added materials: Elemental materials (Ignisite, Aquacite, Terracite, Aerosite.)
+		
 - 0.8:
 
-  - Specified the rules clearer for the crafting process.
-  
-  - Added examples: Malaria, Earthquake.
-  
+		- Specified the rules clearer for the crafting process.
+		
+		- Added examples: Malaria, Earthquake.
+		
 - 0.8.5:
 
-  - Added materials: ironwood, Bled Celestial Feather, Celestial Feather, Gallium, Air, Lich, Black iron.
-  
-  - Added property: Endothermic
-  
-  - Added optional rule for artificer abilities and the like.
-  
-  - Changed Arm wraps to be a binding instead of a head part.
-  
+		- Added materials: ironwood, Bled Celestial Feather, Celestial Feather, Gallium, Air, Lich, Black iron.
+		
+		- Added property: Endothermic
+		
+		- Added optional rule for artificer abilities and the like.
+		
+		- Changed Arm wraps to be a binding instead of a head part.
+		
 - 0.9:
 
-  - Added longer and shorter properties.
-  
-  - added cheapskate to brass head.
-  
-  - Swapped golds handle and head properties.
-  
-  - Black iron renamed to high-grade steel.
-  
-  - Swapped lightning rod and soft on electrums handle and head.
+		- Added longer and shorter properties.
+		
+		- added cheapskate to brass head.
+		
+		- Swapped golds handle and head properties.
+		
+		- Black iron renamed to high-grade steel.
+		
+		- Swapped lightning rod and soft on electrums handle and head.
 
 - 0.9.1:
-  
-  - Added example: Reach The Sun
-  
+		
+		- Added example: Reach The Sun
+		
 - 0.9.2:
 
-  - Removed cheapskate from wood handle.
-  - Revised the lightweight & heavy properties to cancel eachother out better.
-  
+		- Removed cheapskate from wood handle.
+		- Revised the lightweight & heavy properties to cancel eachother out better.
+		
 - 0.9.3:
-  - Added materials: The Smith Family’s Indestructible Yuletide Fruitcake
+		- Added materials: The Smith Family’s Indestructible Yuletide Fruitcake
 10:16

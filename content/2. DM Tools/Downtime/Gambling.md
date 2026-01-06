@@ -2,6 +2,7 @@
 title:
 aliases:
 noteType: downtimeActions
+draft: true
 ---
 ![[Lucky.png|150]]
 

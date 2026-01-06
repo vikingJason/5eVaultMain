@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Charisma
 cardDisplay: Awe or threaten someone into doing what you want.
+draft: true
 ---
 # Intimidation
 

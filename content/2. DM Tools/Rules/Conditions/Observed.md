@@ -4,6 +4,7 @@ noteType: condition
 aliases: Observed
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 
 # Observed

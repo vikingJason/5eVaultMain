@@ -4,6 +4,7 @@ aliases:
   - Potion of Supreme healing
 effect: "Restores `dice: 10d4+20` hit points"
 cost: 1000 gp
+draft: true
 ---
 
 ![[PoSuH.png|150]]

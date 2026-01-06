@@ -4,6 +4,7 @@ noteType: condition
 aliases: Hostile
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 
 # Hostile

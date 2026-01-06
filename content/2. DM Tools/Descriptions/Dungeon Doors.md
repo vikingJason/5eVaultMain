@@ -1,3 +1,6 @@
+---
+draft: true
+---
 1. This old, waterlogged wooden door is swollen into its frame and impossible to open. The wood's integrity is so poor that pulling hard on the doorknob rips it right out of the door, leaving a big hole. While impossible to open, it is easy to break into pieces.
 2. This odd stone door has a horizontal seam at approximately chest height. There is a lever at the side of the door in the down position. When the lever is raised, which takes quite a bit of force, the top and bottom parts of the door slide into the ceiling and floor, respectively.
 3. This soot-covered iron door is circular and made of many petals. A button is in the frame to the right side of the door. When the button is pushed, the door irises open slowly and stops after it opens halfway. The soot is left over evidence of fire damage that has warped the panels slightly, preventing them from fully dilating.

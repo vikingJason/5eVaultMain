@@ -2,6 +2,7 @@
 title:
 aliases:
 noteType: downtimeActions
+draft: true
 ---
 
 ![[Training.png|150]]

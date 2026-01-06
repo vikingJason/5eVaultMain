@@ -3,6 +3,7 @@ obsidianUIMode: preview
 aliases:
   - Conditions
 noteType: condition
+draft: true
 ---
 
 ```ccard

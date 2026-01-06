@@ -1,6 +1,7 @@
 ---
 noteType: skillCheck
 folderName: Dexterity
+draft: true
 ---
 # Lockpicking
 

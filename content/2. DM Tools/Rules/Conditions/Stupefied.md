@@ -9,6 +9,7 @@ aliases:
 effect: Status penalty equal tp **Stupefied** value on INT, WIS, and CHA. **DC 5 + Stupefied** to **Cast A Spell**.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_stupefied.png|150]]
 # Stupefied

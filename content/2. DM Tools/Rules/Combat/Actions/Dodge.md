@@ -2,6 +2,7 @@
 noteType: combatAction
 gamesystem:
   - D&D
+draft: true
 ---
 ### Dodge
 

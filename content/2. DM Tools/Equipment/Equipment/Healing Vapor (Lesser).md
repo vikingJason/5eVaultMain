@@ -5,6 +5,7 @@ aliases:
   - Healing Vapor (Lesser)
 effect: "**Duration** - 10 Minutes, 1 Hit Points every 2 minutes, **5 Foot** burst. Up to 4 targets."
 cost: 40 gp
+draft: true
 ---
 ![[gm_heal.png|150]]
 # Healing Vapor (Lesser)

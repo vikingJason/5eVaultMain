@@ -6,6 +6,7 @@ aliases:
 effect: You take a -2 circumstance penalty to **AC**.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_offguard.png|150]]
 # Off-Guard

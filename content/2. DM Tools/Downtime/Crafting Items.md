@@ -4,6 +4,7 @@ aliases:
   - Crafting
   - Crafting Magical
 noteType: downtimeActions
+draft: true
 ---
 
 ![[Crafting.png|150]]

@@ -4,6 +4,7 @@ author:
 noteType: combatAction
 gamesystem:
   - Homebrew
+draft: true
 ---
 # Aid Another
 

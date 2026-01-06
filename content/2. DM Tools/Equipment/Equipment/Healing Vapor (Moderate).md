@@ -5,6 +5,7 @@ aliases:
   - Healing Vapor (Moderate)
 effect: "**Duration** - 10 Minutes, 1 Hit Points every minute, **5 Foot** burst. Up to 4 targets."
 cost: 100 gp
+draft: true
 ---
 ![[gm_heal.png|150]]
 # Healing Vapor (Moderate)

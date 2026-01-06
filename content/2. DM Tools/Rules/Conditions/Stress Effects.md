@@ -5,6 +5,7 @@ noteType: condition
 gamesystem:
   - Pathfinder 2e
   - D&D
+draft: true
 ---
 
 # Stress Effects

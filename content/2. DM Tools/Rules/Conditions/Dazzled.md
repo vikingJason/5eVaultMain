@@ -5,6 +5,7 @@ aliases: Dazzled
 effect: Your eyes are overstimulated. Everthing is Concealed from you.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_dazzled.png|150]]
 # Dazzled

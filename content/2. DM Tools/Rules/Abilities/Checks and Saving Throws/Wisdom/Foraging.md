@@ -1,6 +1,7 @@
 ---
 noteType: skillCheck
 folderName: Wisdom
+draft: true
 ---
 ## Foraging
 

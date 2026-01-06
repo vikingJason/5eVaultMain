@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 aliases:
   - "Crafting Rules: Crafting"
+draft: true
 ---
 # Crafting Rules: Crafting
 *Source: Item Crafting Rules for 5e* 

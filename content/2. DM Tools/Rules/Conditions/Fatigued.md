@@ -6,6 +6,7 @@ aliases:
 effect: -1 status penalty to **AC** and **saving throws**.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_fatigued.png|150]]
 # Fatigued

@@ -10,6 +10,7 @@ Aliases:
   - Conjuration
 Publisher: Dungeons on Demand
 noteType: magicRules
+draft: true
 ---
 ![[Pasted image 20211226083602.png|500]]
 ![[Pasted image 20211226083550.png|500]]

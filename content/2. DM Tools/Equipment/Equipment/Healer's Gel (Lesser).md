@@ -4,6 +4,7 @@ noteType: ":luggage:"
 aliases: Healer's Gel (Lesser)
 effect: Add 5 temporary Hit Points from **Heal** spell
 cost: 50 gp
+draft: true
 ---
 ![[gm_heal.png|150]]
 # Healer's Gel (Lesser)

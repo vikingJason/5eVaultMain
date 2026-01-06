@@ -1,6 +1,7 @@
 ---
 author:
 noteType: restingRule
+draft: true
 ---
 
 # Cuisine

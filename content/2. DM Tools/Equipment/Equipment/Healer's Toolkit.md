@@ -4,6 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Healer's Toolkit
 effect: Necessary for Medicine checks
+draft: true
 ---
 ![[gm_heal.png|150]]
 # Healer's Toolkit

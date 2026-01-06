@@ -6,6 +6,7 @@ effect: Hidden to non-magical sight, attack rolls have **advantage**.
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 
 ![[Invisible.png|150]]

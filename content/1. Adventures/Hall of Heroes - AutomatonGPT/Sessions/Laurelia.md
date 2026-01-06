@@ -1,6 +1,6 @@
 ---
 SessionNotes: HoH
-draft: true
+draft: false
 ---
 I need rollable tables for some quick descriptions that awaken the five senses. 
 > [!ai]+ AI

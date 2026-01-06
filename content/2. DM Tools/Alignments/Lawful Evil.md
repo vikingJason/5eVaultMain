@@ -1,6 +1,7 @@
 ---
 Alignment: Lawful Evil
 Type: Alignment
+draft: true
 ---
 
 - Will always keep their word.

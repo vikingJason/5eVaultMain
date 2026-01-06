@@ -2,6 +2,7 @@
 noteType: combatAction
 gamesystem:
   - D&D
+draft: true
 ---
 # Climb onto a Bigger Creature
 

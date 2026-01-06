@@ -4,6 +4,7 @@ aliases:
   - Potion of Healing
 effect: "Restores `dice: 2d4` hit points"
 cost: 25 gp
+draft: true
 ---
 
 ![[HealingPotion.png|150]]

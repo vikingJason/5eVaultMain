@@ -1,6 +1,7 @@
 ---
 source: https://thedmlair.com/blogs/news/the-supreme-worldbuilding-method-for-ttrpgs
 author: AdornThemes
+draft: true
 ---
 
 # The SUPREME Worldbuilding Method for TTRPGs – The DM Lair

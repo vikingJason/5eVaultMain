@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Wisdom
 cardDisplay: Using a combination of senses, notice something that’s easy to miss.
+draft: true
 ---
 # Perception
 

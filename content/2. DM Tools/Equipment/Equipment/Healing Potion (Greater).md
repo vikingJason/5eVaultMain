@@ -5,6 +5,7 @@ aliases:
   - Healing Potion (Greater)
 effect: "`dice: 6d8+20` Hit Points"
 cost: 400 gp
+draft: true
 ---
 ![[gm_pogh.png|150]]
 # Healing Potion (Greater)

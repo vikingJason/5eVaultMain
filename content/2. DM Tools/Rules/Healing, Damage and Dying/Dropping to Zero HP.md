@@ -1,5 +1,6 @@
 ---
 noteType: healthRules
+draft: true
 ---
 # Dropping to Zero HP
 When a creature drops to 0 Hit Points, it either dies outright or falls unconscious, as explained below.

@@ -6,6 +6,7 @@ aliases:
 effect: Must use actions to escape. Cannot use **Delay** or **Ready** actions.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_flee.png|150]]
 # Fleeing

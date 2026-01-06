@@ -5,6 +5,7 @@ noteType: combatAction
 gamesystem:
   - D&D
   - Homebrew
+draft: true
 ---
 
 # Sacrifice Shield to Lessen the Blow of a Crit

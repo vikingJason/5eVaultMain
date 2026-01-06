@@ -6,6 +6,7 @@ aliases:
 effect: Cannot use actions with Concentrate trait. -2 status penalty to skill checks.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_hypno.png|150]]
 # Fascinated

@@ -3,6 +3,7 @@ obsidianUIMode: preview
 aliases:
   - Damage Types
 noteType: damageRules
+draft: true
 ---
 # Damage Types
 *Source: Player's Handbook p. 196. Available in the SRD and the Basic Rules.* 

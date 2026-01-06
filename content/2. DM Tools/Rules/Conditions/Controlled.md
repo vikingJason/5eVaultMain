@@ -5,6 +5,7 @@ aliases: Controlled
 effect: Someone else is making your decisions for you.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_charmed.png|150]]
 # Controlled

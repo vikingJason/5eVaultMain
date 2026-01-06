@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 aliases:
   - Deck of Several Things
+draft: true
 ---
 # Deck of Several Things
 *Source: Lost Laboratory of Kwalish p. 53*  

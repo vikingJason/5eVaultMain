@@ -6,6 +6,7 @@ aliases:
 effect: "**Off-Guard** and **Immobilize**. **DC 5 flat** check for actions other than **Escape**."
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_grappled.png|150]]
 # Grabbed

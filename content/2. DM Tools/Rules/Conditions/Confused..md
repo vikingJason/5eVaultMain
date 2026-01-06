@@ -6,6 +6,7 @@ aliases:
 effect: "**Off-Guard** and can't use **Delay**, **Ready**, or **Reaction**"
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_grappled.png|150]]
 # Confused

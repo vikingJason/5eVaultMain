@@ -4,6 +4,7 @@ noteType: ":luggage:"
 aliases:
   - Healer's Toolkit (Expanded)
 effect: +1 item bonus to Medicine Checks.
+draft: true
 ---
 ![[gm_curewounds.png|150]]
 # Healer's Toolkit (Expanded)

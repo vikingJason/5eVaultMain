@@ -1,6 +1,7 @@
 ---
 noteType: Ability
 folderName: Intelligence
+draft: true
 ---
 # Intelligence
 

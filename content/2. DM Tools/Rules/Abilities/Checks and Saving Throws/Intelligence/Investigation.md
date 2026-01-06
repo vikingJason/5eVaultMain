@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Intelligence
 cardDisplay: Find obscure information in books, or deduce how something works.
+draft: true
 ---
 # Investigation
 

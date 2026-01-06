@@ -1,6 +1,7 @@
 ---
 source: https://www.d20pfsrd.com/gamemastering/other-rules/persona/
 author:
+draft: true
 ---
 
 # Persona – d20PFSRD

@@ -8,6 +8,7 @@ gamesystem:
   - Pathfinder 2e
   - D&D
   - Homebrew
+draft: true
 ---
 ![[gm_dazzled.png|150]]
 # Damaged

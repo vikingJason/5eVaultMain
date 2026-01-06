@@ -2,6 +2,7 @@
 noteType: combatRules
 gamesystem:
   - D&D
+draft: true
 ---
 ![[Pasted image 20211219200056.png]]
 [[Pasted image 20211219200056.png|Display To Players]]

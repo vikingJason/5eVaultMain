@@ -1,5 +1,6 @@
 ---
 noteType: restingRule
+draft: true
 ---
 ## Resting and Recovery
 ### Breather

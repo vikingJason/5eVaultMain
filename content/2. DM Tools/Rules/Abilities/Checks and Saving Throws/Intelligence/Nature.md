@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Intelligence
 cardDisplay: Recall lore about terrain, plants, animals, and weather.
+draft: true
 ---
 # Nature
 

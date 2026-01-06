@@ -1,6 +1,7 @@
 ---
 author:
 noteType: checkRules
+draft: true
 ---
 
 # Retraining

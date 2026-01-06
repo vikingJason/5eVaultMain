@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Intelligence
 cardDisplay: Recall lore about historical events, people, nations, and cultures.
+draft: true
 ---
 # History
 

@@ -6,6 +6,7 @@ aliases:
 effect: You have the **Off-Guard and Immobilized** conditions. Can only use **Escape** action.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_restrained.png|150]]
 # Restrained

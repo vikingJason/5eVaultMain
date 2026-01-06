@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 aliases:
   - Tarokka Deck
+draft: true
 ---
 # Tarokka Deck
 *Source: Curse of Strahd p. 243*  

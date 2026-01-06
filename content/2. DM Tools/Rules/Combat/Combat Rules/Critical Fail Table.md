@@ -5,6 +5,7 @@ gamesystem:
   - Pathfinder 2e
   - Homebrew
 DMtool: true
+draft: true
 ---
 # Critical Fail Table
 

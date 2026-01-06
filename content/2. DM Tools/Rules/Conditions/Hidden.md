@@ -4,6 +4,7 @@ noteType: condition
 aliases: Hidden
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 
 # Hidden

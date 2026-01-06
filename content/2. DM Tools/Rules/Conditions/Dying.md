@@ -8,6 +8,7 @@ aliases:
 effect: "**DC 10** + Dying Value for Recovery check. Death on Dying 4."
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 
 ![[gm_death.png|150]]

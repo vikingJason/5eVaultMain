@@ -9,6 +9,7 @@ effect: Lose a number of Hit Points and maximum Hit Points equal to your level (
 noteType: condition
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_drained.png|150]]
 # Drained

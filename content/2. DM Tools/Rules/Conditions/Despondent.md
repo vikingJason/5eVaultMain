@@ -7,6 +7,7 @@ noteType: condition
 gamesystem:
   - D&D
   - Homebrew
+draft: true
 ---
 ![[Deaf.png|150]]
 # Despondent

@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 aliases:
   - Elder Runes Deck
+draft: true
 ---
 # Elder Runes Deck
 *Source: Waterdeep: Dungeon of the Mad Mage p. 318*  

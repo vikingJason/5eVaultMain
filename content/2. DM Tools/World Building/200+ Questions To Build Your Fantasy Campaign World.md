@@ -1,5 +1,5 @@
 ---
-{}
+draft: true
 ---
 https://blog.boroughbound.com/200fantasyquestions/
 

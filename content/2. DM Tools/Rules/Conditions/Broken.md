@@ -3,6 +3,7 @@ title: Broken
 noteType: condition
 aliases: Broken
 gamesystem: Pathfinder 2e
+draft: true
 ---
 ![[gm_broken.png|150]]
 # Broken

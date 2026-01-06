@@ -1,6 +1,7 @@
 ---
 noteType: Ability
 folderName: Wisdom
+draft: true
 ---
 # Wisdom
 

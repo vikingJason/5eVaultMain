@@ -8,6 +8,7 @@ gamesystem:
   - D&D
   - Homebrew
   - Pathfinder 2e
+draft: true
 ---
 ![[Deaf.png|150]]
 # Despondent

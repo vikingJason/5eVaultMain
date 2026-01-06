@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 ### Dru
 Dru is an ex-preacher who has gone bad (or good, depending on your viewpoint). After watching rich people bribe their way to forgiveness and redemption while punishing the peasants for the same transgressions, Dru decided he needed to balance the tables. He gathered a band of followers willing to commit crimes to bring justice to an unjust situation (and keep a bit for themselves). They only target the coffers of religious institutions and wealthy religious leaders and never murder (unless it is necessary). Dru gives his crew twenty-five percent of the take to split amongst themselves and returns the other seventy-five percent to the local peasants and downtrodden. Dru still believes in the divine teachings and preaches whenever he can to try to save the souls of the truly deserving.

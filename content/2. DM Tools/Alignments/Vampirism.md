@@ -1,6 +1,7 @@
 ---
 source: https://www.d20pfsrd.com/gamemastering/other-rules/corruption/vampirism/
 author:
+draft: true
 ---
 
 # Vampirism – d20PFSRD

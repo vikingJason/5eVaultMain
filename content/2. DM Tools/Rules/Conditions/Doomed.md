@@ -9,6 +9,7 @@ gamesystem:
   - Pathfinder 2e
   - Homebrew
   - D&D
+draft: true
 ---
 ![[gm_doomed.png]]
 # Doomed 

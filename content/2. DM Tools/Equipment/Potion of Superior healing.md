@@ -4,6 +4,7 @@ aliases:
   - Potion of Superior healing
 effect: "Restores `dice: 8d4+8` hit points"
 cost: 300 gp
+draft: true
 ---
 
 ![[PoSH.png|150]]

@@ -7,6 +7,7 @@ aliases:
 effect: " **Off-Guard **condition, and actions with only **Mental** trait."
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_paralyzed.png|150]]
 # Paralyzed

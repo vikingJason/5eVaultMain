@@ -1,6 +1,7 @@
 ---
 source: https://dmdavid.com/tag/what-is-the-typical-amout-of-treasure-awarded-in-a-fifth-edition-dungeons-dragons-campaign/
 author:
+draft: true
 ---
 
 # What is the typical amount of treasure awarded in a fifth-edition Dungeons & Dragons campaign?

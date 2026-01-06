@@ -4,6 +4,7 @@ aliases:
   - Potion of Greater healing
 effect: "Restores `dice: 4d4+4` hit points"
 cost: 100 gp
+draft: true
 ---
 
 ![[PoGH.png|150]]

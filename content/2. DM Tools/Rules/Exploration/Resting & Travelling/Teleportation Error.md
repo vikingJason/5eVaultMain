@@ -10,6 +10,7 @@ comp_angle: 6.147805270568714
 obsidianUIMode: preview
 noteType: explorationRule
 DMtool: true
+draft: true
 ---
 > [!infobox]+
 > # Teleport Mishap

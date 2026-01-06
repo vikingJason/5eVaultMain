@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Wisdom
 cardDisplay: Diagnose an illness, or determine what killed the recently slain.
+draft: true
 ---
 # Medicine
 

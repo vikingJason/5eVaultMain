@@ -6,6 +6,7 @@ aliases:
 effect: You can't see. -4 Status Preception
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_blinded.png|150]]
 

@@ -6,6 +6,7 @@ aliases:
 effect: " You're **Undetected** to everyone."
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 
 # Invisible

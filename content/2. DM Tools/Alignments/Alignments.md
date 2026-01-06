@@ -1,8 +1,8 @@
 ---
-{}
+draft: true
 ---
-# Alignments
 
+# Alignments
 
 ![[Alignments-20240204142400131.webp]]
 
@@ -124,7 +124,6 @@
 - Despises honor, authority, and self-discipline.    
 - Associates mostly with other evil alignments.    
 - Will betray friends (after all, you can always find friends).
-
 
 ```dataview
 LIST

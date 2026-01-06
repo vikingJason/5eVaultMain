@@ -6,6 +6,7 @@ effect: Fails **Strength** and **Dexterity** saving throws,can't move, and attac
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 
 ![[Stun.png|150]]

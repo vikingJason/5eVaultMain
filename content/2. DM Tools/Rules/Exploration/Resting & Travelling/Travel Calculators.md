@@ -18,7 +18,7 @@ FamiliarRoute: true
 PartyMembers: 5
 LifestyleCostSP: 20
 IncludeMeals: false
-draft: false
+draft: true
 obsidianUIMode: preview
 noteType: explorationRule
 DMtool: true

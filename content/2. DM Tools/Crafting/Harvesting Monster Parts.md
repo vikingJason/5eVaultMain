@@ -2,7 +2,8 @@
 created: 2025-03-16T11:31:28 (UTC +11:00)
 tags: []
 source: https://www.d20pfsrd.com/gamemastering/other-rules/harvesting-monster-parts/
-author: 
+author:
+draft: true
 ---
 
 # Harvesting Monster Parts – d20PFSRD

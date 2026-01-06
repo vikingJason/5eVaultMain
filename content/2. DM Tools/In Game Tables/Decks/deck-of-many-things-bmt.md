@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 aliases:
   - Deck of Many Things
+draft: true
 ---
 # Deck of Many Things
 *Source: The Book of Many Things p. 1*  

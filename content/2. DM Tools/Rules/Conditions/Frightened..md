@@ -9,6 +9,7 @@ aliases:
 effect: Staus penalty equal to Frightened value to all stats.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_fear.png|150]]
 # Frightened

@@ -1,7 +1,8 @@
 ---
-tags: 
+tags:
 source: https://docs.google.com/document/d/19ZOKapZjBai8G83hTMrpsMsE7MTWZg7zEFPrKGWtUsk/edit?tab=t.0
 author:
+draft: true
 ---
 # RealSorceror's PF2 Crafting Guide
 

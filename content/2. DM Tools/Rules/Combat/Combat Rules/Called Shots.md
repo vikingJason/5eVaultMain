@@ -4,6 +4,7 @@ gamesystem:
   - D&D
   - Homebrew
   - Pathfinder 2e
+draft: true
 ---
 # Called Shots 
 When a character makes an weapon attack, it can choose to make the attack a Called Shot, before it rolls the die. If it does, it must choose where on the body of its enemy it is attacking. Oozes, Constructs, Undead, Plants, and Elementals are immune to the effects of called shots. As well, some characters will not have the pieces of anatomy required for the Called Shot to take full effect. The permanent effects of Called Shots can be removed via [[Greater Restoration]].

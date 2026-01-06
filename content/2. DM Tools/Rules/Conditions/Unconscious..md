@@ -6,6 +6,7 @@ aliases:
 effect: You take a **-4 status penalty** to **AC**, **Perception**, and **Reflex** saves, and you have the **Blinded** and **Off-Guard** conditions.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_unconscious.png|150]]
 # Unconscious

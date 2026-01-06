@@ -3,6 +3,7 @@ author:
 noteType: movementRule
 gamesystem:
   - D&D
+draft: true
 ---
 
 # Vehicles

@@ -1,5 +1,6 @@
 ---
 public: true
+draft: true
 ---
 # Index of Decks
 

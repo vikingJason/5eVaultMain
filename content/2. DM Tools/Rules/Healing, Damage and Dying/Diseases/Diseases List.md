@@ -1,5 +1,6 @@
 ---
 noteType: disease
+draft: true
 ---
 # Diseases
 

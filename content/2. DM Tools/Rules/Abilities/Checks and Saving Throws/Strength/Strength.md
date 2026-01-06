@@ -1,6 +1,7 @@
 ---
 noteType: Ability
 folderName: Strength
+draft: true
 ---
 # Strength
 

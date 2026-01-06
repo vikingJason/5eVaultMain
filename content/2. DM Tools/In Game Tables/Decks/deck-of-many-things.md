@@ -2,6 +2,7 @@
 obsidianUIMode: preview
 aliases:
   - Deck of Many Things
+draft: true
 ---
 # Deck of Many Things
 *Source: Dungeon Master's Guide p. 162. Available in the SRD.*  

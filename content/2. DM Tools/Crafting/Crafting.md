@@ -1,5 +1,6 @@
 ---
-author: 
+author:
+draft: true
 ---
 
 # Craft (Int)

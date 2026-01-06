@@ -2,7 +2,8 @@
 created: 2025-03-16T12:25:46 (UTC +11:00)
 tags: []
 source: https://www.d20pfsrd.com/gamemastering/other-rules/piecemeal-armor/
-author: 
+author:
+draft: true
 ---
 
 # Piecemeal Armor – d20PFSRD

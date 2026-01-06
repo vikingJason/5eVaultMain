@@ -6,6 +6,7 @@ aliases:
 effect: You can't use any action with the move trait.
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_immobile.png|150]]
 # Immobilized

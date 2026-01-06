@@ -1,6 +1,7 @@
 ---
 noteType: Ability
 folderName: Dexterity
+draft: true
 ---
 # Dexterity
 

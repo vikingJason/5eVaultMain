@@ -5,6 +5,7 @@ aliases:
   - Healing Potion (Lesser)
 effect: "`dice: 2d8+5` Hit Points"
 cost: 25 gp
+draft: true
 ---
 
 ![[gm_healpot.png|150]]

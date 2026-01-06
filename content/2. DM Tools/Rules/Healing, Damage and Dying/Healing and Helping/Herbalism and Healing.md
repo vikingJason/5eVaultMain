@@ -1,6 +1,7 @@
 ---
 author:
 noteType: healthRules
+draft: true
 ---
 ### Herbalism and Healing
 

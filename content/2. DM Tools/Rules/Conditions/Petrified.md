@@ -6,6 +6,7 @@ effect: Transformed to stone, gains **Unconscious** and **Incapacitated** condit
 noteType: condition
 gamesystem:
   - D&D
+draft: true
 ---
 
 ![[Petrified.png|150]]

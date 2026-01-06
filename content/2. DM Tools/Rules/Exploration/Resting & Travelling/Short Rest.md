@@ -2,6 +2,7 @@
 noteType: restingRule
 DMtool: false
 priceList: false
+draft: true
 ---
 ### Short Rest
 

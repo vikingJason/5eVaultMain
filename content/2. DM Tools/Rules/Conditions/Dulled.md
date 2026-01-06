@@ -7,6 +7,7 @@ gamesystem:
   - Pathfinder 2e
   - D&D
   - Homebrew
+draft: true
 ---
 ![[gm_drained.png|150]]
 # Dulled

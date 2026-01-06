@@ -7,6 +7,7 @@ effect: Penalty to **DEX** equal to total
 noteType: condition
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 ![[gm_clumsy.png|150]]
 # Clumsy

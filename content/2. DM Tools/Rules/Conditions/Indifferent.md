@@ -4,6 +4,7 @@ noteType: condition
 aliases: Indifferent
 gamesystem:
   - Pathfinder 2e
+draft: true
 ---
 
 # Indifferent

@@ -1,6 +1,7 @@
 ---
 source: https://www.d20pfsrd.com/gamemastering/other-rules/corruption/
 author:
+draft: true
 ---
 
 # Corruption – d20PFSRD

@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Dexterity
 cardDisplay: Pick a pocket, conceal a handheld object, or perform legerdemain.
+draft: true
 ---
 # Sleight of Hand
 

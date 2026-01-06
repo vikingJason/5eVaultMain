@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Wisdom
 cardDisplay: Follow tracks, forage, find a trail, or avoid natural hazards.
+draft: true
 ---
 
 # Survival

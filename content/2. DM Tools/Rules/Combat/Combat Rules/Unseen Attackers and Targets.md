@@ -2,6 +2,7 @@
 noteType: combatRules
 gamesystem:
   - D&D
+draft: true
 ---
 ### Unseen Attackers and Targets
 
