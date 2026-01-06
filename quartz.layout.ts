@@ -33,19 +33,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       mapFn: (node) => {
         node.displayName = node.displayName.toUpperCase()
-        if (node.depth > 0) {
-          // set emoji for file/folder
-          if (node.file) {
-            node.displayName = "📄 " + node.displayName
-          } else {
-            node.displayName = "📁 " + node.displayName
-          }
-      }
-    },
+        if (node.isFolder) {
+          node.displayName = "📁 " + node.displayName
+        } else {
+          node.displayName = "📄 " + node.displayName
+        }
+      },
       filterFn: (node) => {
         // set containing names of everything you want to filter out
         const omit = new Set(["authoring content", "tags", "hosting", "content/z_Assets"])
-        return !omit.has(node.name.toLowerCase())
+        return !omit.has(node.displayName.toLowerCase())
       },
     })),
     Component.MobileOnly(Component.TableOfContents()),
@@ -58,18 +55,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Explorer({
       mapFn: (node) => {
         node.displayName = node.displayName.toUpperCase()
-        if (node.depth > 0) {
-          // set emoji for file/folder
-          if (node.file) {
-            node.displayName = "📄 " + node.displayName
-          } else {
-            node.displayName = "📁 " + node.displayName
-          }
-      }},
+        if (node.isFolder) {
+          node.displayName = "📁 " + node.displayName
+        } else {
+          node.displayName = "📄 " + node.displayName
+        }
+      },
       filterFn: (node) => {
         // set containing names of everything you want to filter out
         const omit = new Set(["authoring content", "tags", "hosting", "content/z_Assets"])
-        return !omit.has(node.name.toLowerCase())
+        return !omit.has(node.displayName.toLowerCase())
       },
     })),
   ],
