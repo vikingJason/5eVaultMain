@@ -28,8 +28,16 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    Component.Flex({
+      components: [
+        { Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
+        { Component: Component.MobileOnly(Component.TableOfContents()), }
+      ],
+    }),
     Component.DesktopOnly(Component.Explorer({
       mapFn: (node) => {
         node.displayName = node.displayName.toUpperCase()
@@ -45,7 +53,6 @@ export const defaultContentPageLayout: PageLayout = {
         return !omit.has(node.displayName.toLowerCase())
       },
     })),
-    Component.TableOfContents(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
