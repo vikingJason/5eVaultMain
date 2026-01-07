@@ -38,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.MobileOnly(Component.TableOfContents()), }
       ],
     }),
-    Component.DesktopOnly(Component.Explorer({
+    Component.Explorer({
       mapFn: (node) => {
         node.displayName = node.displayName.toUpperCase()
         if (node.isFolder) {
@@ -52,28 +52,13 @@ export const defaultContentPageLayout: PageLayout = {
         const omit = new Set(["authoring content", "tags", "hosting", "content/z_Assets"])
         return !omit.has(node.displayName.toLowerCase())
       },
-    })),
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
     Component.RecentNotes(),
     Component.Graph(),
     Component.Backlinks(),
-    Component.MobileOnly(Component.Explorer({
-      mapFn: (node) => {
-        node.displayName = node.displayName.toUpperCase()
-        if (node.isFolder) {
-          node.displayName = "📁 " + node.displayName
-        } else {
-          node.displayName = "📄 " + node.displayName
-        }
-      },
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["authoring content", "tags", "hosting", "content/z_Assets"])
-        return !omit.has(node.displayName.toLowerCase())
-      },
-    })),
   ],
 
 }
