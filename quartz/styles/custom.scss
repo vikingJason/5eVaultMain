@@ -2,46 +2,79 @@
 
 // put your custom CSS here!
 
-/* === Numbered Table of Contents === */
+/* === Hierarchical Numbering for TOC (Based on your HTML) === */
+
+/* 1. Target the main TOC list and remove default bullets */
 ul.toc-content.overflow {
-  /* 1. Initialize the counters for heading levels */
-  counter-reset: h2-counter h3-counter h4-counter;
+  list-style: none !important;
+  padding-left: 0 !important;
+  counter-reset: toc-depth-0; /* Initialize the main counter */
 }
 
-/* 2. Style the links and make space for numbers */
-ul.toc-content.overflow .toc-link {
-  display: block;
+/* 2. Remove any default ::before content on list items */
+ul.toc-content.overflow > li:before {
+  content: none !important;
+}
+
+/* 3. Style list items and create space for numbers */
+ul.toc-content.overflow li {
   position: relative;
-  /* Adjust this padding if numbers don't align well */
-  padding-left: 1.5em !important;
+  padding-left: 1.75em; /* Space for the number */
 }
 
-/* 3. Number H2 (Level 2) items */
-ul.toc-content.overflow .toc-link[data-level="2"]::before {
-  counter-increment: h2-counter;        /* Count H2s */
-  counter-reset: h3-counter h4-counter; /* Reset deeper counters */
-  content: counter(h2-counter) ". ";    /* Print number like "1. " */
+/* 4. Numbering Logic for each depth level */
+/* Depth-0 items (e.g., "Session 60") */
+ul.toc-content.overflow li.depth-0 > a::before {
+  counter-increment: toc-depth-0; /* Becomes 1, 2, 3... */
+  counter-reset: toc-depth-1; /* Reset sub-counter for this section */
+  content: counter(toc-depth-0) ". ";
   position: absolute;
-  left: 0;
-  font-weight: 600; /* Makes numbers bold */
+  left: 0.25em;
+  font-weight: 600; /* Bold for top-level */
 }
 
-/* 4. Number H3 (Level 3) items */
-ul.toc-content.overflow .toc-link[data-level="3"]::before {
-  counter-increment: h3-counter;    /* Count H3s */
-  counter-reset: h4-counter;        /* Reset H4 counter */
-  content: counter(h2-counter) "." counter(h3-counter) ". "; /* Print "1.1. " */
+/* Depth-1 items (e.g., "Summary") */
+ul.toc-content.overflow li.depth-1 > a::before {
+  counter-increment: toc-depth-1;
+  counter-reset: toc-depth-2; /* Reset next sub-counter */
+  content: counter(toc-depth-0) "." counter(toc-depth-1) ". ";
   position: absolute;
-  left: 0;
+  left: 0.25em;
 }
 
-/* 5. (Optional) Number H4 (Level 4) items */
-ul.toc-content.overflow .toc-link[data-level="4"]::before {
-  counter-increment: h4-counter; /* Count H4s */
-  content: counter(h2-counter) "." counter(h3-counter) "." counter(h4-counter) ". "; /* "1.1.1. " */
+/* Depth-2 items (e.g., "Loose Ends") */
+ul.toc-content.overflow li.depth-2 > a::before {
+  counter-increment: toc-depth-2;
+  content: counter(toc-depth-0) "." counter(toc-depth-1) "." counter(toc-depth-2) ". ";
   position: absolute;
-  left: 0;
+  left: 0.25em;
 }
+
+/* 5. Extend the pattern for deeper levels (if needed) */
+/* Depth-3 */
+ul.toc-content.overflow li.depth-3 > a::before {
+  counter-increment: toc-depth-3;
+  counter-reset: toc-depth-4;
+  content: counter(toc-depth-0) "." counter(toc-depth-1) "." counter(toc-depth-2) "." counter(toc-depth-3) ". ";
+  position: absolute;
+  left: 0.25em;
+}
+/* Depth-4 */
+ul.toc-content.overflow li.depth-4 > a::before {
+  counter-increment: toc-depth-4;
+  counter-reset: toc-depth-5;
+  content: counter(toc-depth-0) "." counter(toc-depth-1) "." counter(toc-depth-2) "." counter(toc-depth-3) "." counter(toc-depth-4) ". ";
+  position: absolute;
+  left: 0.25em;
+}
+/* Depth-5 */
+ul.toc-content.overflow li.depth-5 > a::before {
+  counter-increment: toc-depth-5;
+  content: counter(toc-depth-0) "." counter(toc-depth-1) "." counter(toc-depth-2) "." counter(toc-depth-3) "." counter(toc-depth-4) "." counter(toc-depth-5) ". ";
+  position: absolute;
+  left: 0.25em;
+}
+
 
 .callout {
   &[data-callout="custom"] {

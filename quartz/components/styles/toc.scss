@@ -55,10 +55,6 @@ ul.toc-content.overflow {
 
   & > li {
 
-    &::before {
-      content: none !important;
-    }
-  
     & > a {
       color: var(--dark);
       opacity: 0.35;
