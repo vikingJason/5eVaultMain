@@ -130,6 +130,9 @@ ul.toc-content.overflow li.depth-5 > a::before {
     overscroll-behavior: contain;
 }
 
+.toc:has(> .overflow) {
+  max-height: 50%;
+}
 
 .callout {
   &[data-callout="custom"] {

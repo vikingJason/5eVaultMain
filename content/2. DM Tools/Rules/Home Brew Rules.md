@@ -1,5 +1,6 @@
 ---
 draft: false
+obsidianUIMode: preview
 ---
 
 # Rules: Homebrew/Clarification

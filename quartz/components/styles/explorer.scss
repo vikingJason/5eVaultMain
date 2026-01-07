@@ -252,6 +252,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       height: 100dvh;
       max-height: 100dvh;
       visibility: hidden;
+      background-image: url(static/parchmentBackground.jpg);
     }
 
     .mobile-explorer {

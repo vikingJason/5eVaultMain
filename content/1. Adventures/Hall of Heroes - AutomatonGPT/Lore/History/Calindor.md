@@ -1,6 +1,9 @@
 ---
 draft: true
 ---
+
+# Calindor
+
 To tell the history of Calindor, one must first look at the history of the Nebula Oasis. This, but one of many islands in the Dreaming Isles was once a vast and peaceful land, ruled by the wise and benevolent Eladrin, a powerful and magical race. But all that changed ten thousand years ago when the forces of the Abyssal Lords invaded. In the resulting Conflict of the Primordials, the Eladrin were brought to the brink of devastation and the Eladrin were forced to flee their homeland.
 
 They sailed to Calindor, where they built a new city, Glitterfall and they ruled Calindor for many centuries. But even in Calindor, the Eladrin were not safe and this new found peace did not last and they were besieged by the ferocious orc chieftain Grommok Bloodrager and his Warband, the Onyx Mauraders. The war with the orcs last years and devasted the Eladrin, and as a result their realm was divided into a four petty duchies, Borfaldor, Kiduzia, Eradirn and Iseyesari, with Glitterfall as their capital city in ceremony only.
@@ -17,7 +20,7 @@ Calindeseus' family ruled Calindor for many generations, with each successor a s
 
 But Calindor's peace was not to last. A dark force was rising in the Underdark, and it soon threatened to overrun the realm reigned over by King Thoras. This force was led by Aurzath, a powerful drow warlord. Aurzath and his armies invaded Calindor, and the realm was plunged into a dark age known as the Blight.
 
-The people of Calindor fought bravely against the Blight, but they were outnumbered and outmatched. Just when it seemed like all hope was lost, a young woman named  Lorawenys rose through the ranks and lead the final assault against the invaders. She was a brave and loyal soldier, who fought valiantly and earnt the admiration and respect of all. She was a symbol of hope and courage, and was selected to lead the Knights of The First Order, the company of guards that protect the crown and those that wear it.
+The people of Calindor fought bravely against the Blight, but they were outnumbered and outmatched. Just when it seemed like all hope was lost, a young woman named Lorawenys rose through the ranks and lead the final assault against the invaders. She was a brave and loyal soldier, who fought valiantly and earnt the admiration and respect of all. She was a symbol of hope and courage, and was selected to lead the Knights of The First Order, the company of guards that protect the crown and those that wear it.
 
 With King Thoras' declining health after The Blight, King Thoras abdicated from the throne and passed the crown on to his daughter, Clarice Thramfhaer.
 
@@ -57,7 +60,7 @@ Reeva was not alone.
 Nox, a Gnome Warlock, sacrificed his connection with his patron to siphon their power at great personal risk.
 Dorgle, the various clones of the orphaned Dwarf, found themselves bound to the royal cause.
 Daehorn, a local Firbolg Warlock, grew to love the princess.
-Beldroth,  a stoic elf ranger, was never far from Reeva's side protecting her with his deadly bow.
+Beldroth, a stoic elf ranger, was never far from Reeva's side protecting her with his deadly bow.
 
 With the aid of her valiant heroes, were able to rally the peoples of Calindor and unite them in the pursuit of freedom.
 
@@ -67,9 +70,9 @@ Peace, when it finally arrived, was a balm, but a fragile one. Reeva, our stoic 
 
 The coffers of the city-states bled dry, the scars of war a constant reminder of the trials they endured, Queen Reeva spared no expense and invested all of Calindor's resources into rebuilding after the tyrannical rule of Thunderhead and the destruction he left in his wake, fostering the trust and loyalty of the population, however rumours can still be heard to this day that high ranking military advisors and officers were unhappy with the decision as it had left the kingdom vulnerable to external or internal threats.
 
-A brilliant but eccentric scholar claimed to have discovered a way to rid Calindor of the changing colours of the night sky. Reeva gave support to this scholar's research, their arrogance led to them taking shortcuts in their work and performed the ritual that they had uncovered without the proper preparations,  unleashing an unpredictable force that shifted Calindor to a new demiplane caught between the Feywilds and the Material Plane, severing the bond between the resident fey and the plane of Faerie and perverting the magical laws that shaped the realm.
+A brilliant but eccentric scholar claimed to have discovered a way to rid Calindor of the changing colours of the night sky. Reeva gave support to this scholar's research, their arrogance led to them taking shortcuts in their work and performed the ritual that they had uncovered without the proper preparations, unleashing an unpredictable force that shifted Calindor to a new demiplane caught between the Feywilds and the Material Plane, severing the bond between the resident fey and the plane of Faerie and perverting the magical laws that shaped the realm.
 
-**The Rule of Hospitality:**  Instead of genuine hospitality, anyone entering a dwelling must participate in endless, nightmarish entertainment for their "host." This could involve playing deadly games, enduring humiliating performances, or facing bizarre challenges with no hope of escape.
+**The Rule of Hospitality:** Instead of genuine hospitality, anyone entering a dwelling must participate in endless, nightmarish entertainment for their "host." This could involve playing deadly games, enduring humiliating performances, or facing bizarre challenges with no hope of escape.
 **The Rule of Ownership:** Everyone is expected to barter, to lie, cheat or even steal to get more than what they pay for
 **The Rule of Reciprocity:** The concept of "gift" is replaced by a constant cycle of debt and obligation. Favors are expected to be repaid with interest, creating a system of manipulation and control
 
@@ -79,5 +82,5 @@ And most contentious the decision of all, should Calindor embrace a new dawn, a 
 
 But this era of progress did not last as long when just over a decade ago, a virulent plague swept across the land, decimating much of the working class and wreaking havoc on the growing prosperity of the kingdom, causing a lockdown of borders between realms and strict curfews. Trade slowed to a halt due to fear, livestock and crops were left to rot with no one to tend to them and crime was on the rise. It was Reeva's crucible, her greatest test. With unwavering resolve, she forged a pact with [[The Whispering Court]] who agreed to provisions for the Fey creatures of the Wildlands to help work the lands in exchange for fairer compensation for their work and freedom of travel between Calindor and the rest of the Feywilds. This bargain, however, was a source of much debate amongst the population.
 
-This is the tapestry upon which your own tale begins.  Will the choices you make will echo through the realm, shaping the destiny of Calindor itself? The answer, as always, lies in the adventure ahead and the choices you make.
+This is the tapestry upon which your own tale begins. Will the choices you make will echo through the realm, shaping the destiny of Calindor itself? The answer, as always, lies in the adventure ahead and the choices you make.
 
