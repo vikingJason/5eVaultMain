@@ -101,6 +101,25 @@ ul.toc-content.overflow li.depth-5 > a::before {
   color: #c75959;
 }
 
+/* === Fix scrollbar in collapsed TOC === */
+
+/* 1. When the TOC header is collapsed, hide the content area completely */
+.toc.desktop-only button.toc-header.collapsed + .toc-content.overflow {
+    max-height: 0 !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+    /* Remove any margins/padding that might add space */
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+}
+
+/* 2. Ensure the default 'overflow' class doesn't cause a scrollbar when hidden */
+.toc-content.overflow {
+    /* This property is already set, but we ensure it's correct */
+    overscroll-behavior: contain;
+}
+
 
 .callout {
   &[data-callout="custom"] {
