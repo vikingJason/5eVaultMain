@@ -4,17 +4,47 @@
 
 /* === Hierarchical Numbering for TOC (Based on your HTML) === */
 
-/* 1. Target the main TOC list and remove default bullets */
+/* 1. Remove default styling */
 ul.toc-content.overflow {
   list-style: none !important;
   padding-left: 0 !important;
-  counter-reset: toc-depth-0; /* Initialize the main counter */
 }
 
 /* 2. Remove any default ::before content on list items */
 ul.toc-content.overflow > li:before {
   content: none !important;
 }
+
+ul.toc-content.overflow {
+  counter-reset: depth-0 depth-1 depth-2 depth-3 depth-4 depth-5;
+}
+
+/* Depth-0: When we see a new top-level item, reset depth-1 through depth-5 */
+ul.toc-content.overflow li.depth-0 {
+  counter-reset: depth-1 depth-2 depth-3 depth-4 depth-5;
+}
+
+/* Depth-1: When we see a new depth-1 item, reset depth-2 through depth-5 */
+ul.toc-content.overflow li.depth-1 {
+  counter-reset: depth-2 depth-3 depth-4 depth-5;
+}
+
+/* Depth-2: When we see a new depth-2 item, reset depth-3 through depth-5 */
+ul.toc-content.overflow li.depth-2 {
+  counter-reset: depth-3 depth-4 depth-5;
+}
+
+/* Depth-3: When we see a new depth-3 item, reset depth-4 through depth-5 */
+ul.toc-content.overflow li.depth-3 {
+  counter-reset: depth-4 depth-5;
+}
+
+/* Depth-4: When we see a new depth-4 item, reset depth-5 through depth-5 */
+ul.toc-content.overflow li.depth-4 {
+  counter-reset: depth-5;
+}
+
+
 
 /* 3. Style list items and create space for numbers */
 ul.toc-content.overflow li {
@@ -25,54 +55,50 @@ ul.toc-content.overflow li {
 /* 4. Numbering Logic for each depth level */
 /* Depth-0 items (e.g., "Session 60") */
 ul.toc-content.overflow li.depth-0 > a::before {
-  counter-increment: toc-depth-0; /* Becomes 1, 2, 3... */
-  counter-reset: toc-depth-1; /* Reset sub-counter for this section */
-  content: counter(toc-depth-0) ". ";
-  position: absolute;
-  left: 0.25em;
+  counter-increment: depth-0; /* Becomes 1, 2, 3... */
+  content: counter(depth-0) ". ";
+  position: unset;
   font-weight: 600; /* Bold for top-level */
+    color: #c75959;
 }
 
 /* Depth-1 items (e.g., "Summary") */
 ul.toc-content.overflow li.depth-1 > a::before {
-  counter-increment: toc-depth-1;
-  counter-reset: toc-depth-2; /* Reset next sub-counter */
-  content: counter(toc-depth-0) "." counter(toc-depth-1) ". ";
-  position: absolute;
-  left: 0.25em;
+  counter-increment: depth-1;
+  content: counter(depth-0) "." counter(depth-1) ". ";
+  position: unset;
+  color: #c75959;
 }
 
 /* Depth-2 items (e.g., "Loose Ends") */
 ul.toc-content.overflow li.depth-2 > a::before {
-  counter-increment: toc-depth-2;
-  content: counter(toc-depth-0) "." counter(toc-depth-1) "." counter(toc-depth-2) ". ";
-  position: absolute;
-  left: 0.25em;
+  counter-increment: depth-2;
+  content: counter(depth-0) "." counter(depth-1) "." counter(depth-2) ". ";
+  position: unset;
+  color: #c75959;
 }
 
 /* 5. Extend the pattern for deeper levels (if needed) */
 /* Depth-3 */
 ul.toc-content.overflow li.depth-3 > a::before {
-  counter-increment: toc-depth-3;
-  counter-reset: toc-depth-4;
-  content: counter(toc-depth-0) "." counter(toc-depth-1) "." counter(toc-depth-2) "." counter(toc-depth-3) ". ";
-  position: absolute;
-  left: 0.25em;
+  counter-increment: depth-3;
+  content: counter(depth-0) "." counter(depth-1) "." counter(depth-2) "." counter(depth-3) ". ";
+  position: unset;
+  color: #c75959;
 }
 /* Depth-4 */
 ul.toc-content.overflow li.depth-4 > a::before {
-  counter-increment: toc-depth-4;
-  counter-reset: toc-depth-5;
-  content: counter(toc-depth-0) "." counter(toc-depth-1) "." counter(toc-depth-2) "." counter(toc-depth-3) "." counter(toc-depth-4) ". ";
-  position: absolute;
-  left: 0.25em;
+  counter-increment: depth-4;
+  content: counter(depth-0) "." counter(depth-1) "." counter(depth-2) "." counter(depth-3) "." counter(depth-4) ". ";
+  position: unset;
+  color: #c75959;
 }
 /* Depth-5 */
 ul.toc-content.overflow li.depth-5 > a::before {
-  counter-increment: toc-depth-5;
-  content: counter(toc-depth-0) "." counter(toc-depth-1) "." counter(toc-depth-2) "." counter(toc-depth-3) "." counter(toc-depth-4) "." counter(toc-depth-5) ". ";
-  position: absolute;
-  left: 0.25em;
+  counter-increment: depth-5;
+  content: counter(depth-0) "." counter(depth-1) "." counter(depth-2) "." counter(depth-3) "." counter(depth-4) "." counter(depth-5) ". ";
+  position: unset;
+  color: #c75959;
 }
 
 
