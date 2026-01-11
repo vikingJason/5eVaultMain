@@ -1,6 +1,8 @@
+# Map
+
 %% 
-    Credit: https://watabou.github.io/
-    for the generator
+				Credit: https://watabou.github.io/
+				for the generator
 
     Note, this will not work without the following plugins:
     -   dataview: https://github.com/blacksmithgu/obsidian-dataview
@@ -14,6 +16,7 @@
 %%
 
 > [!metadata | clean]- Config
+>
 >> ``` dataviewjs
 >> const c = dv.current()
 >> const mapdata = c.mapdata
@@ -47,7 +50,6 @@
 >> ]))
 >> 
 >> ```
-
 
 ```dataviewjs
 

@@ -8,6 +8,8 @@ PromptInfo:
  version: 0.0.1
 ---
 
+# Generate Character Meeting
+
 {{#if selection}}
 Use this Information for flavoring the Prompt:
 *Main Focus*
@@ -29,4 +31,5 @@ Use the above information JUST FOR CONTEXT. Come up with new Ideas inspired by t
 {{/if}}
 
 ## A Meeting Place
+
 Prompt: Describe a place in which the players find themselves. It might be an inn, a tavern, a jail, a market, or someplace else entirely. It should also present opportunity to go on an adventure. This might be a feature of the meeting place or perhaps an npc approaches them with an opportunity. It might be one opportunity or a number of opportunities. Describe the environment and any npcs they may encounter there.

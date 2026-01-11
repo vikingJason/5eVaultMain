@@ -10,8 +10,6 @@ views:
     order:
       - file.name
     sort:
-      - property: file.name
-        direction: ASC
       - property: folderName
         direction: ASC
       - property: file.folder

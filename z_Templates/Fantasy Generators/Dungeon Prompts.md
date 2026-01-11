@@ -9,17 +9,20 @@ floortotal: You determine the number of floors
 gamesystem: Pathfinder 2e
 dunage: Belonging to the unfathomable past
 ---
-## [[Ruins and Dungeon Generator]]
+
+# [[Ruins and Dungeon Generator]]
+
 # INITIAL PRIMER
-I am a dungeon master playing `=this.gamesystem`.  I need to design a dungeon.
+
+I am a dungeon master playing `=this.gamesystem`. I need to design a dungeon.
 
 I consider a dungeon to have the following information:
-Name:  An `=this.themename` name
+Name: An `=this.themename` name
 Age of Dungeon: `=this.dunage`
-Description:  A description of the location
-Theme:  `=this.themetype` featuring `=this.themefeature`
-Rooms:  How many Rooms are there? `=this.roomtotal`
-Floors:  How many floors are there?  These can be above or below ground. `=this.floortotal`
+Description: A description of the location
+Theme: `=this.themetype` featuring `=this.themefeature`
+Rooms: How many Rooms are there? `=this.roomtotal`
+Floors: How many floors are there? These can be above or below ground. `=this.floortotal`
 Appropriate challenge for `=this.playercount` level `=this.playerlvl` players.
 The dungeon should be non-linear and allow for multiple pathways.
 There should be options for roleplaying.
@@ -52,11 +55,9 @@ I consider an NPC to have the following information.
 
 Do you understand?
 
-
 # GENERATE A MAP
 
 Generate a map of this dungeon and describe how each room connects to each other.
-
 
 # CREATURE DEFINITION
 
@@ -76,12 +77,12 @@ Suggested level that adventurers should be to fight this creature
 
 Do you understand?
 
-
 # MAGIC ITEMS
 
 What are some appropriate and thematic magic items that I could reward my level six players with for defeating the necromancer that are official to `=this.gamesystem`?
 
 # ART PROMPTS
+
 ## Prompt 1
 
 I am a AI Art Prompt Writer for making DnD Art. I need you to take descriptions of what I give you, and turn them into usable prompts that would be used for Midjourney AI or for Stable Diffusion Art Generators. 

@@ -1,3 +1,5 @@
+# Rumor Dump
+
 - Smuggling of [[Myrium]] out of Meissa has increased within the past few months ([[The Emerald Therians]])
 - Trade between [[House Rousseau]] and the Roving Clans of Saiph have boomed ([[Alinian Vampire Houses]] )
 - Fey creatures have been appearing in [[Beltrast]] Again (The [[Exiles of Rathos]])

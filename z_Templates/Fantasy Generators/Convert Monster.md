@@ -13,6 +13,7 @@ Convert the provided text into the statblock template provided. The Syntax is im
 {{/if}}
 
 ---
+
 obsidianUIMode: preview
 cssclass: json5e-monster
 statblock: inline
@@ -29,6 +30,7 @@ SourceType: Bestiary
 BookSource: "Monster Manual p. 101, Hoard of the Dragon Queen, The Rise of Tiamat, Storm King's Thunder, Waterdeep: Dungeon of the Mad Mage, Ghosts of Saltmarsh, Baldur's Gate: Descent Into Avernus. Available in the SRD."
 statAC: 18
 statHP: 200
+
 ---
 
 # Ancient Blue Dragon
@@ -105,4 +107,3 @@ statHP: 200
 - "TCE"
 "image": "/2-Mechanics/CLI/bestiary/dragon/token/ancient-blue-dragon.png"
 ```
-

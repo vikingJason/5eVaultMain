@@ -1,3 +1,5 @@
+# Dump Pad 2
+
 - The Eidola and Nadir are a group of beings called Outer Sovrans. Outer Sovrans are beings that have both magic and technology of immense power that allows them to create, destroy, and alter reality.
 - The Eidola and Nadir have been locked in a war since they have met a long long long time ago.
 - The Eidola created a galaxy called Ori in which it kept hidden from the Nadir for a long time. Enough for the Eidola to create beings called Empyreans who could then start building the galaxy of Ori.
@@ -6,20 +8,10 @@
 - Eventually the Nadir and other Outer Sovrans learned of Ori. Two Sovrans named [[Azmora]] and [[Odeon]]
 - Sardis who was once originally [[Bellar]] Empyra of Justice and Balance was tempted by Typhon to leave the power of the Eidola and became ruler of Azera by making a pact with the [[Outer Sovran]] [[Azmora]] 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ---
+
 > [!help]- Backend Code
+>
 >> [! Buttons ]- Button Code
 >>```meta-bind-button
 >> style: primary
@@ -31,7 +23,7 @@
 >>   link: "[[PF2e GM Screen]]"
 >>    newTab: true
 >> ```
->>  ```meta-bind-button
+>> ```meta-bind-button
 >>  style: primary
 >>  label: 5E GM Screen
 >>  id: dndScreen
@@ -41,4 +33,3 @@
 >>    link: "[[DnD 5e Screen]]"
 >>     newTab: true
 >>     ```
->

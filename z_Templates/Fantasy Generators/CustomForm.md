@@ -5,6 +5,7 @@ name: Test for custom form also contains examples
 disableProvider: true
 strict: false
 ---
+
 ```json:form
 {
 	"title": "Widgets",
@@ -341,7 +342,6 @@ strict: false
 }
 ```
 
-
 ```handlebars
 {{log this}}
 ```
@@ -349,7 +349,9 @@ strict: false
 ***
 
 ***
-# There is nothing here
+
+# There is Nothing here
+
 you can access the variables as usual by referencing them by name like 
 \{\{stringFormats.email\}\} `{{stringFormats.email}}`
 

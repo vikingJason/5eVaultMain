@@ -46,7 +46,7 @@ Advantage against being charmed, and magic can’t put you to sleep
 +1 Bonus on Saves
 
 ---
-=== start-multi-column: ExampleRegion1
+--- start-multi-column: ExampleRegion1
 
 ```column-settings
 number of columns: 2
@@ -76,7 +76,7 @@ number of columns: 2
 | ☑    | DEX | Stealth         | +7    |
 | ☑    | WIS | Survival        | +6    |
 
-=== end-column ===
+--- end-column ---
 
 #### SENSES
 
@@ -103,7 +103,7 @@ Carpenter’s Tools, Vehicles (Land)
 
 Common, Draconic, Elvish, Orc
 
-=== end-multi-column
+--- end-multi-column
 
 Racial Features
 

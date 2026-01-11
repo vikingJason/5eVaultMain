@@ -150,11 +150,11 @@ Retrieves the date.
 Arguments:
 
 - `format`: Format for the date, refer to [format reference](https://momentjs.com/docs/#/displaying/format/)
-    
+				
 - `offset`: Offset for the day, e.g. set this to `-7` to get last week's date. You can also specify the offset as a string using the ISO 8601 format
-    
+				
 - `reference`: The date referential, e.g. set this to the note's title
-    
+				
 - `reference_format`: The date reference format.
 
 ```javascript
@@ -174,11 +174,11 @@ tp.date.weekday(format: string = "YYYY-MM-DD", weekday: number, reference?: stri
 Arguments:
 
 - `format`: Format for the date, refer to [format reference](https://momentjs.com/docs/#/displaying/format/)
-    
+				
 - `reference`: The date referential, e.g. set this to the note's title
-    
+				
 - `reference_format`: The date reference format.
-    
+				
 - `weekday`: Week day number. If the locale assigns Monday as the first day of the week, `0` will be Monday, `-7` will be last week's day.
 
 ```javascript
@@ -212,11 +212,11 @@ Creates a new file using a specified template or with a specified content.
 Arguments:
 
 - `filename`: The filename of the new file, defaults to "Untitled".
-    
+				
 - `folder`: The folder to put the new file in, defaults to obsidian's default location.
-    
+				
 - `open_new`: Whether to open or not the newly created file. Warning: if you use this option, since commands are executed asynchronously, the file can be opened first and then other commands are appended to that new file and not the previous file.
-    
+				
 - `template`: Either the template used for the new file content, or the file content as a string.
 
 ```javascript
@@ -378,9 +378,9 @@ Spawns a prompt modal and returns the user's input.
 Arguments:
 
 - `default_value`: A default value for the input field
-    
+				
 - `prompt_text`: Text placed above the input field
-    
+				
 - `throw_on_cancel`: Throws an error if the prompt is canceled, instead of returning a `null` value
 
 ```javascript
@@ -392,11 +392,11 @@ Spawns a suggester prompt and returns the user's chosen item.
 Arguments:
 
 - `items`: Array containing the values of each item in the correct order.
-    
+				
 - `placeholder`: Placeholder string of the prompt
-    
+				
 - `text_items`: Array of strings representing the text that will be displayed for each item in the suggester prompt. This can also be a function that maps an item to its text representation.
-    
+				
 - `throw_on_cancel`: Throws an error if the prompt is canceled, instead of returning a `null` value
 
 #### Web Module
@@ -416,7 +416,7 @@ Gets a random image from <https://unsplash.com/>
 Arguments:
 
 - `query`: Limits selection to photos matching a search term. Multiple search terms can be passed separated by a comma `,`
-    
+				
 - `size`: Image size in the format `<width>x<height>`
 
 ### User Functions

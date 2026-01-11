@@ -4,7 +4,9 @@ cssclasses:
 ---
 
 These tools can be used to build out the ideas for dungeons or ruins within the world. They can be used as guides or inspiration for when creating them.
+
 # Ruin Outline Prompts
+
 The tables below are meant to give prompts and inspiration for what kind of dungeon or ruin is being created.
 
 | `dice: 1d4` | How Old is the Ruin?                    | `dice: d6` | What Do The Locals Think Of It?              |
@@ -15,7 +17,6 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 | **4**       | Belonging to the unfathomable past      | **4**      | It's considered someone's private property   |
 |             |                                         | **5**      | It's a lure to the greedy and reckless       |
 |             |                                         | **6**      | They totally misunderstand what it really is |
-
 
 | `dice: d8` | How Did It Become Ruined?                      | `dice: d10` | Why Hasn't It Been Plundered Bare Yet?          |
 | ---------- | ---------------------------------------------- | ----------- | ----------------------------------------------- |
@@ -52,7 +53,9 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 |             |                                            | **18**      | An invading warband based here for a while      |
 |             |                                            | **19**      | Intelligent monsters suited to the environment  |
 |             |                                            | **20**      | Restless undead and embittered shades           |
+
 # Ruin Table
+
 | `dice: d100`  | Tag                 | `dice: d100`  | Tag                 |
 | ----- | ------------------- | ----- | ------------------- |
 | 1–2   | Ancient Archives    | 51–52 | Invincible Delusion |
@@ -84,7 +87,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 # Tag Glossary
 
 ## Ancient Archives
- The site once housed archives or information that would be very interesting to certain modern powers. The utility or value of this information should be obvious to the players, even if they're initially unaware of its existence. Known archival sites might have sealed their lore behind some fearsome guardian or a "puzzle" consisting of access procedures that were self-evident in the age it was constructed in. 
+
+	The site once housed archives or information that would be very interesting to certain modern powers. The utility or value of this information should be obvious to the players, even if they're initially unaware of its existence. Known archival sites might have sealed their lore behind some fearsome guardian or a "puzzle" consisting of access procedures that were self-evident in the age it was constructed in. 
 
 - **E:** Maddened archive keeper, Powerful figure who wants the information kept hidden, Secret-seeker who brooks no rivals
 
@@ -97,7 +101,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Library full of not-book data storage items, Scriptorium or other scribal zone, Chamber related to the topic or field of the data involved
 
 ## Automaton Servants
- The ruin is still staffed by automaton servants or other immortal minions. Aside from obviously robotic servitors, magical golems, bound spirits, undead thralls, uplifted beasts, or other subject species might be found here. Such minions are usually magically bound to their roles, which may be causing them significant problems if their roles can no longer be carried out. It's possible that some of them have re- interpreted their roles into something they can do, whether or not it's something they should do. 
+
+	The ruin is still staffed by automaton servants or other immortal minions. Aside from obviously robotic servitors, magical golems, bound spirits, undead thralls, uplifted beasts, or other subject species might be found here. Such minions are usually magically bound to their roles, which may be causing them significant problems if their roles can no longer be carried out. It's possible that some of them have reinterpreted their roles into something they can do, whether or not it's something they should do. 
 
 - **E:** Cruel immortal artificer, Automaton leader gone mad, Outsider seeking to suborn them to their sinister service
 
@@ -110,7 +115,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Automaton maintenance area, Bank of unmoving figures, Place of endless automaton toil
 
 ## Aspiring Conqueror
- Some power within the ruin has ambitions of conquest, and plans to use the site as a base for dominating the surrounding lands. Such a warlord might be wholly reliant on the ruin's denizens, or they could be recruiting minions from outcasts or renegades and so be willing to parley with adventurers. Not all the lieutenants of such leaders are always supportive of the plan. 
+
+	Some power within the ruin has ambitions of conquest, and plans to use the site as a base for dominating the surrounding lands. Such a warlord might be wholly reliant on the ruin's denizens, or they could be recruiting minions from outcasts or renegades and so be willing to parley with adventurers. Not all the lieutenants of such leaders are always supportive of the plan. 
 
 - **E:** Inhuman warlord, Fanatical cult leader, Embittered outlaw-noble
 
@@ -123,7 +129,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Ruin barracks whipped into order, Training field in use, Nearby village they've crushed
 
 ## Birthing Cyst
- A horrible thing is growing in the ruin and will eventually erupt into some catastrophic peril or awful creature. The ruin may have been originally designed to facilitate this thing's creation, or it could have been infested or perverted by some outside power. Outsiders may not realize the nature of the peril, or even mistake its growth for some positive process. The growth could be the product of ancient science, a magical ritual, or a conflux of geomantic forces. 
+
+	A horrible thing is growing in the ruin and will eventually erupt into some catastrophic peril or awful creature. The ruin may have been originally designed to facilitate this thing's creation, or it could have been infested or perverted by some outside power. Outsiders may not realize the nature of the peril, or even mistake its growth for some positive process. The growth could be the product of ancient science, a magical ritual, or a conflux of geomantic forces. 
 
 - **E:** God-beast to be born for a long-dead faith, Obsessed ancient keeper, Outsider determined to provoke the catastrophe for their own ends
 
@@ -136,7 +143,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Arcane lab where it's growing, Fortified chambers to guard it, Shrine depicting its eventual glory
 
 ## Bitter Remnants
- The ruin is not entirely abandoned, as a remnant of its former creators still occupies the place. These survivors are almost certainly hostile toward the outside world and the intruders who have sought to take the place or loot it for uncounted ages. They may or may not have a full understanding of their ancestors' purpose in the ruin, but they likely use any secrets they do know to best effect against invaders. 
+
+	The ruin is not entirely abandoned, as a remnant of its former creators still occupies the place. These survivors are almost certainly hostile toward the outside world and the intruders who have sought to take the place or loot it for uncounted ages. They may or may not have a full understanding of their ancestors' purpose in the ruin, but they likely use any secrets they do know to best effect against invaders. 
 
 - **E:** Xenophobic remnant chief, Outside ruler determined to exterminate them, Powerful ruin rival that seeks their destruction
 
@@ -149,7 +157,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Ancient but meticulously-kept chamber, Ancestral place of rites unique to them, Maintained monument to past glory
 
 ## Cyclical Doom
- There's a phenomenon to the ruin that makes it tremendously dangerous at certain intervals. Fluxes of ancient radiation, swarms of quick-breeding dangerous vermin, withering geomantic conjunctions, or cyclically-awakened preserved inhabitants might make the place exceedingly deadly for intruders there at that time. The natives may or may not know about the cycle, and if it's a very long one, they might not have been around to see it happen. 
+
+	There's a phenomenon to the ruin that makes it tremendously dangerous at certain intervals. Fluxes of ancient radiation, swarms of quick-breeding dangerous vermin, withering geomantic conjunctions, or cyclically-awakened preserved inhabitants might make the place exceedingly deadly for intruders there at that time. The natives may or may not know about the cycle, and if it's a very long one, they might not have been around to see it happen. 
 
 - **E:** Outsider determined to trigger the cycle, Native leader who wants to weaponize it, Outside researcher with no care for the consequences
 
@@ -162,7 +171,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Place scarred by a past cycle's effects, Control or observation center, Monument obscurely referencing the cycle
 
 ## Civil War
- There are at least two organized factions within the ruin that are at war with each other. They all have motives that make simply leaving the place an unappealing prospect, and some of them might be eager to enlist outside help in ousting their rivals. Given the low population of most ruins, the war is likely a restricted one of raids, ambushes, and murders of convenience, and the traps and snares they set might catch more than their foes. 
+
+	There are at least two organized factions within the ruin that are at war with each other. They all have motives that make simply leaving the place an unappealing prospect, and some of them might be eager to enlist outside help in ousting their rivals. Given the low population of most ruins, the war is likely a restricted one of raids, ambushes, and murders of convenience, and the traps and snares they set might catch more than their foes. 
 
 - **E:** Faction leader with dreams of conquest, Crazed warlord, Treacherous plotter who betrays their hired help
 
@@ -175,7 +185,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Site of a vicious ambush, Defaced monument or symbol of a rival faction, Dangerous no-man's land zone within the ruin
 
 ## Decrepit Structure
- The ruin is falling apart, and is actively dangerous to its inhabitants. Navigating between areas may require careful progress, extensive rope and piton work, or avoidance of certain obvious-but-hazardous routes. Native inhabitants may have adapted to the hazards or they might be newcomers who are learning the hard way. Some areas in the ruin might provoke a general collapse if they are significantly damaged. 
+
+	The ruin is falling apart, and is actively dangerous to its inhabitants. Navigating between areas may require careful progress, extensive rope and piton work, or avoidance of certain obvious-but-hazardous routes. Native inhabitants may have adapted to the hazards or they might be newcomers who are learning the hard way. Some areas in the ruin might provoke a general collapse if they are significantly damaged. 
 
 - **E:** Outside plunderer with no care for the consequences, Outsider actively trying to destroy the place, Berserk native trying to repair things
 
@@ -188,7 +199,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Creaking bridge or gantry, Room with numerous holes in the floor, Tower leaning at a drunken angle
 
 ## Desperate Hunger
- Natives of the ruin just can't get enough to eat, and their situation or the surrounding area makes it impractical to move somewhere else. Beasts may be extremely aggressive due to hunger, and intelligent natives might fight more for food than gold or glory. Many of the more savage types may have fallen back on cannibalism or hunting other sapients for food. 
+
+	Natives of the ruin just can't get enough to eat, and their situation or the surrounding area makes it impractical to move somewhere else. Beasts may be extremely aggressive due to hunger, and intelligent natives might fight more for food than gold or glory. Many of the more savage types may have fallen back on cannibalism or hunting other sapients for food. 
 
 - **E:** Obese cannibal chieftain, Native leader who'll do anything to feed their people, Sorcerer who gives dark nourishment to their servitors
 
@@ -201,7 +213,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Pit of cracked and gnawed bones, Cages of meals-to-be, Viciously desperate feeding area for a group
 
 ## Distant Gate
- The ruin is connected to some interesting distant location, either through a magical gate, a portal of ancient technology, forgotten tube-cars in underground tunnels, or a more mundane hidden passage into an otherwise inaccessible place. The natives may know about and exploit this quality, or the gate may be sealed until some particular procedure or object is used to activate it. 
+
+	The ruin is connected to some interesting distant location, either through a magical gate, a portal of ancient technology, forgotten tube-cars in underground tunnels, or a more mundane hidden passage into an otherwise inaccessible place. The natives may know about and exploit this quality, or the gate may be sealed until some particular procedure or object is used to activate it. 
 
 - **E:** Guardian of the gate, Hostile entity from the other side, Intruder determined to unlock the gate
 
@@ -214,7 +227,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Mysterious transit-chamber with symbolism related to the destination, Room with objects or remains related to the destination, Dangerously energetic gate room
 
 ## Dire Tombs
- The ruin is characterized by a great many tombs or burial sites and a matching profusion of undead. The revenants may be mindless husks animated by dark magic or ambient power, or they could be intentionally created to act as guards or to continue "living" according to some long-lost death-god's teachings. 
+
+	The ruin is characterized by a great many tombs or burial sites and a matching profusion of undead. The revenants may be mindless husks animated by dark magic or ambient power, or they could be intentionally created to act as guards or to continue "living" according to some long-lost death-god's teachings. 
 
 - **E:** Undead lord jealous of their solitude, Ravening undead hulk-thing, Necromancer eager for the raw materials
 
@@ -227,7 +241,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Halls of silent coffin-niches or urns, Chapel to a god related to the burial process, Splendid tomb to a dead hero or ruler
 
 ## Dungeon Heart
- The ruin's physical integrity is bound with a particular creature or object within the site, and if it is destroyed or removed the place will collapse. If the destruction is immediate, this danger should be clearly conveyed to the players unless the GM wants to risk a rapid campaign end. This relationship may be derived from an ancient magical curse, a sympathetic unity of magical power, or ancient self-destruct security mechanisms. 
+
+	The ruin's physical integrity is bound with a particular creature or object within the site, and if it is destroyed or removed the place will collapse. If the destruction is immediate, this danger should be clearly conveyed to the players unless the GM wants to risk a rapid campaign end. This relationship may be derived from an ancient magical curse, a sympathetic unity of magical power, or ancient self-destruct security mechanisms. 
 
 - **E:** Outsider determined to kill or steal the heart, A heart-creature that would be very convenient or satisfying to kill, Native holding the heart hostage to force obedience
 
@@ -240,7 +255,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Chamber where the heart's connection is visible, Place that shifts in sympathy to the heart, Damaged room reflecting damage to the heart
 
 ## Experimental Lab
- A sorcerer or ancient artificer once used this place for their experiments, most of which were the sort that would never be tolerated in civilization. They may have been sponsored by some amoral power, or been independent theurges seeking the special resources, environment, or natives of this place to assist in their studies. 
+
+	A sorcerer or ancient artificer once used this place for their experiments, most of which were the sort that would never be tolerated in civilization. They may have been sponsored by some amoral power, or been independent theurges seeking the special resources, environment, or natives of this place to assist in their studies. 
 
 - **E:** Still-surviving researcher, Hideous creation of the arcanist, Outsider bent on seizing all its dark lore
 
@@ -253,7 +269,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Testing chamber for the lab's research, Occult and sinister laboratory, Pens for holding research stock
 
 ## Fallen Sanctuary
- The ruin was a place of security within recent memory, until some event or invasion turned it into its present state. Some of the surrounding locals might have been associated with the site during its heyday and remember interesting facts about it. Others may still nurse dreams of returning it to its former glory once its current inhabitants are slain or driven away. 
+
+	The ruin was a place of security within recent memory, until some event or invasion turned it into its present state. Some of the surrounding locals might have been associated with the site during its heyday and remember interesting facts about it. Others may still nurse dreams of returning it to its former glory once its current inhabitants are slain or driven away. 
 
 - **E:** Dark warlord who overthrew the place, Traitor who arranged its downfall, Terrible creature unleashed in the site's dying throes
 
@@ -266,7 +283,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Hidden chamber unknown to invaders, Defaced and ruined room dedicated to the site's original role, Chamber re-purposed for the invaders
 
 ## Failed Intrusion
- The ruin recently experienced a serious incursion of outsiders, whether adventurers, bandits, government forces, angry villagers, or other hostiles. These intruders were repulsed, perhaps with significant loss of native life, and the ruin was considerably disrupted by the fighting. Important native leaders might have been killed or wounded, treasures might have been looted, or slaves and hostages might've been taken. 
+
+	The ruin recently experienced a serious incursion of outsiders, whether adventurers, bandits, government forces, angry villagers, or other hostiles. These intruders were repulsed, perhaps with significant loss of native life, and the ruin was considerably disrupted by the fighting. Important native leaders might have been killed or wounded, treasures might have been looted, or slaves and hostages might've been taken. 
 
 - **E:** Desperate intruder leader still in the ruin, Bloodthirsty native leader craving vengeance, Dead leader's heir full of terrible ideas
 
@@ -279,7 +297,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Site of a hideous battle, Larder where the dead intruders are being kept, Local beast lair full of dragged corpses
 
 ## False Front
- The site actually seems to be a completely different type of place than it really is. You might generate a second basic function for the site and bill it as its true purpose, or conceal it as a currently-functioning structure of some kind. Either it was built this way originally or more recent owners have concealed the truth about it for their own benefit. Others may not realize that the ruin they think they know is just a facade over something deeper. 
+
+	The site actually seems to be a completely different type of place than it really is. You might generate a second basic function for the site and bill it as its true purpose, or conceal it as a currently-functioning structure of some kind. Either it was built this way originally or more recent owners have concealed the truth about it for their own benefit. Others may not realize that the ruin they think they know is just a facade over something deeper. 
 
 - **E:** Secret master of the hidden ruin, Cruel schemer who established the false front, Monstrous foe still buried below the facade
 
@@ -292,7 +311,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Chamber that doesn't fit with the false front, Secret passage to the depths, Place full of costumes and props
 
 ## Feral Magic
- Some potent Working or other ancient magic has gone berserk or rotten in the ruin, tainting the occupants and making the place dangerous to inhabitants. Whatever the magic once did, it now does it too much, or in the wrong way, or at a grim cost to those within. The natives either cannot escape, or have no place better to go, or are somehow dependent on the twisted magic. 
+
+	Some potent Working or other ancient magic has gone berserk or rotten in the ruin, tainting the occupants and making the place dangerous to inhabitants. Whatever the magic once did, it now does it too much, or in the wrong way, or at a grim cost to those within. The natives either cannot escape, or have no place better to go, or are somehow dependent on the twisted magic. 
 
 - **E:** Magically mutated abomination, Native chieftain full of tainted power, Outside sorcerer making reckless use of the magic
 
@@ -305,7 +325,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Thrumming power center of the magic, Lair of magic-twisted beasts, Native shrine to the power
 
 ## Freshly Looted
- The site has been recently plundered, either by adventurers, organized invaders, or a specific faction within the site itself. Many creatures are either dead or driven off, and the rewards for exploration are limited. But as the site is newly-emptied, numerous outside groups or warbands are likely in the process of moving in, cleaning out the remnants of surviving inhabitants and setting up their own bases there. 
+
+	The site has been recently plundered, either by adventurers, organized invaders, or a specific faction within the site itself. Many creatures are either dead or driven off, and the rewards for exploration are limited. But as the site is newly-emptied, numerous outside groups or warbands are likely in the process of moving in, cleaning out the remnants of surviving inhabitants and setting up their own bases there. 
 
 - **E:** Conquering Blighted warchief, Ruthless banditadventurer who likes the place, Vengeance-mad chief of a rabble of survivors
 
@@ -318,7 +339,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Empty treasure vault, Ruler's lair plundered and defaced, Hall choked with the recent dead
 
 ## Flooded Halls
- The ruin is largely flooded, perhaps with water and perhaps with some worse substance. Exploring it is difficult, and the heroes constantly risk being trapped by rising waters or flow-shifted obstacles. The natives are either creatures adapted to water or desperate enough to live where few others can pursue them. 
+
+	The ruin is largely flooded, perhaps with water and perhaps with some worse substance. Exploring it is difficult, and the heroes constantly risk being trapped by rising waters or flow-shifted obstacles. The natives are either creatures adapted to water or desperate enough to live where few others can pursue them. 
 
 - **E:** Fish-thing with dark hungers, Cult priest of a watery evil, Chief of a piscid humanoid species
 
@@ -331,7 +353,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Splendid chamber now crusted by slime or coral, Half-filled room with an air bubble, Space full of totally opaque silty water
 
 ## Friendly Foes
- A group dwells here that would normally be very hostile to humans or outsiders, yet is perfectly willing to deal with adventurers. They may be an anomalous group of their kind, or have desperate need for outside help, or have religious reasons to be cooperative. Few outsiders are likely to take their friendliness at face value, but they should be given the chance to be visibly friendly by the GM so as to clue the players in to the likelihood of peaceful dealings. 
+
+	A group dwells here that would normally be very hostile to humans or outsiders, yet is perfectly willing to deal with adventurers. They may be an anomalous group of their kind, or have desperate need for outside help, or have religious reasons to be cooperative. Few outsiders are likely to take their friendliness at face value, but they should be given the chance to be visibly friendly by the GM so as to clue the players in to the likelihood of peaceful dealings. 
 
 - **E:** Bloodthirsty adventurer who doesn't believe them, Group leader with treacherous plans, Monstrous foe that threatens the group and outsiders both
 
@@ -344,7 +367,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Meeting space also furnished for humans, Separate dwelling area for outsiders, Chamber for obscure group rituals or worship
 
 ## Hidden Within Hiveminded Natives
- The ruin is actually underneath a seemingly-ordinary structure or inhabited human settlement. Secret passages or long-forgotten portals lead down into it, and only a short space away from ordinary human life a ruin can seethe with sinister secrets. The ruin may have been built over accidentally, intentionally buried, or perhaps excavated by the current structure's original builders.  A multi-bodied intellect exists in the ruin, whether an ancient AI, hiveminded swarm, telepathic gestalt species, unified golem force, or some other manner of creature. Some such hiveminds are inclined to "recruit" intruders, willing or otherwise. Conflict with these creatures is apt to be very dangerous, as they're capable of coordination at a level impossible to others, yet their single mind makes them more vulnerable to a single point of failure. 
+
+	The ruin is actually underneath a seemingly-ordinary structure or inhabited human settlement. Secret passages or long-forgotten portals lead down into it, and only a short space away from ordinary human life a ruin can seethe with sinister secrets. The ruin may have been built over accidentally, intentionally buried, or perhaps excavated by the current structure's original builders. A multi-bodied intellect exists in the ruin, whether an ancient AI, hiveminded swarm, telepathic gestalt species, unified golem force, or some other manner of creature. Some such hiveminds are inclined to "recruit" intruders, willing or otherwise. Conflict with these creatures is apt to be very dangerous, as they're capable of coordination at a level impossible to others, yet their single mind makes them more vulnerable to a single point of failure. 
 
 - **E:** Thing that creeps up from below at night, Longburied evil, Reckless adventurer stirring up things beneath
 
@@ -367,7 +391,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Passage hidden behind now-crumbling construction, Mundane room above a monstrous evil, Secret passages that have peepholes into the structure above
 
 ## Hospitable Natives
- While not all denizens of the ruin are friendly, there's at least one faction that's known to be willing to host guests and negotiate for favors. This group may be made up of bandits, exiles, hermits, or other social outcasts who find even the most dubious human visitors preferable to their neighbors, or they might be "civilized" humanoids who find it profitable to parley as well as raid. 
+
+	While not all denizens of the ruin are friendly, there's at least one faction that's known to be willing to host guests and negotiate for favors. This group may be made up of bandits, exiles, hermits, or other social outcasts who find even the most dubious human visitors preferable to their neighbors, or they might be "civilized" humanoids who find it profitable to parley as well as raid. 
 
 - **E:** Sinister chieftain with ulterior motives, Xenophobic rebel who hates outsiders, Outsider adventurer bent on exploiting their hospitality
 
@@ -380,7 +405,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Alien but friendly meeting-chamber, Makeshift guest lodgings, Ritual room for strange rites
 
 ## Infectious Miasma
- A contagious disease has infected the natives and might plague any intruders as well. The sickness isn't fatal, but it may induce physical or mental changes that make life in the outside world difficult; the ruin itself might be an environment optimized for the afflicted. Conversely, the ruin might be a leprosarium or place of exile for those who catch some virulent plague or socially-despised illness. 
+
+	A contagious disease has infected the natives and might plague any intruders as well. The sickness isn't fatal, but it may induce physical or mental changes that make life in the outside world difficult; the ruin itself might be an environment optimized for the afflicted. Conversely, the ruin might be a leprosarium or place of exile for those who catch some virulent plague or socially-despised illness. 
 
 - **E:** Tyrant physician-chief who controls treatment, Ruler maddened by the illness, Plague priest determined to spread the disease
 
@@ -393,7 +419,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Gathering-place full of the walking ill, Shrine to a healing god, Pits where disease-warped victims are exiled
 
 ## Hostile Environment
- Ruins are seldom comfortable, but this one is actively dangerous to those who enter it. Noxious fumes, radiation, magical miasmas, contagious diseases, poisonous liquids, or some other environmental hazard makes progress very risky. Natives are either immune to the peril or have means of negating it. The extreme defensibility of the site may be the reason they continue to lair there. 
+
+	Ruins are seldom comfortable, but this one is actively dangerous to those who enter it. Noxious fumes, radiation, magical miasmas, contagious diseases, poisonous liquids, or some other environmental hazard makes progress very risky. Natives are either immune to the peril or have means of negating it. The extreme defensibility of the site may be the reason they continue to lair there. 
 
 - **E:** Sorcerer researching how to weaponize the hazard, Monstrous entity that emits the peril, Vile creature born of the toxic conditions
 
@@ -406,7 +433,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Mundane location caked in the hazard, Lair of a hazard-mutated beast, Perilous path that snakes through the hazard
 
 ## Invincible Delusion
- The natives of this ruin are totally convinced of something that is simply not the case: their ancient empire never fell, their god has commanded them to live a certain troublesome way, they are the only true humans left in the world, or some other delusion that's likely to cause problems. They've developed rationalizations to explain obvious contradictions to their error, many of which involve hostile responses to bearers of iniquitous falsehood. There may be something about the ruin that's enforcing this delusion. 
+
+	The natives of this ruin are totally convinced of something that is simply not the case: their ancient empire never fell, their god has commanded them to live a certain troublesome way, they are the only true humans left in the world, or some other delusion that's likely to cause problems. They've developed rationalizations to explain obvious contradictions to their error, many of which involve hostile responses to bearers of iniquitous falsehood. There may be something about the ruin that's enforcing this delusion. 
 
 - **E:** Hypnotically charismatic leader, Crazed ancient lich-ruler, Leader who knows the truth but profits by the error
 
@@ -419,7 +447,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Ruin chamber made a pathetic mimicry of some greater place, Ritual chamber to celebrate the "truth", Archive containing troublesome records
 
 ## Lethal Treasure
- The ruin has or produces a very valuable good, but that good is somehow extremely dangerous to acquire or possess. It may be toxic, or cursed, or the acquisition process may be predictably lethal. This danger may be the result of the creatures who create the good, the guardians that watch over it, or the surrounding locals who kill "smugglers" or "profaners" with zeal. 
+
+	The ruin has or produces a very valuable good, but that good is somehow extremely dangerous to acquire or possess. It may be toxic, or cursed, or the acquisition process may be predictably lethal. This danger may be the result of the creatures who create the good, the guardians that watch over it, or the surrounding locals who kill "smugglers" or "profaners" with zeal. 
 
 - **E:** Monstrous beast that produces the good, Ancient construct guardian, Cruel tyrant who forces victims to make or acquire the good
 
@@ -432,7 +461,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Hellish processing or production area, Tightlyguarded vault of the good, Area made toxic by the good's effects
 
 ## Lingering Curse
- The ruin is cursed, and everything in it is somehow tainted or troubled by the malediction. There must be a strong reason for the natives to remain, or else the curse itself induces them to stay. The curse may be the result of some ancient crime, a Working gone wrong, a lost war against a magical foe, or a "blessing" in one age that is less appreciated in the modern day. The curse usually takes some time to trigger on intruders, but it may be induced by certain actions. 
+
+	The ruin is cursed, and everything in it is somehow tainted or troubled by the malediction. There must be a strong reason for the natives to remain, or else the curse itself induces them to stay. The curse may be the result of some ancient crime, a Working gone wrong, a lost war against a magical foe, or a "blessing" in one age that is less appreciated in the modern day. The curse usually takes some time to trigger on intruders, but it may be induced by certain actions. 
 
 - **E:** Vile sorcerer feeding on the energies, Embittered chieftain hating all uncursed, Hapless victim made a monster by the curse
 
@@ -445,7 +475,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Shrine to some protective god, Curse-warped place of twisted mundanity, Chokingly-blighted place where the curse was first invoked
 
 ## Limited Access
- The ruin can only be accessed at certain times or with certain special keys. Any natives are cut off from the outside world for long periods, and must either have no need for sustenance or sources within the ruin. The obstacle may be magical in nature, or the only access route to the ruin may be subject to natural cycles that make it impassable at most times. 
+
+	The ruin can only be accessed at certain times or with certain special keys. Any natives are cut off from the outside world for long periods, and must either have no need for sustenance or sources within the ruin. The obstacle may be magical in nature, or the only access route to the ruin may be subject to natural cycles that make it impassable at most times. 
 
 - **E:** Ruin tyrant who views all outsiders as enemies, Ruthless adventurer trying to block rivals, Mad power locked away in the ruin
 
@@ -458,7 +489,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Passage that opens on a time lock, Vast magical seal, Coastal portal revealed only during a particular low tide period
 
 ## Living Dungeon
- The ruin is alive, either in a literal or metaphorical sense. It may be animated by an ancient eidolon that looks through countless sensors, or infused with the spirit of some arcane mind, or made up of the tiny bodies of countless construction-organisms like some vast coral. Physical damage to the ruin usually brings some hostile response, however muted by age and disrepair, and the structure itself may be conscious enough to strike bargains with inhabitants. 
+
+	The ruin is alive, either in a literal or metaphorical sense. It may be animated by an ancient eidolon that looks through countless sensors, or infused with the spirit of some arcane mind, or made up of the tiny bodies of countless construction-organisms like some vast coral. Physical damage to the ruin usually brings some hostile response, however muted by age and disrepair, and the structure itself may be conscious enough to strike bargains with inhabitants. 
 
 - **E:** Demented ruin spirit, Sorcerer trying to bend the site to their will, Native chieftain who worships the ruin's genius as a god
 
@@ -471,7 +503,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Wetly organic passageway, Chamber with a giant maw for feeding, Room with tethered organic servitor-creatures
 
 ## Lost Colony
- The ruin was once a colony site for a now-vanished empire or people. Some of these pioneers might still survive within, albeit doubtless in much-changed form, or else their belongings might include objects or relics that would be very valuable today. The modern heirs to this lost domain might still consider the ruin to be their lawful property, and all within it to be theirs. 
+
+	The ruin was once a colony site for a now-vanished empire or people. Some of these pioneers might still survive within, albeit doubtless in much-changed form, or else their belongings might include objects or relics that would be very valuable today. The modern heirs to this lost domain might still consider the ruin to be their lawful property, and all within it to be theirs. 
 
 - **E:** Degenerate colony leader, Outside conqueror seeking to seize the site, The hideous thing that destroyed the colony
 
@@ -484,7 +517,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Area decorated in their ancient style, Longabandoned massacre site, Temple to a forgotten god
 
 ## Monster Forge
- The ruin somehow creates a particular type of monster by its simple existence. It might be an ancient spawning-pit for Blighted, a cloning facility gone berserk, an ancient agricultural complex with feral livestock, an open portal to an Iterum of monsters, a source of very infectious monster-creating plagues, or something in that vein. These monsters probably infest the surrounding area, unless something about their nature requires them to stay close to the ruin. 
+
+	The ruin somehow creates a particular type of monster by its simple existence. It might be an ancient spawning-pit for Blighted, a cloning facility gone berserk, an ancient agricultural complex with feral livestock, an open portal to an Iterum of monsters, a source of very infectious monster-creating plagues, or something in that vein. These monsters probably infest the surrounding area, unless something about their nature requires them to stay close to the ruin. 
 
 - **E:** Alpha monster of the horde, Sorcerous would-be tyrant over the creatures, Terrible anomaly-beast that's even worse than usual
 
@@ -497,7 +531,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Frenetic chamber of ever-blossoming life, Overcrowded living quarters, Re-purposed ancient chamber
 
 ## Magical Wonder
- An active Working in the site produces some wondrous effect; permanent summer, biological immortality, endless foodstuffs, visions of the future, or some other grand marvel. Unfortunately, it's so decayed and ill-tuned that all of these wonders come with related serious negative effects and problems, ones that the natives must struggle to deal with. 
+
+	An active Working in the site produces some wondrous effect; permanent summer, biological immortality, endless foodstuffs, visions of the future, or some other grand marvel. Unfortunately, it's so decayed and ill-tuned that all of these wonders come with related serious negative effects and problems, ones that the natives must struggle to deal with. 
 
 - **E:** Ancient half-mad keeper of the Working, Sorcerous monster born of the decay, Outsider determined to exploit the Working at any cost
 
@@ -510,7 +545,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Chamber of dangerous magical fluxes, Sorcerous emission point where the blessing flows forth, Abandoned laboratory where it was made
 
 ## Outsider Domain
- This ruin was originally constructed to serve a race of Outsiders. It is possible that they were not even humanoid, and the atmosphere within the ruin may still be tainted with alien gases or hostile temperatures. The architecture and lighting was designed for alien bodies, and humans might find it difficult to navigate. Surviving inhabitants might be Outsider remnants or the alien flora and fauna that persisted long after their masters had died out. 
+
+	This ruin was originally constructed to serve a race of Outsiders. It is possible that they were not even humanoid, and the atmosphere within the ruin may still be tainted with alien gases or hostile temperatures. The architecture and lighting was designed for alien bodies, and humans might find it difficult to navigate. Surviving inhabitants might be Outsider remnants or the alien flora and fauna that persisted long after their masters had died out. 
 
 - **E:** Still-surviving alien leader, Monstrous alien "pet", Cult priest revering the dead Outsiders
 
@@ -523,7 +559,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Inscrutably strange chamber, Living quarters re-dimensioned to fit non-humanoid bodies, "Garden" full of monstrous flora
 
 ## Precious Resource
- The ruin generates a resource or serves a function that is valuable to those around it. This may be a direct and literal generation, such as a Deep that still automatically extracts and refines silver, or it may be metaphorical, such as a ruin full of undead who are privy to ancient secrets sought by wizards. Completely purging the ruin of perils would probably somehow ruin the process, or else some greedy outsider would likely have cleaned it out by now. 
+
+	The ruin generates a resource or serves a function that is valuable to those around it. This may be a direct and literal generation, such as a Deep that still automatically extracts and refines silver, or it may be metaphorical, such as a ruin full of undead who are privy to ancient secrets sought by wizards. Completely purging the ruin of perils would probably somehow ruin the process, or else some greedy outsider would likely have cleaned it out by now. 
 
 - **E:** Grasping outsider treasure-hunter, Monster attracted by the resource, Resource-maker using it to gain sinister influence and power
 
@@ -536,7 +573,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Place where the resource is extracted, Fortified zone around the extraction, Vault for the gathered resource
 
 ## Recruiting Drive
- At least one group of inhabitants in the ruin are actively adding to their numbers. This may involve bribes, kidnapping, proselytization, or just the prospect of a better life than their recruits currently have. This group is likely ideological or circumstantial in their ties, like a cult, a rebel group, or a bandit clan, and so new members can be added as quickly as they prove agreeable or profitable to the whole. Those who refuse to join in tend to meet less comradely fates. 
+
+	At least one group of inhabitants in the ruin are actively adding to their numbers. This may involve bribes, kidnapping, proselytization, or just the prospect of a better life than their recruits currently have. This group is likely ideological or circumstantial in their ties, like a cult, a rebel group, or a bandit clan, and so new members can be added as quickly as they prove agreeable or profitable to the whole. Those who refuse to join in tend to meet less comradely fates. 
 
 - **E:** Charismatic and ruthless conqueror, Heartless grandee hiring disposable muscle, Hypnotically persuasive cult leader
 
@@ -549,7 +587,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Disordered and confused living quarters, Welltrod training area, Empty home of a nowvanished recruit
 
 ## Raider Lair
- Some ruins are dangerous only to intruders, but this one actively sends out raiding parties to plunder the surroundings. Many such lairs prefer to go relatively far afield to obscure their origins and avoid the hostility of their immediate neighbors. Others have specific grudges to nurse, or particular targets that have incurred their wrath. Hostages might be taken back for ransom, labor, or food, depending on the nature of the inhabitants. 
+
+	Some ruins are dangerous only to intruders, but this one actively sends out raiding parties to plunder the surroundings. Many such lairs prefer to go relatively far afield to obscure their origins and avoid the hostility of their immediate neighbors. Others have specific grudges to nurse, or particular targets that have incurred their wrath. Hostages might be taken back for ransom, labor, or food, depending on the nature of the inhabitants. 
 
 - **E:** Ambitious bandit chieftain, Embittered exiled lord, Monstrous ruler who hungers for outside wealth
 
@@ -562,7 +601,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Raucous and vile raider camp, Re-purposed room turned into the chief's lair, Treasure chamber full of looted goods
 
 ## Religious Zealots
- Almost everyone has some degree of deference to the gods, but the natives of this ruin are outright fanatics of a particular religious or philosophical cause. They may have inherited from ages of ancestors, acquired it from the teachings of a charismatic prophet, or been persuaded of it by some profitable or terrifying display of divine will. The natives likely have at least one goal that makes no logical sense, but is related to their god's nature or desires. 
+
+	Almost everyone has some degree of deference to the gods, but the natives of this ruin are outright fanatics of a particular religious or philosophical cause. They may have inherited from ages of ancestors, acquired it from the teachings of a charismatic prophet, or been persuaded of it by some profitable or terrifying display of divine will. The natives likely have at least one goal that makes no logical sense, but is related to their god's nature or desires. 
 
 - **E:** Frothingly intense high priest, Holy demon or sending of the god, Monstrous entity placated by the group's worship
 
@@ -575,7 +615,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Room fitted out as an ornate shrine, Chamber carved with religious symbolism, Place dedicated to some bloody or fearsome ritual
 
 ## Rigid Hierarchy
- Most ruins have little organization, with various groups or lone beasts vying with each other as their strength allows. In this one, however, there is a clear and recognized hierarchy of power and authority, and lesser groups and entities are likely to obey the greater even without an immediate threat of violence. Of course, those same groups are also quite likely to conspire with outsiders to remove their vexations. 
+
+	Most ruins have little organization, with various groups or lone beasts vying with each other as their strength allows. In this one, however, there is a clear and recognized hierarchy of power and authority, and lesser groups and entities are likely to obey the greater even without an immediate threat of violence. Of course, those same groups are also quite likely to conspire with outsiders to remove their vexations. 
 
 - **E:** Iron-fisted monster lord, Ambitious and scheming chieftain, Secret kingmaker working as a humble minion
 
@@ -588,7 +629,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Barbarically luxurious throne room, Disciplined and organized watch post, Labor zone where the inferiors toil
 
 ## Sacrificial Bargain
- The natives of the ruin have made some kind of pact with a dread power or sinister force, receiving support or power in exchange for some sacrifice. This sacrifice might fall directly on the natives themselves or they might plunder their neighbors for wealth, human sacrifices, or such other resources as their patron demands in payment. Failure to hold up their end of the deal may be fatal to the inhabitants. 
+
+	The natives of the ruin have made some kind of pact with a dread power or sinister force, receiving support or power in exchange for some sacrifice. This sacrifice might fall directly on the natives themselves or they might plunder their neighbors for wealth, human sacrifices, or such other resources as their patron demands in payment. Failure to hold up their end of the deal may be fatal to the inhabitants. 
 
 - **E:** Malevolent high priest of a dark power, Envoy of a ruthless foe of the local inhabitants, Frantic leader driven to desperate bargains
 
@@ -601,7 +643,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Terrible chamber of ritual offering, Local homestead ravaged by raiders, Storehouse or living area made abundant by the patron
 
 ## Royal Refuge
- Some exiled noble, unsuccessful pretender, hunted wizard, or other grandee of note remained here for a time, either willingly or under duress. They and their retinue left their traces behind, and remnants of the group might still be present. The principle figure probably died here, though some kinds of creatures or wizards may have been less susceptible to time. 
+
+	Some exiled noble, unsuccessful pretender, hunted wizard, or other grandee of note remained here for a time, either willingly or under duress. They and their retinue left their traces behind, and remnants of the group might still be present. The principle figure probably died here, though some kinds of creatures or wizards may have been less susceptible to time. 
 
 - **E:** Undead prince in exile, Royal agent convinced the PCs are allies of the rebel here, New usurper claiming the dead one's mantle or name
 
@@ -614,7 +657,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Tattered but once-ornate chamber they occupied, Cache full of carefully-preserved noble regalia, Pathetic and coarsely-monumented grave site
 
 ## Sealed Evil
- The ruin serves as a prison for some terribly dangerous entity or power. It may have been originally designed to serve such a purpose, or retrofitted by later inhabitants due to a sudden need, or possibly even mistaken for some other kind of structure by innocent discoverers of a later era. Something about the evil makes it exceptionally hard to kill or permanently destroy, so imprisoning it "forever" seemed wiser. 
+
+	The ruin serves as a prison for some terribly dangerous entity or power. It may have been originally designed to serve such a purpose, or retrofitted by later inhabitants due to a sudden need, or possibly even mistaken for some other kind of structure by innocent discoverers of a later era. Something about the evil makes it exceptionally hard to kill or permanently destroy, so imprisoning it "forever" seemed wiser. 
 
 - **E:** Undead immortal sorcerer, Monstrous and nighunkillable creature, Arch-Outsider with a biology humans can't be sure is dead
 
@@ -627,7 +671,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Exceedingly well-sealed prison area, Chamber with a temporal stasis cell, Hall full of warning iconography made inscrutable by time
 
 ## Secret Alliance
- The natives of the ruin have a secret deal or arrangement with some outside power, doing their bidding or providing some special service in exchange for considerations. It might be a corrupt ruler, a sinister cult, an Outsider lord, a backwater hamlet chief, or some other figure that wouldn't wish the arrangement to become public. 
+
+	The natives of the ruin have a secret deal or arrangement with some outside power, doing their bidding or providing some special service in exchange for considerations. It might be a corrupt ruler, a sinister cult, an Outsider lord, a backwater hamlet chief, or some other figure that wouldn't wish the arrangement to become public. 
 
 - **E:** Merchant with vile black market deals, Official who wants the ruin to remain a problem, Society grandee with sinister appetites
 
@@ -640,7 +685,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Secret meeting place in the wilds, Chamber for an envoy of the ally, Treasure chamber with goods from the ally
 
 ## Spatial Flux
- Space within the ruin has been folded, altered, or corrupted in some way, either by ancient magics, inauspicious geomancy, the depredations of a dimensional monster, failed Workings, fumbled sorcery, or some other woe. Some creatures may use the curdled space as a refuge from their enemies, while others might use it as a gate to some stranger and more terrible place. 
+
+	Space within the ruin has been folded, altered, or corrupted in some way, either by ancient magics, inauspicious geomancy, the depredations of a dimensional monster, failed Workings, fumbled sorcery, or some other woe. Some creatures may use the curdled space as a refuge from their enemies, while others might use it as a gate to some stranger and more terrible place. 
 
 - **E:** Transdimensional abomination, Mad sorcerer making things worse, Obsessive seeker of some hidden grail within the spatial maze
 
@@ -653,7 +699,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Escher-like room, Chamber with physical locations split over vast differences, Featureless hall that really never ends
 
 ## Shifting Interior
- The interior of the ruin is not stable, and shifts and alters over time or through some enigmatic cycle. It may be composed of constantly-moving elements of some ancient megastructure, or be spatially distorted by a decaying Working, or infested with inhabitants that are constantly rebuilding or reworking the layout. The natives may have some key knowledge that lets them navigate the changes. 
+
+	The interior of the ruin is not stable, and shifts and alters over time or through some enigmatic cycle. It may be composed of constantly-moving elements of some ancient megastructure, or be spatially distorted by a decaying Working, or infested with inhabitants that are constantly rebuilding or reworking the layout. The natives may have some key knowledge that lets them navigate the changes. 
 
 - **E:** Transdimensional intruder entity, Berserk master of the rebuilders, Sinister exile using the place as a refuge
 
@@ -666,7 +713,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Room that's changed from the last time they saw it, Churning death zone of moving perils, Maze of twisty little passages all alike
 
 ## Surfacer Hideout
- Some surface power is using the ruin as a hideout or base of operations. While they may simply be bandits or refugees, they're more likely agents of some greater power who need a discreet base, or some cult or criminal organization that needs a safe place to hide from the law. Friendly merchants or other associates might make contact with them there to provide for necessities, or they could be working to survive entirely separate from the hostile world outside. 
+
+	Some surface power is using the ruin as a hideout or base of operations. While they may simply be bandits or refugees, they're more likely agents of some greater power who need a discreet base, or some cult or criminal organization that needs a safe place to hide from the law. Friendly merchants or other associates might make contact with them there to provide for necessities, or they could be working to survive entirely separate from the hostile world outside. 
 
 - **E:** Foreign spy chief, Cult high priest, Ruthless hunter of an innocent group that's hiding here
 
@@ -679,7 +727,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Room reminiscent of home, Carefully-hidden entrance to their zone, Remote meeting place
 
 ## Taboo Place
- The locals surrounding the ruin consider it taboo, and will kill or punish anyone who enters it without their permission. This may be the product of religious reverence, or it could be a holy place of their ancestors, or it could be disputed territory, or it may be that the last time adventurers went in a catastrophe came out. Objects looted from the place will be very hard to sell discreetly anywhere near it. 
+
+	The locals surrounding the ruin consider it taboo, and will kill or punish anyone who enters it without their permission. This may be the product of religious reverence, or it could be a holy place of their ancestors, or it could be disputed territory, or it may be that the last time adventurers went in a catastrophe came out. Objects looted from the place will be very hard to sell discreetly anywhere near it. 
 
 - **E:** Relentless leader of the guardians, The monstrous thing within that must not be disturbed, Ruin raider who will cause chaos with their plundering
 
@@ -692,7 +741,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Exemplary warning-pike with heads attached, Long-sealed entrance portal, Vigilant guardpost
 
 ## Useless Treasure
- The ruin was once a carefully-guarded storehouse of some substance or information that was priceless at the time but is now largely worthless. Obscure materials, Outsider goods of no present use, exotic matter fashioned by sorcery and of forgotten purposes, and critical intelligence on empires long since dust might all be found here. 
+
+	The ruin was once a carefully-guarded storehouse of some substance or information that was priceless at the time but is now largely worthless. Obscure materials, Outsider goods of no present use, exotic matter fashioned by sorcery and of forgotten purposes, and critical intelligence on empires long since dust might all be found here. 
 
 - **E:** Tireless immortal guardian, Brutally relentless treasure seeker, Maddened sorcerer trying to unlock the "real value" of the treasure
 
@@ -705,7 +755,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Vast vault full of garbage, Guard post manned by undying watchers, Ancient luxury area featuring the material or the wealth it brought them
 
 ## Things Below
- The ruin delved too deep, or opened too many doors to other realms, and things came boiling out that brought its destruction. Those things may have fallen asleep again, or returned to their realm, or yet remained here waiting for fresh prey. They may come and go based on particular time cycles, or when provoked by certain rituals or activities within the place. 
+
+	The ruin delved too deep, or opened too many doors to other realms, and things came boiling out that brought its destruction. Those things may have fallen asleep again, or returned to their realm, or yet remained here waiting for fresh prey. They may come and go based on particular time cycles, or when provoked by certain rituals or activities within the place. 
 
 - **E:** Lovecraftian abomination from below, Alienminded extraplanar conqueror, Cultist leader who reveres these eldritch powers
 
@@ -718,7 +769,8 @@ The tables below are meant to give prompts and inspiration for what kind of dung
 - **P:** Interrupted digging site, Vault laden with the wealth of below, Site of sudden terrible ruin
 
 ## Wizard'S Lair
- Wizards often require an emphatic degree of privacy to ward off importunate help-seekers, witch hunters, rivals in the art, or reckless thieves. This ruin is or once was a lair to one such wizard, who probably isn't inclined to view visitors kindly. Even the dead ones may have left behind half-finished Workings and unaging automaton servitors to guard their venerable lore and precious magical relics. 
+
+	Wizards often require an emphatic degree of privacy to ward off importunate help-seekers, witch hunters, rivals in the art, or reckless thieves. This ruin is or once was a lair to one such wizard, who probably isn't inclined to view visitors kindly. Even the dead ones may have left behind half-finished Workings and unaging automaton servitors to guard their venerable lore and precious magical relics. 
 
 - **E:** Immortal and heartless wizard, Monstrous creation of a dead mage, Modern sorcerer exploiting the lair of a dead archmage
 

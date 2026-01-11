@@ -1,5 +1,12 @@
 ---
 ---
+--- start-multi-column: RightSidebar1
+```multi-column-settings
+number of columns: 2
+largest column: left
+border: disabled
+shadow: off
+```
 ```statblock
 name: string
 size: string
@@ -39,3 +46,9 @@ reactions:
   - [<reaction-name>, <reaction-description>]
   - ...
 ```
+--- end-column ---
+
+![[Uzi-Ziyad.png]]
+[[Uzi-Ziyad.png|Show To Players]]
+
+--- end-multi-column

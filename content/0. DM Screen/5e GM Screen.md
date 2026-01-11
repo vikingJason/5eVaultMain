@@ -1,5 +1,4 @@
 ---
-obsidianUIMode: preview
 draft: false
 ---
 
@@ -40,7 +39,7 @@ draft: false
 >> [! important |bg-c-purple ttl-c n-th]- Check Rules
 >>
 >>>![[CheckRules.base]]
->>
+>
 >> [! important |bg-c-green ttl-c n-th]- Abilities
 >>
 >>>![[Abilities.base]]
@@ -51,7 +50,7 @@ draft: false
 >
 >>```base
 >> formulas:
->>  first_image: |
+> > first_image: |
 >>    file.embeds.filter(value.containsAny("png","jpg","webp","svg","jpeg"))[0]
 >> views:
 >>  - type: cards
@@ -73,7 +72,7 @@ draft: false
 >>[!danger | bg-c-green ttl-c]- Combat Actions
 >>
 >>>![[CombatActions.base]]
->>
+>
 >>[!danger | bg-c-yellow ttl-c]- Combat Rules
 >>
 >>>![[CombatRules.base]]
@@ -93,11 +92,11 @@ draft: false
 > [!example | ttl-c ]- Rules Reference
 >
 >>[!cards| dataview]
->>```dataview
->>TABLE 
->>FROM #5er-ref
->>SORT file.link ASC
->> ```
+>>>```dataview
+>>>TABLE 
+>>>FROM #5er-ref
+>>>SORT file.link ASC
+>> >```
 
 <br>
 
@@ -110,7 +109,7 @@ draft: false
 > [!example| ttl-c]- Exploration and Downtime Activities
 >
 >>[!cards| dataview]
->> ```dataview 
->> TABLE
->> FROM #5edowntime or #5e-exploration
->> SORT file.link ASC
+>>> ```dataview 
+>>> TABLE
+>>> FROM #5edowntime or #5e-exploration
+>>> SORT file.link ASC
