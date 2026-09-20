@@ -16,6 +16,7 @@ snippets:
 
           This snippet is accessible in the brew tab, and will be inherited if the brew is used as a theme.
 draft: true
+publish: true
 ---
 
 {{frontCover}}

@@ -5,7 +5,7 @@
 >
 > ###### Stats
 >
-> |   |
+>  |   |
 > ---|---|
 >__Level__ | Ranger - 6|
 >__Alignment:__ | [Chaotic Neutral](Chaotic%20Neutral)|

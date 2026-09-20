@@ -1,0 +1,6 @@
+filters:
+  and:
+    - currentLocation.contains(this.file.name)
+views:
+  - type: cards
+    name: People - Cards

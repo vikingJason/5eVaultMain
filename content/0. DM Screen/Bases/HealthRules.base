@@ -11,3 +11,5 @@ views:
     cardSize: 230
     imageFit: contain
     image: formula.first_image
+  - type: table
+    name: View

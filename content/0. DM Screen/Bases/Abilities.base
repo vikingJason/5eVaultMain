@@ -6,3 +6,5 @@ views:
         - noteType == "Ability"
     order:
       - file.name
+  - type: list
+    name: View

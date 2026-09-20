@@ -1,5 +1,6 @@
 ---
 draft: false
+NoteIcon: spell
 ---
 
 # 5e GM Screen
@@ -113,3 +114,14 @@ draft: false
 >>> TABLE
 >>> FROM #5edowntime or #5e-exploration
 >>> SORT file.link ASC
+
+
+
+```button
+name New NPC
+type note(NewNPC, split) template
+action TemplateNPC2
+templater true
+```
+^button-NewNPCID
+

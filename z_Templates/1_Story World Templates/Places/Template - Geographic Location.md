@@ -1,6 +1,35 @@
 ---
 Art:
 WorldAnvilLink: https://www.worldanvil.com/learn/article-templates/geography
+
+NoteIcon: Continent  
+Tags:  
+- Continent
+  
+type: Continent  
+settlementType:  
+size:  
+population:  
+  
+region:  
+parentRegion:  
+  
+government:  
+leader:  
+defences:  
+  
+factions:  
+  
+commonRaces:  
+  
+religions:  
+  
+exports:  
+imports:  
+  
+dragonarmyPresence: False  
+  
+
 ---
 
 # Template - Geographic Location

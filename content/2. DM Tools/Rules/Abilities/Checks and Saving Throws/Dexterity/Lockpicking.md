@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Dexterity
 draft: true
+cardDisplay:
 ---
 # Lockpicking
 

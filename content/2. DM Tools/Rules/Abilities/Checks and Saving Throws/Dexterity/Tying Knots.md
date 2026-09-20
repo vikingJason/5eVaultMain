@@ -2,6 +2,7 @@
 noteType: skillCheck
 folderName: Dexterity
 draft: true
+cardDisplay: " The creature tying the knot makes an Sleight of Hand check"
 ---
 ## Tying Knots
 

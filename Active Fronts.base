@@ -1,0 +1,6 @@
+filters:
+  and:
+    - Type == "WarFront"
+views:
+  - type: table
+    name: Active Fronts - Table

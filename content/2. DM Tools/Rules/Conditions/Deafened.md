@@ -7,6 +7,7 @@ noteType: condition
 gamesystem:
   - D&D
 draft: true
+image: public/z_Assets/zz_GMScreenAssets/Deaf.png
 ---
 ![[Deaf.png|150]]
 # Deafened

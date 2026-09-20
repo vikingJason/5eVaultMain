@@ -3,6 +3,8 @@ noteType: skillCheck
 folderName: Intelligence
 cardDisplay: Recall lore about spells, magic items, and the planes of existence.
 draft: true
+gamesystem:
+  - D&D
 ---
 # Arcana
 

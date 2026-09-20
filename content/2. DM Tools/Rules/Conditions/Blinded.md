@@ -6,6 +6,7 @@ effect: Fails any sight **ability check**. Attack rolls against the creature hav
 noteType: condition
 gamesystem: D&D
 draft: true
+image: public/z_Assets/zz_GMScreenAssets/Blinded.png
 ---
 ![[Blinded.png|150]]
 

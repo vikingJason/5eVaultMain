@@ -1,9 +1,0 @@
----
-aliases:
-tags:
-draft: true
----
-
-# Castle Ravenloft
-
-Castle on the top of a mountain (?) overlooking [[Barovia Village]].  Home to [[Strahd von Zarovich]]

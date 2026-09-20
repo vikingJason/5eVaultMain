@@ -571,19 +571,36 @@ It is said that one true chosen will cleanse the evil from the veins but one clo
 END OF SESSION 58
 
   
+**  
 
-### Session 59
+Day three
 
-29/10/25
+I spent the day researching the Champion of Shimmering Cave. It seems to not have been classified yet and is kept on level 7 with the other yet to be classified books.
+
+  
+
+I take notes and make a full summary of the book.
 
   
 
+The Guardian of the Shimmering Cave seems to be a fey creature of some kind. There is also the True Champion, the images have a striking resemblance to Rinji.
 
+  
+
+We all come together for dinner. Ness enters mid meal and tells me that there are people here to see Squik.
 
   
+
+I speak with them, they are the Spectral Vanquishers. They tell me to tell Squik that they didn't find any ghosts or slaves.
+
   
+
+I tell Squik that no ghosts were found. After dinner, I follow Squik and tell him about the other part of the message. I tell him to be more careful when looking for the slavers. He then gives me a smooth shiny pebble.
+
   
-  
+
+Rest.
+
   
 
 END OF SESSION 59
@@ -592,27 +609,371 @@ END OF SESSION 59
 
 ### Session 60
 
-XX/YY/25
+05/11/25
 
   
 
-D
+Day 4
 
-  
-  
-  
-  
-
-The black dragon Zagra’gatra’lox The Skull Keeper in the Royal Archives. If asked what he is researching, he would say that he wants to learn more about the great deeds of his great grandfather Aurofann.
+I wander around the city and find myself just wandering out of the city. I get a feeling of being drawn to something out in the wilds. I eventually find myself on the edge of the forest. Moving through the forest, I am feeling calm and at one with the natural world around me.
 
   
 
-He is actually wanting more to find all the info he can on Zagra and find out if she is still alive. He fills a notebook with all the info he can find (all in Draconic) about both dragons.
+I find my way to a clearing, as I pass into the clearing I feel like I've passed through a barrier. I find a large 
 
   
 
-In the evenings of the first week, he would happen to bump into Ness randomly and they would exchange pleasantries.
+The pyramid is as tall as I am, it looks like a cut gem (bass pro shop Vegas) it's see through and is a tinge of pink.
 
   
+
+Staying 15 feet away from the crystal, I take a slow lap around it, just feeling it out. After some time I get the feeling that it's connected to all the other crystals in Calendor. The magic in the area is pure.
+
+  
+
+Before I leave I get a vision of a massive Crystal dragon curled around this very crystal, breathing its breath weapon into it. I make a sketch of my vision and then leave. I head back to the castle as the sun sets.
+
+  
+
+At dinner, Cedric mentions that he wants to hunt down a corrupted spirit and extract the shadow essence from it.
+
+  
+
+Squik asks me what I think about an army that might be in the city. He talks about the army following a queen that is not the queen of the land (Reeva). I tell him that as long as the “army” follows the law of the city then there wouldn't be any issue.
+
+  
+
+I mentioned to the party that I went for a wander out of the city. Squik then asks us if we would be okay to attend a meeting.
+
+  
+
+END OF SESSION 60
+
+  
+
+### Session 61
+
+12/11/25
+
+  
+
+Squik tells us that the event is tomorrow morning after that we will collect the ghost collecting equipment and then head off to the crypt.
+
+  
+
+Lullaby is banging on my door and when I open the door, he drags me into his room. A simple package is on their bed, but they are suspicious of it. I cast Detect Magic on it but there is nothing out of the ordinary.
+
+  
+
+Lullaby drags me and the package to Ness’s room. Ness confirms that the package is from one of the chefs. A jacket and some knives.
+
+  
+
+The next morning, we all go to breakfast. After breakfast we follow Squik into the sewer. We move through the maze of sewer until we come to a large area with 6 banners. The area is large on the rat scale but my head is very close to the ceiling.
+
+  
+
+The 5 head rats seem to have some kind of key, that when all used close off the water ways to reveal a mass of copper pieces. We then watch Pebbles crowned as the queen.
+
+  
+
+We see one of five is given a smaller crown and given the title of regent. After some pageantry, we leave.
+
+  
+
+We head out of the sewers and over to the Spectral Vanquishers. Cedric enters and does something, then when he leaves it triggers a Wild Magic that causes most of the others to burst out laughing.
+
+  
+
+END OF SESSION 61
+
+  
+
+### Session 62
+
+26/11/25
+
+  
+
+Cedric stops laughing and places a strange contraption into his Bag of Holding. Then we feel a strange hum that grows larger until a bright light pours out of the bag and time seems to slow down. Then a force touches my chest, pushing me but I am able to resist the force and shrug it off.
+
+  
+
+We head out of the city and follow Cedric to the crypt. It seems to be a very large stone with a cave in it. The rocks around the cave have strange lines carved into them but they have faded over time. Squik spoke with a deer and said that animals avoid this place (I assume because of the corpses).
+
+  
+
+We head down the stairs into the main room, broken statues ring the outside walls. Looking over them, I notice they are similar to the Guardians of the Shimmering Cave. 
+
+  
+
+I follow Squik into a side room where there are 5 sarcophagi. The middle one is larger with gold engravings and filigree and bears the name Caelistra.
+
+  
+
+A siren starts blaring and I rush over to Lullaby and Cedric. The console has an array of 25 buttons each with an identifier. Lullaby says that this panel seems to be linked to the Heartstones (the pyramid I saw previously). We head to the other passageway and find the lights dim, dark ooze on the walls and Squik asleep on the floor. We also hear a voice “He promised me he would return, he would protect me.”
+
+  
+
+As we continue down the hallway, I feel some strange draining magic and Lullaby next to me falls asleep but I am able to catch them before they hit the ground. They seemed quite drained of energy.
+
+  
+
+END OF SESSION 62
+
+  
+
+### Session 63
+
+10/12/25
+
+  
+
+As we turn the corner, we see the spectral winged figure praying to a statue of an Aarakocra (goose).
+
+  
+
+As the party moves in, I fire off a Luminous Arrow at the ghost. The scream from the ghost caused me to fall to my knees but a constellation flashed over my head and I was able to hold my ground. “He gave everything for me. You don't understand what it means to be protected by love”.
+
+  
+
+Firing another Luminous Arrow and charging in. I strike the ghost with my Shillelagh. It strikes me with a dark tentacle and tries to move away.
+
+  
+
+The ghost's force explodes and the darkness fully takes over the ghost. Then we were hit with visions of the battlefield, the ghost and a man in black full plate. They hug and the armoured figure promises to protect them.
+
+  
+
+The ghost continues to rage and become unstable. Cedric slides the trap under the ghost but it resists. I fire off another arrow and then a Guiding Bolt striking the ghost.
+
+  
+
+Rinji dives in and grapples the ghost as best he can. I dash in and slam my foot down on the button causing the trap to open, spilling out a bright light and the ghost is pulled into it.
+
+  
+
+The sarcophagus has the name Kalithar. I stop Rinji from opening the lid.
+
+  
+
+END OF SESSION 63
+
+  
+
+### Session 64
+
+07/01/26
+
+  
+
+With nothing else to do, we decide to leave the crypt. As we leave, there is a rustling from somewhere close by. From the bushes, a deer drops a letter and then leaves. The letter is from Fawn saying that she will be staying in Glitterfall and will be trained by her mother.
+
+  
+
+Then from the bushes comes a fairy, it flies straight for Lullaby and introduces itself as Nib. After bothering Lullaby they zoom towards me, I cast Hold Person on them and they stop. They ask to touch but I refuse. They look me over and ask if they can have one of my shiny scales but I refuse as they are attached.
+
+  
+
+I notice that they have a constellation stitched into their clothes. While the clothes are hand made the constellation may not have been purposeful. 
+
+  
+
+Nib seemed to be able to hear Vraxis.
+
+  
+
+We make it back to Glitterfall and decide to pop into a pub instead of heading straight back to the castle. The place seems more empty than usual and when I ask the barkeep. He mentions that there have been ghosts sighted around town.
+
+  
+
+Nib puts something in Lullaby and Rinji’s drinks. Rinji takes a drink and starts to fly.
+
+  
+
+Once the barkeep crashes back down, he tells us the bar is closed and passes out. Nib and Lullaby rush out of the tavern, I leave coins and a single black scale (as a calling card) to pay for our drinks.
+
+  
+
+We head back and I break off from the group and head to Ness’s room. I tell Ness about the ghosts (I don't believe the number but will need assistance in regards to ghosts).
+
+  
+
+When I mention the rats and their crowned monarch (Ness mentions the Catan, a group of cats that will hunt them down).
+
+  
+
+After finishing the tea, I thank her for the tea, apologise for all the information I have dumped on her, bow and say goodnight.
+
+  
+
+We all wake in a shared dream. We can see Vraxis for the first time and then a hoar is heard in the distance, a massive shadow looms over us and before it can materialise, we wake.
+
+  
+
+END OF SESSION 64
+
+  
+
+### Session 65
+
+14/01/26
+
+  
+
+I am woken by the stomping of feet in the hallway. There is a knock at the door and when I open it to find Ness. She is very angry that Rinji let Nib stay in Fawn’s room.  
+  
+Nib then mentions the dream and we gather to speak about the dream. Everyone splits off, I spend some time going over my spellbook to find something that might work on ghosts then I head out of the city.
+
+  
+
+I walked for a few hours to the forest. When I arrive, I cast Speak with Animals and speak with a snake. I ask if there are any forest spirits but there are none. The snake tells me of the guardian Vaylon, who appears to those who need them.
+
+  
+
+I spend some time being with nature, sitting in where I am in both sun and shade, then once I am fully in one or the other, I move to a new location and so on for a while.
+
+  
+
+A noise, the breaking of a twig behind him, the tingle of wind chimes and the crush of a leaf. Then a voice, “Young sapling, tell Vaylon of your troubles”. I tell the spirit of my need and they tell me “Spirits are unnatural, they must be put to rest with respect.”
+
+  
+
+“Do you have allies”
+
+  
+
+“I am with a man of Faith, a man of Science, a man of Violence and one who I am not yet familiar with”
+
+  
+
+“A ghost is not bound to place, but a decision that was never finished.”
+
+  
+
+“Banish is easy, but release is rare. So if you wish to defeat the ghost. Death is not the enemy, silence is. Ask better questions, the dead are excellent teachers”
+
+  
+
+When I open my eyes, I see a pair of pale white antlers on the ground in front of me. They are covered in carved spirals. As I pick them up, I can tell they have some magic about them.
+
+  
+
+As I get back to the city, I head to the castle and make my way to my room. I find my door is locked. Lullaby and Nib are holed up in there because people are being weird.
+
+  
+
+Lullaby tells me that people all over the place are acting very strange.
+
+  
+
+END OF SESSION 65
+
+  
+
+### Session 66
+
+21/01/26
+
+  
+
+I ask Rinji if he is able to talk to our elders or Vraxis about dealing with ghosts. As we open the door and venture outside to look for the head librarian.
+
+  
+
+We see Moto Roll walking down the hallway, Rinji tackles him to his knees. I grab him by the shoulder and demand to know who he is. He says his name, I demand again, but get the same response.
+
+  
+
+I then telepathically demand to know and he says “No one is home”. Then he asks “Where is the tall one, my master wishes to thank him”. Rinji asks who he works for and he says “The Blightfather”
+
+  
+
+The name means nothing to me. 
+
+  
+
+We speak with Calarel, they are unaware of The Blightfather but are aware of the Spectral Vanquishers. They call the guards to have them arrested.
+
+  
+
+We head out to speak with Celly. Celly is not at the archives and Rothomir (an elderly elven man) is not aware of the name Blightfather so I follow Lullaby while they look for info on the Guardians of the cave.
+
+  
+
+Lullaby begins scattering books around, I catch them and make a neat pile off to the side to keep it tidy.
+
+  
+
+When Lullaby reads to another section, I split off to go back to Moto Rolla. He is gone, so I talk to the guards who are investigating. I ask where Ness might be and they tell me she is probably in her office/room. I head there and as I approach, she asks me for help because she is going to get arrested.
+
+  
+
+I put a hand on her shoulder, pull the antlers from my bag and say “Get out of her, she is not yours. She is mine.” But nothing happens. She replies “You are starting to scare me”. I ask her if she is working for the Blightfather but she says she doesn't know.
+
+  
+
+It seems that Lullaby was confused about this morning. I get the sense that Ness has not been possessed. I leave and head to Calarel’s office to try and get the arrest cleared.
+
+  
+
+I meet back up with the others by the archive.
+
+  
+
+END OF SESSION 66
+
+  
+
+### Session 67
+
+04/02/26
+
+  
+
+We head down into the dungeon. As we speak with Lyra, her eyes turn black and she honks. Lullaby seems to understand. I cast Comprehend Languages and hear the conversation.
+
+  
+
+Kaelithar was betrayed by Serakar. I ask Lyra to tell me about their last days. The Ashen Halo were gathered to storm the Tyrelian stronghold.
+
+  
+
+Achroteth connects the thought that the 30-60 ghosts are the 30-60 graves of the cursed graveyard. 
+
+  
+
+We head back to my room, I notice a pot of tea and a saucer with a note but ignore it. I tell the others my info about the spirits. Lullaby runs off to the archive, Rinji mentions that he wants to speak with an infuser and heads off.
+
+  
+
+I read the note, “Thank you, Love Ness.” I tuck the note into my scale pouch and drink the tea. It’s perfect. I head off towards the city gates. I stop in at a tavern to get a bottle of Starry Night.
+
+  
+
+I head out of the city, find a nice spot in the field and begin to meditate about the “we were betrayed by Aurofann”. I close my eyes and after a brief moment, I open my eyes to see the sky begin to show images.
+
+  
+
+A vision of Aurofann on a battlefield with legions of Tyrilon against 30-60 Tyrilians their armour is painted black. A horn sounds and the 2 armies charge towards each other.
+
+  
+
+Aurofann standing close to another crystal pyramid (not pick) with a dark storm inside. Next to it is a Tyrilian with his hand on it. Aurofann roars and the Tyrilian turns with a wicked smile across his face.
+
+  
+
+I focus on the aftermath of the fight. Half the legion is destroyed but the black knights still stand. All but one of the black knights lay down their weapons. The leader refuses to drop his weapon, in a fit rage he unleashes necrotic energy turning the black knights around him to ash.
+
+  
+
+The knight drives his blade into the ground and then his body crumbles to ash.
+
+  
+
+I head back to my room.
+
 **
+
+
 

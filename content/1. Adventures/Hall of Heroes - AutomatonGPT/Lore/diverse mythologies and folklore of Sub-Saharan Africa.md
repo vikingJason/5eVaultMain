@@ -96,7 +96,8 @@ Inspired by rainmaker myths, this Feywild phenomenon is a magical waterfall that
 
 ---
 
-### 4. **The Ashanti Masks of Power**
+### 4. **The Ashanti Masks of Power** 
+#Category/Plot-Idea 
 
 Inspired by Ashanti culture, the Feywild holds magical masks that bestow extraordinary abilities on their wearers. Each mask represents a specific aspect of life, such as courage, wisdom, or strength.
 

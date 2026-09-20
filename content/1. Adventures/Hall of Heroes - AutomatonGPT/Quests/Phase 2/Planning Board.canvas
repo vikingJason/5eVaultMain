@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"5aed54c8dfa985e6","type":"text","text":"The Blightfather's influence  is spreading across Calindor","x":261,"y":425,"width":250,"height":60},
+		{"id":"e558b2cc85c7130d","type":"text","text":"Learn about the Tyrellion, and their technologies impact on Calindor\n\nE.g. their tech was used to create Automatons","x":-323,"y":1607,"width":272,"height":135},
+		{"id":"216d0fea53073688","type":"text","text":"Learn about the lost Tyrellion city.","x":47,"y":1644,"width":250,"height":60},
+		{"id":"10cff6c53faf243d","type":"text","text":"Kaelithar, aka The Blightfather, has been released.\n\nHe wants to release the Black Dragon from the crystal prison, which he believes will grant him the power to restore the glory of the Tyrellion empire. \n\nTo do that he must \"corrupt\" the hearstones.","x":-88,"y":279,"width":250,"height":350},
+		{"id":"4f4a6847c9247435","type":"text","text":"Ghosts unleashed","x":-464,"y":87,"width":250,"height":60},
+		{"id":"7620eed737b87b05","type":"text","text":"Help at the Reserve","x":1254,"y":1011,"width":250,"height":60},
+		{"id":"df6c82417202eb97","type":"text","text":"Creatures have been acting weird","x":1565,"y":1011,"width":250,"height":60},
+		{"id":"dc6897fd672611b7","type":"text","text":"Remaining Spectral Vanquisher requests help to find his friends","x":1270,"y":1109,"width":250,"height":60},
+		{"id":"f38913a2db4086e9","type":"text","text":"Crops failing","x":877,"y":750,"width":250,"height":60},
+		{"id":"e6c8ee980534d848","type":"text","text":"People turning on family","x":877,"y":821,"width":250,"height":60},
+		{"id":"496848d0447e913d","type":"text","text":"Drug use","x":877,"y":900,"width":250,"height":60},
+		{"id":"e4c44db7049d807a","type":"text","text":"Animals behaving odd","x":877,"y":1011,"width":250,"height":60},
+		{"id":"fb7c18e783e9e65f","type":"text","text":"People possessed","x":877,"y":1109,"width":250,"height":60},
+		{"id":"bee72af0e1a9eaa8","type":"text","text":"Uses the Ashen Covenant.\n\nbelieves that **Serakar’s light is false purity**.\n\nThey interpret divine radiance as a consuming force that blinds mortals to truth. In their theology:\n\n- Light burns.\n- Harmony stagnates.\n- Only destruction reveals reality.\n\nUmbrazhul is not evil to them — he is entropy incarnate, the necessary end that precedes rebirth.","x":69,"y":913,"width":442,"height":196},
+		{"id":"23995a8b687baafb","type":"text","text":"Corrupt Hearstones","x":752,"y":129,"width":250,"height":60},
+		{"id":"ba70f35f3dc41b4c","type":"text","text":"Blightfather Ritual","x":877,"y":228,"width":250,"height":60},
+		{"id":"95f283166d39c09c","type":"text","text":"Prolonged proximity to shadow artifact","x":877,"y":305,"width":250,"height":60},
+		{"id":"49092cf9907cb829","type":"text","text":"Regional despair event","x":877,"y":455,"width":250,"height":60},
+		{"id":"64e087e499841d49","type":"text","text":"Death of a powerful Fey creature nearby - preGuardian","x":877,"y":385,"width":250,"height":60},
+		{"id":"f6db59818dc6c56d","type":"text","text":"Is secretly looking for the location of the Tyrellion underground city that is connected to all hearstones.","x":752,"y":543,"width":250,"height":61}
+	],
+	"edges":[
+		{"id":"f4c5c0745df19bad","fromNode":"e558b2cc85c7130d","fromSide":"right","toNode":"216d0fea53073688","toSide":"left"},
+		{"id":"f75026de6e2626ec","fromNode":"fb7c18e783e9e65f","fromSide":"right","toNode":"dc6897fd672611b7","toSide":"left"},
+		{"id":"11b78280e671395b","fromNode":"e4c44db7049d807a","fromSide":"right","toNode":"7620eed737b87b05","toSide":"left"},
+		{"id":"2721e53e9ceae43e","fromNode":"4f4a6847c9247435","fromSide":"right","toNode":"10cff6c53faf243d","toSide":"left"},
+		{"id":"0488b2b1cedfd44c","fromNode":"10cff6c53faf243d","fromSide":"right","toNode":"5aed54c8dfa985e6","toSide":"left"},
+		{"id":"206ad82ace0353de","fromNode":"7620eed737b87b05","fromSide":"right","toNode":"df6c82417202eb97","toSide":"left"},
+		{"id":"05bc45a899b8f67b","fromNode":"5aed54c8dfa985e6","fromSide":"bottom","toNode":"e4c44db7049d807a","toSide":"left"},
+		{"id":"fe52e55f600f2265","fromNode":"5aed54c8dfa985e6","fromSide":"bottom","toNode":"496848d0447e913d","toSide":"left"},
+		{"id":"081fc6175c55b8c1","fromNode":"5aed54c8dfa985e6","fromSide":"bottom","toNode":"e6c8ee980534d848","toSide":"left"},
+		{"id":"675378e8043636e6","fromNode":"5aed54c8dfa985e6","fromSide":"bottom","toNode":"f38913a2db4086e9","toSide":"left"},
+		{"id":"532fbffaae259cb2","fromNode":"5aed54c8dfa985e6","fromSide":"bottom","toNode":"fb7c18e783e9e65f","toSide":"left"}
+	]
+}

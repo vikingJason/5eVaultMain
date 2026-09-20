@@ -6,7 +6,7 @@ views:
     filters:
       and:
         - noteType == "condition"
-        - gamesystem.contains("D&D")
+        - gamesystem.contains("Pathfinder 2e")
     order:
       - file.name
     cardSize: 230

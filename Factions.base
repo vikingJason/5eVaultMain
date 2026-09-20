@@ -1,0 +1,6 @@
+filters:
+  and:
+    - Type == "WarFaction"
+views:
+  - type: table
+    name: Factions - Table
